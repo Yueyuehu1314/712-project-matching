@@ -1,0 +1,156 @@
+[
+  {
+    "source_id": "student_n11993026",
+    "target_id": "major_data_science_and_computer_science",
+    "relation_type": "STUDIED_MAJOR",
+    "weight": 1.0,
+    "properties": {}
+  },
+  {
+    "source_id": "student_n11993026",
+    "target_id": "course_ifn564_machine_learning",
+    "relation_type": "COMPLETED_COURSE",
+    "weight": 1.0,
+    "properties": {}
+  },
+  {
+    "source_id": "student_n11993026",
+    "target_id": "course_ifn632_advanced_data_analytics",
+    "relation_type": "COMPLETED_COURSE",
+    "weight": 1.0,
+    "properties": {}
+  },
+  {
+    "source_id": "student_n11993026",
+    "target_id": "course_ifn554_databases",
+    "relation_type": "COMPLETED_COURSE",
+    "weight": 1.0,
+    "properties": {}
+  },
+  {
+    "source_id": "student_n11993026",
+    "target_id": "course_ifn552_systems_analysis_and_design",
+    "relation_type": "COMPLETED_COURSE",
+    "weight": 1.0,
+    "properties": {}
+  },
+  {
+    "source_id": "student_n11993026",
+    "target_id": "course_ifn551_computer_systems_fundamentals",
+    "relation_type": "COMPLETED_COURSE",
+    "weight": 1.0,
+    "properties": {}
+  },
+  {
+    "source_id": "student_n11993026",
+    "target_id": "course_ifn555_introduction_to_programming",
+    "relation_type": "COMPLETED_COURSE",
+    "weight": 1.0,
+    "properties": {}
+  },
+  {
+    "source_id": "student_n11993026",
+    "target_id": "course_ifn556_object_oriented_programming",
+    "relation_type": "COMPLETED_COURSE",
+    "weight": 1.0,
+    "properties": {}
+  },
+  {
+    "source_id": "student_n11993026",
+    "target_id": "course_ifn563_algorithms_and_complexity",
+    "relation_type": "COMPLETED_COURSE",
+    "weight": 1.0,
+    "properties": {}
+  },
+  {
+    "source_id": "student_n11993026",
+    "target_id": "skill_machine_learning_(scikit-learn,_tensorflow)",
+    "relation_type": "HAS_SKILL",
+    "weight": 1.0,
+    "properties": {}
+  },
+  {
+    "source_id": "student_n11993026",
+    "target_id": "skill_data_science_(pandas,_numpy,_matplotlib)",
+    "relation_type": "HAS_SKILL",
+    "weight": 1.0,
+    "properties": {}
+  },
+  {
+    "source_id": "student_n11993026",
+    "target_id": "skill_remote_sensing_data_processing_(gdal,_qgis)",
+    "relation_type": "HAS_SKILL",
+    "weight": 1.0,
+    "properties": {}
+  },
+  {
+    "source_id": "student_n11993026",
+    "target_id": "skill_programming_(python,_sql,_java)",
+    "relation_type": "HAS_SKILL",
+    "weight": 1.0,
+    "properties": {}
+  },
+  {
+    "source_id": "student_n11993026",
+    "target_id": "skill_database_management_(mysql,_mongodb)",
+    "relation_type": "HAS_SKILL",
+    "weight": 1.0,
+    "properties": {}
+  },
+  {
+    "source_id": "student_n11993026",
+    "target_id": "skill_cloud_computing_(aws,_docker)",
+    "relation_type": "HAS_SKILL",
+    "weight": 1.0,
+    "properties": {}
+  },
+  {
+    "source_id": "student_n11993026",
+    "target_id": "skill_gis_software_(arcgis,_grass_gis)",
+    "relation_type": "HAS_SKILL",
+    "weight": 1.0,
+    "properties": {}
+  },
+  {
+    "source_id": "student_n11993026",
+    "target_id": "skill_algorithm_design_and_optimization",
+    "relation_type": "HAS_SKILL",
+    "weight": 1.0,
+    "properties": {}
+  },
+  {
+    "source_id": "student_n11993026",
+    "target_id": "interest_remote_sensing_and_geospatial_technologies",
+    "relation_type": "INTERESTED_IN",
+    "weight": 1.0,
+    "properties": {}
+  },
+  {
+    "source_id": "student_n11993026",
+    "target_id": "interest_machine_learning_for_environmental_applications",
+    "relation_type": "INTERESTED_IN",
+    "weight": 1.0,
+    "properties": {}
+  },
+  {
+    "source_id": "student_n11993026",
+    "target_id": "interest_data_visualization_and_storytelling",
+    "relation_type": "INTERESTED_IN",
+    "weight": 1.0,
+    "properties": {}
+  },
+  {
+    "source_id": "student_n11993026",
+    "target_id": "interest_open-source_software_development",
+    "relation_type": "INTERESTED_IN",
+    "weight": 1.0,
+    "properties": {}
+  },
+  {
+    "source_id": "student_n11993026",
+    "target_id": "interest_urban_sustainability_and_infrastructure_resilience",
+    "relation_type": "INTERESTED_IN",
+    "weight": 1.0,
+    "properties": {}
+  }
+]

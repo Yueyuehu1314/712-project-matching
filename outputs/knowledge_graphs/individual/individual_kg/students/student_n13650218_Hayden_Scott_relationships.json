@@ -1,0 +1,149 @@
+[
+  {
+    "source_id": "student_n13650218",
+    "target_id": "major_business_analysis",
+    "relation_type": "STUDIED_MAJOR",
+    "weight": 1.0,
+    "properties": {}
+  },
+  {
+    "source_id": "student_n13650218",
+    "target_id": "course_ifn552_systems_analysis_and_design",
+    "relation_type": "COMPLETED_COURSE",
+    "weight": 1.0,
+    "properties": {}
+  },
+  {
+    "source_id": "student_n13650218",
+    "target_id": "course_ifn551_computer_systems_fundamentals",
+    "relation_type": "COMPLETED_COURSE",
+    "weight": 1.0,
+    "properties": {}
+  },
+  {
+    "source_id": "student_n13650218",
+    "target_id": "course_ifn554_databases",
+    "relation_type": "COMPLETED_COURSE",
+    "weight": 1.0,
+    "properties": {}
+  },
+  {
+    "source_id": "student_n13650218",
+    "target_id": "course_ifn666_web_technologies",
+    "relation_type": "COMPLETED_COURSE",
+    "weight": 1.0,
+    "properties": {}
+  },
+  {
+    "source_id": "student_n13650218",
+    "target_id": "course_ifn555_introduction_to_programming",
+    "relation_type": "COMPLETED_COURSE",
+    "weight": 1.0,
+    "properties": {}
+  },
+  {
+    "source_id": "student_n13650218",
+    "target_id": "course_ifn556_object_oriented_programming",
+    "relation_type": "COMPLETED_COURSE",
+    "weight": 1.0,
+    "properties": {}
+  },
+  {
+    "source_id": "student_n13650218",
+    "target_id": "course_ifn564_machine_learning",
+    "relation_type": "COMPLETED_COURSE",
+    "weight": 1.0,
+    "properties": {}
+  },
+  {
+    "source_id": "student_n13650218",
+    "target_id": "skill_machine_learning_(tensorflow,_scikit-learn)",
+    "relation_type": "HAS_SKILL",
+    "weight": 1.0,
+    "properties": {}
+  },
+  {
+    "source_id": "student_n13650218",
+    "target_id": "skill_web_development_(react,_node.js,_html/css)",
+    "relation_type": "HAS_SKILL",
+    "weight": 1.0,
+    "properties": {}
+  },
+  {
+    "source_id": "student_n13650218",
+    "target_id": "skill_business_analysis_(sql,_tableau,_jira)",
+    "relation_type": "HAS_SKILL",
+    "weight": 1.0,
+    "properties": {}
+  },
+  {
+    "source_id": "student_n13650218",
+    "target_id": "skill_database_design_(mysql,_mongodb)",
+    "relation_type": "HAS_SKILL",
+    "weight": 1.0,
+    "properties": {}
+  },
+  {
+    "source_id": "student_n13650218",
+    "target_id": "skill_programming_(python,_javascript)",
+    "relation_type": "HAS_SKILL",
+    "weight": 1.0,
+    "properties": {}
+  },
+  {
+    "source_id": "student_n13650218",
+    "target_id": "skill_systems_modeling_(uml,_er_diagrams)",
+    "relation_type": "HAS_SKILL",
+    "weight": 1.0,
+    "properties": {}
+  },
+  {
+    "source_id": "student_n13650218",
+    "target_id": "skill_survey_design_and_data_analysis",
+    "relation_type": "HAS_SKILL",
+    "weight": 1.0,
+    "properties": {}
+  },
+  {
+    "source_id": "student_n13650218",
+    "target_id": "skill_agile_project_management",
+    "relation_type": "HAS_SKILL",
+    "weight": 1.0,
+    "properties": {}
+  },
+  {
+    "source_id": "student_n13650218",
+    "target_id": "interest_data-driven_decision-making",
+    "relation_type": "INTERESTED_IN",
+    "weight": 1.0,
+    "properties": {}
+  },
+  {
+    "source_id": "student_n13650218",
+    "target_id": "interest_web_application_development",
+    "relation_type": "INTERESTED_IN",
+    "weight": 1.0,
+    "properties": {}
+  },
+  {
+    "source_id": "student_n13650218",
+    "target_id": "interest_machine_learning_in_industry",
+    "relation_type": "INTERESTED_IN",
+    "weight": 1.0,
+    "properties": {}
+  },
+  {
+    "source_id": "student_n13650218",
+    "target_id": "interest_it_project_management",
+    "relation_type": "INTERESTED_IN",
+    "weight": 1.0,
+    "properties": {}
+  },
+  {
+    "source_id": "student_n13650218",
+    "target_id": "interest_cross-sector_collaboration",
+    "relation_type": "INTERESTED_IN",
+    "weight": 1.0,
+    "properties": {}
+  }
+]

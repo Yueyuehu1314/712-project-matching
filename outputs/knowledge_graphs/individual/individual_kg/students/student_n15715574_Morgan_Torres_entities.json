@@ -1,0 +1,139 @@
+[
+  {
+    "id": "student_n15715574",
+    "name": "Morgan Torres",
+    "entity_type": "STUDENT",
+    "properties": {
+      "student_id": "n15715574",
+      "major": "Business Analysis",
+      "year": "3rd Year",
+      "file_path": "profile_md/IFN712_proposal-2025_IT skills_survery-1/n15715574_Morgan_Torres.md"
+    }
+  },
+  {
+    "id": "major_business_analysis",
+    "name": "Business Analysis",
+    "entity_type": "MAJOR",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn552_systems_analysis_and_design",
+    "name": "IFN552 Systems Analysis and Design",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn551_computer_systems_fundamentals",
+    "name": "IFN551 Computer Systems Fundamentals",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn554_databases",
+    "name": "IFN554 Databases",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn666_web_technologies",
+    "name": "IFN666 Web Technologies",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn555_introduction_to_programming",
+    "name": "IFN555 Introduction to Programming",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn556_object_oriented_programming",
+    "name": "IFn556 Object Oriented Programming",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn564_machine_learning",
+    "name": "IFN564 Machine Learning",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "skill_python_(scikit-learn,_pandas)",
+    "name": "Python (Scikit-learn, Pandas)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_sql_(mysql,_postgresql)",
+    "name": "SQL (MySQL, PostgreSQL)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_javascript_(react,_node.js)",
+    "name": "JavaScript (React, Node.js)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_web_development_(html/css,_rest_apis)",
+    "name": "Web Development (HTML/CSS, REST APIs)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_business_analysis_(jira,_tableau)",
+    "name": "Business Analysis (Jira, Tableau)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_machine_learning_(model_deployment,_data_preprocessing)",
+    "name": "Machine Learning (Model deployment, data preprocessing)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_systems_design_(uml,_requirements_gathering)",
+    "name": "Systems Design (UML, Requirements Gathering)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_database_management_(mongodb,_sql_server)",
+    "name": "Database Management (MongoDB, SQL Server)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "interest_data-driven_decision_making",
+    "name": "Data-driven decision making",
+    "entity_type": "INTEREST",
+    "properties": {}
+  },
+  {
+    "id": "interest_web_application_development",
+    "name": "Web application development",
+    "entity_type": "INTEREST",
+    "properties": {}
+  },
+  {
+    "id": "interest_industry_research_and_surveys",
+    "name": "Industry research and surveys",
+    "entity_type": "INTEREST",
+    "properties": {}
+  },
+  {
+    "id": "interest_machine_learning_in_business_contexts",
+    "name": "Machine learning in business contexts",
+    "entity_type": "INTEREST",
+    "properties": {}
+  },
+  {
+    "id": "interest_it_applications_in_engineering_domains",
+    "name": "IT applications in engineering domains",
+    "entity_type": "INTEREST",
+    "properties": {}
+  }
+]

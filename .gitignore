@@ -1,0 +1,125 @@
+# ==========================================
+# Python
+# ==========================================
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# 虚拟环境
+project_matching/
+.venv/
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Unit test / coverage
+htmlcov/
+.tox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.pytest_cache/
+
+# ==========================================
+# IDE / Editor
+# ==========================================
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.project
+.pydevproject
+.settings/
+
+# ==========================================
+# OS
+# ==========================================
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# ==========================================
+# 项目特定
+# ==========================================
+
+# 输出目录（保留结构，不保留内容）
+outputs/knowledge_graphs/archive/
+outputs/reports/*.json
+outputs/reports/*.csv
+
+# 临时和测试输出
+test_output/
+*_output_fixed/
+*.tmp
+
+# 日志文件
+*.log
+logs/
+
+# 数据文件（可选：如果数据太大）
+# data/raw/projects/*.docx
+# data/raw/projects/*.pdf
+# data/raw/units/*.pdf
+
+# 大型知识图谱文件（可选）
+# outputs/knowledge_graphs/**/*.png
+# outputs/knowledge_graphs/**/*.gexf
+
+# ==========================================
+# 敏感信息
+# ==========================================
+*API*Key*.txt
+*api*key*.txt
+.env
+secrets/
+credentials/
+*.pem
+*.key
+
+# ==========================================
+# Jupyter Notebook
+# ==========================================
+.ipynb_checkpoints/
+*.ipynb
+
+# ==========================================
+# 备份文件
+# ==========================================
+*.bak
+*.backup
+*~
+

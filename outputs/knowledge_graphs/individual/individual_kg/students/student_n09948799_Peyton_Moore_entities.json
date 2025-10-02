@@ -1,0 +1,145 @@
+[
+  {
+    "id": "student_n09948799",
+    "name": "Peyton Moore",
+    "entity_type": "STUDENT",
+    "properties": {
+      "student_id": "n09948799",
+      "major": "Business Analysis and ExecIT",
+      "year": "3rd Year",
+      "file_path": "profile_md/IFN712 Project Proposal - Business Analysis for ICT skills/n09948799_Peyton_Moore.md"
+    }
+  },
+  {
+    "id": "major_business_analysis_and_execit",
+    "name": "Business Analysis and ExecIT",
+    "entity_type": "MAJOR",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn551_computer_systems_fundamentals",
+    "name": "IFN551 Computer Systems Fundamentals",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn555_introduction_to_programming",
+    "name": "IFN555 Introduction to Programming",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn554_databases",
+    "name": "IFN554 Databases",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn614_business_process_modelling",
+    "name": "IFN614 Business Process Modelling",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn617_business_intelligence_systems",
+    "name": "IFN617 Business Intelligence Systems",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn616_requirements_engineering",
+    "name": "IFN616 Requirements Engineering",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn623_cyber_security",
+    "name": "IFN623 Cyber Security",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn552_systems_analysis_and_design",
+    "name": "IFN552 Systems Analysis and Design",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "skill_data_science_(python,_r,_sql)",
+    "name": "Data Science (Python, R, SQL)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_cybersecurity_(ethical_hacking,_risk_management)",
+    "name": "Cybersecurity (Ethical Hacking, Risk Management)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_networking_(tcp/ip,_firewalls)",
+    "name": "Networking (TCP/IP, Firewalls)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_business_analysis_(bpmn,_uml)",
+    "name": "Business Analysis (BPMN, UML)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_database_management_(mysql,_mongodb)",
+    "name": "Database Management (MySQL, MongoDB)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_business_intelligence_(tableau,_power_bi)",
+    "name": "Business Intelligence (Tableau, Power BI)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_systems_design_(uml,_er_diagrams)",
+    "name": "Systems Design (UML, ER Diagrams)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_requirements_engineering_(jira,_agile)",
+    "name": "Requirements Engineering (JIRA, Agile)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "interest_industry_4.0_technologies_and_digital_transformation",
+    "name": "Industry 4.0 technologies and digital transformation",
+    "entity_type": "INTEREST",
+    "properties": {}
+  },
+  {
+    "id": "interest_cybersecurity_certifications_(e.g.,_cissp,_comptia_security+)",
+    "name": "Cybersecurity certifications (e.g., CISSP, CompTIA Security+)",
+    "entity_type": "INTEREST",
+    "properties": {}
+  },
+  {
+    "id": "interest_business_process_automation_tools_(e.g.,_uipath,_sap)",
+    "name": "Business process automation tools (e.g., UiPath, SAP)",
+    "entity_type": "INTEREST",
+    "properties": {}
+  },
+  {
+    "id": "interest_data_visualization_and_storytelling_with_tableau",
+    "name": "Data visualization and storytelling with Tableau",
+    "entity_type": "INTEREST",
+    "properties": {}
+  },
+  {
+    "id": "interest_attending_tech_conferences_and_hackathons",
+    "name": "Attending tech conferences and hackathons",
+    "entity_type": "INTEREST",
+    "properties": {}
+  }
+]

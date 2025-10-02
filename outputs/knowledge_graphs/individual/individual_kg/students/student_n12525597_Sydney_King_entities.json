@@ -1,0 +1,139 @@
+[
+  {
+    "id": "student_n12525597",
+    "name": "Sydney King",
+    "entity_type": "STUDENT",
+    "properties": {
+      "student_id": "n12525597",
+      "major": "Computer Science with a Minor in Data Science",
+      "year": "3rd Year",
+      "file_path": "profile_md/IFN712 Project 14-1/n12525597_Sydney_King.md"
+    }
+  },
+  {
+    "id": "major_computer_science_with_a_minor_in_data_science",
+    "name": "Computer Science with a Minor in Data Science",
+    "entity_type": "MAJOR",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn564_machine_learning",
+    "name": "IFN564 Machine Learning",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn563_algorithms_and_complexity",
+    "name": "IFN563 Algorithms and Complexity",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn551_computer_systems_fundamentals",
+    "name": "IFN551 Computer Systems Fundamentals",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn555_introduction_to_programming",
+    "name": "IFN555 Introduction to Programming",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn553_introduction_to_security_and_networking",
+    "name": "IFN553 Introduction to Security and Networking",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn552_systems_analysis_and_design",
+    "name": "IFN552 Systems Analysis and Design",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn554_databases",
+    "name": "IFN554 Databases",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn556_object_oriented_programming",
+    "name": "IFN556 Object Oriented Programming",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "skill_**machine_learning**:_scikit-learn,_tensorflow,_model_evaluation_metrics",
+    "name": "**Machine Learning**: Scikit-learn, TensorFlow, model evaluation metrics",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_**programming**:_python,_java,_javascript,_sql",
+    "name": "**Programming**: Python, Java, JavaScript, SQL",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_**cybersecurity**:_network_protocols,_encryption,_intrusion_detection",
+    "name": "**Cybersecurity**: Network protocols, encryption, intrusion detection",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_**web_development**:_flask,_react,_rest_apis",
+    "name": "**Web Development**: Flask, React, REST APIs",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_**data_science**:_pandas,_numpy,_data_visualization_(matplotlib,_tableau)",
+    "name": "**Data Science**: Pandas, NumPy, data visualization (Matplotlib, Tableau)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_**networking**:_tcp/ip,_http,_wireshark",
+    "name": "**Networking**: TCP/IP, HTTP, Wireshark",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_**tools**:_git,_docker,_jupyter_notebook,_postman",
+    "name": "**Tools**: Git, Docker, Jupyter Notebook, Postman",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "interest_cybersecurity_and_ethical_hacking",
+    "name": "Cybersecurity and ethical hacking",
+    "entity_type": "INTEREST",
+    "properties": {}
+  },
+  {
+    "id": "interest_machine_learning_model_optimization",
+    "name": "Machine learning model optimization",
+    "entity_type": "INTEREST",
+    "properties": {}
+  },
+  {
+    "id": "interest_iot_and_embedded_systems",
+    "name": "IoT and embedded systems",
+    "entity_type": "INTEREST",
+    "properties": {}
+  },
+  {
+    "id": "interest_open-source_software_development",
+    "name": "Open-source software development",
+    "entity_type": "INTEREST",
+    "properties": {}
+  },
+  {
+    "id": "interest_data_visualization_and_web_technologies",
+    "name": "Data visualization and web technologies",
+    "entity_type": "INTEREST",
+    "properties": {}
+  }
+]

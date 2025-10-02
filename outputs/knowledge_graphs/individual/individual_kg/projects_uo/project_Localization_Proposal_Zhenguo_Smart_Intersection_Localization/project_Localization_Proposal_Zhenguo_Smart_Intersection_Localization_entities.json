@@ -1,0 +1,204 @@
+[
+  {
+    "id": "project_Localization_Proposal_Zhenguo",
+    "name": "Smart Intersection Localization",
+    "entity_type": "PROJECT",
+    "properties": {
+      "description": "Vulnerable Road Users (VRUs), such as pedestrians, cyclists, and scooter riders, are at greater risk of accidents at signalized intersections due to limited line of sight and slower reaction times from drivers. While camera and LiDAR-based detection systems have been used to improve safety, these solutions are often expensive, require complex infrastructure, and raise privacy concerns. In contrast, Bluetooth Low Energy (BLE) technology offers a low-cost and privacy-friendly alternative for short-range localization. However, RSSI-based positioning with BLE is known to suffer from signal fluctuations caused by multipath effects, obstructions, and environmental variability. This project addresses these challenges by building a real-time VRU positioning system using multiple BLE locators based on the nRF5340 platform. By applying deep learning methods such as LSTM and CNN, the system aims to improve the stability and accuracy of RSSI-based localization. Performance will be evaluated in both lab and semi-field settings to assess its suitability for real-world deployment in smart transport infrastructure.  **Objectives:**  1.  RSSI Data Collection: Deploy multiple nRF5340-based BLE devices at a simulated intersection to collect RSSI readings from VRUs under different conditions, including obstructed and unobstructed paths.  2.  Localization Model Development: Build and train deep learning models, such as LSTM, BiLSTM, or CNN, to estimate the position of VRUs using sequences of RSSI data, with a focus on improving accuracy and consistency.  3.  Signal Preprocessing and Feature Extraction: Apply filtering, smoothing, and statistical feature extraction techniques to the raw RSSI data to reduce noise and support robust model training across varying environments.  4.  System Integration: Combine BLE broadcasting, RSSI acquisition, and model inference into a single positioning system capable of running in real time.  5.  Performance Evaluation and Validation: Test the system in lab and semi-field conditions to evaluate positioning accuracy, latency, and reliability, and assess its potential for deployment at real-world intersections.  **Expected Outcomes:**  The project will deliver a functional prototype that demonstrates RSSI-based localization using nRF5340 Bluetooth devices and deep learning techniques. The system will be tested under controlled and semi-field conditions to evaluate positioning accuracy, robustness, and latency. Comparative analysis will be conducted between traditional trilateration methods and learning-based approaches to assess performance gains. The outcome is expected to provide a practical, low-cost, and privacy-conscious solution for detecting VRU locations at intersections, offering a potential path toward real-world deployment in intelligent transport systems. -   Bluetooth RSSI Localization  -   Vulnerable Road User (VRU)  -   Deep Learning for Positioning  -   Intersection Safety Systems  -   Noise-Robust RSSI Estimation Research Questions:  -   How can deep learning models mitigate the noise and instability of Bluetooth RSSI signals for accurate real-time localization?  -   What is the trade-off between number of beacons and positioning accuracy in the BLE-based intersection setup?  -   Which neural network architecture (e.g., CNN vs. LSTM) performs best for time-series RSSI localization?  -   How does the positioning performance degrade in high-multipath environments or when BLE devices are moving?  -   Can we generalize the trained model across different intersection geometries? 1)  Faragher, R. & Harle, R. \"Location Fingerprinting With Bluetooth Low Energy Beacons.\" IEEE Journal on Selected Areas in Communications, 2015.  2)  nRF5340 Bluetooth Direction Finding Development Kit. <https://www.nordicsemi.com/P roducts/nRF5340>  3)  Matlab. Bluetooth LE Positioning with Deep Learning. https://au.mathworks.com/help /bluetooth/ug/bluetooth-le-positi oning-with-deep-learning.html  4)  Wang, Y. et al. \"DeepFi: Deep Learning for Indoor Fingerprinting Using Channel State Information.\" WCNC, 2015.  5)  Zafari, F., Gkelias, A., & Leung, K.K. \"A Survey of Indoor Localization Systems and Technologies.\" IEEE Communications Surveys & Tutorials, 2019. Software development and computer science majors. It is desirable if students have or willing to develop skills in the following areas:  -   Embedded C/C++ or Zephyr RTOS development.  -   Python and deep learning frameworks (e.g., PyTorch or TensorFlow)  -   It is desirable if students have some background in data processing and Bluetooth RSSI-based localization algorithms.Experience with real-time data collection and MQTT or serial data protocols  -   Strong hands-on skills in setting up experiments, troubleshooting embedded systems, and evaluating system performance in real-world scenarios. ☐ Project IP vests in the student with a license back to Industry Partner **(licence)**  OR  ☒ Project IP vests in the Industry Partner/Project owner with a licence back to the student **(assignment)**  OR  ☐ Academic project (No IP agreement needed) 5         This research is conducted as part of a government-funded project. Participating students will be required to sign an Intellectual Property (IP) agreement with the QUT project owners. The supervising team will shortlist candidates following the application process.",
+      "supervisor": "Yanming Feng <y.feng@qut.edu.au>,",
+      "file_path": "project_md/Localization_Proposal_Zhenguo.md"
+    }
+  },
+  {
+    "id": "major_software_development",
+    "name": "Software Development",
+    "entity_type": "MAJOR",
+    "properties": {}
+  },
+  {
+    "id": "major_computer",
+    "name": "Computer",
+    "entity_type": "MAJOR",
+    "properties": {}
+  },
+  {
+    "id": "skill_machine_learning",
+    "name": "machine learning",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_web_development",
+    "name": "web development",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_data_science",
+    "name": "data science",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_mobile_development",
+    "name": "mobile development",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_networking",
+    "name": "networking",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "tech_python",
+    "name": "Python",
+    "entity_type": "TECHNOLOGY",
+    "properties": {}
+  },
+  {
+    "id": "tech_react",
+    "name": "React",
+    "entity_type": "TECHNOLOGY",
+    "properties": {}
+  },
+  {
+    "id": "tech_tensorflow",
+    "name": "TensorFlow",
+    "entity_type": "TECHNOLOGY",
+    "properties": {}
+  },
+  {
+    "id": "supervisor_yanming_feng_<y.feng@qut.edu.au>,",
+    "name": "Yanming Feng <y.feng@qut.edu.au>,",
+    "entity_type": "SUPERVISOR",
+    "properties": {}
+  },
+  {
+    "id": "unit_qut_IN20_39851_int_cms_unit",
+    "name": "Master of Information Technology",
+    "entity_type": "UNIT",
+    "properties": {
+      "unit_id": "qut_IN20_39851_int_cms_unit",
+      "majors": [
+        "Business Analysis",
+        "Computer Science",
+        "Data Science",
+        "Software Development",
+        "Cyber Security and Networks",
+        "Enterprise Systems",
+        "Executive IT"
+      ],
+      "skills": [
+        "machine learning",
+        "data science",
+        "web development",
+        "cybersecurity",
+        "business analysis",
+        "software engineering",
+        "database management",
+        "networking",
+        "cloud computing",
+        "project management",
+        "user experience"
+      ]
+    }
+  },
+  {
+    "id": "skill_cybersecurity",
+    "name": "cybersecurity",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_business_analysis",
+    "name": "business analysis",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_software_engineering",
+    "name": "software engineering",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_database_management",
+    "name": "database management",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_cloud_computing",
+    "name": "cloud computing",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_project_management",
+    "name": "project management",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_user_experience",
+    "name": "user experience",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "tech_java",
+    "name": "Java",
+    "entity_type": "TECHNOLOGY",
+    "properties": {}
+  },
+  {
+    "id": "tech_javascript",
+    "name": "JavaScript",
+    "entity_type": "TECHNOLOGY",
+    "properties": {}
+  },
+  {
+    "id": "tech_sql",
+    "name": "SQL",
+    "entity_type": "TECHNOLOGY",
+    "properties": {}
+  },
+  {
+    "id": "tech_sap",
+    "name": "SAP",
+    "entity_type": "TECHNOLOGY",
+    "properties": {}
+  },
+  {
+    "id": "tech_c#",
+    "name": "C#",
+    "entity_type": "TECHNOLOGY",
+    "properties": {}
+  },
+  {
+    "id": "tech_flask",
+    "name": "Flask",
+    "entity_type": "TECHNOLOGY",
+    "properties": {}
+  },
+  {
+    "id": "outcome_qut_IN20_39851_int_cms_unit_0",
+    "name": "how the principles of Object-Oriented programming ...",
+    "entity_type": "LEARNING_OUTCOME",
+    "properties": {}
+  },
+  {
+    "id": "outcome_qut_IN20_39851_int_cms_unit_1",
+    "name": "how to identify potential objects and classes by e...",
+    "entity_type": "LEARNING_OUTCOME",
+    "properties": {}
+  },
+  {
+    "id": "outcome_qut_IN20_39851_int_cms_unit_2",
+    "name": "how such designs are professionally communicated a...",
+    "entity_type": "LEARNING_OUTCOME",
+    "properties": {}
+  }
+]

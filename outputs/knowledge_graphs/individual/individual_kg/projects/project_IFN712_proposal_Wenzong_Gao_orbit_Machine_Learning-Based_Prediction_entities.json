@@ -1,0 +1,54 @@
+[
+  {
+    "id": "project_IFN712_proposal_Wenzong_Gao_orbit",
+    "name": "Machine Learning-Based Prediction",
+    "entity_type": "PROJECT",
+    "properties": {
+      "description": "Systems (GNSS), particularly the US\\'s Global Positioning System (GPS), have become integral to daily life, industry, military operations, and scientific research. GNSS works by letting users calculate their position based on signals from satellites. Each satellite sends out its predicted position---called the broadcast ephemeris---which your navigation device uses to figure out where the satellite is. These broadcast orbits are calculated in advance and transmitted in real time, but their precision is limited. Typically, the error in broadcast orbits is about 1--2 meters, and sometimes even greater, due to various unpredictable factors affecting satellites in space.  In contrast, after the fact, international agencies (such as the International GNSS Service) process vast amounts of tracking data to produce the precise ephemeris. These precise orbits show where the satellites actually were and are accurate to just 2--5 centimetres. However, they become available only several hours to a day later, so they cannot help in real-time positioning.  This project aims to use Machine Learning (ML) to bridge this gap. By collecting historical pairs of broadcast and precise ephemeris data, we will train ML models to predict the difference (the error) between the real-time broadcast and the delayed precise orbit. The ML model will take the broadcast ephemeris as input and output the estimated correction needed to approach precise-orbit accuracy. This approach can potentially provide real-time corrections for navigation, making everyday positioning more accurate.  Expected outputs include:  -   A proof-of-concept ML model for near-real-time GPS orbit correction  -   Quantitative evaluation of the accuracy improvement  -   Open-source code and a reproducible workflow for further research -   How do errors between broadcast and precise GPS ephemerides evolve over time and what factors influence them?  -   What features from broadcast ephemeris are most useful for predicting the error between broadcast and precise orbits?  -   How do different ML models (regression, tree-based, neural networks) perform in predicting orbit corrections?  -   How much can the accuracy of user positioning be improved by applying the ML-based corrections?  -   How robust is the ML-based correction approach to missing data or outliers in the input? -   IGS Products: <https://igs.org/products/>  -   Kouba, J., & Héroux, P. (2001). Precise point positioning using IGS orbit and clock products. *GPS solutions*, *5*, 12-28.  -   Griffiths, J., & Ray, J. R. (2009). On the precision and accuracy of IGS orbits. *Journal of Geodesy*, *83*(3), 277-287.  -   Springer Handbook of Global Navigation Satellite Systems. (2017). <https://doi.org/10.1007/978- 3-319-42928-1> (Chapter 2) Students majoring data science and computer science can participate in the project.  Programming skills (Python or Matlab)  Experience with machine learning frameworks ☐ Project IP vests in the Student with a license back to Industry Partner **(license)**  OR  ☐ Project IP vests in the Industry Partner with a licence back to the Student **(assignment)**  OR  ☒ Academic project 3-5       The supervising team will shortlist the candidates after their application.",
+      "supervisor": "Yanming Feng, y.feng\\@qut.edu.au",
+      "file_path": "project_md/IFN712_proposal_Wenzong_Gao_orbit.md"
+    }
+  },
+  {
+    "id": "major_data_science_and_computer_science",
+    "name": "Data Science and Computer Science",
+    "entity_type": "MAJOR",
+    "properties": {}
+  },
+  {
+    "id": "skill_machine_learning",
+    "name": "machine learning",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_data_science",
+    "name": "data science",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_mobile_development",
+    "name": "mobile development",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_networking",
+    "name": "networking",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "tech_python",
+    "name": "Python",
+    "entity_type": "TECHNOLOGY",
+    "properties": {}
+  },
+  {
+    "id": "supervisor_yanming_feng,_y.feng\\@qut.edu.au",
+    "name": "Yanming Feng, y.feng\\@qut.edu.au",
+    "entity_type": "SUPERVISOR",
+    "properties": {}
+  }
+]

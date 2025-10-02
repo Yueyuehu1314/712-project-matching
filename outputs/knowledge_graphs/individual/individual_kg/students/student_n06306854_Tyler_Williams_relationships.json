@@ -1,0 +1,156 @@
+[
+  {
+    "source_id": "student_n06306854",
+    "target_id": "major_cyber_security",
+    "relation_type": "STUDIED_MAJOR",
+    "weight": 1.0,
+    "properties": {}
+  },
+  {
+    "source_id": "student_n06306854",
+    "target_id": "course_ifn564_machine_learning",
+    "relation_type": "COMPLETED_COURSE",
+    "weight": 1.0,
+    "properties": {}
+  },
+  {
+    "source_id": "student_n06306854",
+    "target_id": "course_ifn554_databases",
+    "relation_type": "COMPLETED_COURSE",
+    "weight": 1.0,
+    "properties": {}
+  },
+  {
+    "source_id": "student_n06306854",
+    "target_id": "course_ifn565_advanced_programming",
+    "relation_type": "COMPLETED_COURSE",
+    "weight": 1.0,
+    "properties": {}
+  },
+  {
+    "source_id": "student_n06306854",
+    "target_id": "course_ifn552_systems_analysis_and_design",
+    "relation_type": "COMPLETED_COURSE",
+    "weight": 1.0,
+    "properties": {}
+  },
+  {
+    "source_id": "student_n06306854",
+    "target_id": "course_ifn556_object_oriented_programming",
+    "relation_type": "COMPLETED_COURSE",
+    "weight": 1.0,
+    "properties": {}
+  },
+  {
+    "source_id": "student_n06306854",
+    "target_id": "course_ifn666_web_technologies",
+    "relation_type": "COMPLETED_COURSE",
+    "weight": 1.0,
+    "properties": {}
+  },
+  {
+    "source_id": "student_n06306854",
+    "target_id": "course_ifn551_computer_systems_fundamentals",
+    "relation_type": "COMPLETED_COURSE",
+    "weight": 1.0,
+    "properties": {}
+  },
+  {
+    "source_id": "student_n06306854",
+    "target_id": "course_ifn623_cyber_security",
+    "relation_type": "COMPLETED_COURSE",
+    "weight": 1.0,
+    "properties": {}
+  },
+  {
+    "source_id": "student_n06306854",
+    "target_id": "skill_**web_development**:_html/css,_javascript,_react,_node.js",
+    "relation_type": "HAS_SKILL",
+    "weight": 1.0,
+    "properties": {}
+  },
+  {
+    "source_id": "student_n06306854",
+    "target_id": "skill_**cybersecurity**:_encryption,_threat_analysis,_firewall_configuration",
+    "relation_type": "HAS_SKILL",
+    "weight": 1.0,
+    "properties": {}
+  },
+  {
+    "source_id": "student_n06306854",
+    "target_id": "skill_**networking**:_tcp/ip,_wi-fi_protocols,_network_segmentation",
+    "relation_type": "HAS_SKILL",
+    "weight": 1.0,
+    "properties": {}
+  },
+  {
+    "source_id": "student_n06306854",
+    "target_id": "skill_**data_analytics**:_python_(pandas,_numpy),_sql",
+    "relation_type": "HAS_SKILL",
+    "weight": 1.0,
+    "properties": {}
+  },
+  {
+    "source_id": "student_n06306854",
+    "target_id": "skill_**iot_platforms**:_arduino,_raspberry_pi,_mqtt",
+    "relation_type": "HAS_SKILL",
+    "weight": 1.0,
+    "properties": {}
+  },
+  {
+    "source_id": "student_n06306854",
+    "target_id": "skill_**database_management**:_mysql,_mongodb",
+    "relation_type": "HAS_SKILL",
+    "weight": 1.0,
+    "properties": {}
+  },
+  {
+    "source_id": "student_n06306854",
+    "target_id": "skill_**cloud_services**:_aws_iot_core,_microsoft_azure",
+    "relation_type": "HAS_SKILL",
+    "weight": 1.0,
+    "properties": {}
+  },
+  {
+    "source_id": "student_n06306854",
+    "target_id": "skill_**version_control**:_git,_github",
+    "relation_type": "HAS_SKILL",
+    "weight": 1.0,
+    "properties": {}
+  },
+  {
+    "source_id": "student_n06306854",
+    "target_id": "interest_smart_city_innovations",
+    "relation_type": "INTERESTED_IN",
+    "weight": 1.0,
+    "properties": {}
+  },
+  {
+    "source_id": "student_n06306854",
+    "target_id": "interest_ethical_hacking_and_penetration_testing",
+    "relation_type": "INTERESTED_IN",
+    "weight": 1.0,
+    "properties": {}
+  },
+  {
+    "source_id": "student_n06306854",
+    "target_id": "interest_sustainable_technology",
+    "relation_type": "INTERESTED_IN",
+    "weight": 1.0,
+    "properties": {}
+  },
+  {
+    "source_id": "student_n06306854",
+    "target_id": "interest_open-source_hardware_development",
+    "relation_type": "INTERESTED_IN",
+    "weight": 1.0,
+    "properties": {}
+  },
+  {
+    "source_id": "student_n06306854",
+    "target_id": "interest_real-time_data_visualization",
+    "relation_type": "INTERESTED_IN",
+    "weight": 1.0,
+    "properties": {}
+  }
+]

@@ -1,0 +1,145 @@
+[
+  {
+    "id": "student_n04106989",
+    "name": "Jordan Wright",
+    "entity_type": "STUDENT",
+    "properties": {
+      "student_id": "n04106989",
+      "major": "Software Development and Cybersecurity",
+      "year": "4th Year",
+      "file_path": "profile_md/Plant_sensing_Proposal_Zhenguo/n04106989_Jordan_Wright.md"
+    }
+  },
+  {
+    "id": "major_software_development_and_cybersecurity",
+    "name": "Software Development and Cybersecurity",
+    "entity_type": "MAJOR",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn668_advanced_software_engineering",
+    "name": "IFN668 Advanced Software Engineering",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn554_databases",
+    "name": "IFN554 Databases",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn623_cyber_security",
+    "name": "IFN623 Cyber Security",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn670_mobile_application_development",
+    "name": "IFN670 Mobile Application Development",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn551_computer_systems_fundamentals",
+    "name": "IFN551 Computer Systems Fundamentals",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn556_object_oriented_programming",
+    "name": "IFN556 Object Oriented Programming",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn552_systems_analysis_and_design",
+    "name": "IFN552 Systems Analysis and Design",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn555_introduction_to_programming",
+    "name": "IFN555 Introduction to Programming",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "skill_machine_learning_(python,_scikit-learn,_tensorflow)",
+    "name": "Machine learning (Python, scikit-learn, TensorFlow)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_web_development_(react.js,_node.js,_flask)",
+    "name": "Web development (React.js, Node.js, Flask)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_data_science_(pandas,_numpy,_sql)",
+    "name": "Data science (Pandas, NumPy, SQL)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_cybersecurity_(encryption,_network_security)",
+    "name": "Cybersecurity (encryption, network security)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_networking_(tcp/ip,_mqtt_protocols)",
+    "name": "Networking (TCP/IP, MQTT protocols)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_mobile_application_development_(kotlin,_flutter)",
+    "name": "Mobile application development (Kotlin, Flutter)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_database_management_(mysql,_mongodb)",
+    "name": "Database management (MySQL, MongoDB)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_version_control_(git,_github)",
+    "name": "Version control (Git, GitHub)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "interest_machine_learning_for_environmental_applications",
+    "name": "Machine learning for environmental applications",
+    "entity_type": "INTEREST",
+    "properties": {}
+  },
+  {
+    "id": "interest_iot_and_embedded_systems",
+    "name": "IoT and embedded systems",
+    "entity_type": "INTEREST",
+    "properties": {}
+  },
+  {
+    "id": "interest_cybersecurity_in_smart_technologies",
+    "name": "Cybersecurity in smart technologies",
+    "entity_type": "INTEREST",
+    "properties": {}
+  },
+  {
+    "id": "interest_sustainable_tech_innovation",
+    "name": "Sustainable tech innovation",
+    "entity_type": "INTEREST",
+    "properties": {}
+  },
+  {
+    "id": "interest_data_visualization_and_web_development",
+    "name": "Data visualization and web development",
+    "entity_type": "INTEREST",
+    "properties": {}
+  }
+]

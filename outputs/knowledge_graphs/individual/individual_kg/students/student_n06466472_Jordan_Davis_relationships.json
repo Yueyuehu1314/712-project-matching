@@ -1,0 +1,156 @@
+[
+  {
+    "source_id": "student_n06466472",
+    "target_id": "major_data_science",
+    "relation_type": "STUDIED_MAJOR",
+    "weight": 1.0,
+    "properties": {}
+  },
+  {
+    "source_id": "student_n06466472",
+    "target_id": "course_ifn551_computer_systems_fundamentals",
+    "relation_type": "COMPLETED_COURSE",
+    "weight": 1.0,
+    "properties": {}
+  },
+  {
+    "source_id": "student_n06466472",
+    "target_id": "course_ifn632_advanced_data_analytics",
+    "relation_type": "COMPLETED_COURSE",
+    "weight": 1.0,
+    "properties": {}
+  },
+  {
+    "source_id": "student_n06466472",
+    "target_id": "course_ifn563_algorithms_and_complexity",
+    "relation_type": "COMPLETED_COURSE",
+    "weight": 1.0,
+    "properties": {}
+  },
+  {
+    "source_id": "student_n06466472",
+    "target_id": "course_ifn564_machine_learning",
+    "relation_type": "COMPLETED_COURSE",
+    "weight": 1.0,
+    "properties": {}
+  },
+  {
+    "source_id": "student_n06466472",
+    "target_id": "course_ifn619_data_analytics_and_visualisation",
+    "relation_type": "COMPLETED_COURSE",
+    "weight": 1.0,
+    "properties": {}
+  },
+  {
+    "source_id": "student_n06466472",
+    "target_id": "course_ifn666_web_technologies",
+    "relation_type": "COMPLETED_COURSE",
+    "weight": 1.0,
+    "properties": {}
+  },
+  {
+    "source_id": "student_n06466472",
+    "target_id": "course_ifn553_introduction_to_security_and_networking",
+    "relation_type": "COMPLETED_COURSE",
+    "weight": 1.0,
+    "properties": {}
+  },
+  {
+    "source_id": "student_n06466472",
+    "target_id": "course_ifn623_cyber_security",
+    "relation_type": "COMPLETED_COURSE",
+    "weight": 1.0,
+    "properties": {}
+  },
+  {
+    "source_id": "student_n06466472",
+    "target_id": "skill_**machine_learning**:_scikit-learn,_tensorflow,_model_evaluation_metrics",
+    "relation_type": "HAS_SKILL",
+    "weight": 1.0,
+    "properties": {}
+  },
+  {
+    "source_id": "student_n06466472",
+    "target_id": "skill_**data_science**:_pandas,_numpy,_data_preprocessing_techniques",
+    "relation_type": "HAS_SKILL",
+    "weight": 1.0,
+    "properties": {}
+  },
+  {
+    "source_id": "student_n06466472",
+    "target_id": "skill_**cybersecurity**:_intrusion_detection,_encryption_protocols,_network_security",
+    "relation_type": "HAS_SKILL",
+    "weight": 1.0,
+    "properties": {}
+  },
+  {
+    "source_id": "student_n06466472",
+    "target_id": "skill_**networking**:_tcp/ip,_iot_communication_protocols_(mqtt,_coap)",
+    "relation_type": "HAS_SKILL",
+    "weight": 1.0,
+    "properties": {}
+  },
+  {
+    "source_id": "student_n06466472",
+    "target_id": "skill_**web_development**:_react,_node.js,_rest_apis",
+    "relation_type": "HAS_SKILL",
+    "weight": 1.0,
+    "properties": {}
+  },
+  {
+    "source_id": "student_n06466472",
+    "target_id": "skill_**feature_selection**:_pca,_lasso,_recursive_feature_elimination",
+    "relation_type": "HAS_SKILL",
+    "weight": 1.0,
+    "properties": {}
+  },
+  {
+    "source_id": "student_n06466472",
+    "target_id": "skill_**data_visualization**:_tableau,_matplotlib,_d3.js",
+    "relation_type": "HAS_SKILL",
+    "weight": 1.0,
+    "properties": {}
+  },
+  {
+    "source_id": "student_n06466472",
+    "target_id": "skill_**programming**:_python,_javascript,_sql",
+    "relation_type": "HAS_SKILL",
+    "weight": 1.0,
+    "properties": {}
+  },
+  {
+    "source_id": "student_n06466472",
+    "target_id": "interest_iot_security_and_privacy",
+    "relation_type": "INTERESTED_IN",
+    "weight": 1.0,
+    "properties": {}
+  },
+  {
+    "source_id": "student_n06466472",
+    "target_id": "interest_machine_learning_interpretability",
+    "relation_type": "INTERESTED_IN",
+    "weight": 1.0,
+    "properties": {}
+  },
+  {
+    "source_id": "student_n06466472",
+    "target_id": "interest_data_visualization",
+    "relation_type": "INTERESTED_IN",
+    "weight": 1.0,
+    "properties": {}
+  },
+  {
+    "source_id": "student_n06466472",
+    "target_id": "interest_cybersecurity_threat_modeling",
+    "relation_type": "INTERESTED_IN",
+    "weight": 1.0,
+    "properties": {}
+  },
+  {
+    "source_id": "student_n06466472",
+    "target_id": "interest_open-source_software_development",
+    "relation_type": "INTERESTED_IN",
+    "weight": 1.0,
+    "properties": {}
+  }
+]

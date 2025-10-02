@@ -1,0 +1,145 @@
+[
+  {
+    "id": "student_n04541718",
+    "name": "Drew Hernandez",
+    "entity_type": "STUDENT",
+    "properties": {
+      "student_id": "n04541718",
+      "major": "Data Science (Minor in Computer Science)",
+      "year": "3rd Year",
+      "file_path": "profile_md/IFN712 Project 13-1/n04541718_Drew_Hernandez.md"
+    }
+  },
+  {
+    "id": "major_data_science_(minor_in_computer_science)",
+    "name": "Data Science (Minor in Computer Science)",
+    "entity_type": "MAJOR",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn551_computer_systems_fundamentals",
+    "name": "IFN551 Computer Systems Fundamentals",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn632_advanced_data_analytics",
+    "name": "IFN632 Advanced Data Analytics",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn563_algorithms_and_complexity",
+    "name": "IFN563 Algorithms and Complexity",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn564_machine_learning",
+    "name": "IFN564 Machine Learning",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn619_data_analytics_and_visualisation",
+    "name": "IFN619 Data Analytics and Visualisation",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn666_web_technologies",
+    "name": "IFN666 Web Technologies",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn553_introduction_to_security_and_networking",
+    "name": "IFN553 Introduction to Security and Networking",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn623_cyber_security",
+    "name": "IFN623 Cyber Security",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "skill_machine_learning_(scikit-learn,_tensorflow)",
+    "name": "Machine learning (Scikit-learn, TensorFlow)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_data_preprocessing_(pandas,_numpy)",
+    "name": "Data preprocessing (Pandas, NumPy)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_cybersecurity_tools_(wireshark,_nmap)",
+    "name": "Cybersecurity tools (Wireshark, Nmap)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_web_development_(react,_node.js)",
+    "name": "Web development (React, Node.js)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_networking_protocols_(tcp/ip,_http)",
+    "name": "Networking protocols (TCP/IP, HTTP)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_data_visualization_(tableau,_power_bi)",
+    "name": "Data visualization (Tableau, Power BI)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_feature_selection_techniques_(rfe,_pca,_lasso)",
+    "name": "Feature selection techniques (RFE, PCA, LASSO)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_cloud_computing_(aws,_docker)",
+    "name": "Cloud computing (AWS, Docker)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "interest_cybersecurity_frameworks_for_iot",
+    "name": "Cybersecurity frameworks for IoT",
+    "entity_type": "INTEREST",
+    "properties": {}
+  },
+  {
+    "id": "interest_machine_learning_model_optimization",
+    "name": "Machine learning model optimization",
+    "entity_type": "INTEREST",
+    "properties": {}
+  },
+  {
+    "id": "interest_web_application_development",
+    "name": "Web application development",
+    "entity_type": "INTEREST",
+    "properties": {}
+  },
+  {
+    "id": "interest_network_protocol_analysis",
+    "name": "Network protocol analysis",
+    "entity_type": "INTEREST",
+    "properties": {}
+  },
+  {
+    "id": "interest_data-driven_decision-making",
+    "name": "Data-driven decision-making",
+    "entity_type": "INTEREST",
+    "properties": {}
+  }
+]

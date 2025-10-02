@@ -1,0 +1,145 @@
+[
+  {
+    "id": "student_n15914596",
+    "name": "Rory Wright",
+    "entity_type": "STUDENT",
+    "properties": {
+      "student_id": "n15914596",
+      "major": "Software Development",
+      "year": "3rd Year",
+      "file_path": "profile_md/IFN712 Project Proposal Template_2025_Feng_V2P/n15914596_Rory_Wright.md"
+    }
+  },
+  {
+    "id": "major_software_development",
+    "name": "Software Development",
+    "entity_type": "MAJOR",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn666_web_technologies",
+    "name": "IFN666 Web Technologies",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn554_databases",
+    "name": "IFN554 Databases",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn553_introduction_to_security_and_networking",
+    "name": "IFN553 Introduction to Security and Networking",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn670_mobile_application_development",
+    "name": "IFN670 Mobile Application Development",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn556_object_oriented_programming",
+    "name": "IFN556 Object Oriented Programming",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn668_advanced_software_engineering",
+    "name": "IFN668 Advanced Software Engineering",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn552_systems_analysis_and_design",
+    "name": "IFN552 Systems Analysis and Design",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn555_introduction_to_programming",
+    "name": "IFN555 Introduction to Programming",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "skill_web_development_(react,_node.js,_html/css)",
+    "name": "Web development (React, Node.js, HTML/CSS)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_mobile_development_(android_studio,_swift)",
+    "name": "Mobile development (Android Studio, Swift)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_database_management_(mysql,_mongodb)",
+    "name": "Database management (MySQL, MongoDB)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_networking_protocols_(tcp/ip,_bluetooth)",
+    "name": "Networking protocols (TCP/IP, Bluetooth)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_cybersecurity_(encryption,_authentication)",
+    "name": "Cybersecurity (encryption, authentication)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_data_science_(python,_pandas,_visualization)",
+    "name": "Data science (Python, Pandas, visualization)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_object-oriented_programming_(java,_c#)",
+    "name": "Object-oriented programming (Java, C#)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_systems_design_(uml,_agile_methodologies)",
+    "name": "Systems design (UML, Agile methodologies)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "interest_mobile_app_development",
+    "name": "Mobile app development",
+    "entity_type": "INTEREST",
+    "properties": {}
+  },
+  {
+    "id": "interest_cybersecurity",
+    "name": "Cybersecurity",
+    "entity_type": "INTEREST",
+    "properties": {}
+  },
+  {
+    "id": "interest_intelligent_transportation_systems",
+    "name": "Intelligent transportation systems",
+    "entity_type": "INTEREST",
+    "properties": {}
+  },
+  {
+    "id": "interest_open-source_software",
+    "name": "Open-source software",
+    "entity_type": "INTEREST",
+    "properties": {}
+  },
+  {
+    "id": "interest_urban_safety_innovation",
+    "name": "Urban safety innovation",
+    "entity_type": "INTEREST",
+    "properties": {}
+  }
+]

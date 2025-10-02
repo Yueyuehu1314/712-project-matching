@@ -1,0 +1,30 @@
+{
+  "entity_id": "project_IFN712_Project_12-1",
+  "name": "project_IFN712_Project_12-1_Zero-Day_Attack_Detection_Using",
+  "type": "project_unit",
+  "total_entities": 29,
+  "total_relationships": 35,
+  "entity_types": {
+    "PROJECT": 1,
+    "MAJOR": 3,
+    "SKILL": 12,
+    "TECHNOLOGY": 8,
+    "SUPERVISOR": 1,
+    "UNIT": 1,
+    "LEARNING_OUTCOME": 3
+  },
+  "relation_types": {
+    "REQUIRES_MAJOR": 3,
+    "REQUIRES_SKILL": 6,
+    "USES_TECHNOLOGY": 2,
+    "SUPERVISED_BY": 1,
+    "RELATES_TO_UNIT": 1,
+    "SUPPORTS_SKILL": 11,
+    "ENABLES_TECHNOLOGY": 8,
+    "ACHIEVES_OUTCOME": 3
+  },
+  "has_unit_integration": true,
+  "unit_relations_count": 20,
+  "created_at": "2025-01-08T00:00:00",
+  "visualization_generated": true
+}

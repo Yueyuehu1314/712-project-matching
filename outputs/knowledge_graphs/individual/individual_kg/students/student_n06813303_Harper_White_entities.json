@@ -1,0 +1,145 @@
+[
+  {
+    "id": "student_n06813303",
+    "name": "Harper White",
+    "entity_type": "STUDENT",
+    "properties": {
+      "student_id": "n06813303",
+      "major": "Data Science",
+      "year": "3rd Year",
+      "file_path": "profile_md/IFN712_proposal_conversational_agent_prosody/n06813303_Harper_White.md"
+    }
+  },
+  {
+    "id": "major_data_science",
+    "name": "Data Science",
+    "entity_type": "MAJOR",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn619_data_analytics_and_visualisation",
+    "name": "IFN619 Data Analytics and Visualisation",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn563_algorithms_and_complexity",
+    "name": "IFN563 Algorithms and Complexity",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn565_advanced_programming",
+    "name": "IFN565 Advanced Programming",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn552_systems_analysis_and_design",
+    "name": "IFN552 Systems Analysis and Design",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn555_introduction_to_programming",
+    "name": "IFN555 Introduction to Programming",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn564_machine_learning",
+    "name": "IFN564 Machine Learning",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn551_computer_systems_fundamentals",
+    "name": "IFN551 Computer Systems Fundamentals",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn554_databases",
+    "name": "IFN554 Databases",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "skill_machine_learning_(scikit-learn,_tensorflow)",
+    "name": "Machine learning (scikit-learn, TensorFlow)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_data_science_(pandas,_numpy,_r)",
+    "name": "Data science (Pandas, NumPy, R)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_programming_(python,_java,_sql)",
+    "name": "Programming (Python, Java, SQL)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_data_visualization_(tableau,_matplotlib)",
+    "name": "Data visualization (Tableau, Matplotlib)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_natural_language_processing_(nltk,_spacy)",
+    "name": "Natural Language Processing (NLTK, spaCy)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_speech_processing_(librosa,_python-speech-features)",
+    "name": "Speech processing (Librosa, Python-Speech-Features)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_statistical_analysis_(anova,_regression)",
+    "name": "Statistical analysis (ANOVA, regression)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_agile_project_management",
+    "name": "Agile project management",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "interest_artificial_intelligence_ethics",
+    "name": "Artificial Intelligence ethics",
+    "entity_type": "INTEREST",
+    "properties": {}
+  },
+  {
+    "id": "interest_speech_and_language_processing",
+    "name": "Speech and language processing",
+    "entity_type": "INTEREST",
+    "properties": {}
+  },
+  {
+    "id": "interest_user_experience_(ux)_design",
+    "name": "User experience (UX) design",
+    "entity_type": "INTEREST",
+    "properties": {}
+  },
+  {
+    "id": "interest_mental_health_technology",
+    "name": "Mental health technology",
+    "entity_type": "INTEREST",
+    "properties": {}
+  },
+  {
+    "id": "interest_data_storytelling",
+    "name": "Data storytelling",
+    "entity_type": "INTEREST",
+    "properties": {}
+  }
+]

@@ -1,0 +1,149 @@
+[
+  {
+    "source_id": "student_n12525597",
+    "target_id": "major_computer_science_with_a_minor_in_data_science",
+    "relation_type": "STUDIED_MAJOR",
+    "weight": 1.0,
+    "properties": {}
+  },
+  {
+    "source_id": "student_n12525597",
+    "target_id": "course_ifn564_machine_learning",
+    "relation_type": "COMPLETED_COURSE",
+    "weight": 1.0,
+    "properties": {}
+  },
+  {
+    "source_id": "student_n12525597",
+    "target_id": "course_ifn563_algorithms_and_complexity",
+    "relation_type": "COMPLETED_COURSE",
+    "weight": 1.0,
+    "properties": {}
+  },
+  {
+    "source_id": "student_n12525597",
+    "target_id": "course_ifn551_computer_systems_fundamentals",
+    "relation_type": "COMPLETED_COURSE",
+    "weight": 1.0,
+    "properties": {}
+  },
+  {
+    "source_id": "student_n12525597",
+    "target_id": "course_ifn555_introduction_to_programming",
+    "relation_type": "COMPLETED_COURSE",
+    "weight": 1.0,
+    "properties": {}
+  },
+  {
+    "source_id": "student_n12525597",
+    "target_id": "course_ifn553_introduction_to_security_and_networking",
+    "relation_type": "COMPLETED_COURSE",
+    "weight": 1.0,
+    "properties": {}
+  },
+  {
+    "source_id": "student_n12525597",
+    "target_id": "course_ifn552_systems_analysis_and_design",
+    "relation_type": "COMPLETED_COURSE",
+    "weight": 1.0,
+    "properties": {}
+  },
+  {
+    "source_id": "student_n12525597",
+    "target_id": "course_ifn554_databases",
+    "relation_type": "COMPLETED_COURSE",
+    "weight": 1.0,
+    "properties": {}
+  },
+  {
+    "source_id": "student_n12525597",
+    "target_id": "course_ifn556_object_oriented_programming",
+    "relation_type": "COMPLETED_COURSE",
+    "weight": 1.0,
+    "properties": {}
+  },
+  {
+    "source_id": "student_n12525597",
+    "target_id": "skill_**machine_learning**:_scikit-learn,_tensorflow,_model_evaluation_metrics",
+    "relation_type": "HAS_SKILL",
+    "weight": 1.0,
+    "properties": {}
+  },
+  {
+    "source_id": "student_n12525597",
+    "target_id": "skill_**programming**:_python,_java,_javascript,_sql",
+    "relation_type": "HAS_SKILL",
+    "weight": 1.0,
+    "properties": {}
+  },
+  {
+    "source_id": "student_n12525597",
+    "target_id": "skill_**cybersecurity**:_network_protocols,_encryption,_intrusion_detection",
+    "relation_type": "HAS_SKILL",
+    "weight": 1.0,
+    "properties": {}
+  },
+  {
+    "source_id": "student_n12525597",
+    "target_id": "skill_**web_development**:_flask,_react,_rest_apis",
+    "relation_type": "HAS_SKILL",
+    "weight": 1.0,
+    "properties": {}
+  },
+  {
+    "source_id": "student_n12525597",
+    "target_id": "skill_**data_science**:_pandas,_numpy,_data_visualization_(matplotlib,_tableau)",
+    "relation_type": "HAS_SKILL",
+    "weight": 1.0,
+    "properties": {}
+  },
+  {
+    "source_id": "student_n12525597",
+    "target_id": "skill_**networking**:_tcp/ip,_http,_wireshark",
+    "relation_type": "HAS_SKILL",
+    "weight": 1.0,
+    "properties": {}
+  },
+  {
+    "source_id": "student_n12525597",
+    "target_id": "skill_**tools**:_git,_docker,_jupyter_notebook,_postman",
+    "relation_type": "HAS_SKILL",
+    "weight": 1.0,
+    "properties": {}
+  },
+  {
+    "source_id": "student_n12525597",
+    "target_id": "interest_cybersecurity_and_ethical_hacking",
+    "relation_type": "INTERESTED_IN",
+    "weight": 1.0,
+    "properties": {}
+  },
+  {
+    "source_id": "student_n12525597",
+    "target_id": "interest_machine_learning_model_optimization",
+    "relation_type": "INTERESTED_IN",
+    "weight": 1.0,
+    "properties": {}
+  },
+  {
+    "source_id": "student_n12525597",
+    "target_id": "interest_iot_and_embedded_systems",
+    "relation_type": "INTERESTED_IN",
+    "weight": 1.0,
+    "properties": {}
+  },
+  {
+    "source_id": "student_n12525597",
+    "target_id": "interest_open-source_software_development",
+    "relation_type": "INTERESTED_IN",
+    "weight": 1.0,
+    "properties": {}
+  },
+  {
+    "source_id": "student_n12525597",
+    "target_id": "interest_data_visualization_and_web_technologies",
+    "relation_type": "INTERESTED_IN",
+    "weight": 1.0,
+    "properties": {}
+  }
+]

@@ -1,0 +1,26 @@
+{
+  "entity_id": "project_IFN712_Project_Proposal_Template_2025_CS_-3",
+  "name": "project_IFN712_Project_Proposal_Template_2025_CS_-3_",
+  "type": "project_unit",
+  "total_entities": 25,
+  "total_relationships": 30,
+  "entity_types": {
+    "PROJECT": 1,
+    "SKILL": 12,
+    "TECHNOLOGY": 8,
+    "UNIT": 1,
+    "LEARNING_OUTCOME": 3
+  },
+  "relation_types": {
+    "REQUIRES_SKILL": 6,
+    "USES_TECHNOLOGY": 1,
+    "RELATES_TO_UNIT": 1,
+    "SUPPORTS_SKILL": 11,
+    "ENABLES_TECHNOLOGY": 8,
+    "ACHIEVES_OUTCOME": 3
+  },
+  "has_unit_integration": true,
+  "unit_relations_count": 20,
+  "created_at": "2025-01-08T00:00:00",
+  "visualization_generated": true
+}

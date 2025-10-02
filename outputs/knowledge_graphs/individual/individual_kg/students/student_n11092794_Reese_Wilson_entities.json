@@ -1,0 +1,145 @@
+[
+  {
+    "id": "student_n11092794",
+    "name": "Reese Wilson",
+    "entity_type": "STUDENT",
+    "properties": {
+      "student_id": "n11092794",
+      "major": "Data Science and Computer Science",
+      "year": "3rd Year",
+      "file_path": "profile_md/IFN712_proposal_Wenzong_Gao_insar/n11092794_Reese_Wilson.md"
+    }
+  },
+  {
+    "id": "major_data_science_and_computer_science",
+    "name": "Data Science and Computer Science",
+    "entity_type": "MAJOR",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn564_machine_learning",
+    "name": "IFN564 Machine Learning",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn632_advanced_data_analytics",
+    "name": "IFN632 Advanced Data Analytics",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn554_databases",
+    "name": "IFN554 Databases",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn552_systems_analysis_and_design",
+    "name": "IFN552 Systems Analysis and Design",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn551_computer_systems_fundamentals",
+    "name": "IFN551 Computer Systems Fundamentals",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn555_introduction_to_programming",
+    "name": "IFN555 Introduction to Programming",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn556_object_oriented_programming",
+    "name": "IFN556 Object Oriented Programming",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn563_algorithms_and_complexity",
+    "name": "IFN563 Algorithms and Complexity",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "skill_python_(pandas,_numpy,_scikit-learn)",
+    "name": "Python (Pandas, NumPy, Scikit-learn)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_machine_learning_(regression,_clustering,_neural_networks)",
+    "name": "Machine learning (regression, clustering, neural networks)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_sql_and_database_management",
+    "name": "SQL and database management",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_gis_software_(qgis,_arcgis)",
+    "name": "GIS software (QGIS, ArcGIS)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_data_visualization_(matplotlib,_tableau)",
+    "name": "Data visualization (Matplotlib, Tableau)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_object-oriented_programming_(java,_c++)",
+    "name": "Object-oriented programming (Java, C++)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_cloud_computing_(aws_basics)",
+    "name": "Cloud computing (AWS basics)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_algorithm_design_and_optimization",
+    "name": "Algorithm design and optimization",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "interest_geospatial_analysis",
+    "name": "Geospatial analysis",
+    "entity_type": "INTEREST",
+    "properties": {}
+  },
+  {
+    "id": "interest_machine_learning_applications_in_environmental_science",
+    "name": "Machine learning applications in environmental science",
+    "entity_type": "INTEREST",
+    "properties": {}
+  },
+  {
+    "id": "interest_remote_sensing_technologies",
+    "name": "Remote sensing technologies",
+    "entity_type": "INTEREST",
+    "properties": {}
+  },
+  {
+    "id": "interest_data_visualization",
+    "name": "Data visualization",
+    "entity_type": "INTEREST",
+    "properties": {}
+  },
+  {
+    "id": "interest_environmental_sustainability",
+    "name": "Environmental sustainability",
+    "entity_type": "INTEREST",
+    "properties": {}
+  }
+]

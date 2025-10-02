@@ -1,0 +1,145 @@
+[
+  {
+    "id": "student_n10548652",
+    "name": "Harper Garcia",
+    "entity_type": "STUDENT",
+    "properties": {
+      "student_id": "n10548652",
+      "major": "Software Development",
+      "year": "3rd Year",
+      "file_path": "profile_md/Localization_Proposal_Zhenguo/n10548652_Harper_Garcia.md"
+    }
+  },
+  {
+    "id": "major_software_development",
+    "name": "Software Development",
+    "entity_type": "MAJOR",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn553_introduction_to_security_and_networking",
+    "name": "IFN553 Introduction to Security and Networking",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn554_databases",
+    "name": "IFN554 Databases",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn551_computer_systems_fundamentals",
+    "name": "IFN551 Computer Systems Fundamentals",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn623_cyber_security",
+    "name": "IFN623 Cyber Security",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn668_advanced_software_engineering",
+    "name": "IFN668 Advanced Software Engineering",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn555_introduction_to_programming",
+    "name": "IFN555 Introduction to Programming",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn556_object_oriented_programming",
+    "name": "IFN556 Object Oriented Programming",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn552_systems_analysis_and_design",
+    "name": "IFN552 Systems Analysis and Design",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "skill_machine_learning_(scikit-learn,_tensorflow)",
+    "name": "Machine learning (Scikit-learn, TensorFlow)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_web_development_(react,_node.js,_express)",
+    "name": "Web development (React, Node.js, Express)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_data_science_(python,_sql,_pandas)",
+    "name": "Data science (Python, SQL, Pandas)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_cybersecurity_(encryption,_secure_protocols)",
+    "name": "Cybersecurity (encryption, secure protocols)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_mobile_development_(flutter,_android_studio)",
+    "name": "Mobile development (Flutter, Android Studio)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_networking_(ble,_tcp/ip,_wireshark)",
+    "name": "Networking (BLE, TCP/IP, Wireshark)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_software_engineering_(agile,_git,_rest_apis)",
+    "name": "Software engineering (Agile, Git, REST APIs)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_database_design_(mysql,_mongodb)",
+    "name": "Database design (MySQL, MongoDB)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "interest_iot_and_smart_city_technologies",
+    "name": "IoT and smart city technologies",
+    "entity_type": "INTEREST",
+    "properties": {}
+  },
+  {
+    "id": "interest_privacy-preserving_systems",
+    "name": "Privacy-preserving systems",
+    "entity_type": "INTEREST",
+    "properties": {}
+  },
+  {
+    "id": "interest_machine_learning_for_safety_applications",
+    "name": "Machine learning for safety applications",
+    "entity_type": "INTEREST",
+    "properties": {}
+  },
+  {
+    "id": "interest_open-source_software_development",
+    "name": "Open-source software development",
+    "entity_type": "INTEREST",
+    "properties": {}
+  },
+  {
+    "id": "interest_sustainable_tech_solutions",
+    "name": "Sustainable tech solutions",
+    "entity_type": "INTEREST",
+    "properties": {}
+  }
+]

@@ -1,0 +1,133 @@
+[
+  {
+    "id": "student_n16028113",
+    "name": "Rory Moore",
+    "entity_type": "STUDENT",
+    "properties": {
+      "student_id": "n16028113",
+      "major": "Artificial Intelligence",
+      "year": "3rd Year",
+      "file_path": "profile_md/IFN712_25se2-Bradford-01/n16028113_Rory_Moore.md"
+    }
+  },
+  {
+    "id": "major_artificial_intelligence",
+    "name": "Artificial Intelligence",
+    "entity_type": "MAJOR",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn554_databases",
+    "name": "IFN554 Databases",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn552_systems_analysis_and_design",
+    "name": "IFN552 Systems Analysis and Design",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn556_object_oriented_programming",
+    "name": "IFN556 Object Oriented Programming",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn555_introduction_to_programming",
+    "name": "IFN555 Introduction to Programming",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn551_computer_systems_fundamentals",
+    "name": "IFN551 Computer Systems Fundamentals",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn666_web_technologies",
+    "name": "IFN666 Web Technologies",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "skill_web_development_(html/css,_javascript,_react,_flask)",
+    "name": "Web development (HTML/CSS, JavaScript, React, Flask)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_data_science_(python,_pandas,_numpy,_scikit-learn)",
+    "name": "Data science (Python, Pandas, NumPy, Scikit-learn)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_database_design_and_sql_(postgresql,_mongodb)",
+    "name": "Database design and SQL (PostgreSQL, MongoDB)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_algorithm_optimization_and_data_structures",
+    "name": "Algorithm optimization and data structures",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_version_control_(git,_github)",
+    "name": "Version control (Git, GitHub)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_api_integration_and_restful_services",
+    "name": "API integration and RESTful services",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_data_visualization_(matplotlib,_plotly)",
+    "name": "Data visualization (Matplotlib, Plotly)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_biopython_for_genomic_data_analysis",
+    "name": "Biopython for genomic data analysis",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "interest_bioinformatics_and_computational_biology",
+    "name": "Bioinformatics and computational biology",
+    "entity_type": "INTEREST",
+    "properties": {}
+  },
+  {
+    "id": "interest_web_application_development",
+    "name": "Web application development",
+    "entity_type": "INTEREST",
+    "properties": {}
+  },
+  {
+    "id": "interest_machine_learning_and_pattern_recognition",
+    "name": "Machine learning and pattern recognition",
+    "entity_type": "INTEREST",
+    "properties": {}
+  },
+  {
+    "id": "interest_open-source_software_contributions",
+    "name": "Open-source software contributions",
+    "entity_type": "INTEREST",
+    "properties": {}
+  },
+  {
+    "id": "interest_genetic_engineering_ethics",
+    "name": "Genetic engineering ethics",
+    "entity_type": "INTEREST",
+    "properties": {}
+  }
+]

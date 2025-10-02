@@ -1,0 +1,145 @@
+[
+  {
+    "id": "student_n01490036",
+    "name": "Harper King",
+    "entity_type": "STUDENT",
+    "properties": {
+      "student_id": "n01490036",
+      "major": "Business Analysis (Minor: ExecIT)",
+      "year": "3rd Year",
+      "file_path": "profile_md/IFN712 Project Proposal - Business Analysis for ICT skills/n01490036_Harper_King.md"
+    }
+  },
+  {
+    "id": "major_business_analysis_(minor:_execit)",
+    "name": "Business Analysis (Minor: ExecIT)",
+    "entity_type": "MAJOR",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn551_computer_systems_fundamentals",
+    "name": "IFN551 Computer Systems Fundamentals",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn555_introduction_to_programming",
+    "name": "IFN555 Introduction to Programming",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn554_databases",
+    "name": "IFN554 Databases",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn614_business_process_modelling",
+    "name": "IFN614 Business Process Modelling",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn617_business_intelligence_systems",
+    "name": "IFN617 Business Intelligence Systems",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn616_requirements_engineering",
+    "name": "IFn616 Requirements Engineering",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn623_cyber_security",
+    "name": "IFN623 Cyber Security",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn552_systems_analysis_and_design",
+    "name": "IFN552 Systems Analysis and Design",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "skill_python_(pandas,_numpy)",
+    "name": "Python (Pandas, NumPy)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_sql_and_database_design",
+    "name": "SQL and database design",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_business_intelligence_(tableau,_power_bi)",
+    "name": "Business Intelligence (Tableau, Power BI)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_cybersecurity_frameworks_(nist,_iso_27001)",
+    "name": "Cybersecurity frameworks (NIST, ISO 27001)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_requirements_engineering_(uml,_jira)",
+    "name": "Requirements engineering (UML, JIRA)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_network_protocols_(tcp/ip,_dns)",
+    "name": "Network protocols (TCP/IP, DNS)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_business_process_modelling_(bpmn)",
+    "name": "Business process modelling (BPMN)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_cloud_computing_(aws_basics)",
+    "name": "Cloud computing (AWS basics)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "interest_bridging_education_and_industry_needs_in_ict",
+    "name": "Bridging education and industry needs in ICT",
+    "entity_type": "INTEREST",
+    "properties": {}
+  },
+  {
+    "id": "interest_cybersecurity_policy_development",
+    "name": "Cybersecurity policy development",
+    "entity_type": "INTEREST",
+    "properties": {}
+  },
+  {
+    "id": "interest_data-driven_business_strategy",
+    "name": "Data-driven business strategy",
+    "entity_type": "INTEREST",
+    "properties": {}
+  },
+  {
+    "id": "interest_agile_project_management",
+    "name": "Agile project management",
+    "entity_type": "INTEREST",
+    "properties": {}
+  },
+  {
+    "id": "interest_emerging_technologies_in_digital_transformation",
+    "name": "Emerging technologies in digital transformation",
+    "entity_type": "INTEREST",
+    "properties": {}
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "source_id": "project_IFN712_proposal_Wenzong_Gao_orbit",
+    "target_id": "major_data_science_and_computer_science",
+    "relation_type": "REQUIRES_MAJOR",
+    "weight": 1.0,
+    "properties": {}
+  },
+  {
+    "source_id": "project_IFN712_proposal_Wenzong_Gao_orbit",
+    "target_id": "skill_machine_learning",
+    "relation_type": "REQUIRES_SKILL",
+    "weight": 1.0,
+    "properties": {}
+  },
+  {
+    "source_id": "project_IFN712_proposal_Wenzong_Gao_orbit",
+    "target_id": "skill_data_science",
+    "relation_type": "REQUIRES_SKILL",
+    "weight": 1.0,
+    "properties": {}
+  },
+  {
+    "source_id": "project_IFN712_proposal_Wenzong_Gao_orbit",
+    "target_id": "skill_mobile_development",
+    "relation_type": "REQUIRES_SKILL",
+    "weight": 1.0,
+    "properties": {}
+  },
+  {
+    "source_id": "project_IFN712_proposal_Wenzong_Gao_orbit",
+    "target_id": "skill_networking",
+    "relation_type": "REQUIRES_SKILL",
+    "weight": 1.0,
+    "properties": {}
+  },
+  {
+    "source_id": "project_IFN712_proposal_Wenzong_Gao_orbit",
+    "target_id": "tech_python",
+    "relation_type": "USES_TECHNOLOGY",
+    "weight": 1.0,
+    "properties": {}
+  },
+  {
+    "source_id": "project_IFN712_proposal_Wenzong_Gao_orbit",
+    "target_id": "supervisor_yanming_feng,_y.feng\\@qut.edu.au",
+    "relation_type": "SUPERVISED_BY",
+    "weight": 1.0,
+    "properties": {}
+  }
+]

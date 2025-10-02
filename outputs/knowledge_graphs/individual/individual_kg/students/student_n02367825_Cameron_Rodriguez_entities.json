@@ -1,0 +1,145 @@
+[
+  {
+    "id": "student_n02367825",
+    "name": "Cameron Rodriguez",
+    "entity_type": "STUDENT",
+    "properties": {
+      "student_id": "n02367825",
+      "major": "Computer Science",
+      "year": "3rd Year",
+      "file_path": "profile_md/IFN712 Project 14-1/n02367825_Cameron_Rodriguez.md"
+    }
+  },
+  {
+    "id": "major_computer_science",
+    "name": "Computer Science",
+    "entity_type": "MAJOR",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn564_machine_learning",
+    "name": "IFN564 Machine Learning",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn563_algorithms_and_complexity",
+    "name": "IFN563 Algorithms and Complexity",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn551_computer_systems_fundamentals",
+    "name": "IFN551 Computer Systems Fundamentals",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn555_introduction_to_programming",
+    "name": "IFN555 Introduction to Programming",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn553_introduction_to_security_and_networking",
+    "name": "IFN553 Introduction to Security and Networking",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn552_systems_analysis_and_design",
+    "name": "IFN552 Systems Analysis and Design",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn554_databases",
+    "name": "IFN554 Databases",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn556_object_oriented_programming",
+    "name": "IFN556 Object Oriented Programming",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "skill_machine_learning_algorithms_(svm,_random_forest,_neural_networks)",
+    "name": "Machine Learning Algorithms (SVM, Random Forest, Neural Networks)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_python_(scikit-learn,_tensorflow,_pandas)",
+    "name": "Python (Scikit-learn, TensorFlow, Pandas)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_cybersecurity_tools_(wireshark,_nmap,_scapy)",
+    "name": "Cybersecurity Tools (Wireshark, Nmap, Scapy)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_web_development_(django,_flask,_html/css)",
+    "name": "Web Development (Django, Flask, HTML/CSS)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_sql_and_nosql_databases",
+    "name": "SQL and NoSQL Databases",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_network_protocols_(tcp/ip,_mqtt)",
+    "name": "Network Protocols (TCP/IP, MQTT)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_data_visualization_(matplotlib,_tableau)",
+    "name": "Data Visualization (Matplotlib, Tableau)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_business_analysis_(swot,_kpi_metrics)",
+    "name": "Business Analysis (SWOT, KPI Metrics)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "interest_cybersecurity",
+    "name": "Cybersecurity",
+    "entity_type": "INTEREST",
+    "properties": {}
+  },
+  {
+    "id": "interest_machine_learning",
+    "name": "Machine Learning",
+    "entity_type": "INTEREST",
+    "properties": {}
+  },
+  {
+    "id": "interest_iot_technologies",
+    "name": "IoT Technologies",
+    "entity_type": "INTEREST",
+    "properties": {}
+  },
+  {
+    "id": "interest_data_analysis",
+    "name": "Data Analysis",
+    "entity_type": "INTEREST",
+    "properties": {}
+  },
+  {
+    "id": "interest_ethical_hacking",
+    "name": "Ethical Hacking",
+    "entity_type": "INTEREST",
+    "properties": {}
+  }
+]

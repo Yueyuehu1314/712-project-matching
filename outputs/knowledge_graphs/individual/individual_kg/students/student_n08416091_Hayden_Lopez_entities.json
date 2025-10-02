@@ -1,0 +1,145 @@
+[
+  {
+    "id": "student_n08416091",
+    "name": "Hayden Lopez",
+    "entity_type": "STUDENT",
+    "properties": {
+      "student_id": "n08416091",
+      "major": "Software Development",
+      "year": "3rd Year",
+      "file_path": "profile_md/IFN712 Project Proposal Template_2025_Project matching/n08416091_Hayden_Lopez.md"
+    }
+  },
+  {
+    "id": "major_software_development",
+    "name": "Software Development",
+    "entity_type": "MAJOR",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn554_databases",
+    "name": "IFN554 Databases",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn553_introduction_to_security_and_networking",
+    "name": "IFN553 Introduction to Security and Networking",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn555_introduction_to_programming",
+    "name": "IFN555 Introduction to Programming",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn668_advanced_software_engineering",
+    "name": "IFN668 Advanced Software Engineering",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn552_systems_analysis_and_design",
+    "name": "IFN552 Systems Analysis and Design",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn556_object_oriented_programming",
+    "name": "IFN556 Object Oriented Programming",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn551_computer_systems_fundamentals",
+    "name": "IFN551 Computer Systems Fundamentals",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn623_cyber_security",
+    "name": "IFN623 Cyber Security",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "skill_web_development_(react,_node.js,_django)",
+    "name": "Web Development (React, Node.js, Django)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_data_science_(python,_pandas,_scikit-learn)",
+    "name": "Data Science (Python, Pandas, Scikit-learn)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_cybersecurity_(firewalls,_ethical_hacking,_risk_analysis)",
+    "name": "Cybersecurity (Firewalls, Ethical Hacking, Risk Analysis)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_database_management_(sql,_mongodb)",
+    "name": "Database Management (SQL, MongoDB)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_version_control_(git,_github)",
+    "name": "Version Control (Git, GitHub)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_api_integration_(rest,_graphql)",
+    "name": "API Integration (REST, GraphQL)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_cloud_platforms_(aws,_google_cloud)",
+    "name": "Cloud Platforms (AWS, Google Cloud)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_machine_learning_(tensorflow,_keras)",
+    "name": "Machine Learning (TensorFlow, Keras)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "interest_artificial_intelligence",
+    "name": "Artificial Intelligence",
+    "entity_type": "INTEREST",
+    "properties": {}
+  },
+  {
+    "id": "interest_cybersecurity",
+    "name": "Cybersecurity",
+    "entity_type": "INTEREST",
+    "properties": {}
+  },
+  {
+    "id": "interest_data-driven_decision_making",
+    "name": "Data-Driven Decision Making",
+    "entity_type": "INTEREST",
+    "properties": {}
+  },
+  {
+    "id": "interest_agile_software_development",
+    "name": "Agile Software Development",
+    "entity_type": "INTEREST",
+    "properties": {}
+  },
+  {
+    "id": "interest_open_source_contributions",
+    "name": "Open Source Contributions",
+    "entity_type": "INTEREST",
+    "properties": {}
+  }
+]

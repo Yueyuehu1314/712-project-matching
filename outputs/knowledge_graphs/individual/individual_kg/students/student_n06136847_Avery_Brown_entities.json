@@ -1,0 +1,145 @@
+[
+  {
+    "id": "student_n06136847",
+    "name": "Avery Brown",
+    "entity_type": "STUDENT",
+    "properties": {
+      "student_id": "n06136847",
+      "major": "Software Development",
+      "year": "4th Year",
+      "file_path": "profile_md/IFN712 Project Proposal Template_2025_Feng_V2P/n06136847_Avery_Brown.md"
+    }
+  },
+  {
+    "id": "major_software_development",
+    "name": "Software Development",
+    "entity_type": "MAJOR",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn666_web_technologies",
+    "name": "IFN666 Web Technologies",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn554_databases",
+    "name": "IFN554 Databases",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn553_introduction_to_security_and_networking",
+    "name": "IFN553 Introduction to Security and Networking",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn670_mobile_application_development",
+    "name": "IFN670 Mobile Application Development",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn556_object_oriented_programming",
+    "name": "IFN556 Object Oriented Programming",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn668_advanced_software_engineering",
+    "name": "IFN668 Advanced Software Engineering",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn552_systems_analysis_and_design",
+    "name": "IFN552 Systems Analysis and Design",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn555_introduction_to_programming",
+    "name": "IFN555 Introduction to Programming",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "skill_web_development_(react,_node.js,_rest_apis)",
+    "name": "Web development (React, Node.js, REST APIs)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_mobile_development_(react_native,_android_sdk)",
+    "name": "Mobile development (React Native, Android SDK)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_database_design_(sql,_nosql,_firebase)",
+    "name": "Database design (SQL, NoSQL, Firebase)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_cybersecurity_(encryption,_authentication,_penetration_testing)",
+    "name": "Cybersecurity (encryption, authentication, penetration testing)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_networking_(tcp/ip,_websocket,_api_integration)",
+    "name": "Networking (TCP/IP, WebSocket, API integration)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_data_science_(python,_pandas,_basic_ml_models)",
+    "name": "Data science (Python, Pandas, basic ML models)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_agile_project_management_and_version_control_(git)",
+    "name": "Agile project management and version control (Git)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_cross-platform_app_development",
+    "name": "Cross-platform app development",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "interest_mobile_technology_and_real-time_systems",
+    "name": "Mobile technology and real-time systems",
+    "entity_type": "INTEREST",
+    "properties": {}
+  },
+  {
+    "id": "interest_cybersecurity_and_data_privacy",
+    "name": "Cybersecurity and data privacy",
+    "entity_type": "INTEREST",
+    "properties": {}
+  },
+  {
+    "id": "interest_data_science_and_machine_learning",
+    "name": "Data science and machine learning",
+    "entity_type": "INTEREST",
+    "properties": {}
+  },
+  {
+    "id": "interest_open-source_software_development",
+    "name": "Open-source software development",
+    "entity_type": "INTEREST",
+    "properties": {}
+  },
+  {
+    "id": "interest_urban_mobility_and_smart_city_solutions",
+    "name": "Urban mobility and smart city solutions",
+    "entity_type": "INTEREST",
+    "properties": {}
+  }
+]

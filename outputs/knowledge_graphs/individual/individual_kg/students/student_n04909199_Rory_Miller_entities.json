@@ -1,0 +1,145 @@
+[
+  {
+    "id": "student_n04909199",
+    "name": "Rory Miller",
+    "entity_type": "STUDENT",
+    "properties": {
+      "student_id": "n04909199",
+      "major": "Software Development",
+      "year": "3rd Year",
+      "file_path": "profile_md/Plant_sensing_Proposal_Zhenguo/n04909199_Rory_Miller.md"
+    }
+  },
+  {
+    "id": "major_software_development",
+    "name": "Software Development",
+    "entity_type": "MAJOR",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn668_advanced_software_engineering",
+    "name": "IFN668 Advanced Software Engineering",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn554_databases",
+    "name": "IFN554 Databases",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn623_cyber_security",
+    "name": "IFN623 Cyber Security",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn670_mobile_application_development",
+    "name": "IFN670 Mobile Application Development",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn551_computer_systems_fundamentals",
+    "name": "IFN551 Computer Systems Fundamentals",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn556_object_oriented_programming",
+    "name": "IFN556 Object Oriented Programming",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn552_systems_analysis_and_design",
+    "name": "IFN552 Systems Analysis and Design",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn555_introduction_to_programming",
+    "name": "IFN555 Introduction to Programming",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "skill_machine_learning_(tensorflow,_scikit-learn)",
+    "name": "Machine learning (TensorFlow, scikit-learn)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_web_development_(react,_node.js,_django)",
+    "name": "Web development (React, Node.js, Django)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_python_and_javascript_programming",
+    "name": "Python and JavaScript programming",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_sql_and_nosql_databases",
+    "name": "SQL and NoSQL databases",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_cybersecurity_(encryption,_firewalls)",
+    "name": "Cybersecurity (encryption, firewalls)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_networking_(tcp/ip,_mqtt_protocols)",
+    "name": "Networking (TCP/IP, MQTT protocols)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_data_analysis_(pandas,_numpy)",
+    "name": "Data analysis (Pandas, NumPy)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_agile_software_development",
+    "name": "Agile software development",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "interest_iot_and_edge_computing",
+    "name": "IoT and edge computing",
+    "entity_type": "INTEREST",
+    "properties": {}
+  },
+  {
+    "id": "interest_environmental_technology",
+    "name": "Environmental technology",
+    "entity_type": "INTEREST",
+    "properties": {}
+  },
+  {
+    "id": "interest_open-source_software_development",
+    "name": "Open-source software development",
+    "entity_type": "INTEREST",
+    "properties": {}
+  },
+  {
+    "id": "interest_outdoor_hiking_and_sustainability",
+    "name": "Outdoor hiking and sustainability",
+    "entity_type": "INTEREST",
+    "properties": {}
+  },
+  {
+    "id": "interest_tech_workshops_and_hackathons",
+    "name": "Tech workshops and hackathons",
+    "entity_type": "INTEREST",
+    "properties": {}
+  }
+]

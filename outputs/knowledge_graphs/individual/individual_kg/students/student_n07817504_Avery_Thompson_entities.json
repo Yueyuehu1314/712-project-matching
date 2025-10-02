@@ -1,0 +1,145 @@
+[
+  {
+    "id": "student_n07817504",
+    "name": "Avery Thompson",
+    "entity_type": "STUDENT",
+    "properties": {
+      "student_id": "n07817504",
+      "major": "Business Analysis and ExecIT",
+      "year": "3rd Year",
+      "file_path": "profile_md/IFN712 Project Proposal - Business Analysis for ICT skills/n07817504_Avery_Thompson.md"
+    }
+  },
+  {
+    "id": "major_business_analysis_and_execit",
+    "name": "Business Analysis and ExecIT",
+    "entity_type": "MAJOR",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn551_computer_systems_fundamentals",
+    "name": "IFN551 Computer Systems Fundamentals",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn555_introduction_to_programming",
+    "name": "IFN555 Introduction to Programming",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn554_databases",
+    "name": "IFN554 Databases",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn614_business_process_modelling",
+    "name": "IFN614 Business Process Modelling",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn617_business_intelligence_systems",
+    "name": "IFN617 Business Intelligence Systems",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn616_requirements_engineering",
+    "name": "IFN616 Requirements Engineering",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn623_cyber_security",
+    "name": "IFN623 Cyber Security",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn552_systems_analysis_and_design",
+    "name": "IFN552 Systems Analysis and Design",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "skill_data_science_(python,_r,_sql)",
+    "name": "Data science (Python, R, SQL)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_cybersecurity_(firewall_configuration,_threat_analysis)",
+    "name": "Cybersecurity (firewall configuration, threat analysis)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_networking_(tcp/ip,_vlans)",
+    "name": "Networking (TCP/IP, VLANs)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_business_analysis_(bpmn,_swot)",
+    "name": "Business analysis (BPMN, SWOT)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_business_intelligence_(tableau,_power_bi)",
+    "name": "Business intelligence (Tableau, Power BI)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_systems_design_(uml,_erd)",
+    "name": "Systems design (UML, ERD)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_requirements_engineering_(use_cases,_user_stories)",
+    "name": "Requirements engineering (use cases, user stories)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_cloud_computing_(aws_basics)",
+    "name": "Cloud computing (AWS basics)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "interest_data_analytics_and_visualization",
+    "name": "Data analytics and visualization",
+    "entity_type": "INTEREST",
+    "properties": {}
+  },
+  {
+    "id": "interest_cybersecurity_policy_development",
+    "name": "Cybersecurity policy development",
+    "entity_type": "INTEREST",
+    "properties": {}
+  },
+  {
+    "id": "interest_agile_methodologies_in_software_development",
+    "name": "Agile methodologies in software development",
+    "entity_type": "INTEREST",
+    "properties": {}
+  },
+  {
+    "id": "interest_digital_transformation_in_education",
+    "name": "Digital transformation in education",
+    "entity_type": "INTEREST",
+    "properties": {}
+  },
+  {
+    "id": "interest_emerging_technologies_in_ai_and_blockchain",
+    "name": "Emerging technologies in AI and blockchain",
+    "entity_type": "INTEREST",
+    "properties": {}
+  }
+]

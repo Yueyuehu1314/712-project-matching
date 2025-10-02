@@ -1,0 +1,145 @@
+[
+  {
+    "id": "student_n15463920",
+    "name": "Cameron Thompson",
+    "entity_type": "STUDENT",
+    "properties": {
+      "student_id": "n15463920",
+      "major": "Software Development",
+      "year": "3rd Year",
+      "file_path": "profile_md/Localization_Proposal_Zhenguo/n15463920_Cameron_Thompson.md"
+    }
+  },
+  {
+    "id": "major_software_development",
+    "name": "Software Development",
+    "entity_type": "MAJOR",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn553_introduction_to_security_and_networking",
+    "name": "IFN553 Introduction to Security and Networking",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn554_databases",
+    "name": "IFN554 Databases",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn551_computer_systems_fundamentals",
+    "name": "IFN551 Computer Systems Fundamentals",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_if554623_cyber_security",
+    "name": "IF554623 Cyber Security",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn668_advanced_software_engineering",
+    "name": "IFN668 Advanced Software Engineering",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn555_introduction_to_programming",
+    "name": "IFN555 Introduction to Programming",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn556_object_oriented_programming",
+    "name": "IFN556 Object Oriented Programming",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn552_systems_analysis_and_design",
+    "name": "IFN552 Systems Analysis and Design",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "skill_python_(scikit-learn,_tensorflow)",
+    "name": "Python (Scikit-learn, TensorFlow)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_web_development_(react,_node.js,_flask)",
+    "name": "Web Development (React, Node.js, Flask)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_mobile_development_(flutter,_swift)",
+    "name": "Mobile Development (Flutter, Swift)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_cybersecurity_(encryption,_penetration_testing)",
+    "name": "Cybersecurity (Encryption, Penetration Testing)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_networking_(tcp/ip,_wi-fi,_ble)",
+    "name": "Networking (TCP/IP, Wi-Fi, BLE)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_database_systems_(sql,_mongodb)",
+    "name": "Database Systems (SQL, MongoDB)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_agile_development_&_devops",
+    "name": "Agile Development & DevOps",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_ble_firmware_development",
+    "name": "BLE Firmware Development",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "interest_internet_of_things_(iot)",
+    "name": "Internet of Things (IoT)",
+    "entity_type": "INTEREST",
+    "properties": {}
+  },
+  {
+    "id": "interest_machine_learning_for_edge_devices",
+    "name": "Machine Learning for Edge Devices",
+    "entity_type": "INTEREST",
+    "properties": {}
+  },
+  {
+    "id": "interest_secure_communication_protocols",
+    "name": "Secure Communication Protocols",
+    "entity_type": "INTEREST",
+    "properties": {}
+  },
+  {
+    "id": "interest_mobile_app_development",
+    "name": "Mobile App Development",
+    "entity_type": "INTEREST",
+    "properties": {}
+  },
+  {
+    "id": "interest_open-source_software_contributions",
+    "name": "Open-Source Software Contributions",
+    "entity_type": "INTEREST",
+    "properties": {}
+  }
+]

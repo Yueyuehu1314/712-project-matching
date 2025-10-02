@@ -1,0 +1,25 @@
+# Development Dependencies
+# Install with: pip install -r requirements-dev.txt
+
+# Testing
+pytest>=7.0.0
+pytest-cov>=4.0.0
+pytest-mock>=3.10.0
+
+# Code Quality
+black>=22.0.0           # Code formatter
+flake8>=5.0.0          # Linter
+pylint>=2.15.0         # Code analysis
+mypy>=0.990            # Type checking
+
+# Documentation
+sphinx>=5.0.0          # Documentation generator
+sphinx-rtd-theme>=1.0.0
+
+# Debugging
+ipdb>=0.13.0           # Debugger
+ipython>=8.0.0         # Interactive shell
+
+# Utilities
+pre-commit>=2.20.0     # Git hooks
+

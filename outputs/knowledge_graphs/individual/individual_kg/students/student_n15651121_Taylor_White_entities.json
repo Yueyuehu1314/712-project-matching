@@ -1,0 +1,133 @@
+[
+  {
+    "id": "student_n15651121",
+    "name": "Taylor White",
+    "entity_type": "STUDENT",
+    "properties": {
+      "student_id": "n15651121",
+      "major": "Artificial Intelligence",
+      "year": "4th Year",
+      "file_path": "profile_md/IFN712_25se2-Bradford-01/n15651121_Taylor_White.md"
+    }
+  },
+  {
+    "id": "major_artificial_intelligence",
+    "name": "Artificial Intelligence",
+    "entity_type": "MAJOR",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn555_introduction_to_programming",
+    "name": "IFN555 Introduction to Programming",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn556_object_oriented_programming",
+    "name": "IFN556 Object Oriented Programming",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn551_computer_systems_fundamentals",
+    "name": "IFN551 Computer Systems Fundamentals",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn552_systems_analysis_and_design",
+    "name": "IFn552 Systems Analysis and Design",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn554_databases",
+    "name": "IFN554 Databases",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn666_web_technologies",
+    "name": "IFN666 Web Technologies",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "skill_python_(numpy,_pandas,_tensorflow)",
+    "name": "Python (NumPy, Pandas, TensorFlow)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_javascript_(react,_node.js)",
+    "name": "JavaScript (React, Node.js)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_sql_and_nosql_databases",
+    "name": "SQL and NoSQL databases",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_machine_learning_and_deep_learning",
+    "name": "Machine learning and deep learning",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_rest_api_development",
+    "name": "REST API development",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_data_visualization_(d3.js,_matplotlib)",
+    "name": "Data visualization (D3.js, Matplotlib)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_cloud_computing_(aws,_google_cloud)",
+    "name": "Cloud computing (AWS, Google Cloud)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_git_and_version_control",
+    "name": "Git and version control",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "interest_ai_ethics_in_biotechnology",
+    "name": "AI ethics in biotechnology",
+    "entity_type": "INTEREST",
+    "properties": {}
+  },
+  {
+    "id": "interest_bioinformatics_and_genomic_engineering",
+    "name": "Bioinformatics and genomic engineering",
+    "entity_type": "INTEREST",
+    "properties": {}
+  },
+  {
+    "id": "interest_open-source_web_development",
+    "name": "Open-source web development",
+    "entity_type": "INTEREST",
+    "properties": {}
+  },
+  {
+    "id": "interest_data_visualization_for_scientific_research",
+    "name": "Data visualization for scientific research",
+    "entity_type": "INTEREST",
+    "properties": {}
+  },
+  {
+    "id": "interest_machine_learning_applications_in_healthcare",
+    "name": "Machine learning applications in healthcare",
+    "entity_type": "INTEREST",
+    "properties": {}
+  }
+]

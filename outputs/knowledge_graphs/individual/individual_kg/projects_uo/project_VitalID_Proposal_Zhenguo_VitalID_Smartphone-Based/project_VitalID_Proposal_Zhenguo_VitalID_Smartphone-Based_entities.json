@@ -1,0 +1,204 @@
+[
+  {
+    "id": "project_VitalID_Proposal_Zhenguo",
+    "name": "VitalID: Smartphone-Based",
+    "entity_type": "PROJECT",
+    "properties": {
+      "description": "User authentication plays a critical role in mobile security and personalized device access. While fingerprint and facial recognition are widely adopted, they are not ideal in all scenarios---such as when a user's hands are wet or face is covered. Furthermore, these modalities require explicit interaction and involve sensitive biometric data that cannot be changed once leaked.  Vital signs, including heart rate and breathing patterns, reflect physiological characteristics unique to each person and are difficult to forge. Photoplethysmography (PPG), obtainable through a smartphone camera and flashlight, allows measurement of heart rate and heart rate variability (HRV). Meanwhile, breathing sounds captured using the microphone contain frequency and rhythm patterns that can serve as auxiliary biometric signals. This project investigates the feasibility of combining PPG and breathing signals for identity verification in a non-intrusive and device-friendly way.  **Objectives:**  1.  Vital Sign Data Acquisition: Develop a smartphone-based system to collect PPG signals using the camera and flashlight, and capture breathing sounds using the built-in microphone.  2.  Signal Preprocessing and Feature Extraction: Process PPG data to extract heart rate and HRV features. Apply audio filtering and transform techniques to extract breathing-related features.  3.  Model Design and Training: Construct and train a deep learning model (e.g., CNN or Siamese Network) that learns to identify individuals based on combined vital sign features.  4.  Prototype Development: Build a functional Android prototype with an intuitive interface to perform real-time recording and authentication on-device.  5.  Evaluation and Performance Analysis: Evaluate the system in terms of authentication accuracy, false acceptance/rejection rates, signal robustness under different user and environmental conditions, and usability.  **Expected Outcomes:**  The project will produce a complete prototype system that enables contactless identity authentication using smartphone-acquired physiological signals. It will include a mobile interface for data collection and real-time feedback, signal processing modules, and a trained deep learning model. The system will be tested on a small user dataset to assess accuracy and reliability. Results will inform future development of lightweight, privacy-conscious biometric systems for mobile and IoT platforms. -   Vital Signs Authentication  -   Smartphone Sensors  -   Photoplethysmography (PPG)  -   Heart Rate Variability (HRV)  -   Breathing Audio  -   Deep learning  -   Multimodal Biometrics Research Questions:  -   How distinctive and stable are heart rate and HRV signals for individual identification across time and states?  -   Can breathing sounds serve as a complementary biometric feature in a smartphone-based system?  -   What preprocessing techniques are most effective for low-noise PPG and audio signal extraction using built-in smartphone sensors?  -   How do deep learning models perform on vital sign-based authentication tasks under varying conditions (e.g., lighting, background noise)?  -   What is the minimum recording duration required for reliable authentication? 1)  Hussain, S. et al. \"BreathPrint: Breathing Acoustic Authentication Using Smartphones.\" IEEE Access, 2020.  2)  Zhang, Y. et al. \"PPG-based Biometric Authentication for Mobile Devices.\" ACM CCS, 2016.  3)  Wang, T. et al. \"Smartphone PPG and Deep Learning for Biometric Identification.\" Sensors, 2022.  4)  Hossain, M. et al. \"Vital Signs Based Biometric Authentication: A Review.\" Sensors, 2022.  5)  Librosa: Audio Analysis in Python -- https://librosa.org Software development and computer science majors. It is desirable if students have or willing to develop skills in the following areas:  -   Android programming or collecting sensor data on smartphones  -   Digital signal processing for physiological signals such as PPG and audio  -   Machine learning using frameworks such as PyTorch or TensorFlow  -   Understanding of biometric authentication systems or vital sign analysis  -   Practical experience in mobile UI/UX design, system testing, and real-time integration ☐ Project IP vests in the student with a license back to Industry Partner **(licence)**  OR  ☐ Project IP vests in the Industry Partner/Project owner with a licence back to the student **(assignment)**  OR  ☒ Academic project (No IP agreement needed) 5         This research is conducted as part of a government-funded project. Participating students will be required to sign an Intellectual Property (IP) agreement with the QUT project owners. The supervising team will shortlist candidates following the application process.",
+      "supervisor": "Yanming Feng <y.feng@qut.edu.au>,",
+      "file_path": "project_md/VitalID_Proposal_Zhenguo.md"
+    }
+  },
+  {
+    "id": "major_software_development",
+    "name": "Software Development",
+    "entity_type": "MAJOR",
+    "properties": {}
+  },
+  {
+    "id": "major_computer",
+    "name": "Computer",
+    "entity_type": "MAJOR",
+    "properties": {}
+  },
+  {
+    "id": "skill_machine_learning",
+    "name": "machine learning",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_data_science",
+    "name": "data science",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_cybersecurity",
+    "name": "cybersecurity",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_mobile_development",
+    "name": "mobile development",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_networking",
+    "name": "networking",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "tech_python",
+    "name": "Python",
+    "entity_type": "TECHNOLOGY",
+    "properties": {}
+  },
+  {
+    "id": "tech_tensorflow",
+    "name": "TensorFlow",
+    "entity_type": "TECHNOLOGY",
+    "properties": {}
+  },
+  {
+    "id": "supervisor_yanming_feng_<y.feng@qut.edu.au>,",
+    "name": "Yanming Feng <y.feng@qut.edu.au>,",
+    "entity_type": "SUPERVISOR",
+    "properties": {}
+  },
+  {
+    "id": "unit_qut_IN20_39851_int_cms_unit",
+    "name": "Master of Information Technology",
+    "entity_type": "UNIT",
+    "properties": {
+      "unit_id": "qut_IN20_39851_int_cms_unit",
+      "majors": [
+        "Business Analysis",
+        "Computer Science",
+        "Data Science",
+        "Software Development",
+        "Cyber Security and Networks",
+        "Enterprise Systems",
+        "Executive IT"
+      ],
+      "skills": [
+        "machine learning",
+        "data science",
+        "web development",
+        "cybersecurity",
+        "business analysis",
+        "software engineering",
+        "database management",
+        "networking",
+        "cloud computing",
+        "project management",
+        "user experience"
+      ]
+    }
+  },
+  {
+    "id": "skill_web_development",
+    "name": "web development",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_business_analysis",
+    "name": "business analysis",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_software_engineering",
+    "name": "software engineering",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_database_management",
+    "name": "database management",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_cloud_computing",
+    "name": "cloud computing",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_project_management",
+    "name": "project management",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_user_experience",
+    "name": "user experience",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "tech_java",
+    "name": "Java",
+    "entity_type": "TECHNOLOGY",
+    "properties": {}
+  },
+  {
+    "id": "tech_javascript",
+    "name": "JavaScript",
+    "entity_type": "TECHNOLOGY",
+    "properties": {}
+  },
+  {
+    "id": "tech_react",
+    "name": "React",
+    "entity_type": "TECHNOLOGY",
+    "properties": {}
+  },
+  {
+    "id": "tech_sql",
+    "name": "SQL",
+    "entity_type": "TECHNOLOGY",
+    "properties": {}
+  },
+  {
+    "id": "tech_sap",
+    "name": "SAP",
+    "entity_type": "TECHNOLOGY",
+    "properties": {}
+  },
+  {
+    "id": "tech_c#",
+    "name": "C#",
+    "entity_type": "TECHNOLOGY",
+    "properties": {}
+  },
+  {
+    "id": "tech_flask",
+    "name": "Flask",
+    "entity_type": "TECHNOLOGY",
+    "properties": {}
+  },
+  {
+    "id": "outcome_qut_IN20_39851_int_cms_unit_0",
+    "name": "how the principles of Object-Oriented programming ...",
+    "entity_type": "LEARNING_OUTCOME",
+    "properties": {}
+  },
+  {
+    "id": "outcome_qut_IN20_39851_int_cms_unit_1",
+    "name": "how to identify potential objects and classes by e...",
+    "entity_type": "LEARNING_OUTCOME",
+    "properties": {}
+  },
+  {
+    "id": "outcome_qut_IN20_39851_int_cms_unit_2",
+    "name": "how such designs are professionally communicated a...",
+    "entity_type": "LEARNING_OUTCOME",
+    "properties": {}
+  }
+]

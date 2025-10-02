@@ -1,0 +1,145 @@
+[
+  {
+    "id": "student_n07268728",
+    "name": "Rowan Moore",
+    "entity_type": "STUDENT",
+    "properties": {
+      "student_id": "n07268728",
+      "major": "Computer Science (Specialization in Cybersecurity)",
+      "year": "4th Year",
+      "file_path": "profile_md/IFN712 Project 12-1/n07268728_Rowan_Moore.md"
+    }
+  },
+  {
+    "id": "major_computer_science_(specialization_in_cybersecurity)",
+    "name": "Computer Science (Specialization in Cybersecurity)",
+    "entity_type": "MAJOR",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn564_machine_learning",
+    "name": "IFN564 Machine Learning",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn554_databases",
+    "name": "IFN554 Databases",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn623_cyber_security",
+    "name": "IFN623 Cyber Security",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn556_object_oriented_programming",
+    "name": "IFN556 Object Oriented Programming",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn563_algorithms_and_complexity",
+    "name": "IFN563 Algorithms and Complexity",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn632_advanced_data_analytics",
+    "name": "IFN632 Advanced Data Analytics",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn619_data_analytics_and_visualisation",
+    "name": "IFN619 Data Analytics and Visualisation",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn553_introduction_to_security_and_networking",
+    "name": "IFN553 Introduction to Security and Networking",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "skill_machine_learning_(scikit-learn,_tensorflow)",
+    "name": "Machine learning (Scikit-learn, TensorFlow)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_python_(pandas,_numpy,_flask)",
+    "name": "Python (Pandas, NumPy, Flask)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_network_protocols_(tcp/ip,_http)",
+    "name": "Network protocols (TCP/IP, HTTP)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_cybersecurity_frameworks_(nist,_iso_27001)",
+    "name": "Cybersecurity frameworks (NIST, ISO 27001)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_sql/nosql_databases_(postgresql,_mongodb)",
+    "name": "SQL/NoSQL databases (PostgreSQL, MongoDB)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_data_visualization_(tableau,_matplotlib)",
+    "name": "Data visualization (Tableau, Matplotlib)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_git_and_devops_practices",
+    "name": "Git and DevOps practices",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_linux_system_administration",
+    "name": "Linux system administration",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "interest_cybersecurity_research",
+    "name": "Cybersecurity research",
+    "entity_type": "INTEREST",
+    "properties": {}
+  },
+  {
+    "id": "interest_machine_learning_model_optimization",
+    "name": "Machine learning model optimization",
+    "entity_type": "INTEREST",
+    "properties": {}
+  },
+  {
+    "id": "interest_network_protocol_analysis",
+    "name": "Network protocol analysis",
+    "entity_type": "INTEREST",
+    "properties": {}
+  },
+  {
+    "id": "interest_open-source_security_tools",
+    "name": "Open-source security tools",
+    "entity_type": "INTEREST",
+    "properties": {}
+  },
+  {
+    "id": "interest_cloud_infrastructure_security",
+    "name": "Cloud infrastructure security",
+    "entity_type": "INTEREST",
+    "properties": {}
+  }
+]

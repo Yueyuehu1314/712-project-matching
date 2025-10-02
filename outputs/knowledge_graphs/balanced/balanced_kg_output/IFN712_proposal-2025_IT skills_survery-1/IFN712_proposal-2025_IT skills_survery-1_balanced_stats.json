@@ -1,0 +1,9 @@
+{
+  "project": "IFN712_proposal-2025_IT skills_survery-1",
+  "total_nodes": 33,
+  "total_edges": 40,
+  "supported_skills": 5,
+  "extended_skills": 3,
+  "units": 12,
+  "programs": 12
+}

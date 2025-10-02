@@ -1,0 +1,48 @@
+[
+  {
+    "id": "project_IFN712_proposal_Wenzong_Gao_insar",
+    "name": "Monitoring Ground Deformation in",
+    "entity_type": "PROJECT",
+    "properties": {
+      "description": "critical for understanding the stability of urban infrastructure and for mitigating risks from natural and human-induced changes such as groundwater extraction, construction, mining, or earthquakes. Interferometric Synthetic Aperture Radar (InSAR) is a satellite-based remote sensing technique that enables precise measurement of surface movement over large areas and time periods by comparing radar images of the same location taken at different times. This technology can detect even millimetre-level changes in ground elevation, regardless of weather or lighting conditions.  This project aims to investigate ground deformation across the Brisbane area using InSAR technology. The approach involves collecting freely available SAR data (such as Sentinel-1 satellite images) covering the Brisbane region, and processing these images using the SNAP (Sentinel Application Platform) software to generate interferograms and deformation maps. A key focus of this project is to study the impact of using different types of orbit files (such as precise or restituted orbits) and various Digital Elevation Model (DEM) files during the InSAR processing workflow. By comparing results from different processing options, the project will highlight how orbit and DEM choices affect the accuracy and quality of the final deformation maps.  The processed results will be analysed to identify, map, and quantify any patterns of ground movement in different parts of Brisbane. The project will result in a reproducible workflow for SAR data processing, clear visualizations and measurements of detected deformation, and practical recommendations for ongoing monitoring or further geospatial studies in the region. -   What are the practical steps in generating interferograms and deformation maps using SNAP software?  -   How do different choices of orbit files and DEM files affect the results of InSAR deformation analysis?  -   What deformation patterns, if any, are observed in the Brisbane area over the selected time period?  -   What are the limitations and challenges when using InSAR to monitor urban ground deformation? -   Ferretti, A., Monti-Guarnieri, A., Prati, C., Rocca, F., & Massonet, D. (2007). *InSAR principles-guidelines for SAR interferometry processing and interpretation* (Vol. 19).  -   Van Leijen, F. J. (2014). Persistent scatterer interferometry based on geodetic estimation theory.  -   Osmanoğlu, B., Sunar, F., Wdowinski, S., & Cabral-Cano, E. (2016). Time series analysis of InSAR data: Methods and trends. *Isprs Journal of Photogrammetry and Remote Sensing*, *115*, 90--102.  <!-- -->  -   ###  {#section}  TOPS Interferometry Tutorial(https://step.esa.int/doc s/tutorials/S1TBX%20TOPSAR%20Inte rferometry%20with%20Sentinel-1%20 Tutorial\\_v2.pdf)s Students majoring data science and computer science can participate in the project.  Programming skills (Python or Matlab)  Experience with machine learning frameworks ☐ Project IP vests in the Student with a license back to Industry Partner **(license)**  OR  ☐ Project IP vests in the Industry Partner with a licence back to the Student **(assignment)**  OR  ☒ Academic project 3-5       The supervising team will shortlist the candidates after their application.",
+      "supervisor": "Yanming Feng, y.feng\\@qut.edu.au",
+      "file_path": "project_md/IFN712_proposal_Wenzong_Gao_insar.md"
+    }
+  },
+  {
+    "id": "major_data_science_and_computer_science",
+    "name": "Data Science and Computer Science",
+    "entity_type": "MAJOR",
+    "properties": {}
+  },
+  {
+    "id": "skill_machine_learning",
+    "name": "machine learning",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_data_science",
+    "name": "data science",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_mobile_development",
+    "name": "mobile development",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "tech_python",
+    "name": "Python",
+    "entity_type": "TECHNOLOGY",
+    "properties": {}
+  },
+  {
+    "id": "supervisor_yanming_feng,_y.feng\\@qut.edu.au",
+    "name": "Yanming Feng, y.feng\\@qut.edu.au",
+    "entity_type": "SUPERVISOR",
+    "properties": {}
+  }
+]

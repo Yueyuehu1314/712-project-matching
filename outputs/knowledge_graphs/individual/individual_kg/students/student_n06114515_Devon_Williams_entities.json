@@ -1,0 +1,145 @@
+[
+  {
+    "id": "student_n06114515",
+    "name": "Devon Williams",
+    "entity_type": "STUDENT",
+    "properties": {
+      "student_id": "n06114515",
+      "major": "Data Science",
+      "year": "3rd Year",
+      "file_path": "profile_md/IFN712_proposal_Wenzong_Gao_orbit/n06114515_Devon_Williams.md"
+    }
+  },
+  {
+    "id": "major_data_science",
+    "name": "Data Science",
+    "entity_type": "MAJOR",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn556_object_oriented_programming",
+    "name": "IFN556 Object Oriented Programming",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn563_algorithms_and_complexity",
+    "name": "IFN563 Algorithms and Complexity",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn555_introduction_to_programming",
+    "name": "IFN555 Introduction to Programming",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn632_advanced_data_analytics",
+    "name": "IFN632 Advanced Data Analytics",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn551_computer_systems_fundamentals",
+    "name": "IFN551 Computer Systems Fundamentals",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn564_machine_learning",
+    "name": "IFN564 Machine Learning",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn565_advanced_programming",
+    "name": "IFN565 Advanced Programming",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn552_systems_analysis_and_design",
+    "name": "IFN552 Systems Analysis and Design",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "skill_machine_learning_(scikit-learn,_tensorflow)",
+    "name": "Machine Learning (Scikit-learn, TensorFlow)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_data_science_(pandas,_numpy,_sql)",
+    "name": "Data Science (Pandas, NumPy, SQL)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_networking_protocols_(tcp/ip,_udp)",
+    "name": "Networking Protocols (TCP/IP, UDP)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_python_programming",
+    "name": "Python Programming",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_java_(object-oriented_design)",
+    "name": "Java (Object-Oriented Design)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_data_visualization_(matplotlib,_tableau)",
+    "name": "Data Visualization (Matplotlib, Tableau)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_cloud_computing_(aws_basics)",
+    "name": "Cloud Computing (AWS Basics)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_git_and_version_control",
+    "name": "Git and Version Control",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "interest_artificial_intelligence",
+    "name": "Artificial Intelligence",
+    "entity_type": "INTEREST",
+    "properties": {}
+  },
+  {
+    "id": "interest_geospatial_data_analysis",
+    "name": "Geospatial Data Analysis",
+    "entity_type": "INTEREST",
+    "properties": {}
+  },
+  {
+    "id": "interest_network_optimization",
+    "name": "Network Optimization",
+    "entity_type": "INTEREST",
+    "properties": {}
+  },
+  {
+    "id": "interest_open-source_software_development",
+    "name": "Open-Source Software Development",
+    "entity_type": "INTEREST",
+    "properties": {}
+  },
+  {
+    "id": "interest_scientific_computing",
+    "name": "Scientific Computing",
+    "entity_type": "INTEREST",
+    "properties": {}
+  }
+]

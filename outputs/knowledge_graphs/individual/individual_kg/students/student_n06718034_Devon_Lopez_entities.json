@@ -1,0 +1,145 @@
+[
+  {
+    "id": "student_n06718034",
+    "name": "Devon Lopez",
+    "entity_type": "STUDENT",
+    "properties": {
+      "student_id": "n06718034",
+      "major": "Cyber Security",
+      "year": "3rd Year",
+      "file_path": "profile_md/IFN712 Project Proposal - Vicky Liu Sem 2 2025/n06718034_Devon_Lopez.md"
+    }
+  },
+  {
+    "id": "major_cyber_security",
+    "name": "Cyber Security",
+    "entity_type": "MAJOR",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn564_machine_learning",
+    "name": "IFN564 Machine Learning",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn554_databases",
+    "name": "IFN554 Databases",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn565_advanced_programming",
+    "name": "IFN565 Advanced Programming",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn552_systems_analysis_and_design",
+    "name": "IFN552 Systems Analysis and Design",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn556_object_oriented_programming",
+    "name": "IFN556 Object Oriented Programming",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn666_web_technologies",
+    "name": "IFN666 Web Technologies",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn551_computer_systems_fundamentals",
+    "name": "IFN551 Computer Systems Fundamentals",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn623_cyber_security",
+    "name": "IFN623 Cyber Security",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "skill_web_development_(html/css,_javascript,_react)",
+    "name": "Web Development (HTML/CSS, JavaScript, React)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_cybersecurity_(encryption,_firewall_configuration)",
+    "name": "Cybersecurity (Encryption, Firewall Configuration)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_networking_(tcp/ip,_wi-fi_protocols)",
+    "name": "Networking (TCP/IP, Wi-Fi Protocols)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_database_management_(sql,_mongodb)",
+    "name": "Database Management (SQL, MongoDB)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_machine_learning_(python,_scikit-learn)",
+    "name": "Machine Learning (Python, Scikit-learn)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_systems_analysis_and_design",
+    "name": "Systems Analysis and Design",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_object-oriented_programming_(java,_c#)",
+    "name": "Object-Oriented Programming (Java, C#)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_devops_tools_(git,_docker)",
+    "name": "DevOps Tools (Git, Docker)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "interest_internet_of_things_(iot)",
+    "name": "Internet of Things (IoT)",
+    "entity_type": "INTEREST",
+    "properties": {}
+  },
+  {
+    "id": "interest_smart_city_sustainability",
+    "name": "Smart city sustainability",
+    "entity_type": "INTEREST",
+    "properties": {}
+  },
+  {
+    "id": "interest_cybersecurity_protocols",
+    "name": "Cybersecurity protocols",
+    "entity_type": "INTEREST",
+    "properties": {}
+  },
+  {
+    "id": "interest_data-driven_urban_planning",
+    "name": "Data-driven urban planning",
+    "entity_type": "INTEREST",
+    "properties": {}
+  },
+  {
+    "id": "interest_open-source_software_development",
+    "name": "Open-source software development",
+    "entity_type": "INTEREST",
+    "properties": {}
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "source_id": "project_IFN712_proposal-2025_IT_skills_survery-1",
+    "target_id": "major_business_analysis_major_only",
+    "relation_type": "REQUIRES_MAJOR",
+    "weight": 1.0,
+    "properties": {}
+  },
+  {
+    "source_id": "project_IFN712_proposal-2025_IT_skills_survery-1",
+    "target_id": "skill_machine_learning",
+    "relation_type": "REQUIRES_SKILL",
+    "weight": 1.0,
+    "properties": {}
+  },
+  {
+    "source_id": "project_IFN712_proposal-2025_IT_skills_survery-1",
+    "target_id": "skill_web_development",
+    "relation_type": "REQUIRES_SKILL",
+    "weight": 1.0,
+    "properties": {}
+  },
+  {
+    "source_id": "project_IFN712_proposal-2025_IT_skills_survery-1",
+    "target_id": "skill_data_science",
+    "relation_type": "REQUIRES_SKILL",
+    "weight": 1.0,
+    "properties": {}
+  },
+  {
+    "source_id": "project_IFN712_proposal-2025_IT_skills_survery-1",
+    "target_id": "skill_mobile_development",
+    "relation_type": "REQUIRES_SKILL",
+    "weight": 1.0,
+    "properties": {}
+  },
+  {
+    "source_id": "project_IFN712_proposal-2025_IT_skills_survery-1",
+    "target_id": "supervisor_<y.feng@qut.edu.au>",
+    "relation_type": "SUPERVISED_BY",
+    "weight": 1.0,
+    "properties": {}
+  }
+]

@@ -1,0 +1,145 @@
+[
+  {
+    "id": "student_n15945675",
+    "name": "Phoenix Hill",
+    "entity_type": "STUDENT",
+    "properties": {
+      "student_id": "n15945675",
+      "major": "Software Development",
+      "year": "3",
+      "file_path": "profile_md/VitalID_Proposal_Zhenguo/n15945675_Phoenix_Hill.md"
+    }
+  },
+  {
+    "id": "major_software_development",
+    "name": "Software Development",
+    "entity_type": "MAJOR",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn555_introduction_to_programming",
+    "name": "IFN555 Introduction to Programming",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn564_machine_learning",
+    "name": "IFN564 Machine Learning",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn666_web_technologies",
+    "name": "IFN666 Web Technologies",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn623_cyber_security",
+    "name": "IFN623 Cyber Security",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn670_mobile_application_development",
+    "name": "IFN670 Mobile Application Development",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn553_introduction_to_security_and_networking",
+    "name": "IFN553 Introduction to Security and Networking",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn668_advanced_software_engineering",
+    "name": "IFN668 Advanced Software Engineering",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn554_databases",
+    "name": "IFN554 Databases",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "skill_machine_learning_(python,_tensorflow)",
+    "name": "Machine learning (Python, TensorFlow)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_web_development_(react,_node.js)",
+    "name": "Web development (React, Node.js)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_data_science_(pandas,_numpy)",
+    "name": "Data science (Pandas, NumPy)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_cybersecurity_(encryption,_threat_analysis)",
+    "name": "Cybersecurity (encryption, threat analysis)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_mobile_development_(flutter,_kotlin)",
+    "name": "Mobile development (Flutter, Kotlin)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_networking_(tcp/ip,_wireshark)",
+    "name": "Networking (TCP/IP, Wireshark)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_database_management_(sql,_mongodb)",
+    "name": "Database management (SQL, MongoDB)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_agile_project_management",
+    "name": "Agile project management",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "interest_biometric_technology",
+    "name": "Biometric technology",
+    "entity_type": "INTEREST",
+    "properties": {}
+  },
+  {
+    "id": "interest_cybersecurity_innovations",
+    "name": "Cybersecurity innovations",
+    "entity_type": "INTEREST",
+    "properties": {}
+  },
+  {
+    "id": "interest_machine_learning_applications",
+    "name": "Machine learning applications",
+    "entity_type": "INTEREST",
+    "properties": {}
+  },
+  {
+    "id": "interest_mobile_app_development",
+    "name": "Mobile app development",
+    "entity_type": "INTEREST",
+    "properties": {}
+  },
+  {
+    "id": "interest_health_data_privacy",
+    "name": "Health data privacy",
+    "entity_type": "INTEREST",
+    "properties": {}
+  }
+]

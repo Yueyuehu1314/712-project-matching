@@ -1,0 +1,192 @@
+[
+  {
+    "id": "project_JZhang_IFN712_Project_Proposal_1_2025_CS_",
+    "name": "",
+    "entity_type": "PROJECT",
+    "properties": {
+      "description": "comprehensive literature review on the correlation analysis of diabetes-related complications using medical imaging data, particularly focusing on heart, foot, and retinal images. Diabetes mellitus is a chronic disease associated with a range of severe complications, including cardiovascular disease, diabetic foot ulcers, and diabetic retinopathy. Understanding the interrelationships among these conditions through imaging data can support early diagnosis, risk stratification, and integrated treatment planning.  The primary aim is to identify and evaluate existing studies that have analyzed correlations between diabetes factors using image-based diagnostics. The methodology involves a systematic search and critical analysis of peer-reviewed articles, focusing on image processing techniques, statistical or machine learning methods for correlation analysis, and clinical outcomes.  Expected outputs include:  1.  A categorized summary of existing research and methodologies;  2.  Identification of gaps in the literature;  3.  Recommendations for future research directions, particularly the integration of multi-modal imaging data for comprehensive diabetic complication analysis.  This review will provide a foundational understanding for researchers and clinicians to develop holistic diagnostic tools and personalized treatment strategies.  ![6 Diabetes Vascular Complications - And How To Avoid Them](media/image1.jpeg){width=\"5 .778466754155731in\" height=\"7.43125in\"}  ![Diabetes complications stock illustration. Illustration of anatomy \\...](media/image2.jpeg){width=\"5 .433783902012248in\" height=\"5.739583333333333in\"} -   **Diabetes Complications**  -   **Medical Imaging**  -   **Correlation Analysis**  -   **Multi-modal Diagnostics**  -   **Diabetic Retinopathy, Foot, and Cardiovascular Imaging** -   **What types of imaging modalities are most commonly used to assess complications of diabetes in the heart, foot, and retina?**  -   **What statistical or machine learning methods have been employed to analyze correlations between diabetic complications across different organs or systems?**  -   **To what extent do imaging features of one diabetic complication (e.g., retinopathy) predict or correlate with others (e.g., cardiovascular disease or diabetic foot)?**  -   **What are the current challenges and limitations in integrating multi-modal imaging data for comprehensive analysis of diabetes-related complications?**  -   **What gaps exist in the current literature regarding the cross-correlation of diabetic complications using image-based diagnostics, and how can future studies address these?** 1)  Qianhui Yang, Yong Mong Bee, Ciwei Cynthia Lim, Charumathi Sabanayagam, Carol Yim-Lui Cheung, Tien Yin Wong, Daniel S.W. Ting, Lee-Ling Lim, HuaTing Li, Mingguang He, Aaron Y. Lee, A Jonathan Shaw, Yeo Khung Keong, Gavin Siew Wei Tan, **Use of artificial intelligence with retinal imaging in screening for diabetes-associated complications: systematic review,** eClinicalMedicine, Volume 81, 2025, 103089, ISSN 2589-5370, https://doi.org/10.1016/j.ecl inm.2025.103089.  2)  Syed, M.G., Trucco, E., Mookiah, M.R.K. et al. **Deep-learning prediction of cardiovascular outcomes from routine retinal images in individuals with type 2 diabetes**. *Cardiovasc Diabetology* 24, 3 (2025). <https://doi.org/10.1186/s129 33-024-02564-w>  3)  Mariacristina Parravano, Gilda Cennamo, Luca Di Antonio, Maria Oliva Grassi, Marco Lupidi, Marco Rispoli, Maria Cristina Savastano, Daniele Veritti, Stela Vujosevic**, Multimodal imaging in diabetic retinopathy and macular edema: An update about biomarkers,** *Survey of Ophthalmology*, Volume 69, Issue 6, 2024, Pages 893-904, ISSN 0039-6257, https://doi.org/10.1016/j.sur vophthal.2024.06.006.  4)  Zhengwei Zhang, Callie Deng and Yannis M. Paulus, **Advances in Structural and Functional Retinal Imaging and Biomarkers for Early Detection of Diabetic Retinopathy,** *Biomedicines* 2024, *12*(7), 1405; <https://doi.org/10.339 0/biomedicines12071405>  5)  \\[OLD but Related\\] Ning Cheung, Tien Y. Wong, **Diabetic retinopathy and systemic vascular complications**, *Progress in Retinal and Eye Research*, Volume 27, Issue 2, 2008, Pages 161-176, ISSN 1350-9462, https://doi.org/10.1016/j.pre teyeres.2007.12.001 computer science and data science majors. Students from other majors are also welcome.  To conduct a **systematic review**, especially on a technical topic like the correlation analysis of diabetes complications using medical imaging, it is desirable if students have or willing to develop skills in the following areas:  -   Literature Search Skills: Ability to develop effective search strategies using Boolean operators and keywords.  -   Critical Appraisal and Evaluation: Ability to assess the quality, relevance, and validity of peer-reviewed articles.  -   Basic knowledge of correlation analysis and possibly machine learning techniques used in image-based studies.  -   Data Extraction and Synthesis: Ability to identify patterns, themes, and gaps in the literature.  -   Academic Writing and Reporting: Ability to create well-organized tables, charts, and summaries.  -   Project Management and Collaboration: Time management for handling multiple stages of the review and Collaboration skills for working within a team. ☐ Project IP vests in the student with a license back to Industry Partner **(licence)**  OR  ☒ Project IP vests in the Industry Partner/Project owner with a licence back to the student **(assignment)**  OR  ☒ Academic project (No IP agreement needed) 4-5 This is an academic research project. All students interested are welcome.      ",
+      "supervisor": "Jinglan Zhang:",
+      "file_path": "project_md/JZhang_IFN712 Project Proposal 1_2025_CS .md"
+    }
+  },
+  {
+    "id": "major_computer_science_and_data",
+    "name": "Computer Science and Data",
+    "entity_type": "MAJOR",
+    "properties": {}
+  },
+  {
+    "id": "skill_machine_learning",
+    "name": "machine learning",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_data_science",
+    "name": "data science",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_mobile_development",
+    "name": "mobile development",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "supervisor_jinglan_zhang:",
+    "name": "Jinglan Zhang:",
+    "entity_type": "SUPERVISOR",
+    "properties": {}
+  },
+  {
+    "id": "unit_qut_IN20_39851_int_cms_unit",
+    "name": "Master of Information Technology",
+    "entity_type": "UNIT",
+    "properties": {
+      "unit_id": "qut_IN20_39851_int_cms_unit",
+      "majors": [
+        "Business Analysis",
+        "Computer Science",
+        "Data Science",
+        "Software Development",
+        "Cyber Security and Networks",
+        "Enterprise Systems",
+        "Executive IT"
+      ],
+      "skills": [
+        "machine learning",
+        "data science",
+        "web development",
+        "cybersecurity",
+        "business analysis",
+        "software engineering",
+        "database management",
+        "networking",
+        "cloud computing",
+        "project management",
+        "user experience"
+      ]
+    }
+  },
+  {
+    "id": "skill_web_development",
+    "name": "web development",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_cybersecurity",
+    "name": "cybersecurity",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_business_analysis",
+    "name": "business analysis",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_software_engineering",
+    "name": "software engineering",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_database_management",
+    "name": "database management",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_networking",
+    "name": "networking",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_cloud_computing",
+    "name": "cloud computing",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_project_management",
+    "name": "project management",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_user_experience",
+    "name": "user experience",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "tech_python",
+    "name": "Python",
+    "entity_type": "TECHNOLOGY",
+    "properties": {}
+  },
+  {
+    "id": "tech_java",
+    "name": "Java",
+    "entity_type": "TECHNOLOGY",
+    "properties": {}
+  },
+  {
+    "id": "tech_javascript",
+    "name": "JavaScript",
+    "entity_type": "TECHNOLOGY",
+    "properties": {}
+  },
+  {
+    "id": "tech_react",
+    "name": "React",
+    "entity_type": "TECHNOLOGY",
+    "properties": {}
+  },
+  {
+    "id": "tech_sql",
+    "name": "SQL",
+    "entity_type": "TECHNOLOGY",
+    "properties": {}
+  },
+  {
+    "id": "tech_sap",
+    "name": "SAP",
+    "entity_type": "TECHNOLOGY",
+    "properties": {}
+  },
+  {
+    "id": "tech_c#",
+    "name": "C#",
+    "entity_type": "TECHNOLOGY",
+    "properties": {}
+  },
+  {
+    "id": "tech_flask",
+    "name": "Flask",
+    "entity_type": "TECHNOLOGY",
+    "properties": {}
+  },
+  {
+    "id": "outcome_qut_IN20_39851_int_cms_unit_0",
+    "name": "how the principles of Object-Oriented programming ...",
+    "entity_type": "LEARNING_OUTCOME",
+    "properties": {}
+  },
+  {
+    "id": "outcome_qut_IN20_39851_int_cms_unit_1",
+    "name": "how to identify potential objects and classes by e...",
+    "entity_type": "LEARNING_OUTCOME",
+    "properties": {}
+  },
+  {
+    "id": "outcome_qut_IN20_39851_int_cms_unit_2",
+    "name": "how such designs are professionally communicated a...",
+    "entity_type": "LEARNING_OUTCOME",
+    "properties": {}
+  }
+]

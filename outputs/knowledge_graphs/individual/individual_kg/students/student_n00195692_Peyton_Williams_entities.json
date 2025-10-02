@@ -1,0 +1,133 @@
+[
+  {
+    "id": "student_n00195692",
+    "name": "Peyton Williams",
+    "entity_type": "STUDENT",
+    "properties": {
+      "student_id": "n00195692",
+      "major": "Software Development and Computer Science",
+      "year": "3rd Year",
+      "file_path": "profile_md/VitalID_Proposal_Zhenguo/n00195692_Peyton_Williams.md"
+    }
+  },
+  {
+    "id": "major_software_development_and_computer_science",
+    "name": "Software Development and Computer Science",
+    "entity_type": "MAJOR",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn555_introduction_to_programming",
+    "name": "IFN555 Introduction to Programming",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn564_machine_learning",
+    "name": "IFN564 Machine Learning",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn666_web_technologies",
+    "name": "IFN666 Web Technologies",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn623_cyber_security",
+    "name": "IFN623 Cyber Security",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn670_mobile_application_development",
+    "name": "IFN670 Mobile Application Development",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn553_introduction_to_security_and_networking",
+    "name": "IFN553 Introduction to Security and Networking",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn668_advanced_software_engineering",
+    "name": "IFN668 Advanced Software Engineering",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn554_databases",
+    "name": "IFN554 Databases",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "skill_**machine_learning**:_proficient_in_python,_tensorflow,_and_scikit-learn_for_classification_and_anomaly_detection.",
+    "name": "**Machine Learning**: Proficient in Python, TensorFlow, and scikit-learn for classification and anomaly detection.",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_**web_development**:_skilled_in_react,_node.js,_and_restful_api_design.",
+    "name": "**Web Development**: Skilled in React, Node.js, and RESTful API design.",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_**data_science**:_experience_with_data_preprocessing,_visualization_(tableau/power_bi),_and_statistical_modeling.",
+    "name": "**Data Science**: Experience with data preprocessing, visualization (Tableau/Power BI), and statistical modeling.",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_**cybersecurity**:_knowledge_of_encryption,_threat_modeling,_and_secure_coding_practices.",
+    "name": "**Cybersecurity**: Knowledge of encryption, threat modeling, and secure coding practices.",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_**mobile_development**:_expertise_in_kotlin/java_for_android_and_flutter_for_cross-platform_apps.",
+    "name": "**Mobile Development**: Expertise in Kotlin/Java for Android and Flutter for cross-platform apps.",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_**networking**:_familiar_with_tcp/ip,_dns,_and_network_security_tools_like_wireshark.",
+    "name": "**Networking**: Familiar with TCP/IP, DNS, and network security tools like Wireshark.",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "interest_biometric_security_research",
+    "name": "Biometric security research",
+    "entity_type": "INTEREST",
+    "properties": {}
+  },
+  {
+    "id": "interest_open-source_software_development",
+    "name": "Open-source software development",
+    "entity_type": "INTEREST",
+    "properties": {}
+  },
+  {
+    "id": "interest_ethical_hacking_and_penetration_testing",
+    "name": "Ethical hacking and penetration testing",
+    "entity_type": "INTEREST",
+    "properties": {}
+  },
+  {
+    "id": "interest_wearable_technology",
+    "name": "Wearable technology",
+    "entity_type": "INTEREST",
+    "properties": {}
+  },
+  {
+    "id": "interest_data_privacy_advocacy",
+    "name": "Data privacy advocacy",
+    "entity_type": "INTEREST",
+    "properties": {}
+  }
+]

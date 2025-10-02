@@ -1,0 +1,145 @@
+[
+  {
+    "id": "student_n14895165",
+    "name": "Peyton Lopez",
+    "entity_type": "STUDENT",
+    "properties": {
+      "student_id": "n14895165",
+      "major": "Data Science and Computer Science",
+      "year": "Third-Year",
+      "file_path": "profile_md/IFN712_proposal_Wenzong_Gao_insar/n14895165_Peyton_Lopez.md"
+    }
+  },
+  {
+    "id": "major_data_science_and_computer_science",
+    "name": "Data Science and Computer Science",
+    "entity_type": "MAJOR",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn564_machine_learning",
+    "name": "IFN564 Machine Learning",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn632_advanced_data_analytics",
+    "name": "IFN632 Advanced Data Analytics",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn554_databases",
+    "name": "IFN554 Databases",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn552_systems_analysis_and_design",
+    "name": "IFN552 Systems Analysis and Design",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn551_computer_systems_fundamentals",
+    "name": "IFN551 Computer Systems Fundamentals",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn555_introduction_to_programming",
+    "name": "IFN555 Introduction to Programming",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn556_object_oriented_programming",
+    "name": "IFN556 Object Oriented Programming",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn563_algorithms_and_complexity",
+    "name": "IFN563 Algorithms and Complexity",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "skill_machine_learning_(supervised/unsupervised_learning,_neural_networks)",
+    "name": "Machine learning (supervised/unsupervised learning, neural networks)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_data_science_(python,_r,_sql)",
+    "name": "Data science (Python, R, SQL)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_programming_(python,_java,_c++)",
+    "name": "Programming (Python, Java, C++)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_geospatial_tools_(qgis,_arcgis,_gdal)",
+    "name": "Geospatial tools (QGIS, ArcGIS, GDAL)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_data_visualization_(tableau,_matplotlib,_seaborn)",
+    "name": "Data visualization (Tableau, Matplotlib, Seaborn)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_cloud_computing_(aws,_google_cloud)",
+    "name": "Cloud computing (AWS, Google Cloud)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_database_systems_(mysql,_postgresql)",
+    "name": "Database systems (MySQL, PostgreSQL)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_software_development_(django,_flask)",
+    "name": "Software development (Django, Flask)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "interest_remote_sensing_and_geospatial_technologies",
+    "name": "Remote sensing and geospatial technologies",
+    "entity_type": "INTEREST",
+    "properties": {}
+  },
+  {
+    "id": "interest_machine_learning_model_optimization",
+    "name": "Machine learning model optimization",
+    "entity_type": "INTEREST",
+    "properties": {}
+  },
+  {
+    "id": "interest_urban_sustainability_and_smart_cities",
+    "name": "Urban sustainability and smart cities",
+    "entity_type": "INTEREST",
+    "properties": {}
+  },
+  {
+    "id": "interest_open-source_software_development",
+    "name": "Open-source software development",
+    "entity_type": "INTEREST",
+    "properties": {}
+  },
+  {
+    "id": "interest_environmental_data_science",
+    "name": "Environmental data science",
+    "entity_type": "INTEREST",
+    "properties": {}
+  }
+]

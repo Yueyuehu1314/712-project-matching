@@ -1,0 +1,145 @@
+[
+  {
+    "id": "student_n03186319",
+    "name": "Rowan Thompson",
+    "entity_type": "STUDENT",
+    "properties": {
+      "student_id": "n03186319",
+      "major": "Software Development",
+      "year": "3rd Year",
+      "file_path": "profile_md/IFN712 Project Proposal Template_2025_Project matching/n03186319_Rowan_Thompson.md"
+    }
+  },
+  {
+    "id": "major_software_development",
+    "name": "Software Development",
+    "entity_type": "MAJOR",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn554_databases",
+    "name": "IFN554 Databases",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn553_introduction_to_security_and_networking",
+    "name": "IFN553 Introduction to Security and Networking",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn555_introduction_to_programming",
+    "name": "IFN555 Introduction to Programming",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn668_advanced_software_engineering",
+    "name": "IFN668 Advanced Software Engineering",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn552_systems_analysis_and_design",
+    "name": "IFN552 Systems Analysis and Design",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn556_object_oriented_programming",
+    "name": "IFN556 Object Oriented Programming",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn551_computer_systems_fundamentals",
+    "name": "IFN551 Computer Systems Fundamentals",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn623_cyber_security",
+    "name": "IFN623 Cyber Security",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "skill_web_development_(react,_node.js,_django)",
+    "name": "Web development (React, Node.js, Django)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_data_science_(python,_scikit-learn,_tensorflow)",
+    "name": "Data science (Python, Scikit-learn, TensorFlow)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_cybersecurity_(encryption,_network_security,_threat_modeling)",
+    "name": "Cybersecurity (encryption, network security, threat modeling)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_database_design_(sql,_nosql)",
+    "name": "Database design (SQL, NoSQL)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_version_control_(git)",
+    "name": "Version control (Git)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_cloud_computing_(aws)",
+    "name": "Cloud computing (AWS)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_api_development",
+    "name": "API development",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_object-oriented_programming_(java,_c#)",
+    "name": "Object-oriented programming (Java, C#)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "interest_machine_learning_for_uncertain_data_environments",
+    "name": "Machine learning for uncertain data environments",
+    "entity_type": "INTEREST",
+    "properties": {}
+  },
+  {
+    "id": "interest_cybersecurity_in_software_development",
+    "name": "Cybersecurity in software development",
+    "entity_type": "INTEREST",
+    "properties": {}
+  },
+  {
+    "id": "interest_privacy-preserving_data_science",
+    "name": "Privacy-preserving data science",
+    "entity_type": "INTEREST",
+    "properties": {}
+  },
+  {
+    "id": "interest_agile_project_management",
+    "name": "Agile project management",
+    "entity_type": "INTEREST",
+    "properties": {}
+  },
+  {
+    "id": "interest_open-source_collaboration_tools",
+    "name": "Open-source collaboration tools",
+    "entity_type": "INTEREST",
+    "properties": {}
+  }
+]

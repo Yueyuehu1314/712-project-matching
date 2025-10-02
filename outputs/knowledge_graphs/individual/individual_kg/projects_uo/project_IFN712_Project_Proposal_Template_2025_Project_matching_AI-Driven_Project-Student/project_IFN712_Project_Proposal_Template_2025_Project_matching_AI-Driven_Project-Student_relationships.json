@@ -1,0 +1,226 @@
+[
+  {
+    "source_id": "project_IFN712_Project_Proposal_Template_2025_Project_matching",
+    "target_id": "major_software_development",
+    "relation_type": "REQUIRES_MAJOR",
+    "weight": 1.0,
+    "properties": {}
+  },
+  {
+    "source_id": "project_IFN712_Project_Proposal_Template_2025_Project_matching",
+    "target_id": "major_computer",
+    "relation_type": "REQUIRES_MAJOR",
+    "weight": 1.0,
+    "properties": {}
+  },
+  {
+    "source_id": "project_IFN712_Project_Proposal_Template_2025_Project_matching",
+    "target_id": "skill_machine_learning",
+    "relation_type": "REQUIRES_SKILL",
+    "weight": 1.0,
+    "properties": {}
+  },
+  {
+    "source_id": "project_IFN712_Project_Proposal_Template_2025_Project_matching",
+    "target_id": "skill_web_development",
+    "relation_type": "REQUIRES_SKILL",
+    "weight": 1.0,
+    "properties": {}
+  },
+  {
+    "source_id": "project_IFN712_Project_Proposal_Template_2025_Project_matching",
+    "target_id": "skill_data_science",
+    "relation_type": "REQUIRES_SKILL",
+    "weight": 1.0,
+    "properties": {}
+  },
+  {
+    "source_id": "project_IFN712_Project_Proposal_Template_2025_Project_matching",
+    "target_id": "skill_cybersecurity",
+    "relation_type": "REQUIRES_SKILL",
+    "weight": 1.0,
+    "properties": {}
+  },
+  {
+    "source_id": "project_IFN712_Project_Proposal_Template_2025_Project_matching",
+    "target_id": "skill_mobile_development",
+    "relation_type": "REQUIRES_SKILL",
+    "weight": 1.0,
+    "properties": {}
+  },
+  {
+    "source_id": "project_IFN712_Project_Proposal_Template_2025_Project_matching",
+    "target_id": "tech_react",
+    "relation_type": "USES_TECHNOLOGY",
+    "weight": 1.0,
+    "properties": {}
+  },
+  {
+    "source_id": "project_IFN712_Project_Proposal_Template_2025_Project_matching",
+    "target_id": "supervisor_yanming_feng_<y.feng@qut.edu.au>;",
+    "relation_type": "SUPERVISED_BY",
+    "weight": 1.0,
+    "properties": {}
+  },
+  {
+    "source_id": "project_IFN712_Project_Proposal_Template_2025_Project_matching",
+    "target_id": "unit_qut_IN20_39851_int_cms_unit",
+    "relation_type": "RELATES_TO_UNIT",
+    "weight": 0.8,
+    "properties": {}
+  },
+  {
+    "source_id": "unit_qut_IN20_39851_int_cms_unit",
+    "target_id": "skill_machine_learning",
+    "relation_type": "SUPPORTS_SKILL",
+    "weight": 1.0,
+    "properties": {}
+  },
+  {
+    "source_id": "unit_qut_IN20_39851_int_cms_unit",
+    "target_id": "skill_data_science",
+    "relation_type": "SUPPORTS_SKILL",
+    "weight": 1.0,
+    "properties": {}
+  },
+  {
+    "source_id": "unit_qut_IN20_39851_int_cms_unit",
+    "target_id": "skill_web_development",
+    "relation_type": "SUPPORTS_SKILL",
+    "weight": 1.0,
+    "properties": {}
+  },
+  {
+    "source_id": "unit_qut_IN20_39851_int_cms_unit",
+    "target_id": "skill_cybersecurity",
+    "relation_type": "SUPPORTS_SKILL",
+    "weight": 1.0,
+    "properties": {}
+  },
+  {
+    "source_id": "unit_qut_IN20_39851_int_cms_unit",
+    "target_id": "skill_business_analysis",
+    "relation_type": "SUPPORTS_SKILL",
+    "weight": 1.0,
+    "properties": {}
+  },
+  {
+    "source_id": "unit_qut_IN20_39851_int_cms_unit",
+    "target_id": "skill_software_engineering",
+    "relation_type": "SUPPORTS_SKILL",
+    "weight": 1.0,
+    "properties": {}
+  },
+  {
+    "source_id": "unit_qut_IN20_39851_int_cms_unit",
+    "target_id": "skill_database_management",
+    "relation_type": "SUPPORTS_SKILL",
+    "weight": 1.0,
+    "properties": {}
+  },
+  {
+    "source_id": "unit_qut_IN20_39851_int_cms_unit",
+    "target_id": "skill_networking",
+    "relation_type": "SUPPORTS_SKILL",
+    "weight": 1.0,
+    "properties": {}
+  },
+  {
+    "source_id": "unit_qut_IN20_39851_int_cms_unit",
+    "target_id": "skill_cloud_computing",
+    "relation_type": "SUPPORTS_SKILL",
+    "weight": 1.0,
+    "properties": {}
+  },
+  {
+    "source_id": "unit_qut_IN20_39851_int_cms_unit",
+    "target_id": "skill_project_management",
+    "relation_type": "SUPPORTS_SKILL",
+    "weight": 1.0,
+    "properties": {}
+  },
+  {
+    "source_id": "unit_qut_IN20_39851_int_cms_unit",
+    "target_id": "skill_user_experience",
+    "relation_type": "SUPPORTS_SKILL",
+    "weight": 1.0,
+    "properties": {}
+  },
+  {
+    "source_id": "unit_qut_IN20_39851_int_cms_unit",
+    "target_id": "tech_python",
+    "relation_type": "ENABLES_TECHNOLOGY",
+    "weight": 1.0,
+    "properties": {}
+  },
+  {
+    "source_id": "unit_qut_IN20_39851_int_cms_unit",
+    "target_id": "tech_java",
+    "relation_type": "ENABLES_TECHNOLOGY",
+    "weight": 1.0,
+    "properties": {}
+  },
+  {
+    "source_id": "unit_qut_IN20_39851_int_cms_unit",
+    "target_id": "tech_javascript",
+    "relation_type": "ENABLES_TECHNOLOGY",
+    "weight": 1.0,
+    "properties": {}
+  },
+  {
+    "source_id": "unit_qut_IN20_39851_int_cms_unit",
+    "target_id": "tech_react",
+    "relation_type": "ENABLES_TECHNOLOGY",
+    "weight": 1.0,
+    "properties": {}
+  },
+  {
+    "source_id": "unit_qut_IN20_39851_int_cms_unit",
+    "target_id": "tech_sql",
+    "relation_type": "ENABLES_TECHNOLOGY",
+    "weight": 1.0,
+    "properties": {}
+  },
+  {
+    "source_id": "unit_qut_IN20_39851_int_cms_unit",
+    "target_id": "tech_sap",
+    "relation_type": "ENABLES_TECHNOLOGY",
+    "weight": 1.0,
+    "properties": {}
+  },
+  {
+    "source_id": "unit_qut_IN20_39851_int_cms_unit",
+    "target_id": "tech_c#",
+    "relation_type": "ENABLES_TECHNOLOGY",
+    "weight": 1.0,
+    "properties": {}
+  },
+  {
+    "source_id": "unit_qut_IN20_39851_int_cms_unit",
+    "target_id": "tech_flask",
+    "relation_type": "ENABLES_TECHNOLOGY",
+    "weight": 1.0,
+    "properties": {}
+  },
+  {
+    "source_id": "unit_qut_IN20_39851_int_cms_unit",
+    "target_id": "outcome_qut_IN20_39851_int_cms_unit_0",
+    "relation_type": "ACHIEVES_OUTCOME",
+    "weight": 1.0,
+    "properties": {}
+  },
+  {
+    "source_id": "unit_qut_IN20_39851_int_cms_unit",
+    "target_id": "outcome_qut_IN20_39851_int_cms_unit_1",
+    "relation_type": "ACHIEVES_OUTCOME",
+    "weight": 1.0,
+    "properties": {}
+  },
+  {
+    "source_id": "unit_qut_IN20_39851_int_cms_unit",
+    "target_id": "outcome_qut_IN20_39851_int_cms_unit_2",
+    "relation_type": "ACHIEVES_OUTCOME",
+    "weight": 1.0,
+    "properties": {}
+  }
+]

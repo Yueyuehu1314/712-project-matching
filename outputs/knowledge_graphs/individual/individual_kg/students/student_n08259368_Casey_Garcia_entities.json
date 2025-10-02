@@ -1,0 +1,145 @@
+[
+  {
+    "id": "student_n08259368",
+    "name": "Casey Garcia",
+    "entity_type": "STUDENT",
+    "properties": {
+      "student_id": "n08259368",
+      "major": "Software Development",
+      "year": "2nd Year Master’s",
+      "file_path": "profile_md/HAR_WiFi_Proposal_Zhenguo-1/n08259368_Casey_Garcia.md"
+    }
+  },
+  {
+    "id": "major_software_development",
+    "name": "Software Development",
+    "entity_type": "MAJOR",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn668_advanced_software_engineering",
+    "name": "IFN668 Advanced Software Engineering",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn553_introduction_to_security_and_networking",
+    "name": "IFN553 Introduction to Security and Networking",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn623_cyber_security",
+    "name": "IFN623 Cyber Security",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn552_systems_analysis_and_design",
+    "name": "IFN552 Systems Analysis and Design",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn666_web_technologies",
+    "name": "IFN666 Web Technologies",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn670_mobile_application_development",
+    "name": "IFN670 Mobile Application Development",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn551_computer_systems_fundamentals",
+    "name": "IFN551 Computer Systems Fundamentals",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn554_databases",
+    "name": "IFN554 Databases",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "skill_machine_learning_(tensorflow,_scikit-learn)",
+    "name": "Machine Learning (TensorFlow, Scikit-learn)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_web_development_(react,_node.js,_django)",
+    "name": "Web Development (React, Node.js, Django)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_mobile_development_(react_native,_flutter)",
+    "name": "Mobile Development (React Native, Flutter)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_cybersecurity_(encryption,_penetration_testing)",
+    "name": "Cybersecurity (Encryption, Penetration Testing)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_networking_(wifi_protocols,_csi_analysis)",
+    "name": "Networking (WiFi Protocols, CSI Analysis)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_data_science_(python,_pandas,_numpy)",
+    "name": "Data Science (Python, Pandas, NumPy)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_database_management_(sql,_mongodb)",
+    "name": "Database Management (SQL, MongoDB)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_cloud_computing_(aws,_docker)",
+    "name": "Cloud Computing (AWS, Docker)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "interest_artificial_intelligence_in_healthcare",
+    "name": "Artificial Intelligence in Healthcare",
+    "entity_type": "INTEREST",
+    "properties": {}
+  },
+  {
+    "id": "interest_cybersecurity_for_iot_devices",
+    "name": "Cybersecurity for IoT Devices",
+    "entity_type": "INTEREST",
+    "properties": {}
+  },
+  {
+    "id": "interest_full-stack_web_development",
+    "name": "Full-Stack Web Development",
+    "entity_type": "INTEREST",
+    "properties": {}
+  },
+  {
+    "id": "interest_privacy-preserving_technologies",
+    "name": "Privacy-Preserving Technologies",
+    "entity_type": "INTEREST",
+    "properties": {}
+  },
+  {
+    "id": "interest_wireless_networking_protocols",
+    "name": "Wireless Networking Protocols",
+    "entity_type": "INTEREST",
+    "properties": {}
+  }
+]

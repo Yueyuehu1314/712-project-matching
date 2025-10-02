@@ -1,0 +1,145 @@
+[
+  {
+    "id": "student_n01585387",
+    "name": "Blake Flores",
+    "entity_type": "STUDENT",
+    "properties": {
+      "student_id": "n01585387",
+      "major": "Data Science with Computer Systems Specialization",
+      "year": "3rd Year",
+      "file_path": "profile_md/IFN712_proposal_Wenzong_Gao_obstruction/n01585387_Blake_Flores.md"
+    }
+  },
+  {
+    "id": "major_data_science_with_computer_systems_specialization",
+    "name": "Data Science with Computer Systems Specialization",
+    "entity_type": "MAJOR",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn554_databases",
+    "name": "IFN554 Databases",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn565_advanced_programming",
+    "name": "IFN565 Advanced Programming",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn619_data_analytics_and_visualisation",
+    "name": "IFN619 Data Analytics and Visualisation",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn551_computer_systems_fundamentals",
+    "name": "IFN551 Computer Systems Fundamentals",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn552_systems_analysis_and_design",
+    "name": "IFN552 Systems Analysis and Design",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn564_machine_learning",
+    "name": "IFN564 Machine Learning",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn555_introduction_to_programming",
+    "name": "IFN555 Introduction to Programming",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn632_advanced_data_analytics",
+    "name": "IFN632 Advanced Data Analytics",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "skill_python_(pandas,_numpy,_scikit-learn)",
+    "name": "Python (Pandas, NumPy, scikit-learn)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_sql_(postgresql,_query_optimization)",
+    "name": "SQL (PostgreSQL, query optimization)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_data_visualization_(tableau,_plotly,_matplotlib)",
+    "name": "Data visualization (Tableau, Plotly, Matplotlib)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_machine_learning_(regression,_clustering,_model_validation)",
+    "name": "Machine learning (regression, clustering, model validation)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_systems_analysis_and_design",
+    "name": "Systems analysis and design",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_gnss_signal_processing_fundamentals",
+    "name": "GNSS signal processing fundamentals",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_business_analysis_frameworks_(swot,_cost-benefit_analysis)",
+    "name": "Business analysis frameworks (SWOT, cost-benefit analysis)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_rest_api_integration",
+    "name": "REST API integration",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "interest_geospatial_data_analysis",
+    "name": "Geospatial data analysis",
+    "entity_type": "INTEREST",
+    "properties": {}
+  },
+  {
+    "id": "interest_machine_learning_model_optimization",
+    "name": "Machine learning model optimization",
+    "entity_type": "INTEREST",
+    "properties": {}
+  },
+  {
+    "id": "interest_urban_technology_systems",
+    "name": "Urban technology systems",
+    "entity_type": "INTEREST",
+    "properties": {}
+  },
+  {
+    "id": "interest_open-source_software_development",
+    "name": "Open-source software development",
+    "entity_type": "INTEREST",
+    "properties": {}
+  },
+  {
+    "id": "interest_environmental_impact_studies",
+    "name": "Environmental impact studies",
+    "entity_type": "INTEREST",
+    "properties": {}
+  }
+]

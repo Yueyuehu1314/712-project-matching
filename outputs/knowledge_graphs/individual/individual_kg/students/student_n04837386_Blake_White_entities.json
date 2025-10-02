@@ -1,0 +1,145 @@
+[
+  {
+    "id": "student_n04837386",
+    "name": "Blake White",
+    "entity_type": "STUDENT",
+    "properties": {
+      "student_id": "n04837386",
+      "major": "Software Development and Computer Systems",
+      "year": "4th Year",
+      "file_path": "profile_md/HAR_WiFi_Proposal_Zhenguo-1/n04837386_Blake_White.md"
+    }
+  },
+  {
+    "id": "major_software_development_and_computer_systems",
+    "name": "Software Development and Computer Systems",
+    "entity_type": "MAJOR",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn668_advanced_software_engineering",
+    "name": "IFN668 Advanced Software Engineering",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn553_introduction_to_security_and_networking",
+    "name": "IFN553 Introduction to Security and Networking",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn623_cyber_security",
+    "name": "IFN623 Cyber Security",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn552_systems_analysis_and_design",
+    "name": "IFN552 Systems Analysis and Design",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn666_web_technologies",
+    "name": "IFN666 Web Technologies",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn670_mobile_application_development",
+    "name": "IFN670 Mobile Application Development",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn551_computer_systems_fundamentals",
+    "name": "IFN551 Computer Systems Fundamentals",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn554_databases",
+    "name": "IFN554 Databases",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "skill_machine_learning_(tensorflow,_scikit-learn)",
+    "name": "Machine Learning (TensorFlow, Scikit-learn)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_web_development_(react.js,_node.js,_rest_apis)",
+    "name": "Web Development (React.js, Node.js, REST APIs)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_mobile_development_(react_native,_swift)",
+    "name": "Mobile Development (React Native, Swift)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_cybersecurity_(encryption,_network_security)",
+    "name": "Cybersecurity (Encryption, Network Security)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_data_science_(python,_sql,_pandas)",
+    "name": "Data Science (Python, SQL, Pandas)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_networking_(tcp/ip,_wifi_csi_analysis)",
+    "name": "Networking (TCP/IP, WiFi CSI Analysis)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_systems_design_(uml,_agile_methodologies)",
+    "name": "Systems Design (UML, Agile Methodologies)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_cloud_computing_(aws_basics)",
+    "name": "Cloud Computing (AWS Basics)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "interest_artificial_intelligence_and_machine_learning",
+    "name": "Artificial Intelligence and Machine Learning",
+    "entity_type": "INTEREST",
+    "properties": {}
+  },
+  {
+    "id": "interest_cybersecurity_and_privacy-by-design_systems",
+    "name": "Cybersecurity and Privacy-By-Design Systems",
+    "entity_type": "INTEREST",
+    "properties": {}
+  },
+  {
+    "id": "interest_iot_and_smart_home_technologies",
+    "name": "IoT and Smart Home Technologies",
+    "entity_type": "INTEREST",
+    "properties": {}
+  },
+  {
+    "id": "interest_mobile_and_web_application_development",
+    "name": "Mobile and Web Application Development",
+    "entity_type": "INTEREST",
+    "properties": {}
+  },
+  {
+    "id": "interest_wireless_networking_protocols",
+    "name": "Wireless Networking Protocols",
+    "entity_type": "INTEREST",
+    "properties": {}
+  }
+]

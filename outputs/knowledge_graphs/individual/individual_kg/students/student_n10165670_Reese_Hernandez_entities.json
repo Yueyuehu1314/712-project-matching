@@ -1,0 +1,145 @@
+[
+  {
+    "id": "student_n10165670",
+    "name": "Reese Hernandez",
+    "entity_type": "STUDENT",
+    "properties": {
+      "student_id": "n10165670",
+      "major": "Computer Science and Data Science",
+      "year": "4th Year",
+      "file_path": "profile_md/JZhang_IFN712 Project Proposal 1_2025_CS /n10165670_Reese_Hernandez.md"
+    }
+  },
+  {
+    "id": "major_computer_science_and_data_science",
+    "name": "Computer Science and Data Science",
+    "entity_type": "MAJOR",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn556_object_oriented_programming",
+    "name": "IFN556 Object Oriented Programming",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn564_machine_learning",
+    "name": "IFN564 Machine Learning",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn563_algorithms_and_complexity",
+    "name": "IFN563 Algorithms and Complexity",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn552_systems_analysis_and_design",
+    "name": "IFN552 Systems Analysis and Design",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn666_web_technologies",
+    "name": "IFN666 Web Technologies",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn565_advanced_programming",
+    "name": "IFN565 Advanced Programming",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn554_databases",
+    "name": "IFN554 Databases",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn555_introduction_to_programming",
+    "name": "IFN555 Introduction to Programming",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "skill_python_(scikit-learn,_tensorflow,_pytorch)",
+    "name": "Python (scikit-learn, TensorFlow, PyTorch)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_sql_and_nosql_databases",
+    "name": "SQL and NoSQL databases",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_react.js_and_node.js",
+    "name": "React.js and Node.js",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_data_visualization_(tableau,_d3.js)",
+    "name": "Data visualization (Tableau, D3.js)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_statistical_analysis_(r,_spss)",
+    "name": "Statistical analysis (R, SPSS)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_image_processing_(opencv,_pil)",
+    "name": "Image processing (OpenCV, PIL)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_agile_project_management",
+    "name": "Agile project management",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_restful_api_development",
+    "name": "RESTful API development",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "interest_medical_imaging_and_diagnostics",
+    "name": "Medical imaging and diagnostics",
+    "entity_type": "INTEREST",
+    "properties": {}
+  },
+  {
+    "id": "interest_machine_learning_in_healthcare",
+    "name": "Machine learning in healthcare",
+    "entity_type": "INTEREST",
+    "properties": {}
+  },
+  {
+    "id": "interest_chronic_disease_data_analytics",
+    "name": "Chronic disease data analytics",
+    "entity_type": "INTEREST",
+    "properties": {}
+  },
+  {
+    "id": "interest_web_application_development",
+    "name": "Web application development",
+    "entity_type": "INTEREST",
+    "properties": {}
+  },
+  {
+    "id": "interest_public_health_technology",
+    "name": "Public health technology",
+    "entity_type": "INTEREST",
+    "properties": {}
+  }
+]

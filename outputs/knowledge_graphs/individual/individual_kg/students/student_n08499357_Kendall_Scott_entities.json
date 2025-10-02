@@ -1,0 +1,145 @@
+[
+  {
+    "id": "student_n08499357",
+    "name": "Kendall Scott",
+    "entity_type": "STUDENT",
+    "properties": {
+      "student_id": "n08499357",
+      "major": "Computer Science and Data Analytics",
+      "year": "3rd Year",
+      "file_path": "profile_md/JZhang_IFN712 Project Proposal 1_2025_CS /n08499357_Kendall_Scott.md"
+    }
+  },
+  {
+    "id": "major_computer_science_and_data_analytics",
+    "name": "Computer Science and Data Analytics",
+    "entity_type": "MAJOR",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn556_object_oriented_programming",
+    "name": "IFN556 Object Oriented Programming",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn564_machine_learning",
+    "name": "IFN564 Machine Learning",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn563_algorithms_and_complexity",
+    "name": "IFN563 Algorithms and Complexity",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn552_systems_analysis_and_design",
+    "name": "IFN552 Systems Analysis and Design",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn666_web_technologies",
+    "name": "IFN666 Web Technologies",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn565_advanced_programming",
+    "name": "IFN565 Advanced Programming",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn554_databases",
+    "name": "IFN554 Databases",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn555_introduction_to_programming",
+    "name": "IFN555 Introduction to Programming",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "skill_python_(pandas,_numpy,_scikit-learn,_tensorflow)",
+    "name": "Python (Pandas, NumPy, Scikit-learn, TensorFlow)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_machine_learning_(supervised/unsupervised_learning,_model_evaluation)",
+    "name": "Machine learning (supervised/unsupervised learning, model evaluation)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_web_development_(react,_flask,_rest_apis)",
+    "name": "Web development (React, Flask, REST APIs)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_sql_and_nosql_database_management",
+    "name": "SQL and NoSQL database management",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_data_visualization_(matplotlib,_tableau,_d3.js)",
+    "name": "Data visualization (Matplotlib, Tableau, D3.js)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_image_processing_(opencv,_pil)",
+    "name": "Image processing (OpenCV, PIL)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_statistical_analysis_(r,_hypothesis_testing)",
+    "name": "Statistical analysis (R, hypothesis testing)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_agile_project_management_and_collaborative_coding_(git)",
+    "name": "Agile project management and collaborative coding (Git)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "interest_medical_imaging_and_ai-driven_diagnostics",
+    "name": "Medical imaging and AI-driven diagnostics",
+    "entity_type": "INTEREST",
+    "properties": {}
+  },
+  {
+    "id": "interest_healthcare_data_science_and_analytics",
+    "name": "Healthcare data science and analytics",
+    "entity_type": "INTEREST",
+    "properties": {}
+  },
+  {
+    "id": "interest_web_development_for_clinical_applications",
+    "name": "Web development for clinical applications",
+    "entity_type": "INTEREST",
+    "properties": {}
+  },
+  {
+    "id": "interest_machine_learning_model_optimization",
+    "name": "Machine learning model optimization",
+    "entity_type": "INTEREST",
+    "properties": {}
+  },
+  {
+    "id": "interest_chronic_disease_pattern_analysis",
+    "name": "Chronic disease pattern analysis",
+    "entity_type": "INTEREST",
+    "properties": {}
+  }
+]

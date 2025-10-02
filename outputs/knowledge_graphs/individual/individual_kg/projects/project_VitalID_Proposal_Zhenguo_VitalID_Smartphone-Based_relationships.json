@@ -1,0 +1,72 @@
+[
+  {
+    "source_id": "project_VitalID_Proposal_Zhenguo",
+    "target_id": "major_software_development",
+    "relation_type": "REQUIRES_MAJOR",
+    "weight": 1.0,
+    "properties": {}
+  },
+  {
+    "source_id": "project_VitalID_Proposal_Zhenguo",
+    "target_id": "major_computer",
+    "relation_type": "REQUIRES_MAJOR",
+    "weight": 1.0,
+    "properties": {}
+  },
+  {
+    "source_id": "project_VitalID_Proposal_Zhenguo",
+    "target_id": "skill_machine_learning",
+    "relation_type": "REQUIRES_SKILL",
+    "weight": 1.0,
+    "properties": {}
+  },
+  {
+    "source_id": "project_VitalID_Proposal_Zhenguo",
+    "target_id": "skill_data_science",
+    "relation_type": "REQUIRES_SKILL",
+    "weight": 1.0,
+    "properties": {}
+  },
+  {
+    "source_id": "project_VitalID_Proposal_Zhenguo",
+    "target_id": "skill_cybersecurity",
+    "relation_type": "REQUIRES_SKILL",
+    "weight": 1.0,
+    "properties": {}
+  },
+  {
+    "source_id": "project_VitalID_Proposal_Zhenguo",
+    "target_id": "skill_mobile_development",
+    "relation_type": "REQUIRES_SKILL",
+    "weight": 1.0,
+    "properties": {}
+  },
+  {
+    "source_id": "project_VitalID_Proposal_Zhenguo",
+    "target_id": "skill_networking",
+    "relation_type": "REQUIRES_SKILL",
+    "weight": 1.0,
+    "properties": {}
+  },
+  {
+    "source_id": "project_VitalID_Proposal_Zhenguo",
+    "target_id": "tech_python",
+    "relation_type": "USES_TECHNOLOGY",
+    "weight": 1.0,
+    "properties": {}
+  },
+  {
+    "source_id": "project_VitalID_Proposal_Zhenguo",
+    "target_id": "tech_tensorflow",
+    "relation_type": "USES_TECHNOLOGY",
+    "weight": 1.0,
+    "properties": {}
+  },
+  {
+    "source_id": "project_VitalID_Proposal_Zhenguo",
+    "target_id": "supervisor_yanming_feng_<y.feng@qut.edu.au>,",
+    "relation_type": "SUPERVISED_BY",
+    "weight": 1.0,
+    "properties": {}
+  }
+]

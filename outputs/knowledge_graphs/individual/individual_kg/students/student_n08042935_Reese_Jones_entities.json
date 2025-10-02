@@ -1,0 +1,139 @@
+[
+  {
+    "id": "student_n08042935",
+    "name": "Reese Jones",
+    "entity_type": "STUDENT",
+    "properties": {
+      "student_id": "n08042935",
+      "major": "Business Analysis",
+      "year": "3rd Year",
+      "file_path": "profile_md/IFN712_proposal-2025_IT skills_survery-1/n08042935_Reese_Jones.md"
+    }
+  },
+  {
+    "id": "major_business_analysis",
+    "name": "Business Analysis",
+    "entity_type": "MAJOR",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn552_systems_analysis_and_design",
+    "name": "IFN552 Systems Analysis and Design",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn551_computer_systems_fundamentals",
+    "name": "IFN551 Computer Systems Fundamentals",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn554_databases",
+    "name": "IFN554 Databases",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn666_web_technologies",
+    "name": "IFN666 Web Technologies",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn555_introduction_to_programming",
+    "name": "IFN555 Introduction to Programming",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn556_object_oriented_programming",
+    "name": "IFn556 Object Oriented Programming",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn564_machine_learning",
+    "name": "IFN564 Machine Learning",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "skill_machine_learning_(python,_scikit-learn)",
+    "name": "Machine Learning (Python, Scikit-learn)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_web_development_(html,_css,_javascript,_react,_node.js)",
+    "name": "Web Development (HTML, CSS, JavaScript, React, Node.js)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_database_management_(sql,_mongodb)",
+    "name": "Database Management (SQL, MongoDB)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_business_analysis_(tableau,_power_bi,_uml)",
+    "name": "Business Analysis (Tableau, Power BI, UML)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_programming_(python,_java,_c#)",
+    "name": "Programming (Python, Java, C#)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_agile_methodologies",
+    "name": "Agile Methodologies",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_systems_modeling_(er_diagrams,_bpmn)",
+    "name": "Systems Modeling (ER Diagrams, BPMN)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_stakeholder_communication",
+    "name": "Stakeholder Communication",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "interest_data-driven_decision-making",
+    "name": "Data-driven decision-making",
+    "entity_type": "INTEREST",
+    "properties": {}
+  },
+  {
+    "id": "interest_web_development_and_user_experience_design",
+    "name": "Web development and user experience design",
+    "entity_type": "INTEREST",
+    "properties": {}
+  },
+  {
+    "id": "interest_machine_learning_applications_in_engineering",
+    "name": "Machine learning applications in engineering",
+    "entity_type": "INTEREST",
+    "properties": {}
+  },
+  {
+    "id": "interest_industry_4.0_and_smart_infrastructure",
+    "name": "Industry 4.0 and smart infrastructure",
+    "entity_type": "INTEREST",
+    "properties": {}
+  },
+  {
+    "id": "interest_business_process_reengineering",
+    "name": "Business process reengineering",
+    "entity_type": "INTEREST",
+    "properties": {}
+  }
+]

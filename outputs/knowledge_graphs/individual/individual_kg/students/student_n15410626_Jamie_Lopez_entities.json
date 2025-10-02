@@ -1,0 +1,145 @@
+[
+  {
+    "id": "student_n15410626",
+    "name": "Jamie Lopez",
+    "entity_type": "STUDENT",
+    "properties": {
+      "student_id": "n15410626",
+      "major": "Software Development",
+      "year": "3rd Year",
+      "file_path": "profile_md/VitalID_Proposal_Zhenguo/n15410626_Jamie_Lopez.md"
+    }
+  },
+  {
+    "id": "major_software_development",
+    "name": "Software Development",
+    "entity_type": "MAJOR",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn555_introduction_to_programming",
+    "name": "IFN555 Introduction to Programming",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn564_machine_learning",
+    "name": "IFN564 Machine Learning",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn666_web_technologies",
+    "name": "IFN666 Web Technologies",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn623_cyber_security",
+    "name": "IFN623 Cyber Security",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn670_mobile_application_development",
+    "name": "IFN670 Mobile Application Development",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn553_introduction_to_security_and_networking",
+    "name": "IFN553 Introduction to Security and Networking",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn668_advanced_software_engineering",
+    "name": "IFN668 Advanced Software Engineering",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn554_databases",
+    "name": "IFN554 Databases",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "skill_machine_learning_(python,_tensorflow,_scikit-learn)",
+    "name": "Machine Learning (Python, TensorFlow, scikit-learn)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_web_development_(react,_node.js,_rest_apis)",
+    "name": "Web Development (React, Node.js, REST APIs)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_mobile_development_(android_studio,_kotlin,_swift)",
+    "name": "Mobile Development (Android Studio, Kotlin, Swift)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_cybersecurity_(cryptography,_threat_modeling,_gdpr_compliance)",
+    "name": "Cybersecurity (Cryptography, Threat Modeling, GDPR Compliance)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_networking_(tcp/ip,_api_integration,_secure_protocols)",
+    "name": "Networking (TCP/IP, API Integration, Secure Protocols)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_databases_(mysql,_mongodb,_sql_optimization)",
+    "name": "Databases (MySQL, MongoDB, SQL Optimization)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_software_engineering_(agile,_git,_ci/cd)",
+    "name": "Software Engineering (Agile, Git, CI/CD)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_data_science_(pandas,_numpy,_data_visualization)",
+    "name": "Data Science (Pandas, NumPy, Data Visualization)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "interest_cybersecurity_and_privacy-preserving_technologies",
+    "name": "Cybersecurity and privacy-preserving technologies",
+    "entity_type": "INTEREST",
+    "properties": {}
+  },
+  {
+    "id": "interest_mobile_application_development",
+    "name": "Mobile application development",
+    "entity_type": "INTEREST",
+    "properties": {}
+  },
+  {
+    "id": "interest_machine_learning_for_biometric_systems",
+    "name": "Machine learning for biometric systems",
+    "entity_type": "INTEREST",
+    "properties": {}
+  },
+  {
+    "id": "interest_data_science_and_predictive_analytics",
+    "name": "Data science and predictive analytics",
+    "entity_type": "INTEREST",
+    "properties": {}
+  },
+  {
+    "id": "interest_open-source_software_collaboration",
+    "name": "Open-source software collaboration",
+    "entity_type": "INTEREST",
+    "properties": {}
+  }
+]

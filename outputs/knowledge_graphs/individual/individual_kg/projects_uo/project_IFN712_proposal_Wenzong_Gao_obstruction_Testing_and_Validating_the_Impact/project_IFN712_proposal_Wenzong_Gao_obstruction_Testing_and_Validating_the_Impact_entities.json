@@ -1,0 +1,192 @@
+[
+  {
+    "id": "project_IFN712_proposal_Wenzong_Gao_obstruction",
+    "name": "Testing and Validating the Impact",
+    "entity_type": "PROJECT",
+    "properties": {
+      "description": "Systems (GNSS), such as GPS, are essential for accurate positioning in a wide range of applications. In real-world environments, GNSS receivers are often deployed in locations where satellite signals may be blocked or degraded by obstacles such as buildings, trees, or other structures. These obstructions can cause signal loss, multipath effects, and ultimately reduce the accuracy and precision of GNSS-based positioning.  This project aims to systematically evaluate how signal obstructions impact the precision of GNSS positioning. In our setup, multiple GNSS receivers have been installed in environments with varying degrees of obstruction. Some receivers experience clear sky visibility, while others are partially or heavily blocked by surrounding obstacles.  The proposed methodology involves identifying and removing GNSS satellite signals that are affected by these obstacles---typically those arriving from certain azimuth (direction) and elevation (angle above the horizon) ranges. By processing the GNSS data both with and without these obstructed signals, the project will quantify the resulting changes in positioning accuracy and precision. This approach allows for a controlled analysis of how different types and degrees of signal blockage impact positioning results.  Expected outcomes include a reproducible method for filtering obstructed signals, quantitative assessments of precision degradation due to obstacles, and practical recommendations for optimizing GNSS receiver placement and data quality in challenging environments. -   How does simulated removal of GNSS signals from certain azimuth and elevation ranges impact positioning accuracy and precision?  -   How do the effects of signal obstruction vary across different datasets and environmental conditions?  -   What are the minimum sky visibility requirements for maintaining acceptable GNSS positioning accuracy in obstructed areas?  -   What strategies can be recommended for GNSS data quality control and receiver deployment in challenging environments? -    RTKLIB manual (http://www.rtklib.com/prog/m anual\\_2.4.2.pdf)  -   Langley, R. B. (1999). Dilution of precision. *GPS world*, *10*(5), 52-59.  -   Hussain, A., Akhtar, F., Khand, Z. H., Rajput, A., & Shaukat, Z. (2021). Complexity and limitations of GNSS signal reception in highly obstructed enviroments. *Engineering, Technology & Applied Science Research*, *11*(2), 6864-6868.  -   Springer Handbook of Global Navigation Satellite Systems. (2017). <https://doi.org/10.1007/978- 3-319-42928-1> Students majoring data science and computer science can participate in the project.  Programming skills (Python or Matlab) ☐ Project IP vests in the Student with a license back to Industry Partner **(license)**  OR  ☐ Project IP vests in the Industry Partner with a licence back to the Student **(assignment)**  OR  ☒ Academic project 3-5       The supervising team will shortlist the candidates after their application.",
+      "supervisor": "Yanming Feng, y.feng\\@qut.edu.au",
+      "file_path": "project_md/IFN712_proposal_Wenzong_Gao_obstruction.md"
+    }
+  },
+  {
+    "id": "major_data_science_and_computer_science",
+    "name": "Data Science and Computer Science",
+    "entity_type": "MAJOR",
+    "properties": {}
+  },
+  {
+    "id": "skill_machine_learning",
+    "name": "machine learning",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_data_science",
+    "name": "data science",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_mobile_development",
+    "name": "mobile development",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "tech_python",
+    "name": "Python",
+    "entity_type": "TECHNOLOGY",
+    "properties": {}
+  },
+  {
+    "id": "supervisor_yanming_feng,_y.feng\\@qut.edu.au",
+    "name": "Yanming Feng, y.feng\\@qut.edu.au",
+    "entity_type": "SUPERVISOR",
+    "properties": {}
+  },
+  {
+    "id": "unit_qut_IN20_39851_int_cms_unit",
+    "name": "Master of Information Technology",
+    "entity_type": "UNIT",
+    "properties": {
+      "unit_id": "qut_IN20_39851_int_cms_unit",
+      "majors": [
+        "Business Analysis",
+        "Computer Science",
+        "Data Science",
+        "Software Development",
+        "Cyber Security and Networks",
+        "Enterprise Systems",
+        "Executive IT"
+      ],
+      "skills": [
+        "machine learning",
+        "data science",
+        "web development",
+        "cybersecurity",
+        "business analysis",
+        "software engineering",
+        "database management",
+        "networking",
+        "cloud computing",
+        "project management",
+        "user experience"
+      ]
+    }
+  },
+  {
+    "id": "skill_web_development",
+    "name": "web development",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_cybersecurity",
+    "name": "cybersecurity",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_business_analysis",
+    "name": "business analysis",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_software_engineering",
+    "name": "software engineering",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_database_management",
+    "name": "database management",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_networking",
+    "name": "networking",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_cloud_computing",
+    "name": "cloud computing",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_project_management",
+    "name": "project management",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_user_experience",
+    "name": "user experience",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "tech_java",
+    "name": "Java",
+    "entity_type": "TECHNOLOGY",
+    "properties": {}
+  },
+  {
+    "id": "tech_javascript",
+    "name": "JavaScript",
+    "entity_type": "TECHNOLOGY",
+    "properties": {}
+  },
+  {
+    "id": "tech_react",
+    "name": "React",
+    "entity_type": "TECHNOLOGY",
+    "properties": {}
+  },
+  {
+    "id": "tech_sql",
+    "name": "SQL",
+    "entity_type": "TECHNOLOGY",
+    "properties": {}
+  },
+  {
+    "id": "tech_sap",
+    "name": "SAP",
+    "entity_type": "TECHNOLOGY",
+    "properties": {}
+  },
+  {
+    "id": "tech_c#",
+    "name": "C#",
+    "entity_type": "TECHNOLOGY",
+    "properties": {}
+  },
+  {
+    "id": "tech_flask",
+    "name": "Flask",
+    "entity_type": "TECHNOLOGY",
+    "properties": {}
+  },
+  {
+    "id": "outcome_qut_IN20_39851_int_cms_unit_0",
+    "name": "how the principles of Object-Oriented programming ...",
+    "entity_type": "LEARNING_OUTCOME",
+    "properties": {}
+  },
+  {
+    "id": "outcome_qut_IN20_39851_int_cms_unit_1",
+    "name": "how to identify potential objects and classes by e...",
+    "entity_type": "LEARNING_OUTCOME",
+    "properties": {}
+  },
+  {
+    "id": "outcome_qut_IN20_39851_int_cms_unit_2",
+    "name": "how such designs are professionally communicated a...",
+    "entity_type": "LEARNING_OUTCOME",
+    "properties": {}
+  }
+]

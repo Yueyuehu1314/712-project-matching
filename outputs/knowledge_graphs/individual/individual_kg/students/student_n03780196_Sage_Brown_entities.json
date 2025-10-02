@@ -1,0 +1,145 @@
+[
+  {
+    "id": "student_n03780196",
+    "name": "Sage Brown",
+    "entity_type": "STUDENT",
+    "properties": {
+      "student_id": "n03780196",
+      "major": "Data Science (Minor in Computer Science)",
+      "year": "3rd Year",
+      "file_path": "profile_md/IFN712_proposal_Wenzong_Gao_orbit/n03780196_Sage_Brown.md"
+    }
+  },
+  {
+    "id": "major_data_science_(minor_in_computer_science)",
+    "name": "Data Science (Minor in Computer Science)",
+    "entity_type": "MAJOR",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn556_object_oriented_programming",
+    "name": "IFN556 Object Oriented Programming",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn563_algorithms_and_complexity",
+    "name": "IFN563 Algorithms and Complexity",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn555_introduction_to_programming",
+    "name": "IFN555 Introduction to Programming",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn632_advanced_data_analytics",
+    "name": "IFN632 Advanced Data Analytics",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn551_computer_systems_fundamentals",
+    "name": "IFN551 Computer Systems Fundamentals",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn564_machine_learning",
+    "name": "IFN564 Machine Learning",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn565_advanced_programming",
+    "name": "IFN565 Advanced Programming",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn552_systems_analysis_and_design",
+    "name": "IFN552 Systems Analysis and Design",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "skill_python_(numpy,_pandas,_scikit-learn,_tensorflow)",
+    "name": "Python (NumPy, Pandas, Scikit-learn, TensorFlow)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_java_and_c++_programming",
+    "name": "Java and C++ programming",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_machine_learning_(regression,_clustering,_neural_networks)",
+    "name": "Machine learning (regression, clustering, neural networks)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_data_visualization_(matplotlib,_tableau)",
+    "name": "Data visualization (Matplotlib, Tableau)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_networking_protocols_(tcp/ip,_udp)",
+    "name": "Networking protocols (TCP/IP, UDP)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_cloud_computing_(aws,_azure)",
+    "name": "Cloud computing (AWS, Azure)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_sql_and_nosql_databases",
+    "name": "SQL and NoSQL databases",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_real-time_data_processing_(apache_kafka)",
+    "name": "Real-time data processing (Apache Kafka)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "interest_machine_learning_and_predictive_modeling",
+    "name": "Machine learning and predictive modeling",
+    "entity_type": "INTEREST",
+    "properties": {}
+  },
+  {
+    "id": "interest_geospatial_data_analysis",
+    "name": "Geospatial data analysis",
+    "entity_type": "INTEREST",
+    "properties": {}
+  },
+  {
+    "id": "interest_algorithm_optimization",
+    "name": "Algorithm optimization",
+    "entity_type": "INTEREST",
+    "properties": {}
+  },
+  {
+    "id": "interest_distributed_systems_and_networking",
+    "name": "Distributed systems and networking",
+    "entity_type": "INTEREST",
+    "properties": {}
+  },
+  {
+    "id": "interest_internet_of_things_(iot)",
+    "name": "Internet of Things (IoT)",
+    "entity_type": "INTEREST",
+    "properties": {}
+  }
+]

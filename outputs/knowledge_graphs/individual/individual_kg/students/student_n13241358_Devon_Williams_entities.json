@@ -1,0 +1,145 @@
+[
+  {
+    "id": "student_n13241358",
+    "name": "Devon Williams",
+    "entity_type": "STUDENT",
+    "properties": {
+      "student_id": "n13241358",
+      "major": "Computer Science and Data Science",
+      "year": "3rd Year",
+      "file_path": "profile_md/ZaenabAlammar_IFN712 Project Proposal 1_2025_CS_/n13241358_Devon_Williams.md"
+    }
+  },
+  {
+    "id": "major_computer_science_and_data_science",
+    "name": "Computer Science and Data Science",
+    "entity_type": "MAJOR",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn552_systems_analysis_and_design",
+    "name": "IFN552 Systems Analysis and Design",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn564_machine_learning",
+    "name": "IFN564 Machine Learning",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn565_advanced_programming",
+    "name": "IFN565 Advanced Programming",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn551_computer_systems_fundamentals",
+    "name": "IFN551 Computer Systems Fundamentals",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn563_algorithms_and_complexity",
+    "name": "IFN563 Algorithms and Complexity",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn556_object_oriented_programming",
+    "name": "IFN556 Object Oriented Programming",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn666_web_technologies",
+    "name": "IFN666 Web Technologies",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn555_introduction_to_programming",
+    "name": "IFN555 Introduction to Programming",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "skill_machine_learning_(tensorflow,_scikit-learn)",
+    "name": "Machine learning (TensorFlow, Scikit-learn)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_web_development_(django,_react,_flask)",
+    "name": "Web development (Django, React, Flask)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_data_science_(pandas,_numpy,_matplotlib)",
+    "name": "Data science (Pandas, NumPy, Matplotlib)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_database_systems_(sql,_mongodb)",
+    "name": "Database systems (SQL, MongoDB)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_networking_protocols_and_api_integration",
+    "name": "Networking protocols and API integration",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_image_processing_(opencv,_pil)",
+    "name": "Image processing (OpenCV, PIL)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_python,_java,_javascript",
+    "name": "Python, Java, JavaScript",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_git_and_collaborative_software_workflows",
+    "name": "Git and collaborative software workflows",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "interest_medical_ai_and_diagnostic_tools",
+    "name": "Medical AI and diagnostic tools",
+    "entity_type": "INTEREST",
+    "properties": {}
+  },
+  {
+    "id": "interest_machine_learning_model_optimization",
+    "name": "Machine learning model optimization",
+    "entity_type": "INTEREST",
+    "properties": {}
+  },
+  {
+    "id": "interest_web_application_development",
+    "name": "Web application development",
+    "entity_type": "INTEREST",
+    "properties": {}
+  },
+  {
+    "id": "interest_healthcare_data_analytics",
+    "name": "Healthcare data analytics",
+    "entity_type": "INTEREST",
+    "properties": {}
+  },
+  {
+    "id": "interest_open-source_software_contribution",
+    "name": "Open-source software contribution",
+    "entity_type": "INTEREST",
+    "properties": {}
+  }
+]

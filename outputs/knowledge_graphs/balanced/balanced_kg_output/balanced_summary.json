@@ -1,0 +1,210 @@
+{
+  "total_projects": 20,
+  "successful": 20,
+  "failed": 0,
+  "success_rate": "100.0%",
+  "timestamp": "2025-09-13T12:40:58.984135",
+  "description": "平衡知识图谱：保留PD重要技能 + 标注UO支撑情况",
+  "results": [
+    {
+      "project": "IFN712 Project Proposal Template_2025_CS -3",
+      "status": "success",
+      "total_nodes": 33,
+      "total_edges": 38,
+      "supported_skills": 5,
+      "extended_skills": 3,
+      "units": 12,
+      "programs": 12
+    },
+    {
+      "project": "VitalID_Proposal_Zhenguo",
+      "status": "success",
+      "total_nodes": 33,
+      "total_edges": 37,
+      "supported_skills": 4,
+      "extended_skills": 4,
+      "units": 12,
+      "programs": 12
+    },
+    {
+      "project": "Plant_sensing_Proposal_Zhenguo",
+      "status": "success",
+      "total_nodes": 33,
+      "total_edges": 38,
+      "supported_skills": 5,
+      "extended_skills": 3,
+      "units": 12,
+      "programs": 12
+    },
+    {
+      "project": "IFN712 Project 13-1",
+      "status": "success",
+      "total_nodes": 33,
+      "total_edges": 38,
+      "supported_skills": 5,
+      "extended_skills": 3,
+      "units": 12,
+      "programs": 12
+    },
+    {
+      "project": "IFN712_25se2-Bradford-01",
+      "status": "success",
+      "total_nodes": 33,
+      "total_edges": 50,
+      "supported_skills": 5,
+      "extended_skills": 3,
+      "units": 12,
+      "programs": 12
+    },
+    {
+      "project": "IFN712_proposal_conversational_agent_prosody",
+      "status": "success",
+      "total_nodes": 33,
+      "total_edges": 37,
+      "supported_skills": 5,
+      "extended_skills": 3,
+      "units": 12,
+      "programs": 12
+    },
+    {
+      "project": "IFN712 Project Proposal Template_2025_Feng_V2P",
+      "status": "success",
+      "total_nodes": 33,
+      "total_edges": 46,
+      "supported_skills": 5,
+      "extended_skills": 3,
+      "units": 12,
+      "programs": 12
+    },
+    {
+      "project": "ZaenabAlammar_IFN712 Project Proposal 1_2025_CS_",
+      "status": "success",
+      "total_nodes": 33,
+      "total_edges": 48,
+      "supported_skills": 5,
+      "extended_skills": 3,
+      "units": 12,
+      "programs": 12
+    },
+    {
+      "project": "IFN712_proposal_Wenzong_Gao_insar",
+      "status": "success",
+      "total_nodes": 33,
+      "total_edges": 39,
+      "supported_skills": 4,
+      "extended_skills": 4,
+      "units": 12,
+      "programs": 12
+    },
+    {
+      "project": "HAR_WiFi_Proposal_Zhenguo-1",
+      "status": "success",
+      "total_nodes": 33,
+      "total_edges": 37,
+      "supported_skills": 4,
+      "extended_skills": 4,
+      "units": 12,
+      "programs": 12
+    },
+    {
+      "project": "IFN712 Project Proposal - Business Analysis for ICT skills",
+      "status": "success",
+      "total_nodes": 33,
+      "total_edges": 39,
+      "supported_skills": 4,
+      "extended_skills": 4,
+      "units": 12,
+      "programs": 12
+    },
+    {
+      "project": "JZhang_IFN712 Project Proposal 1_2025_CS ",
+      "status": "success",
+      "total_nodes": 32,
+      "total_edges": 35,
+      "supported_skills": 3,
+      "extended_skills": 4,
+      "units": 12,
+      "programs": 12
+    },
+    {
+      "project": "IFN712 Project 14-1",
+      "status": "success",
+      "total_nodes": 33,
+      "total_edges": 47,
+      "supported_skills": 5,
+      "extended_skills": 3,
+      "units": 12,
+      "programs": 12
+    },
+    {
+      "project": "IFN712 Project Proposal - Vicky Liu Sem 2 2025",
+      "status": "success",
+      "total_nodes": 33,
+      "total_edges": 47,
+      "supported_skills": 5,
+      "extended_skills": 3,
+      "units": 12,
+      "programs": 12
+    },
+    {
+      "project": "IFN712_proposal-2025_IT skills_survery-1",
+      "status": "success",
+      "total_nodes": 33,
+      "total_edges": 40,
+      "supported_skills": 5,
+      "extended_skills": 3,
+      "units": 12,
+      "programs": 12
+    },
+    {
+      "project": "Localization_Proposal_Zhenguo",
+      "status": "success",
+      "total_nodes": 33,
+      "total_edges": 38,
+      "supported_skills": 5,
+      "extended_skills": 3,
+      "units": 12,
+      "programs": 12
+    },
+    {
+      "project": "IFN712 Project Proposal Template_2025_Project matching",
+      "status": "success",
+      "total_nodes": 33,
+      "total_edges": 37,
+      "supported_skills": 4,
+      "extended_skills": 4,
+      "units": 12,
+      "programs": 12
+    },
+    {
+      "project": "IFN712 Project 12-1",
+      "status": "success",
+      "total_nodes": 33,
+      "total_edges": 38,
+      "supported_skills": 5,
+      "extended_skills": 3,
+      "units": 12,
+      "programs": 12
+    },
+    {
+      "project": "IFN712_proposal_Wenzong_Gao_orbit",
+      "status": "success",
+      "total_nodes": 33,
+      "total_edges": 40,
+      "supported_skills": 5,
+      "extended_skills": 3,
+      "units": 12,
+      "programs": 12
+    },
+    {
+      "project": "IFN712_proposal_Wenzong_Gao_obstruction",
+      "status": "success",
+      "total_nodes": 33,
+      "total_edges": 39,
+      "supported_skills": 4,
+      "extended_skills": 4,
+      "units": 12,
+      "programs": 12
+    }
+  ]
+}

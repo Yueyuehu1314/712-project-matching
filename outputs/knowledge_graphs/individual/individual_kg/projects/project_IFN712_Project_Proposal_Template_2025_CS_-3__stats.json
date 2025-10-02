@@ -1,0 +1,17 @@
+{
+  "entity_id": "project_IFN712_Project_Proposal_Template_2025_CS_-3",
+  "name": "",
+  "type": "project",
+  "total_entities": 8,
+  "total_relationships": 7,
+  "entity_types": {
+    "PROJECT": 1,
+    "SKILL": 6,
+    "TECHNOLOGY": 1
+  },
+  "relation_types": {
+    "REQUIRES_SKILL": 6,
+    "USES_TECHNOLOGY": 1
+  },
+  "created_at": "2025-09-08T14:48:29.464942"
+}

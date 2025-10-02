@@ -1,0 +1,145 @@
+[
+  {
+    "id": "student_n05458643",
+    "name": "Kendall Johnson",
+    "entity_type": "STUDENT",
+    "properties": {
+      "student_id": "n05458643",
+      "major": "Data Science",
+      "year": "4th Year",
+      "file_path": "profile_md/IFN712_proposal_conversational_agent_prosody/n05458643_Kendall_Johnson.md"
+    }
+  },
+  {
+    "id": "major_data_science",
+    "name": "Data Science",
+    "entity_type": "MAJOR",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn619_data_analytics_and_visualisation",
+    "name": "IFN619 Data Analytics and Visualisation",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn563_algorithms_and_complexity",
+    "name": "IFN563 Algorithms and Complexity",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn565_advanced_programming",
+    "name": "IFN565 Advanced Programming",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn552_systems_analysis_and_design",
+    "name": "IFN552 Systems Analysis and Design",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn555_introduction_to_programming",
+    "name": "IFN555 Introduction to Programming",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn564_machine_learning",
+    "name": "IFN564 Machine Learning",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn551_computer_systems_fundamentals",
+    "name": "IFN551 Computer Systems Fundamentals",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn554_databases",
+    "name": "IFN554 Databases",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "skill_python_(pandas,_numpy,_scikit-learn,_tensorflow)",
+    "name": "Python (Pandas, NumPy, Scikit-learn, TensorFlow)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_sql_and_nosql_databases",
+    "name": "SQL and NoSQL databases",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_nlp_and_text_processing_(nltk,_spacy)",
+    "name": "NLP and text processing (NLTK, spaCy)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_speech_processing_(pydub,_librosa)",
+    "name": "Speech processing (PyDub, Librosa)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_data_visualization_(matplotlib,_tableau)",
+    "name": "Data visualization (Matplotlib, Tableau)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_cloud_platforms_(aws,_gcp)",
+    "name": "Cloud platforms (AWS, GCP)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_git_and_collaborative_workflows",
+    "name": "Git and collaborative workflows",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_statistical_modeling",
+    "name": "Statistical modeling",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "interest_affective_computing",
+    "name": "Affective computing",
+    "entity_type": "INTEREST",
+    "properties": {}
+  },
+  {
+    "id": "interest_voice_interface_design",
+    "name": "Voice interface design",
+    "entity_type": "INTEREST",
+    "properties": {}
+  },
+  {
+    "id": "interest_ai_ethics",
+    "name": "AI ethics",
+    "entity_type": "INTEREST",
+    "properties": {}
+  },
+  {
+    "id": "interest_data_visualization",
+    "name": "Data visualization",
+    "entity_type": "INTEREST",
+    "properties": {}
+  },
+  {
+    "id": "interest_music_and_sound_analysis",
+    "name": "Music and sound analysis",
+    "entity_type": "INTEREST",
+    "properties": {}
+  }
+]

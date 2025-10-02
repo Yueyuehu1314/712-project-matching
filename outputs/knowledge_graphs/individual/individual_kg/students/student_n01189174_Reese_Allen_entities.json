@@ -1,0 +1,145 @@
+[
+  {
+    "id": "student_n01189174",
+    "name": "Reese Allen",
+    "entity_type": "STUDENT",
+    "properties": {
+      "student_id": "n01189174",
+      "major": "Software Development",
+      "year": "3rd Year",
+      "file_path": "profile_md/VitalID_Proposal_Zhenguo/n01189174_Reese_Allen.md"
+    }
+  },
+  {
+    "id": "major_software_development",
+    "name": "Software Development",
+    "entity_type": "MAJOR",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn555_introduction_to_programming",
+    "name": "IFN555 Introduction to Programming",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn564_machine_learning",
+    "name": "IFN564 Machine Learning",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn666_web_technologies",
+    "name": "IFN666 Web Technologies",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn623_cyber_security",
+    "name": "IFN623 Cyber Security",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn670_mobile_application_development",
+    "name": "IFN670 Mobile Application Development",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn553_introduction_to_security_and_networking",
+    "name": "IFN553 Introduction to Security and Networking",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn668_advanced_software_engineering",
+    "name": "IFN668 Advanced Software Engineering",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn554_databases",
+    "name": "IFN554 Databases",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "skill_python_(machine_learning,_data_analysis)",
+    "name": "Python (machine learning, data analysis)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_react_native_(mobile_app_development)",
+    "name": "React Native (mobile app development)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_node.js/express_(web_backend)",
+    "name": "Node.js/Express (web backend)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_tensorflow/keras_(ml_frameworks)",
+    "name": "TensorFlow/Keras (ML frameworks)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_sql/nosql_databases",
+    "name": "SQL/NoSQL databases",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_secure_api_design_(oauth,_jwt)",
+    "name": "Secure API design (OAuth, JWT)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_network_protocol_analysis",
+    "name": "Network protocol analysis",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_mobile_sensor_integration",
+    "name": "Mobile sensor integration",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "interest_mobile_app_development_for_health_tech",
+    "name": "Mobile app development for health tech",
+    "entity_type": "INTEREST",
+    "properties": {}
+  },
+  {
+    "id": "interest_machine_learning_in_biometric_systems",
+    "name": "Machine learning in biometric systems",
+    "entity_type": "INTEREST",
+    "properties": {}
+  },
+  {
+    "id": "interest_open-source_software_contributions",
+    "name": "Open-source software contributions",
+    "entity_type": "INTEREST",
+    "properties": {}
+  },
+  {
+    "id": "interest_ethical_hacking_and_penetration_testing",
+    "name": "Ethical hacking and penetration testing",
+    "entity_type": "INTEREST",
+    "properties": {}
+  },
+  {
+    "id": "interest_cybersecurity_policy_and_regulations",
+    "name": "Cybersecurity policy and regulations",
+    "entity_type": "INTEREST",
+    "properties": {}
+  }
+]

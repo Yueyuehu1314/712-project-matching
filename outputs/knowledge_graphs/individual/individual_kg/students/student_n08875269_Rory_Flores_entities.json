@@ -1,0 +1,145 @@
+[
+  {
+    "id": "student_n08875269",
+    "name": "Rory Flores",
+    "entity_type": "STUDENT",
+    "properties": {
+      "student_id": "n08875269",
+      "major": "Computer Science with a Minor in Cyber Security",
+      "year": "4th Year",
+      "file_path": "profile_md/IFN712 Project Proposal - Vicky Liu Sem 2 2025/n08875269_Rory_Flores.md"
+    }
+  },
+  {
+    "id": "major_computer_science_with_a_minor_in_cyber_security",
+    "name": "Computer Science with a Minor in Cyber Security",
+    "entity_type": "MAJOR",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn564_machine_learning",
+    "name": "IFN564 Machine Learning",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn554_databases",
+    "name": "IFN554 Databases",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn565_advanced_programming",
+    "name": "IFN565 Advanced Programming",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn552_systems_analysis_and_design",
+    "name": "IFN552 Systems Analysis and Design",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn556_object_oriented_programming",
+    "name": "IFN556 Object Oriented Programming",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn666_web_technologies",
+    "name": "IFN666 Web Technologies",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn551_computer_systems_fundamentals",
+    "name": "IFN551 Computer Systems Fundamentals",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn623_cyber_security",
+    "name": "IFN623 Cyber Security",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "skill_web_development_(html/css,_javascript,_react)",
+    "name": "Web Development (HTML/CSS, JavaScript, React)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_cybersecurity_(encryption,_firewall_management)",
+    "name": "Cybersecurity (Encryption, Firewall Management)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_networking_(tcp/ip,_mqtt,_wi-fi_protocols)",
+    "name": "Networking (TCP/IP, MQTT, Wi-Fi Protocols)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_machine_learning_(python,_tensorflow)",
+    "name": "Machine Learning (Python, TensorFlow)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_database_systems_(sql,_mongodb)",
+    "name": "Database Systems (SQL, MongoDB)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_systems_design_(uml,_api_integration)",
+    "name": "Systems Design (UML, API Integration)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_programming_(python,_java,_c++)",
+    "name": "Programming (Python, Java, C++)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_data_visualization_(tableau,_d3.js)",
+    "name": "Data Visualization (Tableau, D3.js)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "interest_internet_of_things_(iot)",
+    "name": "Internet of Things (IoT)",
+    "entity_type": "INTEREST",
+    "properties": {}
+  },
+  {
+    "id": "interest_smart_city_sustainability",
+    "name": "Smart City Sustainability",
+    "entity_type": "INTEREST",
+    "properties": {}
+  },
+  {
+    "id": "interest_cybersecurity_research",
+    "name": "Cybersecurity Research",
+    "entity_type": "INTEREST",
+    "properties": {}
+  },
+  {
+    "id": "interest_data_science_and_analytics",
+    "name": "Data Science and Analytics",
+    "entity_type": "INTEREST",
+    "properties": {}
+  },
+  {
+    "id": "interest_open-source_software_development",
+    "name": "Open-Source Software Development",
+    "entity_type": "INTEREST",
+    "properties": {}
+  }
+]

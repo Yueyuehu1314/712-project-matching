@@ -1,0 +1,139 @@
+[
+  {
+    "id": "student_n09492178",
+    "name": "Hayden Moore",
+    "entity_type": "STUDENT",
+    "properties": {
+      "student_id": "n09492178",
+      "major": "Business Analysis",
+      "year": "3rd Year",
+      "file_path": "profile_md/IFN712_proposal-2025_IT skills_survery-1/n09492178_Hayden_Moore.md"
+    }
+  },
+  {
+    "id": "major_business_analysis",
+    "name": "Business Analysis",
+    "entity_type": "MAJOR",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn552_systems_analysis_and_design",
+    "name": "IFN552 Systems Analysis and Design",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn551_computer_systems_fundamentals",
+    "name": "IFN551 Computer Systems Fundamentals",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn554_databases",
+    "name": "IFN554 Databases",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn666_web_technologies",
+    "name": "IFN666 Web Technologies",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn555_introduction_to_programming",
+    "name": "IFN555 Introduction to Programming",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn556_object_oriented_programming",
+    "name": "IFN556 Object Oriented Programming",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn564_machine_learning",
+    "name": "IFN564 Machine Learning",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "skill_machine_learning_(python,_scikit-learn,_tensorflow)",
+    "name": "Machine learning (Python, Scikit-learn, TensorFlow)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_web_development_(react,_node.js,_html/css)",
+    "name": "Web development (React, Node.js, HTML/CSS)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_business_analysis_(swot,_kpis,_use_case_modeling)",
+    "name": "Business analysis (SWOT, KPIs, use case modeling)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_database_management_(sql,_mongodb)",
+    "name": "Database management (SQL, MongoDB)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_data_visualization_(tableau,_power_bi)",
+    "name": "Data visualization (Tableau, Power BI)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_agile_project_management",
+    "name": "Agile project management",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_object-oriented_programming_(java,_c#)",
+    "name": "Object-oriented programming (Java, C#)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_cloud_computing_(aws_basics)",
+    "name": "Cloud computing (AWS basics)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "interest_data_analytics_and_visualization",
+    "name": "Data analytics and visualization",
+    "entity_type": "INTEREST",
+    "properties": {}
+  },
+  {
+    "id": "interest_web_application_development",
+    "name": "Web application development",
+    "entity_type": "INTEREST",
+    "properties": {}
+  },
+  {
+    "id": "interest_business_strategy_and_operations",
+    "name": "Business strategy and operations",
+    "entity_type": "INTEREST",
+    "properties": {}
+  },
+  {
+    "id": "interest_machine_learning_in_industry_applications",
+    "name": "Machine learning in industry applications",
+    "entity_type": "INTEREST",
+    "properties": {}
+  },
+  {
+    "id": "interest_cross-sector_collaboration",
+    "name": "Cross-sector collaboration",
+    "entity_type": "INTEREST",
+    "properties": {}
+  }
+]

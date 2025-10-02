@@ -1,0 +1,145 @@
+[
+  {
+    "id": "student_n03497884",
+    "name": "Peyton Brown",
+    "entity_type": "STUDENT",
+    "properties": {
+      "student_id": "n03497884",
+      "major": "Data Science with a concentration in Computer Science",
+      "year": "2nd Year Master's",
+      "file_path": "profile_md/IFN712 Project 13-1/n03497884_Peyton_Brown.md"
+    }
+  },
+  {
+    "id": "major_data_science_with_a_concentration_in_computer_science",
+    "name": "Data Science with a concentration in Computer Science",
+    "entity_type": "MAJOR",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn551_computer_systems_fundamentals",
+    "name": "IFN551 Computer Systems Fundamentals",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn632_advanced_data_analytics",
+    "name": "IFN632 Advanced Data Analytics",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn563_algorithms_and_complexity",
+    "name": "IFN563 Algorithms and Complexity",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn564_machine_learning",
+    "name": "IFN564 Machine Learning",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn619_data_analytics_and_visualisation",
+    "name": "IFN619 Data Analytics and Visualisation",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn666_web_technologies",
+    "name": "IFN666 Web Technologies",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn553_introduction_to_security_and_networking",
+    "name": "IFN553 Introduction to Security and Networking",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn623_cyber_security",
+    "name": "IFN623 Cyber Security",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "skill_python_(numpy,_pandas,_scikit-learn)",
+    "name": "Python (NumPy, Pandas, Scikit-learn)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_machine_learning_(supervised/unsupervised_techniques)",
+    "name": "Machine learning (supervised/unsupervised techniques)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_web_development_(flask,_javascript)",
+    "name": "Web development (Flask, JavaScript)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_cybersecurity_tools_(wireshark,_kali_linux)",
+    "name": "Cybersecurity tools (Wireshark, Kali Linux)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_data_visualization_(matplotlib,_tableau)",
+    "name": "Data visualization (Matplotlib, Tableau)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_network_protocols_(tcp/ip,_http)",
+    "name": "Network protocols (TCP/IP, HTTP)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_feature_selection_methods_(pca,_lasso)",
+    "name": "Feature selection methods (PCA, LASSO)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_cloud_platforms_(aws,_google_cloud)",
+    "name": "Cloud platforms (AWS, Google Cloud)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "interest_machine_learning_optimization",
+    "name": "Machine learning optimization",
+    "entity_type": "INTEREST",
+    "properties": {}
+  },
+  {
+    "id": "interest_cybersecurity_for_iot_systems",
+    "name": "Cybersecurity for IoT systems",
+    "entity_type": "INTEREST",
+    "properties": {}
+  },
+  {
+    "id": "interest_data_visualization_techniques",
+    "name": "Data visualization techniques",
+    "entity_type": "INTEREST",
+    "properties": {}
+  },
+  {
+    "id": "interest_network_protocol_analysis",
+    "name": "Network protocol analysis",
+    "entity_type": "INTEREST",
+    "properties": {}
+  },
+  {
+    "id": "interest_python-based_web_development",
+    "name": "Python-based web development",
+    "entity_type": "INTEREST",
+    "properties": {}
+  }
+]

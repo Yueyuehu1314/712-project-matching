@@ -1,0 +1,145 @@
+[
+  {
+    "id": "student_n10303522",
+    "name": "Cameron Miller",
+    "entity_type": "STUDENT",
+    "properties": {
+      "student_id": "n10303522",
+      "major": "Data Science",
+      "year": "Third Year",
+      "file_path": "profile_md/IFN712_proposal_Wenzong_Gao_obstruction/n10303522_Cameron_Miller.md"
+    }
+  },
+  {
+    "id": "major_data_science",
+    "name": "Data Science",
+    "entity_type": "MAJOR",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn554_databases",
+    "name": "IFN554 Databases",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn565_advanced_programming",
+    "name": "IFN565 Advanced Programming",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn619_data_analytics_and_visualisation",
+    "name": "IFN619 Data Analytics and Visualisation",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn551_computer_systems_fundamentals",
+    "name": "IFN551 Computer Systems Fundamentals",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn552_systems_analysis_and_design",
+    "name": "IFN552 Systems Analysis and Design",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn564_machine_learning",
+    "name": "IFN564 Machine Learning",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn555_introduction_to_programming",
+    "name": "IFN555 Introduction to Programming",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn632_advanced_data_analytics",
+    "name": "IFN632 Advanced Data Analytics",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "skill_python_(pandas,_numpy,_scikit-learn)",
+    "name": "Python (Pandas, NumPy, Scikit-learn)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_sql_(postgresql,_mysql)",
+    "name": "SQL (PostgreSQL, MySQL)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_data_visualization_(tableau,_matplotlib)",
+    "name": "Data Visualization (Tableau, Matplotlib)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_machine_learning_(regression,_clustering)",
+    "name": "Machine Learning (Regression, Clustering)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_systems_analysis_and_design",
+    "name": "Systems Analysis and Design",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_business_analysis_(swot,_kpi_development)",
+    "name": "Business Analysis (SWOT, KPI Development)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_git_and_version_control",
+    "name": "Git and Version Control",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_jupyter_notebook",
+    "name": "Jupyter Notebook",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "interest_data_science",
+    "name": "Data Science",
+    "entity_type": "INTEREST",
+    "properties": {}
+  },
+  {
+    "id": "interest_gnss_technology",
+    "name": "GNSS Technology",
+    "entity_type": "INTEREST",
+    "properties": {}
+  },
+  {
+    "id": "interest_machine_learning",
+    "name": "Machine Learning",
+    "entity_type": "INTEREST",
+    "properties": {}
+  },
+  {
+    "id": "interest_business_analytics",
+    "name": "Business Analytics",
+    "entity_type": "INTEREST",
+    "properties": {}
+  },
+  {
+    "id": "interest_urban_mobility_systems",
+    "name": "Urban Mobility Systems",
+    "entity_type": "INTEREST",
+    "properties": {}
+  }
+]

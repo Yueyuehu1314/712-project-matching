@@ -1,0 +1,139 @@
+[
+  {
+    "id": "student_n05891550",
+    "name": "Reagan Chen",
+    "entity_type": "STUDENT",
+    "properties": {
+      "student_id": "n05891550",
+      "major": "Business Analysis",
+      "year": "2nd Year",
+      "file_path": "profile_md/IFN712_proposal-2025_IT skills_survery-1/n05891550_Reagan_Chen.md"
+    }
+  },
+  {
+    "id": "major_business_analysis",
+    "name": "Business Analysis",
+    "entity_type": "MAJOR",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn552_systems_analysis_and_design",
+    "name": "IFN552 Systems Analysis and Design",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn551_computer_systems_fundamentals",
+    "name": "IFN551 Computer Systems Fundamentals",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn554_databases",
+    "name": "IFN554 Databases",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn666_web_technologies",
+    "name": "IFN666 Web Technologies",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn555_introduction_to_programming",
+    "name": "IFN555 Introduction to Programming",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn556_object_oriented_programming",
+    "name": "IFN556 Object Oriented Programming",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn564_machine_learning",
+    "name": "IFN564 Machine Learning",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "skill_machine_learning_(python,_scikit-learn,_tensorflow)",
+    "name": "Machine learning (Python, scikit-learn, TensorFlow)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_web_development_(react,_node.js,_rest_apis)",
+    "name": "Web development (React, Node.js, REST APIs)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_business_analysis_(swot,_kpi_frameworks,_jira)",
+    "name": "Business analysis (SWOT, KPI frameworks, JIRA)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_database_management_(sql,_mongodb)",
+    "name": "Database management (SQL, MongoDB)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_data_visualization_(tableau,_power_bi)",
+    "name": "Data visualization (Tableau, Power BI)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_agile_project_management",
+    "name": "Agile project management",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_systems_modeling_(uml,_er_diagrams)",
+    "name": "Systems modeling (UML, ER diagrams)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_cloud_computing_(aws_basics)",
+    "name": "Cloud computing (AWS basics)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "interest_data-driven_urban_planning",
+    "name": "Data-driven urban planning",
+    "entity_type": "INTEREST",
+    "properties": {}
+  },
+  {
+    "id": "interest_it_implementation_in_engineering_sectors",
+    "name": "IT implementation in engineering sectors",
+    "entity_type": "INTEREST",
+    "properties": {}
+  },
+  {
+    "id": "interest_user-centered_software_design",
+    "name": "User-centered software design",
+    "entity_type": "INTEREST",
+    "properties": {}
+  },
+  {
+    "id": "interest_predictive_analytics_in_business",
+    "name": "Predictive analytics in business",
+    "entity_type": "INTEREST",
+    "properties": {}
+  },
+  {
+    "id": "interest_cross-industry_collaboration",
+    "name": "Cross-industry collaboration",
+    "entity_type": "INTEREST",
+    "properties": {}
+  }
+]

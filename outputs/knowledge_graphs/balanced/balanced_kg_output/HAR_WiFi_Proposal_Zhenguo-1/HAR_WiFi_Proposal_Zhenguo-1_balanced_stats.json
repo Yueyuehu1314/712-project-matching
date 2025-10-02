@@ -1,0 +1,9 @@
+{
+  "project": "HAR_WiFi_Proposal_Zhenguo-1",
+  "total_nodes": 33,
+  "total_edges": 37,
+  "supported_skills": 4,
+  "extended_skills": 4,
+  "units": 12,
+  "programs": 12
+}

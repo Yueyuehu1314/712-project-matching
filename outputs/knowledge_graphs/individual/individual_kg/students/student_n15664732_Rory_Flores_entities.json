@@ -1,0 +1,145 @@
+[
+  {
+    "id": "student_n15664732",
+    "name": "Rory Flores",
+    "entity_type": "STUDENT",
+    "properties": {
+      "student_id": "n15664732",
+      "major": "Computer Science and Cybersecurity",
+      "year": "3rd Year",
+      "file_path": "profile_md/IFN712 Project 12-1/n15664732_Rory_Flores.md"
+    }
+  },
+  {
+    "id": "major_computer_science_and_cybersecurity",
+    "name": "Computer Science and Cybersecurity",
+    "entity_type": "MAJOR",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn619_data_analytics_and_visualisation",
+    "name": "IFN619 Data Analytics and Visualisation",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn565_advanced_programming",
+    "name": "IFN565 Advanced Programming",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn551_computer_systems_fundamentals",
+    "name": "IFN551 Computer Systems Fundamentals",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn666_web_technologies",
+    "name": "IFN666 Web Technologies",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn623_cyber_security",
+    "name": "IFN623 Cyber Security",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn555_introduction_to_programming",
+    "name": "IFN555 Introduction to Programming",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn552_systems_analysis_and_design",
+    "name": "IFN552 Systems Analysis and Design",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn556_object_oriented_programming",
+    "name": "IFN556 Object Oriented Programming",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "skill_**machine_learning**:_scikit-learn,_tensorflow,_pytorch",
+    "name": "**Machine Learning**: Scikit-learn, TensorFlow, PyTorch",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_**programming**:_python,_java,_javascript,_c++",
+    "name": "**Programming**: Python, Java, JavaScript, C++",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_**networking**:_tcp/ip,_dns,_http,_wireshark",
+    "name": "**Networking**: TCP/IP, DNS, HTTP, Wireshark",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_**web_development**:_django,_react,_node.js",
+    "name": "**Web Development**: Django, React, Node.js",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_**cybersecurity**:_nmap,_metasploit,_firewalls",
+    "name": "**Cybersecurity**: Nmap, Metasploit, Firewalls",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_**data_science**:_pandas,_numpy,_matplotlib",
+    "name": "**Data Science**: Pandas, NumPy, Matplotlib",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_**cloud_platforms**:_aws,_google_cloud_platform",
+    "name": "**Cloud Platforms**: AWS, Google Cloud Platform",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_**databases**:_mysql,_mongodb",
+    "name": "**Databases**: MySQL, MongoDB",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "interest_cybersecurity_research",
+    "name": "Cybersecurity research",
+    "entity_type": "INTEREST",
+    "properties": {}
+  },
+  {
+    "id": "interest_machine_learning_for_anomaly_detection",
+    "name": "Machine learning for anomaly detection",
+    "entity_type": "INTEREST",
+    "properties": {}
+  },
+  {
+    "id": "interest_network_protocols_and_architecture",
+    "name": "Network protocols and architecture",
+    "entity_type": "INTEREST",
+    "properties": {}
+  },
+  {
+    "id": "interest_data_visualization_techniques",
+    "name": "Data visualization techniques",
+    "entity_type": "INTEREST",
+    "properties": {}
+  },
+  {
+    "id": "interest_ethical_hacking_and_penetration_testing",
+    "name": "Ethical hacking and penetration testing",
+    "entity_type": "INTEREST",
+    "properties": {}
+  }
+]

@@ -1,0 +1,145 @@
+[
+  {
+    "id": "student_n00201193",
+    "name": "Reagan Anderson",
+    "entity_type": "STUDENT",
+    "properties": {
+      "student_id": "n00201193",
+      "major": "Computer Science",
+      "year": "3rd Year",
+      "file_path": "profile_md/IFN712 Project 14-1/n00201193_Reagan_Anderson.md"
+    }
+  },
+  {
+    "id": "major_computer_science",
+    "name": "Computer Science",
+    "entity_type": "MAJOR",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn564_machine_learning",
+    "name": "IFN564 Machine Learning",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn563_algorithms_and_complexity",
+    "name": "IFN563 Algorithms and Complexity",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn551_computer_systems_fundamentals",
+    "name": "IFN551 Computer Systems Fundamentals",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn555_introduction_to_programming",
+    "name": "IFN555 Introduction to Programming",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn553_introduction_to_security_and_networking",
+    "name": "IFN553 Introduction to Security and Networking",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn552_systems_analysis_and_design",
+    "name": "IFN552 Systems Analysis and Design",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn554_databases",
+    "name": "IFN554 Databases",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn556_object_oriented_programming",
+    "name": "IFN556 Object Oriented Programming",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "skill_machine_learning_(scikit-learn,_tensorflow,_keras)",
+    "name": "Machine learning (Scikit-learn, TensorFlow, Keras)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_web_development_(react,_node.js)",
+    "name": "Web development (React, Node.js)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_data_science_(python,_r,_sql)",
+    "name": "Data science (Python, R, SQL)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_cybersecurity_(firewalls,_encryption,_threat_modeling)",
+    "name": "Cybersecurity (firewalls, encryption, threat modeling)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_networking_(tcp/ip,_wireshark,_network_simulation)",
+    "name": "Networking (TCP/IP, Wireshark, network simulation)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_business_analysis_(sql,_tableau,_stakeholder_communication)",
+    "name": "Business analysis (SQL, Tableau, stakeholder communication)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_programming_(python,_java,_c++)",
+    "name": "Programming (Python, Java, C++)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_databases_(mysql,_mongodb,_nosql)",
+    "name": "Databases (MySQL, MongoDB, NoSQL)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "interest_machine_learning_model_optimization",
+    "name": "Machine learning model optimization",
+    "entity_type": "INTEREST",
+    "properties": {}
+  },
+  {
+    "id": "interest_cybersecurity_for_iot_systems",
+    "name": "Cybersecurity for IoT systems",
+    "entity_type": "INTEREST",
+    "properties": {}
+  },
+  {
+    "id": "interest_data_analysis_and_visualization",
+    "name": "Data analysis and visualization",
+    "entity_type": "INTEREST",
+    "properties": {}
+  },
+  {
+    "id": "interest_network_protocol_design",
+    "name": "Network protocol design",
+    "entity_type": "INTEREST",
+    "properties": {}
+  },
+  {
+    "id": "interest_ethical_hacking_and_penetration_testing",
+    "name": "Ethical hacking and penetration testing",
+    "entity_type": "INTEREST",
+    "properties": {}
+  }
+]

@@ -1,0 +1,204 @@
+[
+  {
+    "id": "project_HAR_WiFi_Proposal_Zhenguo-1",
+    "name": "AI-Based Human Activity",
+    "entity_type": "PROJECT",
+    "properties": {
+      "description": "Accurate activity recognition plays an important role in smart home and healthcare systems, particularly in supporting independent living for older adults. For scenarios such as fall detection and daily activity monitoring, WiFi Channel State Information (CSI) offers a low-cost, device-free, and privacy-conscious sensing approach. Compared to camera-based or wearable systems, WiFi-based solutions are easier to deploy and generally better accepted by users.  Despite its advantages, CSI-based human activity recognition faces several technical hurdles. Existing public datasets are often limited in both scale and diversity, which restricts the generalizability of trained models. The presence of noise, multipath effects, and environmental changes further complicates real-time signal interpretation. In addition, many prior studies rely on specific hardware setups, making wider adoption challenging. This project aims to address these limitations by applying data augmentation techniques, improving signal processing methods, and developing robust AI models for activity recognition. The goal is to create a practical and reliable solution that can operate effectively in real-world indoor environments.  **Objectives:**  1.  Dataset Acquisition and Augmentation：Review and assess publicly available CSI datasets for human activity recognition. If necessary, collect additional data in controlled environments. Explore the use of generative models, such as GANs, to expand the dataset and improve coverage of activity types and environmental conditions.  2.  Signal Processing and Feature Extraction: Develop preprocessing methods to improve the quality of CSI signals, including noise filtering, phase calibration, and subcarrier selection. Apply time-frequency analysis to extract motion-relevant features for classification tasks.  3.  Network Model Design: Design and evaluate a range of learning models---such as convolutional, recurrent, or transformer-based architectures---for recognizing human activities from CSI data. Emphasis will be placed on classification accuracy and robustness across different settings.  4.  System Evaluation: Test the system's performance on various activities, across different physical environments and user profiles. Use cross-validation and live trials to assess generalization ability, stability, and response consistency.  5.  Deployment Feasibility Study: Examine the practicality of running the system in real time using commonly available WiFi hardware, such as the Intel 5300 NIC or low-cost embedded platforms like ESP32.  **Expected Outcomes:**  A functional HAR prototype using CSI and AI models will be developed. The system will be tested with both real and synthetic data to evaluate accuracy, robustness, and response time. An augmented CSI dataset and benchmarking results across models and signal pipelines will also be delivered. The project will demonstrate the feasibility of privacy-preserving, non-intrusive activity recognition using WiFi sensing, with potential for smart home deployment. -   Human Activity Recognition (HAR)  -   WiFi Channel State Information (CSI)  -   Deep Learning  -   Signal Processing  -   Fall Detection  -   Generative Adversarial Networks (GANs) Research Questions:  -   How can generative models improve the diversity and quality of CSI datasets for HAR?  -   What preprocessing techniques are most effective for denoising and stabilizing CSI signals?  -   Which AI model architectures yield the best performance across different indoor environments?  -   How well can models generalize across subjects and activity types?  -   What is the feasibility of running real-time CSI-based HAR on edge devices? 1)  Wang, Y. et al. \"DeepFi: Deep Learning for Indoor Fingerprinting Using CSI.\" WCNC, 2015.  2)  Qian, Kun, et al. \\\"Widar: Decimeter-level passive tracking via velocity monitoring with commodity Wi-Fi.\\\" *Proceedings of the 18th ACM international symposium on mobile ad hoc networking and computing*. 2017.  3)  Shi, Zhenguo, et al. \\\"Environment-robust device-free human activity recognition with channel-state-information enhancement and one-shot learning.\\\" *IEEE Transactions on Mobile Computing* 21.2 (2020): 540-554.  4)  Shi, Zhenguo, et al. \\\"Environment-robust WiFi-based human activity recognition using enhanced CSI and deep learning.\\\" IEEE Internet of Things Journal 9.24 (2022): 24643-24654.  5)  Mao, Yimin, et al. \\\"Wi-Cro: WiFi-based Cross Domain Activity Recognition via Modified GAN.\\\" *IEEE Transactions on Vehicular Technology* (2024). Software development and computer science majors. It is desirable if students have or willing to develop skills in the following areas:  -   Familiarity with deep learning (PyTorch, TensorFlow)  -   Background in wireless networks and signal processing  -   Experience with GANs or data augmentation techniques  -   Practical skills in data collection, preprocessing, and model training  -   Understanding of WiFi CSI tools (e.g., Intel 5300 CSI Tool, Nexmon, ESP32 SDK) ☐ Project IP vests in the student with a license back to Industry Partner **(licence)**  OR  ☐ Project IP vests in the Industry Partner/Project owner with a licence back to the student **(assignment)**  OR  ☒ Academic project (No IP agreement needed) 5         ",
+      "supervisor": "Yanming Feng <y.feng@qut.edu.au>,",
+      "file_path": "project_md/HAR_WiFi_Proposal_Zhenguo-1.md"
+    }
+  },
+  {
+    "id": "major_software_development",
+    "name": "Software Development",
+    "entity_type": "MAJOR",
+    "properties": {}
+  },
+  {
+    "id": "major_computer",
+    "name": "Computer",
+    "entity_type": "MAJOR",
+    "properties": {}
+  },
+  {
+    "id": "skill_machine_learning",
+    "name": "machine learning",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_data_science",
+    "name": "data science",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_mobile_development",
+    "name": "mobile development",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_networking",
+    "name": "networking",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "tech_tensorflow",
+    "name": "TensorFlow",
+    "entity_type": "TECHNOLOGY",
+    "properties": {}
+  },
+  {
+    "id": "supervisor_yanming_feng_<y.feng@qut.edu.au>,",
+    "name": "Yanming Feng <y.feng@qut.edu.au>,",
+    "entity_type": "SUPERVISOR",
+    "properties": {}
+  },
+  {
+    "id": "unit_qut_IN20_39851_int_cms_unit",
+    "name": "Master of Information Technology",
+    "entity_type": "UNIT",
+    "properties": {
+      "unit_id": "qut_IN20_39851_int_cms_unit",
+      "majors": [
+        "Business Analysis",
+        "Computer Science",
+        "Data Science",
+        "Software Development",
+        "Cyber Security and Networks",
+        "Enterprise Systems",
+        "Executive IT"
+      ],
+      "skills": [
+        "machine learning",
+        "data science",
+        "web development",
+        "cybersecurity",
+        "business analysis",
+        "software engineering",
+        "database management",
+        "networking",
+        "cloud computing",
+        "project management",
+        "user experience"
+      ]
+    }
+  },
+  {
+    "id": "skill_web_development",
+    "name": "web development",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_cybersecurity",
+    "name": "cybersecurity",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_business_analysis",
+    "name": "business analysis",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_software_engineering",
+    "name": "software engineering",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_database_management",
+    "name": "database management",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_cloud_computing",
+    "name": "cloud computing",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_project_management",
+    "name": "project management",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_user_experience",
+    "name": "user experience",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "tech_python",
+    "name": "Python",
+    "entity_type": "TECHNOLOGY",
+    "properties": {}
+  },
+  {
+    "id": "tech_java",
+    "name": "Java",
+    "entity_type": "TECHNOLOGY",
+    "properties": {}
+  },
+  {
+    "id": "tech_javascript",
+    "name": "JavaScript",
+    "entity_type": "TECHNOLOGY",
+    "properties": {}
+  },
+  {
+    "id": "tech_react",
+    "name": "React",
+    "entity_type": "TECHNOLOGY",
+    "properties": {}
+  },
+  {
+    "id": "tech_sql",
+    "name": "SQL",
+    "entity_type": "TECHNOLOGY",
+    "properties": {}
+  },
+  {
+    "id": "tech_sap",
+    "name": "SAP",
+    "entity_type": "TECHNOLOGY",
+    "properties": {}
+  },
+  {
+    "id": "tech_c#",
+    "name": "C#",
+    "entity_type": "TECHNOLOGY",
+    "properties": {}
+  },
+  {
+    "id": "tech_flask",
+    "name": "Flask",
+    "entity_type": "TECHNOLOGY",
+    "properties": {}
+  },
+  {
+    "id": "outcome_qut_IN20_39851_int_cms_unit_0",
+    "name": "how the principles of Object-Oriented programming ...",
+    "entity_type": "LEARNING_OUTCOME",
+    "properties": {}
+  },
+  {
+    "id": "outcome_qut_IN20_39851_int_cms_unit_1",
+    "name": "how to identify potential objects and classes by e...",
+    "entity_type": "LEARNING_OUTCOME",
+    "properties": {}
+  },
+  {
+    "id": "outcome_qut_IN20_39851_int_cms_unit_2",
+    "name": "how such designs are professionally communicated a...",
+    "entity_type": "LEARNING_OUTCOME",
+    "properties": {}
+  }
+]

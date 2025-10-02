@@ -1,0 +1,19 @@
+{
+  "entity_id": "project_IFN712_proposal_conversational_agent_prosody",
+  "name": "Prosody & Perception: Toward a",
+  "type": "project",
+  "total_entities": 4,
+  "total_relationships": 3,
+  "entity_types": {
+    "PROJECT": 1,
+    "MAJOR": 1,
+    "SKILL": 1,
+    "SUPERVISOR": 1
+  },
+  "relation_types": {
+    "REQUIRES_MAJOR": 1,
+    "REQUIRES_SKILL": 1,
+    "SUPERVISED_BY": 1
+  },
+  "created_at": "2025-09-08T14:48:24.932873"
+}

@@ -1,0 +1,145 @@
+[
+  {
+    "id": "student_n11993026",
+    "name": "Rowan Chen",
+    "entity_type": "STUDENT",
+    "properties": {
+      "student_id": "n11993026",
+      "major": "Data Science and Computer Science",
+      "year": "3rd Year",
+      "file_path": "profile_md/IFN712_proposal_Wenzong_Gao_insar/n11993026_Rowan_Chen.md"
+    }
+  },
+  {
+    "id": "major_data_science_and_computer_science",
+    "name": "Data Science and Computer Science",
+    "entity_type": "MAJOR",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn564_machine_learning",
+    "name": "IFN564 Machine Learning",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn632_advanced_data_analytics",
+    "name": "IFN632 Advanced Data Analytics",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn554_databases",
+    "name": "IFN554 Databases",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn552_systems_analysis_and_design",
+    "name": "IFN552 Systems Analysis and Design",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn551_computer_systems_fundamentals",
+    "name": "IFN551 Computer Systems Fundamentals",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn555_introduction_to_programming",
+    "name": "IFN555 Introduction to Programming",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn556_object_oriented_programming",
+    "name": "IFN556 Object Oriented Programming",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn563_algorithms_and_complexity",
+    "name": "IFN563 Algorithms and Complexity",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "skill_machine_learning_(scikit-learn,_tensorflow)",
+    "name": "Machine learning (scikit-learn, TensorFlow)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_data_science_(pandas,_numpy,_matplotlib)",
+    "name": "Data science (Pandas, NumPy, Matplotlib)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_remote_sensing_data_processing_(gdal,_qgis)",
+    "name": "Remote sensing data processing (GDAL, QGIS)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_programming_(python,_sql,_java)",
+    "name": "Programming (Python, SQL, Java)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_database_management_(mysql,_mongodb)",
+    "name": "Database management (MySQL, MongoDB)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_cloud_computing_(aws,_docker)",
+    "name": "Cloud computing (AWS, Docker)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_gis_software_(arcgis,_grass_gis)",
+    "name": "GIS software (ArcGIS, GRASS GIS)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_algorithm_design_and_optimization",
+    "name": "Algorithm design and optimization",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "interest_remote_sensing_and_geospatial_technologies",
+    "name": "Remote sensing and geospatial technologies",
+    "entity_type": "INTEREST",
+    "properties": {}
+  },
+  {
+    "id": "interest_machine_learning_for_environmental_applications",
+    "name": "Machine learning for environmental applications",
+    "entity_type": "INTEREST",
+    "properties": {}
+  },
+  {
+    "id": "interest_data_visualization_and_storytelling",
+    "name": "Data visualization and storytelling",
+    "entity_type": "INTEREST",
+    "properties": {}
+  },
+  {
+    "id": "interest_open-source_software_development",
+    "name": "Open-source software development",
+    "entity_type": "INTEREST",
+    "properties": {}
+  },
+  {
+    "id": "interest_urban_sustainability_and_infrastructure_resilience",
+    "name": "Urban sustainability and infrastructure resilience",
+    "entity_type": "INTEREST",
+    "properties": {}
+  }
+]

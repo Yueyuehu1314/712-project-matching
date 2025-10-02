@@ -1,0 +1,145 @@
+[
+  {
+    "id": "student_n03962866",
+    "name": "Tyler Thompson",
+    "entity_type": "STUDENT",
+    "properties": {
+      "student_id": "n03962866",
+      "major": "Software Development",
+      "year": "4th Year",
+      "file_path": "profile_md/IFN712 Project Proposal Template_2025_Project matching/n03962866_Tyler_Thompson.md"
+    }
+  },
+  {
+    "id": "major_software_development",
+    "name": "Software Development",
+    "entity_type": "MAJOR",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn554_databases",
+    "name": "IFN554 Databases",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn553_introduction_to_security_and_networking",
+    "name": "IFN553 Introduction to Security and Networking",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn555_introduction_to_programming",
+    "name": "IFN555 Introduction to Programming",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn668_advanced_software_engineering",
+    "name": "IFN668 Advanced Software Engineering",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn552_systems_analysis_and_design",
+    "name": "IFN552 Systems Analysis and Design",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn556_object_oriented_programming",
+    "name": "IFN556 Object Oriented Programming",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn551_computer_systems_fundamentals",
+    "name": "IFN551 Computer Systems Fundamentals",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn623_cyber_security",
+    "name": "IFN623 Cyber Security",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "skill_**web_development**:_html/css,_javascript,_react,_node.js",
+    "name": "**Web Development**: HTML/CSS, JavaScript, React, Node.js",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_**data_science**:_python,_sql,_pandas,_scikit-learn",
+    "name": "**Data Science**: Python, SQL, Pandas, Scikit-learn",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_**cybersecurity**:_ssl/tls,_penetration_testing,_network_firewalls",
+    "name": "**Cybersecurity**: SSL/TLS, penetration testing, network firewalls",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_**databases**:_mysql,_mongodb,_nosql",
+    "name": "**Databases**: MySQL, MongoDB, NoSQL",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_**software_engineering**:_agile/scrum,_git,_rest_apis",
+    "name": "**Software Engineering**: Agile/Scrum, Git, REST APIs",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_**cloud_platforms**:_aws,_docker",
+    "name": "**Cloud Platforms**: AWS, Docker",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_**machine_learning**:_tensorflow,_pytorch,_clustering_algorithms",
+    "name": "**Machine Learning**: TensorFlow, PyTorch, clustering algorithms",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_**systems_design**:_uml,_microservices_architecture",
+    "name": "**Systems Design**: UML, microservices architecture",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "interest_machine_learning_and_ai_ethics",
+    "name": "Machine learning and AI ethics",
+    "entity_type": "INTEREST",
+    "properties": {}
+  },
+  {
+    "id": "interest_cybersecurity_frameworks",
+    "name": "Cybersecurity frameworks",
+    "entity_type": "INTEREST",
+    "properties": {}
+  },
+  {
+    "id": "interest_agile_software_development",
+    "name": "Agile software development",
+    "entity_type": "INTEREST",
+    "properties": {}
+  },
+  {
+    "id": "interest_open-source_contribution",
+    "name": "Open-source contribution",
+    "entity_type": "INTEREST",
+    "properties": {}
+  },
+  {
+    "id": "interest_data_privacy_and_governance",
+    "name": "Data privacy and governance",
+    "entity_type": "INTEREST",
+    "properties": {}
+  }
+]

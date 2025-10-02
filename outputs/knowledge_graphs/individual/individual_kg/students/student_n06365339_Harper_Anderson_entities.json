@@ -1,0 +1,145 @@
+[
+  {
+    "id": "student_n06365339",
+    "name": "Harper Anderson",
+    "entity_type": "STUDENT",
+    "properties": {
+      "student_id": "n06365339",
+      "major": "Data Science (with a minor in Computer Science)",
+      "year": "4th Year",
+      "file_path": "profile_md/IFN712_proposal_Wenzong_Gao_insar/n06365339_Harper_Anderson.md"
+    }
+  },
+  {
+    "id": "major_data_science_(with_a_minor_in_computer_science)",
+    "name": "Data Science (with a minor in Computer Science)",
+    "entity_type": "MAJOR",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn564_machine_learning",
+    "name": "IFN564 Machine Learning",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn632_advanced_data_analytics",
+    "name": "IFN632 Advanced Data Analytics",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn554_databases",
+    "name": "IFN554 Databases",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn552_systems_analysis_and_design",
+    "name": "IFN552 Systems Analysis and Design",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn551_computer_systems_fundamentals",
+    "name": "IFN551 Computer Systems Fundamentals",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn555_introduction_to_programming",
+    "name": "IFN555 Introduction to Programming",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn556_object_oriented_programming",
+    "name": "IFN556 Object Oriented Programming",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn563_algorithms_and_complexity",
+    "name": "IFN563 Algorithms and Complexity",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "skill_machine_learning_(scikit-learn,_tensorflow)",
+    "name": "Machine learning (scikit-learn, TensorFlow)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_data_science_(pandas,_numpy,_r)",
+    "name": "Data science (Pandas, NumPy, R)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_python_programming_(django,_flask)",
+    "name": "Python programming (Django, Flask)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_sql_and_nosql_databases_(postgresql,_mongodb)",
+    "name": "SQL and NoSQL databases (PostgreSQL, MongoDB)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_gis_software_(qgis,_arcgis)",
+    "name": "GIS software (QGIS, ArcGIS)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_insar_processing_(snap,_isce)",
+    "name": "InSAR processing (SNAP, ISCE)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_cloud_computing_(aws,_google_cloud)",
+    "name": "Cloud computing (AWS, Google Cloud)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_version_control_(git,_github)",
+    "name": "Version control (Git, GitHub)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "interest_geospatial_technologies_and_environmental_sustainability",
+    "name": "Geospatial technologies and environmental sustainability",
+    "entity_type": "INTEREST",
+    "properties": {}
+  },
+  {
+    "id": "interest_machine_learning_and_ai_ethics",
+    "name": "Machine learning and AI ethics",
+    "entity_type": "INTEREST",
+    "properties": {}
+  },
+  {
+    "id": "interest_remote_sensing_and_satellite_data_analysis",
+    "name": "Remote sensing and satellite data analysis",
+    "entity_type": "INTEREST",
+    "properties": {}
+  },
+  {
+    "id": "interest_open-source_software_development",
+    "name": "Open-source software development",
+    "entity_type": "INTEREST",
+    "properties": {}
+  },
+  {
+    "id": "interest_data_visualization_and_storytelling",
+    "name": "Data visualization and storytelling",
+    "entity_type": "INTEREST",
+    "properties": {}
+  }
+]

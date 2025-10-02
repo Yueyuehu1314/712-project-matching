@@ -1,0 +1,44 @@
+# MinerU OCR 项目依赖包
+# 适用于 Apple Silicon MacBook Pro 的 PDF OCR 处理工具
+
+# 核心 OCR 工具
+mineru[core]>=0.2.0
+
+# 深度学习框架 (苹果芯片优化)
+paddlepaddle>=2.5.0
+
+# 图像处理
+opencv-python>=4.8.0
+Pillow>=10.0.0
+
+# PDF 处理
+PyMuPDF>=1.23.0
+pdfplumber>=0.9.0
+
+# 文本处理和 NLP
+numpy>=1.24.0
+scipy>=1.11.0
+
+# 机器学习支持
+scikit-image>=0.21.0
+transformers>=4.30.0
+
+# 数据处理
+pandas>=2.0.0
+
+# 配置和工具
+pyyaml>=6.0
+tqdm>=4.65.0
+click>=8.1.0
+
+# 开发和调试工具
+loguru>=0.7.0
+
+# 文档转换 (保持现有功能)
+PyPDF2==3.0.1
+python-docx==1.2.0
+python-pptx==1.0.2
+openpyxl==3.1.5
+
+# Apple Silicon GPU 加速支持 (Metal Performance Shaders)
+# 注意：MPS 支持已内置在 PyTorch 和 PaddlePaddle 中

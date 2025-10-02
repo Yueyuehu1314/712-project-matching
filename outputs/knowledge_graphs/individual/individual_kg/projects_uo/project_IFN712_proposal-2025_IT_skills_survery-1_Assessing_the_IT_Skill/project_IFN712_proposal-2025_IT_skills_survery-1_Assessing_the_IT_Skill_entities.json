@@ -1,0 +1,192 @@
+[
+  {
+    "id": "project_IFN712_proposal-2025_IT_skills_survery-1",
+    "name": "Assessing the IT Skill",
+    "entity_type": "PROJECT",
+    "properties": {
+      "description": "specific IT skills required in various professional domains relevant to MIT graduates. Through a combination of industry surveys and in-depth interviews with domain professionals, the project will collect detailed information on the practical application of IT skills in real-world settings.  Researchers will design targeted questionnaires and conduct interviews across selected sectors---such as spatial information, transportation, civil engineering, and mechanical engineering. The focus will be on understanding how core IT competencies, including research and project management skills developed through the MIT program, are applied in these domains.  The data collected will be systematically analyzed to:  -   Identify the most critical IT skills demanded in each sector  -   Highlight skill gaps between academic preparation and industry expectations  -   Offer sector-specific insights into the evolving role of IT in professional practice  **Expected outcomes include:**  -   A set of validated, sector-specific IT skills profiles  -   Recommendations for curriculum enhancements to better align with industry needs  -   Guidance for students and graduates on skills development for targeted career pathways  -   Resources for educators and training providers to improve course relevance and employability outcomes  This project will be conducted in align with the established standard conditions under the approved QUT human ethics application: approval number: 8311 - HE09. -   What are the most in-demand IT skills across selected industry sectors (e.g., spatial, transport, civil, mechanical)?  -   How do IT professionals in different domains apply their technical and project management skills in day-to-day work?  -   What gaps exist between the IT skills taught in MIT coursework and those required in industry practice?  -   How do employers evaluate the importance of soft skills (e.g., communication, teamwork) alongside technical IT skills in hiring decisions?  -   What emerging technologies or tools (e.g., AI, cloud, data analytics) are shaping the future IT skill requirements in each sector?  -   How well does the current MIT curriculum align with the technical and non-technical skills demanded by employers?  -   What specific coursework or experiential learning components (e.g., internships, capstones) best prepare students for IT roles in interdisciplinary sectors?  -   Which IT skill areas are perceived by industry experts as underdeveloped among recent graduates? **Australian Computer Society (ACS). (2021).** *Digital Pulse 2021: Shaping the Future of our Nation.*\\ **Source:** ACS & Deloitte Access Economics.\\ https://www.acs.org.au/insightsan dpublications/reports-publication s/digital-pulse-2021.html\\ **Liyanagunawardena, T. R., & Williams, S. A. (2021).** *Skills Mapping: Using a Text Mining Approach to Identify Skill Gaps in Higher Education Curricula.*\\ **Source:** *British Journal of Educational Technology*, 52(4), 1534--1550.\\ https://doi.org/10.1111/bjet.1307 5\\ **World Economic Forum. (2020).** *The Future of Jobs Report 2020.*\\ **Source:** World Economic Forum.\\ https://www.weforum.org/reports/t he-future-of-jobs-report-2020.  **Jackson, D. (2016).** *Re-conceptualising graduate employability: The importance of pre-professional identity.*\\ **Source:** *Studies in Higher Education*, 41(8), 1237--1258.\\ https://doi.org/10.1080/03075079. 2014.981011 Students majoring Computer Science, BPM and Business Analysis are preferred to work on this project with different research questions or focuses. Each will design and conduct survey and interviews for a specific industry sector. ☐ Project IP vests in the Student with a license back to Industry Partner **(licence)**  OR  ☐ Project IP vests in the Industry Partner with a licence back to the Student **(assignment)**  OR  ☒ Academic project 3-5       The supervising team will shortlist the candidates after their application.",
+      "supervisor": "<y.feng@qut.edu.au>",
+      "file_path": "project_md/IFN712_proposal-2025_IT skills_survery-1.md"
+    }
+  },
+  {
+    "id": "major_business_analysis_major_only",
+    "name": "Business analysis major only",
+    "entity_type": "MAJOR",
+    "properties": {}
+  },
+  {
+    "id": "skill_machine_learning",
+    "name": "machine learning",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_web_development",
+    "name": "web development",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_data_science",
+    "name": "data science",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_mobile_development",
+    "name": "mobile development",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "supervisor_<y.feng@qut.edu.au>",
+    "name": "<y.feng@qut.edu.au>",
+    "entity_type": "SUPERVISOR",
+    "properties": {}
+  },
+  {
+    "id": "unit_qut_IN20_39851_int_cms_unit",
+    "name": "Master of Information Technology",
+    "entity_type": "UNIT",
+    "properties": {
+      "unit_id": "qut_IN20_39851_int_cms_unit",
+      "majors": [
+        "Business Analysis",
+        "Computer Science",
+        "Data Science",
+        "Software Development",
+        "Cyber Security and Networks",
+        "Enterprise Systems",
+        "Executive IT"
+      ],
+      "skills": [
+        "machine learning",
+        "data science",
+        "web development",
+        "cybersecurity",
+        "business analysis",
+        "software engineering",
+        "database management",
+        "networking",
+        "cloud computing",
+        "project management",
+        "user experience"
+      ]
+    }
+  },
+  {
+    "id": "skill_cybersecurity",
+    "name": "cybersecurity",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_business_analysis",
+    "name": "business analysis",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_software_engineering",
+    "name": "software engineering",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_database_management",
+    "name": "database management",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_networking",
+    "name": "networking",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_cloud_computing",
+    "name": "cloud computing",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_project_management",
+    "name": "project management",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_user_experience",
+    "name": "user experience",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "tech_python",
+    "name": "Python",
+    "entity_type": "TECHNOLOGY",
+    "properties": {}
+  },
+  {
+    "id": "tech_java",
+    "name": "Java",
+    "entity_type": "TECHNOLOGY",
+    "properties": {}
+  },
+  {
+    "id": "tech_javascript",
+    "name": "JavaScript",
+    "entity_type": "TECHNOLOGY",
+    "properties": {}
+  },
+  {
+    "id": "tech_react",
+    "name": "React",
+    "entity_type": "TECHNOLOGY",
+    "properties": {}
+  },
+  {
+    "id": "tech_sql",
+    "name": "SQL",
+    "entity_type": "TECHNOLOGY",
+    "properties": {}
+  },
+  {
+    "id": "tech_sap",
+    "name": "SAP",
+    "entity_type": "TECHNOLOGY",
+    "properties": {}
+  },
+  {
+    "id": "tech_c#",
+    "name": "C#",
+    "entity_type": "TECHNOLOGY",
+    "properties": {}
+  },
+  {
+    "id": "tech_flask",
+    "name": "Flask",
+    "entity_type": "TECHNOLOGY",
+    "properties": {}
+  },
+  {
+    "id": "outcome_qut_IN20_39851_int_cms_unit_0",
+    "name": "how the principles of Object-Oriented programming ...",
+    "entity_type": "LEARNING_OUTCOME",
+    "properties": {}
+  },
+  {
+    "id": "outcome_qut_IN20_39851_int_cms_unit_1",
+    "name": "how to identify potential objects and classes by e...",
+    "entity_type": "LEARNING_OUTCOME",
+    "properties": {}
+  },
+  {
+    "id": "outcome_qut_IN20_39851_int_cms_unit_2",
+    "name": "how such designs are professionally communicated a...",
+    "entity_type": "LEARNING_OUTCOME",
+    "properties": {}
+  }
+]

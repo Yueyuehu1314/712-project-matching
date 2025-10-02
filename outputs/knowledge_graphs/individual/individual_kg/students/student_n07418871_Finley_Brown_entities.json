@@ -1,0 +1,145 @@
+[
+  {
+    "id": "student_n07418871",
+    "name": "Finley Brown",
+    "entity_type": "STUDENT",
+    "properties": {
+      "student_id": "n07418871",
+      "major": "Computer Science",
+      "year": "3rd Year",
+      "file_path": "profile_md/IFN712 Project 14-1/n07418871_Finley_Brown.md"
+    }
+  },
+  {
+    "id": "major_computer_science",
+    "name": "Computer Science",
+    "entity_type": "MAJOR",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn564_machine_learning",
+    "name": "IFN564 Machine Learning",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn563_algorithms_and_complexity",
+    "name": "IFN563 Algorithms and Complexity",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn551_computer_systems_fundamentals",
+    "name": "IFN551 Computer Systems Fundamentals",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn555_introduction_to_programming",
+    "name": "IFN555 Introduction to Programming",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn553_introduction_to_security_and_networking",
+    "name": "IFN553 Introduction to Security and Networking",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn552_systems_analysis_and_design",
+    "name": "IFN552 Systems Analysis and Design",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn554_databases",
+    "name": "IFN554 Databases",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn556_object_oriented_programming",
+    "name": "IFN556 Object Oriented Programming",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "skill_python_(scikit-learn,_tensorflow,_pandas)",
+    "name": "Python (Scikit-learn, TensorFlow, Pandas)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_machine_learning_(classification,_hyperparameter_tuning)",
+    "name": "Machine learning (classification, hyperparameter tuning)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_cybersecurity_(intrusion_detection,_network_protocols)",
+    "name": "Cybersecurity (intrusion detection, network protocols)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_web_development_(react,_node.js)",
+    "name": "Web development (React, Node.js)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_database_management_(sql,_mongodb)",
+    "name": "Database management (SQL, MongoDB)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_network_analysis_(wireshark,_nmap)",
+    "name": "Network analysis (Wireshark, Nmap)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_cloud_computing_(aws,_azure)",
+    "name": "Cloud computing (AWS, Azure)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_systems_design_(uml,_rest_apis)",
+    "name": "Systems design (UML, REST APIs)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "interest_artificial_intelligence_ethics",
+    "name": "Artificial intelligence ethics",
+    "entity_type": "INTEREST",
+    "properties": {}
+  },
+  {
+    "id": "interest_network_security_architecture",
+    "name": "Network security architecture",
+    "entity_type": "INTEREST",
+    "properties": {}
+  },
+  {
+    "id": "interest_data_privacy_in_iot_ecosystems",
+    "name": "Data privacy in IoT ecosystems",
+    "entity_type": "INTEREST",
+    "properties": {}
+  },
+  {
+    "id": "interest_web_development_for_security_tools",
+    "name": "Web development for security tools",
+    "entity_type": "INTEREST",
+    "properties": {}
+  },
+  {
+    "id": "interest_business_analytics_in_tech",
+    "name": "Business analytics in tech",
+    "entity_type": "INTEREST",
+    "properties": {}
+  }
+]

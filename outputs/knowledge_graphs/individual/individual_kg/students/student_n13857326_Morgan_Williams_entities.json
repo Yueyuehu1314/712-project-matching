@@ -1,0 +1,145 @@
+[
+  {
+    "id": "student_n13857326",
+    "name": "Morgan Williams",
+    "entity_type": "STUDENT",
+    "properties": {
+      "student_id": "n13857326",
+      "major": "Data Science",
+      "year": "3rd Year",
+      "file_path": "profile_md/IFN712_proposal_conversational_agent_prosody/n13857326_Morgan_Williams.md"
+    }
+  },
+  {
+    "id": "major_data_science",
+    "name": "Data Science",
+    "entity_type": "MAJOR",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn619_data_analytics_and_visualisation",
+    "name": "IFN619 Data Analytics and Visualisation",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn563_algorithms_and_complexity",
+    "name": "IFN563 Algorithms and Complexity",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn565_advanced_programming",
+    "name": "IFN565 Advanced Programming",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn552_systems_analysis_and_design",
+    "name": "IFN552 Systems Analysis and Design",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_if555_introduction_to_programming",
+    "name": "IF555 Introduction to Programming",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn564_machine_learning",
+    "name": "IFN564 Machine Learning",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn551_computer_systems_fundamentals",
+    "name": "IFN551 Computer Systems Fundamentals",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn554_databases",
+    "name": "IFN554 Databases",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "skill_machine_learning_(scikit-learn,_tensorflow)",
+    "name": "Machine learning (scikit-learn, TensorFlow)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_data_analytics_(pandas,_numpy)",
+    "name": "Data analytics (Pandas, NumPy)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_nlp_(spacy,_nltk)",
+    "name": "NLP (spaCy, NLTK)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_audio_processing_(librosa,_pydub)",
+    "name": "Audio processing (Librosa, PyDub)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_python_programming",
+    "name": "Python programming",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_statistical_modeling_(r,_jupyter)",
+    "name": "Statistical modeling (R, Jupyter)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_database_systems_(sql,_mongodb)",
+    "name": "Database systems (SQL, MongoDB)",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_user_experience_research",
+    "name": "User experience research",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "interest_ai_ethics_and_human-centered_design",
+    "name": "AI ethics and human-centered design",
+    "entity_type": "INTEREST",
+    "properties": {}
+  },
+  {
+    "id": "interest_speech_technology_and_voice_interfaces",
+    "name": "Speech technology and voice interfaces",
+    "entity_type": "INTEREST",
+    "properties": {}
+  },
+  {
+    "id": "interest_machine_learning_interpretability",
+    "name": "Machine learning interpretability",
+    "entity_type": "INTEREST",
+    "properties": {}
+  },
+  {
+    "id": "interest_audio_signal_processing",
+    "name": "Audio signal processing",
+    "entity_type": "INTEREST",
+    "properties": {}
+  },
+  {
+    "id": "interest_mental_health_tech_innovation",
+    "name": "Mental health tech innovation",
+    "entity_type": "INTEREST",
+    "properties": {}
+  }
+]

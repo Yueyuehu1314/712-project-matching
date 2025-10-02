@@ -1,0 +1,139 @@
+[
+  {
+    "id": "student_n03507662",
+    "name": "Madison Jackson",
+    "entity_type": "STUDENT",
+    "properties": {
+      "student_id": "n03507662",
+      "major": "Software Development",
+      "year": "Third Year",
+      "file_path": "profile_md/IFN712 Project Proposal Template_2025_Feng_V2P/n03507662_Madison_Jackson.md"
+    }
+  },
+  {
+    "id": "major_software_development",
+    "name": "Software Development",
+    "entity_type": "MAJOR",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn666_web_technologies",
+    "name": "IFN666 Web Technologies",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn554_databases",
+    "name": "IFN554 Databases",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn553_introduction_to_security_and_networking",
+    "name": "IFN553 Introduction to Security and Networking",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn670_mobile_application_development",
+    "name": "IFN670 Mobile Application Development",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn556_object_oriented_programming",
+    "name": "IFN556 Object Oriented Programming",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn668_advanced_software_engineering",
+    "name": "IFN668 Advanced Software Engineering",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn552_systems_analysis_and_design",
+    "name": "IFN552 Systems Analysis and Design",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "course_ifn555_introduction_to_programming",
+    "name": "IFN555 Introduction to Programming",
+    "entity_type": "COURSE",
+    "properties": {}
+  },
+  {
+    "id": "skill_**web_development**:_react,_node.js,_express.js,_rest_apis",
+    "name": "**Web Development**: React, Node.js, Express.js, REST APIs",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_**mobile_development**:_react_native,_android_studio,_swift",
+    "name": "**Mobile Development**: React Native, Android Studio, Swift",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_**databases**:_mongodb,_postgresql,_sql",
+    "name": "**Databases**: MongoDB, PostgreSQL, SQL",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_**networking**:_tcp/ip,_wi-fi,_bluetooth,_api_integration",
+    "name": "**Networking**: TCP/IP, Wi-Fi, Bluetooth, API integration",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_**data_science**:_python,_pandas,_tensorflow,_data_visualization",
+    "name": "**Data Science**: Python, Pandas, TensorFlow, data visualization",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_**cybersecurity**:_ssl/tls,_encryption,_penetration_testing",
+    "name": "**Cybersecurity**: SSL/TLS, encryption, penetration testing",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "skill_**tools**:_git,_docker,_postman,_figma,_jira",
+    "name": "**Tools**: Git, Docker, Postman, Figma, Jira",
+    "entity_type": "SKILL",
+    "properties": {}
+  },
+  {
+    "id": "interest_software_development_for_smart_cities",
+    "name": "Software development for smart cities",
+    "entity_type": "INTEREST",
+    "properties": {}
+  },
+  {
+    "id": "interest_cybersecurity_in_mobile_applications",
+    "name": "Cybersecurity in mobile applications",
+    "entity_type": "INTEREST",
+    "properties": {}
+  },
+  {
+    "id": "interest_real-time_data_processing",
+    "name": "Real-time data processing",
+    "entity_type": "INTEREST",
+    "properties": {}
+  },
+  {
+    "id": "interest_human-centered_design_for_vrus",
+    "name": "Human-centered design for VRUs",
+    "entity_type": "INTEREST",
+    "properties": {}
+  },
+  {
+    "id": "interest_ai-driven_transportation_systems",
+    "name": "AI-driven transportation systems",
+    "entity_type": "INTEREST",
+    "properties": {}
+  }
+]

@@ -1,0 +1,9 @@
+{
+  "project": "Plant_sensing_Proposal_Zhenguo",
+  "total_nodes": 33,
+  "total_edges": 38,
+  "supported_skills": 5,
+  "extended_skills": 3,
+  "units": 12,
+  "programs": 12
+}
