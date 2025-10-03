@@ -1,0 +1,821 @@
+{
+  "entities": [
+    {
+      "id": "student_n01687591",
+      "name": "Reagan Thompson",
+      "entity_type": "STUDENT",
+      "properties": {
+        "student_id": "n01687591",
+        "major": "Cyber Security and Computer Science",
+        "year": "4th Year",
+        "file_path": "data/processed/profiles_md/IFN712 Project Proposal - Vicky Liu Sem 2 2025/n01687591_Reagan_Thompson.md"
+      }
+    },
+    {
+      "id": "major_cyber_security_and_computer_science",
+      "name": "Cyber Security and Computer Science",
+      "entity_type": "MAJOR",
+      "properties": {}
+    },
+    {
+      "id": "course_ifn564_machine_learning",
+      "name": "IFN564 Machine Learning",
+      "entity_type": "COURSE",
+      "properties": {}
+    },
+    {
+      "id": "skill_data_science",
+      "name": "Data Science",
+      "entity_type": "SKILL",
+      "properties": {}
+    },
+    {
+      "id": "skill_artificial_intelligence",
+      "name": "Artificial Intelligence",
+      "entity_type": "SKILL",
+      "properties": {}
+    },
+    {
+      "id": "skill_machine_learning",
+      "name": "Machine Learning",
+      "entity_type": "SKILL",
+      "properties": {}
+    },
+    {
+      "id": "course_ifn554_databases",
+      "name": "IFN554 Databases",
+      "entity_type": "COURSE",
+      "properties": {}
+    },
+    {
+      "id": "skill_sql",
+      "name": "SQL",
+      "entity_type": "SKILL",
+      "properties": {}
+    },
+    {
+      "id": "skill_database_management",
+      "name": "Database Management",
+      "entity_type": "SKILL",
+      "properties": {}
+    },
+    {
+      "id": "course_ifn565_advanced_programming",
+      "name": "IFN565 Advanced Programming",
+      "entity_type": "COURSE",
+      "properties": {}
+    },
+    {
+      "id": "skill_software_engineering",
+      "name": "Software Engineering",
+      "entity_type": "SKILL",
+      "properties": {}
+    },
+    {
+      "id": "skill_advanced_programming",
+      "name": "Advanced Programming",
+      "entity_type": "SKILL",
+      "properties": {}
+    },
+    {
+      "id": "skill_programming",
+      "name": "Programming",
+      "entity_type": "SKILL",
+      "properties": {}
+    },
+    {
+      "id": "course_ifn552_systems_analysis_and_design",
+      "name": "IFN552 Systems Analysis and Design",
+      "entity_type": "COURSE",
+      "properties": {}
+    },
+    {
+      "id": "skill_system_design",
+      "name": "System Design",
+      "entity_type": "SKILL",
+      "properties": {}
+    },
+    {
+      "id": "skill_systems_analysis",
+      "name": "Systems Analysis",
+      "entity_type": "SKILL",
+      "properties": {}
+    },
+    {
+      "id": "course_ifn556_object_oriented_programming",
+      "name": "IFN556 Object Oriented Programming",
+      "entity_type": "COURSE",
+      "properties": {}
+    },
+    {
+      "id": "skill_object-oriented_programming",
+      "name": "Object-Oriented Programming",
+      "entity_type": "SKILL",
+      "properties": {}
+    },
+    {
+      "id": "skill_software_design",
+      "name": "Software Design",
+      "entity_type": "SKILL",
+      "properties": {}
+    },
+    {
+      "id": "course_ifn666_web_technologies",
+      "name": "IFN666 Web Technologies",
+      "entity_type": "COURSE",
+      "properties": {}
+    },
+    {
+      "id": "skill_html/css",
+      "name": "HTML/CSS",
+      "entity_type": "SKILL",
+      "properties": {}
+    },
+    {
+      "id": "skill_web_development",
+      "name": "Web Development",
+      "entity_type": "SKILL",
+      "properties": {}
+    },
+    {
+      "id": "skill_javascript",
+      "name": "JavaScript",
+      "entity_type": "SKILL",
+      "properties": {}
+    },
+    {
+      "id": "course_ifn551_computer_systems_fundamentals",
+      "name": "IFN551 Computer Systems Fundamentals",
+      "entity_type": "COURSE",
+      "properties": {}
+    },
+    {
+      "id": "skill_computer_systems",
+      "name": "Computer Systems",
+      "entity_type": "SKILL",
+      "properties": {}
+    },
+    {
+      "id": "skill_hardware_understanding",
+      "name": "Hardware Understanding",
+      "entity_type": "SKILL",
+      "properties": {}
+    },
+    {
+      "id": "course_ifn623_cyber_security",
+      "name": "IFN623 Cyber Security",
+      "entity_type": "COURSE",
+      "properties": {}
+    },
+    {
+      "id": "skill_cybersecurity",
+      "name": "Cybersecurity",
+      "entity_type": "SKILL",
+      "properties": {}
+    },
+    {
+      "id": "skill_network_security",
+      "name": "Network Security",
+      "entity_type": "SKILL",
+      "properties": {}
+    },
+    {
+      "id": "skill_**web_development**:_html_css,_javascript,_react,_node.js",
+      "name": "**Web Development**: HTML/CSS, JavaScript, React, Node.js",
+      "entity_type": "SKILL",
+      "properties": {}
+    },
+    {
+      "id": "skill_**cybersecurity**:_encryption,_network_security,_penetration_testing",
+      "name": "**Cybersecurity**: Encryption, network security, penetration testing",
+      "entity_type": "SKILL",
+      "properties": {}
+    },
+    {
+      "id": "skill_**networking**:_tcp_ip,_wi-fi_protocols,_mqtt",
+      "name": "**Networking**: TCP/IP, Wi-Fi protocols, MQTT",
+      "entity_type": "SKILL",
+      "properties": {}
+    },
+    {
+      "id": "skill_**data_analytics**:_python,_sql,_data_visualization_tableau",
+      "name": "**Data Analytics**: Python, SQL, data visualization (Tableau)",
+      "entity_type": "SKILL",
+      "properties": {}
+    },
+    {
+      "id": "skill_**machine_learning**:_scikit-learn,_tensorflow",
+      "name": "**Machine Learning**: Scikit-learn, TensorFlow",
+      "entity_type": "SKILL",
+      "properties": {}
+    },
+    {
+      "id": "skill_**cloud_computing**:_aws_iot_core,_azure",
+      "name": "**Cloud Computing**: AWS IoT Core, Azure",
+      "entity_type": "SKILL",
+      "properties": {}
+    },
+    {
+      "id": "skill_**programming**:_java,_c++,_node.js",
+      "name": "**Programming**: Java, C++, Node.js",
+      "entity_type": "SKILL",
+      "properties": {}
+    },
+    {
+      "id": "skill_**database_systems**:_mysql,_mongodb",
+      "name": "**Database Systems**: MySQL, MongoDB",
+      "entity_type": "SKILL",
+      "properties": {}
+    },
+    {
+      "id": "interest_hiking_and_outdoor_sustainability_initiatives",
+      "name": "Hiking and outdoor sustainability initiatives",
+      "entity_type": "INTEREST",
+      "properties": {}
+    },
+    {
+      "id": "interest_urban_planning_and_smart_infrastructure",
+      "name": "Urban planning and smart infrastructure",
+      "entity_type": "INTEREST",
+      "properties": {}
+    },
+    {
+      "id": "interest_robotics_and_embedded_systems",
+      "name": "Robotics and embedded systems",
+      "entity_type": "INTEREST",
+      "properties": {}
+    },
+    {
+      "id": "interest_competitive_coding_and_open_source_development",
+      "name": "Competitive coding and open-source development",
+      "entity_type": "INTEREST",
+      "properties": {}
+    },
+    {
+      "id": "interest_climate_change_mitigation_technologies",
+      "name": "Climate change mitigation technologies",
+      "entity_type": "INTEREST",
+      "properties": {}
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "student_n01687591",
+      "target_id": "major_cyber_security_and_computer_science",
+      "relation_type": "STUDIED_MAJOR",
+      "weight": 1.0,
+      "properties": {}
+    },
+    {
+      "source_id": "student_n01687591",
+      "target_id": "course_ifn564_machine_learning",
+      "relation_type": "COMPLETED_COURSE",
+      "weight": 1.0,
+      "properties": {}
+    },
+    {
+      "source_id": "course_ifn564_machine_learning",
+      "target_id": "skill_data_science",
+      "relation_type": "TEACHES_SKILL",
+      "weight": 0.9,
+      "properties": {}
+    },
+    {
+      "source_id": "student_n01687591",
+      "target_id": "skill_data_science",
+      "relation_type": "HAS_SKILL",
+      "weight": 0.8,
+      "properties": {
+        "source": "course"
+      }
+    },
+    {
+      "source_id": "course_ifn564_machine_learning",
+      "target_id": "skill_artificial_intelligence",
+      "relation_type": "TEACHES_SKILL",
+      "weight": 0.9,
+      "properties": {}
+    },
+    {
+      "source_id": "student_n01687591",
+      "target_id": "skill_artificial_intelligence",
+      "relation_type": "HAS_SKILL",
+      "weight": 0.8,
+      "properties": {
+        "source": "course"
+      }
+    },
+    {
+      "source_id": "course_ifn564_machine_learning",
+      "target_id": "skill_machine_learning",
+      "relation_type": "TEACHES_SKILL",
+      "weight": 0.9,
+      "properties": {}
+    },
+    {
+      "source_id": "student_n01687591",
+      "target_id": "skill_machine_learning",
+      "relation_type": "HAS_SKILL",
+      "weight": 0.8,
+      "properties": {
+        "source": "course"
+      }
+    },
+    {
+      "source_id": "student_n01687591",
+      "target_id": "course_ifn554_databases",
+      "relation_type": "COMPLETED_COURSE",
+      "weight": 1.0,
+      "properties": {}
+    },
+    {
+      "source_id": "course_ifn554_databases",
+      "target_id": "skill_sql",
+      "relation_type": "TEACHES_SKILL",
+      "weight": 0.9,
+      "properties": {}
+    },
+    {
+      "source_id": "student_n01687591",
+      "target_id": "skill_sql",
+      "relation_type": "HAS_SKILL",
+      "weight": 0.8,
+      "properties": {
+        "source": "course"
+      }
+    },
+    {
+      "source_id": "course_ifn554_databases",
+      "target_id": "skill_database_management",
+      "relation_type": "TEACHES_SKILL",
+      "weight": 0.9,
+      "properties": {}
+    },
+    {
+      "source_id": "student_n01687591",
+      "target_id": "skill_database_management",
+      "relation_type": "HAS_SKILL",
+      "weight": 0.8,
+      "properties": {
+        "source": "course"
+      }
+    },
+    {
+      "source_id": "student_n01687591",
+      "target_id": "course_ifn565_advanced_programming",
+      "relation_type": "COMPLETED_COURSE",
+      "weight": 1.0,
+      "properties": {}
+    },
+    {
+      "source_id": "course_ifn565_advanced_programming",
+      "target_id": "skill_software_engineering",
+      "relation_type": "TEACHES_SKILL",
+      "weight": 0.9,
+      "properties": {}
+    },
+    {
+      "source_id": "student_n01687591",
+      "target_id": "skill_software_engineering",
+      "relation_type": "HAS_SKILL",
+      "weight": 0.8,
+      "properties": {
+        "source": "course"
+      }
+    },
+    {
+      "source_id": "course_ifn565_advanced_programming",
+      "target_id": "skill_advanced_programming",
+      "relation_type": "TEACHES_SKILL",
+      "weight": 0.9,
+      "properties": {}
+    },
+    {
+      "source_id": "student_n01687591",
+      "target_id": "skill_advanced_programming",
+      "relation_type": "HAS_SKILL",
+      "weight": 0.8,
+      "properties": {
+        "source": "course"
+      }
+    },
+    {
+      "source_id": "course_ifn565_advanced_programming",
+      "target_id": "skill_programming",
+      "relation_type": "TEACHES_SKILL",
+      "weight": 0.9,
+      "properties": {}
+    },
+    {
+      "source_id": "student_n01687591",
+      "target_id": "skill_programming",
+      "relation_type": "HAS_SKILL",
+      "weight": 0.8,
+      "properties": {
+        "source": "course"
+      }
+    },
+    {
+      "source_id": "student_n01687591",
+      "target_id": "course_ifn552_systems_analysis_and_design",
+      "relation_type": "COMPLETED_COURSE",
+      "weight": 1.0,
+      "properties": {}
+    },
+    {
+      "source_id": "course_ifn552_systems_analysis_and_design",
+      "target_id": "skill_system_design",
+      "relation_type": "TEACHES_SKILL",
+      "weight": 0.9,
+      "properties": {}
+    },
+    {
+      "source_id": "student_n01687591",
+      "target_id": "skill_system_design",
+      "relation_type": "HAS_SKILL",
+      "weight": 0.8,
+      "properties": {
+        "source": "course"
+      }
+    },
+    {
+      "source_id": "course_ifn552_systems_analysis_and_design",
+      "target_id": "skill_systems_analysis",
+      "relation_type": "TEACHES_SKILL",
+      "weight": 0.9,
+      "properties": {}
+    },
+    {
+      "source_id": "student_n01687591",
+      "target_id": "skill_systems_analysis",
+      "relation_type": "HAS_SKILL",
+      "weight": 0.8,
+      "properties": {
+        "source": "course"
+      }
+    },
+    {
+      "source_id": "student_n01687591",
+      "target_id": "course_ifn556_object_oriented_programming",
+      "relation_type": "COMPLETED_COURSE",
+      "weight": 1.0,
+      "properties": {}
+    },
+    {
+      "source_id": "course_ifn556_object_oriented_programming",
+      "target_id": "skill_object-oriented_programming",
+      "relation_type": "TEACHES_SKILL",
+      "weight": 0.9,
+      "properties": {}
+    },
+    {
+      "source_id": "student_n01687591",
+      "target_id": "skill_object-oriented_programming",
+      "relation_type": "HAS_SKILL",
+      "weight": 0.8,
+      "properties": {
+        "source": "course"
+      }
+    },
+    {
+      "source_id": "course_ifn556_object_oriented_programming",
+      "target_id": "skill_software_design",
+      "relation_type": "TEACHES_SKILL",
+      "weight": 0.9,
+      "properties": {}
+    },
+    {
+      "source_id": "student_n01687591",
+      "target_id": "skill_software_design",
+      "relation_type": "HAS_SKILL",
+      "weight": 0.8,
+      "properties": {
+        "source": "course"
+      }
+    },
+    {
+      "source_id": "course_ifn556_object_oriented_programming",
+      "target_id": "skill_programming",
+      "relation_type": "TEACHES_SKILL",
+      "weight": 0.9,
+      "properties": {}
+    },
+    {
+      "source_id": "student_n01687591",
+      "target_id": "course_ifn666_web_technologies",
+      "relation_type": "COMPLETED_COURSE",
+      "weight": 1.0,
+      "properties": {}
+    },
+    {
+      "source_id": "course_ifn666_web_technologies",
+      "target_id": "skill_html/css",
+      "relation_type": "TEACHES_SKILL",
+      "weight": 0.9,
+      "properties": {}
+    },
+    {
+      "source_id": "student_n01687591",
+      "target_id": "skill_html/css",
+      "relation_type": "HAS_SKILL",
+      "weight": 0.8,
+      "properties": {
+        "source": "course"
+      }
+    },
+    {
+      "source_id": "course_ifn666_web_technologies",
+      "target_id": "skill_web_development",
+      "relation_type": "TEACHES_SKILL",
+      "weight": 0.9,
+      "properties": {}
+    },
+    {
+      "source_id": "student_n01687591",
+      "target_id": "skill_web_development",
+      "relation_type": "HAS_SKILL",
+      "weight": 0.8,
+      "properties": {
+        "source": "course"
+      }
+    },
+    {
+      "source_id": "course_ifn666_web_technologies",
+      "target_id": "skill_javascript",
+      "relation_type": "TEACHES_SKILL",
+      "weight": 0.9,
+      "properties": {}
+    },
+    {
+      "source_id": "student_n01687591",
+      "target_id": "skill_javascript",
+      "relation_type": "HAS_SKILL",
+      "weight": 0.8,
+      "properties": {
+        "source": "course"
+      }
+    },
+    {
+      "source_id": "student_n01687591",
+      "target_id": "course_ifn551_computer_systems_fundamentals",
+      "relation_type": "COMPLETED_COURSE",
+      "weight": 1.0,
+      "properties": {}
+    },
+    {
+      "source_id": "course_ifn551_computer_systems_fundamentals",
+      "target_id": "skill_computer_systems",
+      "relation_type": "TEACHES_SKILL",
+      "weight": 0.9,
+      "properties": {}
+    },
+    {
+      "source_id": "student_n01687591",
+      "target_id": "skill_computer_systems",
+      "relation_type": "HAS_SKILL",
+      "weight": 0.8,
+      "properties": {
+        "source": "course"
+      }
+    },
+    {
+      "source_id": "course_ifn551_computer_systems_fundamentals",
+      "target_id": "skill_hardware_understanding",
+      "relation_type": "TEACHES_SKILL",
+      "weight": 0.9,
+      "properties": {}
+    },
+    {
+      "source_id": "student_n01687591",
+      "target_id": "skill_hardware_understanding",
+      "relation_type": "HAS_SKILL",
+      "weight": 0.8,
+      "properties": {
+        "source": "course"
+      }
+    },
+    {
+      "source_id": "student_n01687591",
+      "target_id": "course_ifn623_cyber_security",
+      "relation_type": "COMPLETED_COURSE",
+      "weight": 1.0,
+      "properties": {}
+    },
+    {
+      "source_id": "course_ifn623_cyber_security",
+      "target_id": "skill_cybersecurity",
+      "relation_type": "TEACHES_SKILL",
+      "weight": 0.9,
+      "properties": {}
+    },
+    {
+      "source_id": "student_n01687591",
+      "target_id": "skill_cybersecurity",
+      "relation_type": "HAS_SKILL",
+      "weight": 0.8,
+      "properties": {
+        "source": "course"
+      }
+    },
+    {
+      "source_id": "course_ifn623_cyber_security",
+      "target_id": "skill_network_security",
+      "relation_type": "TEACHES_SKILL",
+      "weight": 0.9,
+      "properties": {}
+    },
+    {
+      "source_id": "student_n01687591",
+      "target_id": "skill_network_security",
+      "relation_type": "HAS_SKILL",
+      "weight": 0.8,
+      "properties": {
+        "source": "course"
+      }
+    },
+    {
+      "source_id": "student_n01687591",
+      "target_id": "skill_**web_development**:_html_css,_javascript,_react,_node.js",
+      "relation_type": "HAS_SKILL",
+      "weight": 0.6,
+      "properties": {
+        "source": "self-taught"
+      }
+    },
+    {
+      "source_id": "student_n01687591",
+      "target_id": "skill_**cybersecurity**:_encryption,_network_security,_penetration_testing",
+      "relation_type": "HAS_SKILL",
+      "weight": 0.6,
+      "properties": {
+        "source": "self-taught"
+      }
+    },
+    {
+      "source_id": "student_n01687591",
+      "target_id": "skill_**networking**:_tcp_ip,_wi-fi_protocols,_mqtt",
+      "relation_type": "HAS_SKILL",
+      "weight": 0.6,
+      "properties": {
+        "source": "self-taught"
+      }
+    },
+    {
+      "source_id": "student_n01687591",
+      "target_id": "skill_**data_analytics**:_python,_sql,_data_visualization_tableau",
+      "relation_type": "HAS_SKILL",
+      "weight": 0.6,
+      "properties": {
+        "source": "self-taught"
+      }
+    },
+    {
+      "source_id": "student_n01687591",
+      "target_id": "skill_**machine_learning**:_scikit-learn,_tensorflow",
+      "relation_type": "HAS_SKILL",
+      "weight": 0.6,
+      "properties": {
+        "source": "self-taught"
+      }
+    },
+    {
+      "source_id": "student_n01687591",
+      "target_id": "skill_**cloud_computing**:_aws_iot_core,_azure",
+      "relation_type": "HAS_SKILL",
+      "weight": 0.6,
+      "properties": {
+        "source": "self-taught"
+      }
+    },
+    {
+      "source_id": "student_n01687591",
+      "target_id": "skill_**programming**:_java,_c++,_node.js",
+      "relation_type": "HAS_SKILL",
+      "weight": 0.6,
+      "properties": {
+        "source": "self-taught"
+      }
+    },
+    {
+      "source_id": "student_n01687591",
+      "target_id": "skill_**database_systems**:_mysql,_mongodb",
+      "relation_type": "HAS_SKILL",
+      "weight": 0.6,
+      "properties": {
+        "source": "self-taught"
+      }
+    },
+    {
+      "source_id": "student_n01687591",
+      "target_id": "interest_hiking_and_outdoor_sustainability_initiatives",
+      "relation_type": "INTERESTED_IN",
+      "weight": 1.0,
+      "properties": {}
+    },
+    {
+      "source_id": "student_n01687591",
+      "target_id": "interest_urban_planning_and_smart_infrastructure",
+      "relation_type": "INTERESTED_IN",
+      "weight": 1.0,
+      "properties": {}
+    },
+    {
+      "source_id": "student_n01687591",
+      "target_id": "interest_robotics_and_embedded_systems",
+      "relation_type": "INTERESTED_IN",
+      "weight": 1.0,
+      "properties": {}
+    },
+    {
+      "source_id": "student_n01687591",
+      "target_id": "interest_competitive_coding_and_open_source_development",
+      "relation_type": "INTERESTED_IN",
+      "weight": 1.0,
+      "properties": {}
+    },
+    {
+      "source_id": "student_n01687591",
+      "target_id": "interest_climate_change_mitigation_technologies",
+      "relation_type": "INTERESTED_IN",
+      "weight": 1.0,
+      "properties": {}
+    },
+    {
+      "source_id": "course_ifn556_object_oriented_programming",
+      "target_id": "course_ifn666_web_technologies",
+      "relation_type": "PREREQUISITE_FOR",
+      "weight": 1.0,
+      "properties": {
+        "description": "IFN556 is a prerequisite for IFN666"
+      }
+    },
+    {
+      "source_id": "course_ifn556_object_oriented_programming",
+      "target_id": "course_ifn564_machine_learning",
+      "relation_type": "PREREQUISITE_FOR",
+      "weight": 1.0,
+      "properties": {
+        "description": "IFN556 is a prerequisite for IFN564"
+      }
+    }
+  ],
+  "metadata": {
+    "student_id": "student_n01687591",
+    "student_name": "Reagan Thompson",
+    "created_at": "2025-10-02T22:35:10.693613",
+    "version": "2.0_enhanced",
+    "prerequisite_analysis": {
+      "courses_with_prereq": [
+        {
+          "course": "IFN666",
+          "prerequisites": [
+            "IFQ555",
+            "IFN555",
+            "IFN556",
+            "IFN581",
+            "IFQ556"
+          ]
+        },
+        {
+          "course": "IFN564",
+          "prerequisites": [
+            "IFN563",
+            "IFQ555",
+            "IFN501",
+            "IFN555",
+            "IFN556",
+            "IFQ556"
+          ]
+        },
+        {
+          "course": "IFN556",
+          "prerequisites": [
+            "IFQ555",
+            "IFN555"
+          ]
+        }
+      ],
+      "missing_prerequisites": [
+        "IFN501",
+        "IFN555",
+        "IFN563",
+        "IFN581",
+        "IFQ555",
+        "IFQ556"
+      ],
+      "completed_prerequisites": [
+        "IFN556"
+      ],
+      "student_courses": [
+        "IFN551",
+        "IFN552",
+        "IFN554",
+        "IFN556",
+        "IFN564",
+        "IFN565",
+        "IFN623",
+        "IFN666"
+      ]
+    }
+  }
+}

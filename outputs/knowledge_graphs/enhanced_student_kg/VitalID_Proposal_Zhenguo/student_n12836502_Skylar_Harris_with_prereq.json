@@ -1,0 +1,755 @@
+{
+  "entities": [
+    {
+      "id": "student_n12836502",
+      "name": "Skylar Harris",
+      "entity_type": "STUDENT",
+      "properties": {
+        "student_id": "n12836502",
+        "major": "Software Development",
+        "year": "3rd Year",
+        "file_path": "data/processed/profiles_md/VitalID_Proposal_Zhenguo/n12836502_Skylar_Harris.md"
+      }
+    },
+    {
+      "id": "major_software_development",
+      "name": "Software Development",
+      "entity_type": "MAJOR",
+      "properties": {}
+    },
+    {
+      "id": "course_ifn555_introduction_to_programming",
+      "name": "IFN555 Introduction to Programming",
+      "entity_type": "COURSE",
+      "properties": {}
+    },
+    {
+      "id": "skill_algorithms",
+      "name": "Algorithms",
+      "entity_type": "SKILL",
+      "properties": {}
+    },
+    {
+      "id": "skill_problem_solving",
+      "name": "Problem Solving",
+      "entity_type": "SKILL",
+      "properties": {}
+    },
+    {
+      "id": "skill_programming",
+      "name": "Programming",
+      "entity_type": "SKILL",
+      "properties": {}
+    },
+    {
+      "id": "course_ifn564_machine_learning",
+      "name": "IFN564 Machine Learning",
+      "entity_type": "COURSE",
+      "properties": {}
+    },
+    {
+      "id": "skill_data_science",
+      "name": "Data Science",
+      "entity_type": "SKILL",
+      "properties": {}
+    },
+    {
+      "id": "skill_artificial_intelligence",
+      "name": "Artificial Intelligence",
+      "entity_type": "SKILL",
+      "properties": {}
+    },
+    {
+      "id": "skill_machine_learning",
+      "name": "Machine Learning",
+      "entity_type": "SKILL",
+      "properties": {}
+    },
+    {
+      "id": "course_ifn666_web_technologies",
+      "name": "IFN666 Web Technologies",
+      "entity_type": "COURSE",
+      "properties": {}
+    },
+    {
+      "id": "skill_html/css",
+      "name": "HTML/CSS",
+      "entity_type": "SKILL",
+      "properties": {}
+    },
+    {
+      "id": "skill_web_development",
+      "name": "Web Development",
+      "entity_type": "SKILL",
+      "properties": {}
+    },
+    {
+      "id": "skill_javascript",
+      "name": "JavaScript",
+      "entity_type": "SKILL",
+      "properties": {}
+    },
+    {
+      "id": "course_ifn623_cyber_security",
+      "name": "IFN623 Cyber Security",
+      "entity_type": "COURSE",
+      "properties": {}
+    },
+    {
+      "id": "skill_cybersecurity",
+      "name": "Cybersecurity",
+      "entity_type": "SKILL",
+      "properties": {}
+    },
+    {
+      "id": "skill_network_security",
+      "name": "Network Security",
+      "entity_type": "SKILL",
+      "properties": {}
+    },
+    {
+      "id": "course_ifn670_mobile_application_development",
+      "name": "IFN670 Mobile Application Development",
+      "entity_type": "COURSE",
+      "properties": {}
+    },
+    {
+      "id": "skill_mobile_development",
+      "name": "Mobile Development",
+      "entity_type": "SKILL",
+      "properties": {}
+    },
+    {
+      "id": "skill_app_development",
+      "name": "App Development",
+      "entity_type": "SKILL",
+      "properties": {}
+    },
+    {
+      "id": "course_ifn553_introduction_to_security_and_networking",
+      "name": "IFN553 Introduction to Security and Networking",
+      "entity_type": "COURSE",
+      "properties": {}
+    },
+    {
+      "id": "skill_networking",
+      "name": "Networking",
+      "entity_type": "SKILL",
+      "properties": {}
+    },
+    {
+      "id": "course_ifn668_advanced_software_engineering",
+      "name": "IFN668 Advanced Software Engineering",
+      "entity_type": "COURSE",
+      "properties": {}
+    },
+    {
+      "id": "course_ifn554_databases",
+      "name": "IFN554 Databases",
+      "entity_type": "COURSE",
+      "properties": {}
+    },
+    {
+      "id": "skill_sql",
+      "name": "SQL",
+      "entity_type": "SKILL",
+      "properties": {}
+    },
+    {
+      "id": "skill_database_management",
+      "name": "Database Management",
+      "entity_type": "SKILL",
+      "properties": {}
+    },
+    {
+      "id": "skill_python_machine_learning,_data_analysis",
+      "name": "Python (machine learning, data analysis)",
+      "entity_type": "SKILL",
+      "properties": {}
+    },
+    {
+      "id": "skill_java_kotlin_mobile_development",
+      "name": "Java/Kotlin (mobile development)",
+      "entity_type": "SKILL",
+      "properties": {}
+    },
+    {
+      "id": "skill_react_native_cross-platform_apps",
+      "name": "React Native (cross-platform apps)",
+      "entity_type": "SKILL",
+      "properties": {}
+    },
+    {
+      "id": "skill_tensorflow_keras_ml_frameworks",
+      "name": "TensorFlow/Keras (ML frameworks)",
+      "entity_type": "SKILL",
+      "properties": {}
+    },
+    {
+      "id": "skill_sql_nosql_databases",
+      "name": "SQL/NoSQL databases",
+      "entity_type": "SKILL",
+      "properties": {}
+    },
+    {
+      "id": "skill_rest_api_design_and_implementation",
+      "name": "REST API design and implementation",
+      "entity_type": "SKILL",
+      "properties": {}
+    },
+    {
+      "id": "skill_aes_rsa_encryption_techniques",
+      "name": "AES/RSA encryption techniques",
+      "entity_type": "SKILL",
+      "properties": {}
+    },
+    {
+      "id": "skill_agile_software_development",
+      "name": "Agile software development",
+      "entity_type": "SKILL",
+      "properties": {}
+    },
+    {
+      "id": "interest_machine_learning_for_biometric_analysis",
+      "name": "Machine learning for biometric analysis",
+      "entity_type": "INTEREST",
+      "properties": {}
+    },
+    {
+      "id": "interest_cybersecurity_and_ethical_hacking",
+      "name": "Cybersecurity and ethical hacking",
+      "entity_type": "INTEREST",
+      "properties": {}
+    },
+    {
+      "id": "interest_mobile_application_development",
+      "name": "Mobile application development",
+      "entity_type": "INTEREST",
+      "properties": {}
+    },
+    {
+      "id": "interest_wearable_health_technology",
+      "name": "Wearable health technology",
+      "entity_type": "INTEREST",
+      "properties": {}
+    },
+    {
+      "id": "interest_secure_network_protocols",
+      "name": "Secure network protocols",
+      "entity_type": "INTEREST",
+      "properties": {}
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "student_n12836502",
+      "target_id": "major_software_development",
+      "relation_type": "STUDIED_MAJOR",
+      "weight": 1.0,
+      "properties": {}
+    },
+    {
+      "source_id": "student_n12836502",
+      "target_id": "course_ifn555_introduction_to_programming",
+      "relation_type": "COMPLETED_COURSE",
+      "weight": 1.0,
+      "properties": {}
+    },
+    {
+      "source_id": "course_ifn555_introduction_to_programming",
+      "target_id": "skill_algorithms",
+      "relation_type": "TEACHES_SKILL",
+      "weight": 0.9,
+      "properties": {}
+    },
+    {
+      "source_id": "student_n12836502",
+      "target_id": "skill_algorithms",
+      "relation_type": "HAS_SKILL",
+      "weight": 0.8,
+      "properties": {
+        "source": "course"
+      }
+    },
+    {
+      "source_id": "course_ifn555_introduction_to_programming",
+      "target_id": "skill_problem_solving",
+      "relation_type": "TEACHES_SKILL",
+      "weight": 0.9,
+      "properties": {}
+    },
+    {
+      "source_id": "student_n12836502",
+      "target_id": "skill_problem_solving",
+      "relation_type": "HAS_SKILL",
+      "weight": 0.8,
+      "properties": {
+        "source": "course"
+      }
+    },
+    {
+      "source_id": "course_ifn555_introduction_to_programming",
+      "target_id": "skill_programming",
+      "relation_type": "TEACHES_SKILL",
+      "weight": 0.9,
+      "properties": {}
+    },
+    {
+      "source_id": "student_n12836502",
+      "target_id": "skill_programming",
+      "relation_type": "HAS_SKILL",
+      "weight": 0.8,
+      "properties": {
+        "source": "course"
+      }
+    },
+    {
+      "source_id": "student_n12836502",
+      "target_id": "course_ifn564_machine_learning",
+      "relation_type": "COMPLETED_COURSE",
+      "weight": 1.0,
+      "properties": {}
+    },
+    {
+      "source_id": "course_ifn564_machine_learning",
+      "target_id": "skill_data_science",
+      "relation_type": "TEACHES_SKILL",
+      "weight": 0.9,
+      "properties": {}
+    },
+    {
+      "source_id": "student_n12836502",
+      "target_id": "skill_data_science",
+      "relation_type": "HAS_SKILL",
+      "weight": 0.8,
+      "properties": {
+        "source": "course"
+      }
+    },
+    {
+      "source_id": "course_ifn564_machine_learning",
+      "target_id": "skill_artificial_intelligence",
+      "relation_type": "TEACHES_SKILL",
+      "weight": 0.9,
+      "properties": {}
+    },
+    {
+      "source_id": "student_n12836502",
+      "target_id": "skill_artificial_intelligence",
+      "relation_type": "HAS_SKILL",
+      "weight": 0.8,
+      "properties": {
+        "source": "course"
+      }
+    },
+    {
+      "source_id": "course_ifn564_machine_learning",
+      "target_id": "skill_machine_learning",
+      "relation_type": "TEACHES_SKILL",
+      "weight": 0.9,
+      "properties": {}
+    },
+    {
+      "source_id": "student_n12836502",
+      "target_id": "skill_machine_learning",
+      "relation_type": "HAS_SKILL",
+      "weight": 0.8,
+      "properties": {
+        "source": "course"
+      }
+    },
+    {
+      "source_id": "student_n12836502",
+      "target_id": "course_ifn666_web_technologies",
+      "relation_type": "COMPLETED_COURSE",
+      "weight": 1.0,
+      "properties": {}
+    },
+    {
+      "source_id": "course_ifn666_web_technologies",
+      "target_id": "skill_html/css",
+      "relation_type": "TEACHES_SKILL",
+      "weight": 0.9,
+      "properties": {}
+    },
+    {
+      "source_id": "student_n12836502",
+      "target_id": "skill_html/css",
+      "relation_type": "HAS_SKILL",
+      "weight": 0.8,
+      "properties": {
+        "source": "course"
+      }
+    },
+    {
+      "source_id": "course_ifn666_web_technologies",
+      "target_id": "skill_web_development",
+      "relation_type": "TEACHES_SKILL",
+      "weight": 0.9,
+      "properties": {}
+    },
+    {
+      "source_id": "student_n12836502",
+      "target_id": "skill_web_development",
+      "relation_type": "HAS_SKILL",
+      "weight": 0.8,
+      "properties": {
+        "source": "course"
+      }
+    },
+    {
+      "source_id": "course_ifn666_web_technologies",
+      "target_id": "skill_javascript",
+      "relation_type": "TEACHES_SKILL",
+      "weight": 0.9,
+      "properties": {}
+    },
+    {
+      "source_id": "student_n12836502",
+      "target_id": "skill_javascript",
+      "relation_type": "HAS_SKILL",
+      "weight": 0.8,
+      "properties": {
+        "source": "course"
+      }
+    },
+    {
+      "source_id": "student_n12836502",
+      "target_id": "course_ifn623_cyber_security",
+      "relation_type": "COMPLETED_COURSE",
+      "weight": 1.0,
+      "properties": {}
+    },
+    {
+      "source_id": "course_ifn623_cyber_security",
+      "target_id": "skill_cybersecurity",
+      "relation_type": "TEACHES_SKILL",
+      "weight": 0.9,
+      "properties": {}
+    },
+    {
+      "source_id": "student_n12836502",
+      "target_id": "skill_cybersecurity",
+      "relation_type": "HAS_SKILL",
+      "weight": 0.8,
+      "properties": {
+        "source": "course"
+      }
+    },
+    {
+      "source_id": "course_ifn623_cyber_security",
+      "target_id": "skill_network_security",
+      "relation_type": "TEACHES_SKILL",
+      "weight": 0.9,
+      "properties": {}
+    },
+    {
+      "source_id": "student_n12836502",
+      "target_id": "skill_network_security",
+      "relation_type": "HAS_SKILL",
+      "weight": 0.8,
+      "properties": {
+        "source": "course"
+      }
+    },
+    {
+      "source_id": "student_n12836502",
+      "target_id": "course_ifn670_mobile_application_development",
+      "relation_type": "COMPLETED_COURSE",
+      "weight": 1.0,
+      "properties": {}
+    },
+    {
+      "source_id": "course_ifn670_mobile_application_development",
+      "target_id": "skill_mobile_development",
+      "relation_type": "TEACHES_SKILL",
+      "weight": 0.9,
+      "properties": {}
+    },
+    {
+      "source_id": "student_n12836502",
+      "target_id": "skill_mobile_development",
+      "relation_type": "HAS_SKILL",
+      "weight": 0.8,
+      "properties": {
+        "source": "course"
+      }
+    },
+    {
+      "source_id": "course_ifn670_mobile_application_development",
+      "target_id": "skill_app_development",
+      "relation_type": "TEACHES_SKILL",
+      "weight": 0.9,
+      "properties": {}
+    },
+    {
+      "source_id": "student_n12836502",
+      "target_id": "skill_app_development",
+      "relation_type": "HAS_SKILL",
+      "weight": 0.8,
+      "properties": {
+        "source": "course"
+      }
+    },
+    {
+      "source_id": "student_n12836502",
+      "target_id": "course_ifn553_introduction_to_security_and_networking",
+      "relation_type": "COMPLETED_COURSE",
+      "weight": 1.0,
+      "properties": {}
+    },
+    {
+      "source_id": "course_ifn553_introduction_to_security_and_networking",
+      "target_id": "skill_networking",
+      "relation_type": "TEACHES_SKILL",
+      "weight": 0.9,
+      "properties": {}
+    },
+    {
+      "source_id": "student_n12836502",
+      "target_id": "skill_networking",
+      "relation_type": "HAS_SKILL",
+      "weight": 0.8,
+      "properties": {
+        "source": "course"
+      }
+    },
+    {
+      "source_id": "course_ifn553_introduction_to_security_and_networking",
+      "target_id": "skill_cybersecurity",
+      "relation_type": "TEACHES_SKILL",
+      "weight": 0.9,
+      "properties": {}
+    },
+    {
+      "source_id": "course_ifn553_introduction_to_security_and_networking",
+      "target_id": "skill_network_security",
+      "relation_type": "TEACHES_SKILL",
+      "weight": 0.9,
+      "properties": {}
+    },
+    {
+      "source_id": "student_n12836502",
+      "target_id": "course_ifn668_advanced_software_engineering",
+      "relation_type": "COMPLETED_COURSE",
+      "weight": 1.0,
+      "properties": {}
+    },
+    {
+      "source_id": "student_n12836502",
+      "target_id": "course_ifn554_databases",
+      "relation_type": "COMPLETED_COURSE",
+      "weight": 1.0,
+      "properties": {}
+    },
+    {
+      "source_id": "course_ifn554_databases",
+      "target_id": "skill_sql",
+      "relation_type": "TEACHES_SKILL",
+      "weight": 0.9,
+      "properties": {}
+    },
+    {
+      "source_id": "student_n12836502",
+      "target_id": "skill_sql",
+      "relation_type": "HAS_SKILL",
+      "weight": 0.8,
+      "properties": {
+        "source": "course"
+      }
+    },
+    {
+      "source_id": "course_ifn554_databases",
+      "target_id": "skill_database_management",
+      "relation_type": "TEACHES_SKILL",
+      "weight": 0.9,
+      "properties": {}
+    },
+    {
+      "source_id": "student_n12836502",
+      "target_id": "skill_database_management",
+      "relation_type": "HAS_SKILL",
+      "weight": 0.8,
+      "properties": {
+        "source": "course"
+      }
+    },
+    {
+      "source_id": "student_n12836502",
+      "target_id": "skill_python_machine_learning,_data_analysis",
+      "relation_type": "HAS_SKILL",
+      "weight": 0.6,
+      "properties": {
+        "source": "self-taught"
+      }
+    },
+    {
+      "source_id": "student_n12836502",
+      "target_id": "skill_java_kotlin_mobile_development",
+      "relation_type": "HAS_SKILL",
+      "weight": 0.6,
+      "properties": {
+        "source": "self-taught"
+      }
+    },
+    {
+      "source_id": "student_n12836502",
+      "target_id": "skill_react_native_cross-platform_apps",
+      "relation_type": "HAS_SKILL",
+      "weight": 0.6,
+      "properties": {
+        "source": "self-taught"
+      }
+    },
+    {
+      "source_id": "student_n12836502",
+      "target_id": "skill_tensorflow_keras_ml_frameworks",
+      "relation_type": "HAS_SKILL",
+      "weight": 0.6,
+      "properties": {
+        "source": "self-taught"
+      }
+    },
+    {
+      "source_id": "student_n12836502",
+      "target_id": "skill_sql_nosql_databases",
+      "relation_type": "HAS_SKILL",
+      "weight": 0.6,
+      "properties": {
+        "source": "self-taught"
+      }
+    },
+    {
+      "source_id": "student_n12836502",
+      "target_id": "skill_rest_api_design_and_implementation",
+      "relation_type": "HAS_SKILL",
+      "weight": 0.6,
+      "properties": {
+        "source": "self-taught"
+      }
+    },
+    {
+      "source_id": "student_n12836502",
+      "target_id": "skill_aes_rsa_encryption_techniques",
+      "relation_type": "HAS_SKILL",
+      "weight": 0.6,
+      "properties": {
+        "source": "self-taught"
+      }
+    },
+    {
+      "source_id": "student_n12836502",
+      "target_id": "skill_agile_software_development",
+      "relation_type": "HAS_SKILL",
+      "weight": 0.6,
+      "properties": {
+        "source": "self-taught"
+      }
+    },
+    {
+      "source_id": "student_n12836502",
+      "target_id": "interest_machine_learning_for_biometric_analysis",
+      "relation_type": "INTERESTED_IN",
+      "weight": 1.0,
+      "properties": {}
+    },
+    {
+      "source_id": "student_n12836502",
+      "target_id": "interest_cybersecurity_and_ethical_hacking",
+      "relation_type": "INTERESTED_IN",
+      "weight": 1.0,
+      "properties": {}
+    },
+    {
+      "source_id": "student_n12836502",
+      "target_id": "interest_mobile_application_development",
+      "relation_type": "INTERESTED_IN",
+      "weight": 1.0,
+      "properties": {}
+    },
+    {
+      "source_id": "student_n12836502",
+      "target_id": "interest_wearable_health_technology",
+      "relation_type": "INTERESTED_IN",
+      "weight": 1.0,
+      "properties": {}
+    },
+    {
+      "source_id": "student_n12836502",
+      "target_id": "interest_secure_network_protocols",
+      "relation_type": "INTERESTED_IN",
+      "weight": 1.0,
+      "properties": {}
+    },
+    {
+      "source_id": "course_ifn555_introduction_to_programming",
+      "target_id": "course_ifn666_web_technologies",
+      "relation_type": "PREREQUISITE_FOR",
+      "weight": 1.0,
+      "properties": {
+        "description": "IFN555 is a prerequisite for IFN666"
+      }
+    },
+    {
+      "source_id": "course_ifn555_introduction_to_programming",
+      "target_id": "course_ifn564_machine_learning",
+      "relation_type": "PREREQUISITE_FOR",
+      "weight": 1.0,
+      "properties": {
+        "description": "IFN555 is a prerequisite for IFN564"
+      }
+    }
+  ],
+  "metadata": {
+    "student_id": "student_n12836502",
+    "student_name": "Skylar Harris",
+    "created_at": "2025-10-02T22:32:37.596063",
+    "version": "2.0_enhanced",
+    "prerequisite_analysis": {
+      "courses_with_prereq": [
+        {
+          "course": "IFN666",
+          "prerequisites": [
+            "IFQ555",
+            "IFN555",
+            "IFN556",
+            "IFN581",
+            "IFQ556"
+          ]
+        },
+        {
+          "course": "IFN564",
+          "prerequisites": [
+            "IFN563",
+            "IFQ555",
+            "IFN501",
+            "IFN555",
+            "IFN556",
+            "IFQ556"
+          ]
+        }
+      ],
+      "missing_prerequisites": [
+        "IFN501",
+        "IFN556",
+        "IFN563",
+        "IFN581",
+        "IFQ555",
+        "IFQ556"
+      ],
+      "completed_prerequisites": [
+        "IFN555"
+      ],
+      "student_courses": [
+        "IFN553",
+        "IFN554",
+        "IFN555",
+        "IFN564",
+        "IFN623",
+        "IFN666",
+        "IFN668",
+        "IFN670"
+      ]
+    }
+  }
+}

@@ -1,0 +1,793 @@
+{
+  "entities": [
+    {
+      "id": "student_n09804514",
+      "name": "Reese Scott",
+      "entity_type": "STUDENT",
+      "properties": {
+        "student_id": "n09804514",
+        "major": "Data Science and Computer Science",
+        "year": "3rd Year",
+        "file_path": "data/processed/profiles_md/IFN712_proposal_Wenzong_Gao_orbit/n09804514_Reese_Scott.md"
+      }
+    },
+    {
+      "id": "major_data_science_and_computer_science",
+      "name": "Data Science and Computer Science",
+      "entity_type": "MAJOR",
+      "properties": {}
+    },
+    {
+      "id": "course_ifn556_object_oriented_programming",
+      "name": "IFN556 Object Oriented Programming",
+      "entity_type": "COURSE",
+      "properties": {}
+    },
+    {
+      "id": "skill_object-oriented_programming",
+      "name": "Object-Oriented Programming",
+      "entity_type": "SKILL",
+      "properties": {}
+    },
+    {
+      "id": "skill_software_design",
+      "name": "Software Design",
+      "entity_type": "SKILL",
+      "properties": {}
+    },
+    {
+      "id": "skill_programming",
+      "name": "Programming",
+      "entity_type": "SKILL",
+      "properties": {}
+    },
+    {
+      "id": "course_ifn563_algorithms_and_complexity",
+      "name": "IFN563 Algorithms and Complexity",
+      "entity_type": "COURSE",
+      "properties": {}
+    },
+    {
+      "id": "skill_computational_complexity",
+      "name": "Computational Complexity",
+      "entity_type": "SKILL",
+      "properties": {}
+    },
+    {
+      "id": "skill_algorithms",
+      "name": "Algorithms",
+      "entity_type": "SKILL",
+      "properties": {}
+    },
+    {
+      "id": "course_ifn555_introduction_to_programming",
+      "name": "IFN555 Introduction to Programming",
+      "entity_type": "COURSE",
+      "properties": {}
+    },
+    {
+      "id": "skill_problem_solving",
+      "name": "Problem Solving",
+      "entity_type": "SKILL",
+      "properties": {}
+    },
+    {
+      "id": "course_ifn632_advanced_data_analytics",
+      "name": "IFN632 Advanced Data Analytics",
+      "entity_type": "COURSE",
+      "properties": {}
+    },
+    {
+      "id": "skill_data_mining",
+      "name": "Data Mining",
+      "entity_type": "SKILL",
+      "properties": {}
+    },
+    {
+      "id": "skill_advanced_analytics",
+      "name": "Advanced Analytics",
+      "entity_type": "SKILL",
+      "properties": {}
+    },
+    {
+      "id": "skill_machine_learning",
+      "name": "Machine Learning",
+      "entity_type": "SKILL",
+      "properties": {}
+    },
+    {
+      "id": "course_ifn551_computer_systems_fundamentals",
+      "name": "IFN551 Computer Systems Fundamentals",
+      "entity_type": "COURSE",
+      "properties": {}
+    },
+    {
+      "id": "skill_computer_systems",
+      "name": "Computer Systems",
+      "entity_type": "SKILL",
+      "properties": {}
+    },
+    {
+      "id": "skill_hardware_understanding",
+      "name": "Hardware Understanding",
+      "entity_type": "SKILL",
+      "properties": {}
+    },
+    {
+      "id": "course_ifn564_machine_learning",
+      "name": "IFn564 Machine Learning",
+      "entity_type": "COURSE",
+      "properties": {}
+    },
+    {
+      "id": "skill_data_science",
+      "name": "Data Science",
+      "entity_type": "SKILL",
+      "properties": {}
+    },
+    {
+      "id": "skill_artificial_intelligence",
+      "name": "Artificial Intelligence",
+      "entity_type": "SKILL",
+      "properties": {}
+    },
+    {
+      "id": "course_ifn565_advanced_programming",
+      "name": "IFN565 Advanced Programming",
+      "entity_type": "COURSE",
+      "properties": {}
+    },
+    {
+      "id": "skill_software_engineering",
+      "name": "Software Engineering",
+      "entity_type": "SKILL",
+      "properties": {}
+    },
+    {
+      "id": "skill_advanced_programming",
+      "name": "Advanced Programming",
+      "entity_type": "SKILL",
+      "properties": {}
+    },
+    {
+      "id": "course_ifn552_systems_analysis_and_design",
+      "name": "IFN552 Systems Analysis and Design",
+      "entity_type": "COURSE",
+      "properties": {}
+    },
+    {
+      "id": "skill_system_design",
+      "name": "System Design",
+      "entity_type": "SKILL",
+      "properties": {}
+    },
+    {
+      "id": "skill_systems_analysis",
+      "name": "Systems Analysis",
+      "entity_type": "SKILL",
+      "properties": {}
+    },
+    {
+      "id": "skill_python_pandas,_numpy,_scikit-learn",
+      "name": "Python (Pandas, NumPy, Scikit-learn)",
+      "entity_type": "SKILL",
+      "properties": {}
+    },
+    {
+      "id": "skill_r_ggplot2,_caret",
+      "name": "R (ggplot2, caret)",
+      "entity_type": "SKILL",
+      "properties": {}
+    },
+    {
+      "id": "skill_machine_learning_regression,_clustering,_neural_networks",
+      "name": "Machine Learning (Regression, Clustering, Neural Networks)",
+      "entity_type": "SKILL",
+      "properties": {}
+    },
+    {
+      "id": "skill_sql_and_nosql_databases",
+      "name": "SQL and NoSQL Databases",
+      "entity_type": "SKILL",
+      "properties": {}
+    },
+    {
+      "id": "skill_tcp_ip_and_wireless_networking",
+      "name": "TCP/IP and Wireless Networking",
+      "entity_type": "SKILL",
+      "properties": {}
+    },
+    {
+      "id": "skill_tensorflow_and_pytorch",
+      "name": "TensorFlow and PyTorch",
+      "entity_type": "SKILL",
+      "properties": {}
+    },
+    {
+      "id": "skill_gis_and_gps_data_analysis",
+      "name": "GIS and GPS Data Analysis",
+      "entity_type": "SKILL",
+      "properties": {}
+    },
+    {
+      "id": "skill_agile_development_and_devops",
+      "name": "Agile Development and DevOps",
+      "entity_type": "SKILL",
+      "properties": {}
+    },
+    {
+      "id": "interest_artificial_intelligence_and_machine_learning",
+      "name": "Artificial Intelligence and Machine Learning",
+      "entity_type": "INTEREST",
+      "properties": {}
+    },
+    {
+      "id": "interest_geospatial_technologies",
+      "name": "Geospatial Technologies",
+      "entity_type": "INTEREST",
+      "properties": {}
+    },
+    {
+      "id": "interest_data_visualization",
+      "name": "Data Visualization",
+      "entity_type": "INTEREST",
+      "properties": {}
+    },
+    {
+      "id": "interest_network_security",
+      "name": "Network Security",
+      "entity_type": "INTEREST",
+      "properties": {}
+    },
+    {
+      "id": "interest_open_source_software_development",
+      "name": "Open-Source Software Development",
+      "entity_type": "INTEREST",
+      "properties": {}
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "student_n09804514",
+      "target_id": "major_data_science_and_computer_science",
+      "relation_type": "STUDIED_MAJOR",
+      "weight": 1.0,
+      "properties": {}
+    },
+    {
+      "source_id": "student_n09804514",
+      "target_id": "course_ifn556_object_oriented_programming",
+      "relation_type": "COMPLETED_COURSE",
+      "weight": 1.0,
+      "properties": {}
+    },
+    {
+      "source_id": "course_ifn556_object_oriented_programming",
+      "target_id": "skill_object-oriented_programming",
+      "relation_type": "TEACHES_SKILL",
+      "weight": 0.9,
+      "properties": {}
+    },
+    {
+      "source_id": "student_n09804514",
+      "target_id": "skill_object-oriented_programming",
+      "relation_type": "HAS_SKILL",
+      "weight": 0.8,
+      "properties": {
+        "source": "course"
+      }
+    },
+    {
+      "source_id": "course_ifn556_object_oriented_programming",
+      "target_id": "skill_software_design",
+      "relation_type": "TEACHES_SKILL",
+      "weight": 0.9,
+      "properties": {}
+    },
+    {
+      "source_id": "student_n09804514",
+      "target_id": "skill_software_design",
+      "relation_type": "HAS_SKILL",
+      "weight": 0.8,
+      "properties": {
+        "source": "course"
+      }
+    },
+    {
+      "source_id": "course_ifn556_object_oriented_programming",
+      "target_id": "skill_programming",
+      "relation_type": "TEACHES_SKILL",
+      "weight": 0.9,
+      "properties": {}
+    },
+    {
+      "source_id": "student_n09804514",
+      "target_id": "skill_programming",
+      "relation_type": "HAS_SKILL",
+      "weight": 0.8,
+      "properties": {
+        "source": "course"
+      }
+    },
+    {
+      "source_id": "student_n09804514",
+      "target_id": "course_ifn563_algorithms_and_complexity",
+      "relation_type": "COMPLETED_COURSE",
+      "weight": 1.0,
+      "properties": {}
+    },
+    {
+      "source_id": "course_ifn563_algorithms_and_complexity",
+      "target_id": "skill_computational_complexity",
+      "relation_type": "TEACHES_SKILL",
+      "weight": 0.9,
+      "properties": {}
+    },
+    {
+      "source_id": "student_n09804514",
+      "target_id": "skill_computational_complexity",
+      "relation_type": "HAS_SKILL",
+      "weight": 0.8,
+      "properties": {
+        "source": "course"
+      }
+    },
+    {
+      "source_id": "course_ifn563_algorithms_and_complexity",
+      "target_id": "skill_algorithms",
+      "relation_type": "TEACHES_SKILL",
+      "weight": 0.9,
+      "properties": {}
+    },
+    {
+      "source_id": "student_n09804514",
+      "target_id": "skill_algorithms",
+      "relation_type": "HAS_SKILL",
+      "weight": 0.8,
+      "properties": {
+        "source": "course"
+      }
+    },
+    {
+      "source_id": "student_n09804514",
+      "target_id": "course_ifn555_introduction_to_programming",
+      "relation_type": "COMPLETED_COURSE",
+      "weight": 1.0,
+      "properties": {}
+    },
+    {
+      "source_id": "course_ifn555_introduction_to_programming",
+      "target_id": "skill_algorithms",
+      "relation_type": "TEACHES_SKILL",
+      "weight": 0.9,
+      "properties": {}
+    },
+    {
+      "source_id": "course_ifn555_introduction_to_programming",
+      "target_id": "skill_problem_solving",
+      "relation_type": "TEACHES_SKILL",
+      "weight": 0.9,
+      "properties": {}
+    },
+    {
+      "source_id": "student_n09804514",
+      "target_id": "skill_problem_solving",
+      "relation_type": "HAS_SKILL",
+      "weight": 0.8,
+      "properties": {
+        "source": "course"
+      }
+    },
+    {
+      "source_id": "course_ifn555_introduction_to_programming",
+      "target_id": "skill_programming",
+      "relation_type": "TEACHES_SKILL",
+      "weight": 0.9,
+      "properties": {}
+    },
+    {
+      "source_id": "student_n09804514",
+      "target_id": "course_ifn632_advanced_data_analytics",
+      "relation_type": "COMPLETED_COURSE",
+      "weight": 1.0,
+      "properties": {}
+    },
+    {
+      "source_id": "course_ifn632_advanced_data_analytics",
+      "target_id": "skill_data_mining",
+      "relation_type": "TEACHES_SKILL",
+      "weight": 0.9,
+      "properties": {}
+    },
+    {
+      "source_id": "student_n09804514",
+      "target_id": "skill_data_mining",
+      "relation_type": "HAS_SKILL",
+      "weight": 0.8,
+      "properties": {
+        "source": "course"
+      }
+    },
+    {
+      "source_id": "course_ifn632_advanced_data_analytics",
+      "target_id": "skill_advanced_analytics",
+      "relation_type": "TEACHES_SKILL",
+      "weight": 0.9,
+      "properties": {}
+    },
+    {
+      "source_id": "student_n09804514",
+      "target_id": "skill_advanced_analytics",
+      "relation_type": "HAS_SKILL",
+      "weight": 0.8,
+      "properties": {
+        "source": "course"
+      }
+    },
+    {
+      "source_id": "course_ifn632_advanced_data_analytics",
+      "target_id": "skill_machine_learning",
+      "relation_type": "TEACHES_SKILL",
+      "weight": 0.9,
+      "properties": {}
+    },
+    {
+      "source_id": "student_n09804514",
+      "target_id": "skill_machine_learning",
+      "relation_type": "HAS_SKILL",
+      "weight": 0.8,
+      "properties": {
+        "source": "course"
+      }
+    },
+    {
+      "source_id": "student_n09804514",
+      "target_id": "course_ifn551_computer_systems_fundamentals",
+      "relation_type": "COMPLETED_COURSE",
+      "weight": 1.0,
+      "properties": {}
+    },
+    {
+      "source_id": "course_ifn551_computer_systems_fundamentals",
+      "target_id": "skill_computer_systems",
+      "relation_type": "TEACHES_SKILL",
+      "weight": 0.9,
+      "properties": {}
+    },
+    {
+      "source_id": "student_n09804514",
+      "target_id": "skill_computer_systems",
+      "relation_type": "HAS_SKILL",
+      "weight": 0.8,
+      "properties": {
+        "source": "course"
+      }
+    },
+    {
+      "source_id": "course_ifn551_computer_systems_fundamentals",
+      "target_id": "skill_hardware_understanding",
+      "relation_type": "TEACHES_SKILL",
+      "weight": 0.9,
+      "properties": {}
+    },
+    {
+      "source_id": "student_n09804514",
+      "target_id": "skill_hardware_understanding",
+      "relation_type": "HAS_SKILL",
+      "weight": 0.8,
+      "properties": {
+        "source": "course"
+      }
+    },
+    {
+      "source_id": "student_n09804514",
+      "target_id": "course_ifn564_machine_learning",
+      "relation_type": "COMPLETED_COURSE",
+      "weight": 1.0,
+      "properties": {}
+    },
+    {
+      "source_id": "course_ifn564_machine_learning",
+      "target_id": "skill_data_science",
+      "relation_type": "TEACHES_SKILL",
+      "weight": 0.9,
+      "properties": {}
+    },
+    {
+      "source_id": "student_n09804514",
+      "target_id": "skill_data_science",
+      "relation_type": "HAS_SKILL",
+      "weight": 0.8,
+      "properties": {
+        "source": "course"
+      }
+    },
+    {
+      "source_id": "course_ifn564_machine_learning",
+      "target_id": "skill_artificial_intelligence",
+      "relation_type": "TEACHES_SKILL",
+      "weight": 0.9,
+      "properties": {}
+    },
+    {
+      "source_id": "student_n09804514",
+      "target_id": "skill_artificial_intelligence",
+      "relation_type": "HAS_SKILL",
+      "weight": 0.8,
+      "properties": {
+        "source": "course"
+      }
+    },
+    {
+      "source_id": "course_ifn564_machine_learning",
+      "target_id": "skill_machine_learning",
+      "relation_type": "TEACHES_SKILL",
+      "weight": 0.9,
+      "properties": {}
+    },
+    {
+      "source_id": "student_n09804514",
+      "target_id": "course_ifn565_advanced_programming",
+      "relation_type": "COMPLETED_COURSE",
+      "weight": 1.0,
+      "properties": {}
+    },
+    {
+      "source_id": "course_ifn565_advanced_programming",
+      "target_id": "skill_software_engineering",
+      "relation_type": "TEACHES_SKILL",
+      "weight": 0.9,
+      "properties": {}
+    },
+    {
+      "source_id": "student_n09804514",
+      "target_id": "skill_software_engineering",
+      "relation_type": "HAS_SKILL",
+      "weight": 0.8,
+      "properties": {
+        "source": "course"
+      }
+    },
+    {
+      "source_id": "course_ifn565_advanced_programming",
+      "target_id": "skill_advanced_programming",
+      "relation_type": "TEACHES_SKILL",
+      "weight": 0.9,
+      "properties": {}
+    },
+    {
+      "source_id": "student_n09804514",
+      "target_id": "skill_advanced_programming",
+      "relation_type": "HAS_SKILL",
+      "weight": 0.8,
+      "properties": {
+        "source": "course"
+      }
+    },
+    {
+      "source_id": "course_ifn565_advanced_programming",
+      "target_id": "skill_programming",
+      "relation_type": "TEACHES_SKILL",
+      "weight": 0.9,
+      "properties": {}
+    },
+    {
+      "source_id": "student_n09804514",
+      "target_id": "course_ifn552_systems_analysis_and_design",
+      "relation_type": "COMPLETED_COURSE",
+      "weight": 1.0,
+      "properties": {}
+    },
+    {
+      "source_id": "course_ifn552_systems_analysis_and_design",
+      "target_id": "skill_system_design",
+      "relation_type": "TEACHES_SKILL",
+      "weight": 0.9,
+      "properties": {}
+    },
+    {
+      "source_id": "student_n09804514",
+      "target_id": "skill_system_design",
+      "relation_type": "HAS_SKILL",
+      "weight": 0.8,
+      "properties": {
+        "source": "course"
+      }
+    },
+    {
+      "source_id": "course_ifn552_systems_analysis_and_design",
+      "target_id": "skill_systems_analysis",
+      "relation_type": "TEACHES_SKILL",
+      "weight": 0.9,
+      "properties": {}
+    },
+    {
+      "source_id": "student_n09804514",
+      "target_id": "skill_systems_analysis",
+      "relation_type": "HAS_SKILL",
+      "weight": 0.8,
+      "properties": {
+        "source": "course"
+      }
+    },
+    {
+      "source_id": "student_n09804514",
+      "target_id": "skill_python_pandas,_numpy,_scikit-learn",
+      "relation_type": "HAS_SKILL",
+      "weight": 0.6,
+      "properties": {
+        "source": "self-taught"
+      }
+    },
+    {
+      "source_id": "student_n09804514",
+      "target_id": "skill_r_ggplot2,_caret",
+      "relation_type": "HAS_SKILL",
+      "weight": 0.6,
+      "properties": {
+        "source": "self-taught"
+      }
+    },
+    {
+      "source_id": "student_n09804514",
+      "target_id": "skill_machine_learning_regression,_clustering,_neural_networks",
+      "relation_type": "HAS_SKILL",
+      "weight": 0.6,
+      "properties": {
+        "source": "self-taught"
+      }
+    },
+    {
+      "source_id": "student_n09804514",
+      "target_id": "skill_sql_and_nosql_databases",
+      "relation_type": "HAS_SKILL",
+      "weight": 0.6,
+      "properties": {
+        "source": "self-taught"
+      }
+    },
+    {
+      "source_id": "student_n09804514",
+      "target_id": "skill_tcp_ip_and_wireless_networking",
+      "relation_type": "HAS_SKILL",
+      "weight": 0.6,
+      "properties": {
+        "source": "self-taught"
+      }
+    },
+    {
+      "source_id": "student_n09804514",
+      "target_id": "skill_tensorflow_and_pytorch",
+      "relation_type": "HAS_SKILL",
+      "weight": 0.6,
+      "properties": {
+        "source": "self-taught"
+      }
+    },
+    {
+      "source_id": "student_n09804514",
+      "target_id": "skill_gis_and_gps_data_analysis",
+      "relation_type": "HAS_SKILL",
+      "weight": 0.6,
+      "properties": {
+        "source": "self-taught"
+      }
+    },
+    {
+      "source_id": "student_n09804514",
+      "target_id": "skill_agile_development_and_devops",
+      "relation_type": "HAS_SKILL",
+      "weight": 0.6,
+      "properties": {
+        "source": "self-taught"
+      }
+    },
+    {
+      "source_id": "student_n09804514",
+      "target_id": "interest_artificial_intelligence_and_machine_learning",
+      "relation_type": "INTERESTED_IN",
+      "weight": 1.0,
+      "properties": {}
+    },
+    {
+      "source_id": "student_n09804514",
+      "target_id": "interest_geospatial_technologies",
+      "relation_type": "INTERESTED_IN",
+      "weight": 1.0,
+      "properties": {}
+    },
+    {
+      "source_id": "student_n09804514",
+      "target_id": "interest_data_visualization",
+      "relation_type": "INTERESTED_IN",
+      "weight": 1.0,
+      "properties": {}
+    },
+    {
+      "source_id": "student_n09804514",
+      "target_id": "interest_network_security",
+      "relation_type": "INTERESTED_IN",
+      "weight": 1.0,
+      "properties": {}
+    },
+    {
+      "source_id": "student_n09804514",
+      "target_id": "interest_open_source_software_development",
+      "relation_type": "INTERESTED_IN",
+      "weight": 1.0,
+      "properties": {}
+    },
+    {
+      "source_id": "course_ifn555_introduction_to_programming",
+      "target_id": "course_ifn563_algorithms_and_complexity",
+      "relation_type": "PREREQUISITE_FOR",
+      "weight": 1.0,
+      "properties": {
+        "description": "IFN555 is a prerequisite for IFN563"
+      }
+    },
+    {
+      "source_id": "course_ifn556_object_oriented_programming",
+      "target_id": "course_ifn563_algorithms_and_complexity",
+      "relation_type": "PREREQUISITE_FOR",
+      "weight": 1.0,
+      "properties": {
+        "description": "IFN556 is a prerequisite for IFN563"
+      }
+    },
+    {
+      "source_id": "course_ifn555_introduction_to_programming",
+      "target_id": "course_ifn556_object_oriented_programming",
+      "relation_type": "PREREQUISITE_FOR",
+      "weight": 1.0,
+      "properties": {
+        "description": "IFN555 is a prerequisite for IFN556"
+      }
+    }
+  ],
+  "metadata": {
+    "student_id": "student_n09804514",
+    "student_name": "Reese Scott",
+    "created_at": "2025-10-02T22:36:16.115442",
+    "version": "2.0_enhanced",
+    "prerequisite_analysis": {
+      "courses_with_prereq": [
+        {
+          "course": "IFN563",
+          "prerequisites": [
+            "IFQ555",
+            "IFN501",
+            "IFN555",
+            "IFN556",
+            "IFQ556"
+          ]
+        },
+        {
+          "course": "IFN556",
+          "prerequisites": [
+            "IFQ555",
+            "IFN555"
+          ]
+        }
+      ],
+      "missing_prerequisites": [
+        "IFN501",
+        "IFQ555",
+        "IFQ556"
+      ],
+      "completed_prerequisites": [
+        "IFN555",
+        "IFN556"
+      ],
+      "student_courses": [
+        "IFN551",
+        "IFN552",
+        "IFN555",
+        "IFN556",
+        "IFN563",
+        "IFN565",
+        "IFN632"
+      ]
+    }
+  }
+}

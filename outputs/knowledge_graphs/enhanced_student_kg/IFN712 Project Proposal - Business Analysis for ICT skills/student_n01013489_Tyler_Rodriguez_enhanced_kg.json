@@ -1,0 +1,567 @@
+{
+  "entities": [
+    {
+      "id": "student_n01013489",
+      "name": "Tyler Rodriguez",
+      "entity_type": "STUDENT",
+      "properties": {
+        "student_id": "n01013489",
+        "major": "Business Analysis",
+        "year": "4th Year",
+        "file_path": "data/processed/profiles_md/IFN712 Project Proposal - Business Analysis for ICT skills/n01013489_Tyler_Rodriguez.md"
+      }
+    },
+    {
+      "id": "major_business_analysis",
+      "name": "Business Analysis",
+      "entity_type": "MAJOR",
+      "properties": {}
+    },
+    {
+      "id": "course_ifn551_computer_systems_fundamentals",
+      "name": "IFN551 Computer Systems Fundamentals",
+      "entity_type": "COURSE",
+      "properties": {}
+    },
+    {
+      "id": "skill_computer_systems",
+      "name": "Computer Systems",
+      "entity_type": "SKILL",
+      "properties": {}
+    },
+    {
+      "id": "skill_hardware_understanding",
+      "name": "Hardware Understanding",
+      "entity_type": "SKILL",
+      "properties": {}
+    },
+    {
+      "id": "course_ifn555_introduction_to_programming",
+      "name": "IFN555 Introduction to Programming",
+      "entity_type": "COURSE",
+      "properties": {}
+    },
+    {
+      "id": "skill_algorithms",
+      "name": "Algorithms",
+      "entity_type": "SKILL",
+      "properties": {}
+    },
+    {
+      "id": "skill_problem_solving",
+      "name": "Problem Solving",
+      "entity_type": "SKILL",
+      "properties": {}
+    },
+    {
+      "id": "skill_programming",
+      "name": "Programming",
+      "entity_type": "SKILL",
+      "properties": {}
+    },
+    {
+      "id": "course_ifn554_databases",
+      "name": "IFN554 Databases",
+      "entity_type": "COURSE",
+      "properties": {}
+    },
+    {
+      "id": "skill_sql",
+      "name": "SQL",
+      "entity_type": "SKILL",
+      "properties": {}
+    },
+    {
+      "id": "skill_database_management",
+      "name": "Database Management",
+      "entity_type": "SKILL",
+      "properties": {}
+    },
+    {
+      "id": "course_ifn614_business_process_modelling",
+      "name": "IFN614 Business Process Modelling",
+      "entity_type": "COURSE",
+      "properties": {}
+    },
+    {
+      "id": "course_ifn617_business_intelligence_systems",
+      "name": "IFN617 Business Intelligence Systems",
+      "entity_type": "COURSE",
+      "properties": {}
+    },
+    {
+      "id": "course_ifn616_requirements_engineering",
+      "name": "IFn616 Requirements Engineering",
+      "entity_type": "COURSE",
+      "properties": {}
+    },
+    {
+      "id": "course_ifn623_cyber_security",
+      "name": "IFN623 Cyber Security",
+      "entity_type": "COURSE",
+      "properties": {}
+    },
+    {
+      "id": "skill_cybersecurity",
+      "name": "Cybersecurity",
+      "entity_type": "SKILL",
+      "properties": {}
+    },
+    {
+      "id": "skill_network_security",
+      "name": "Network Security",
+      "entity_type": "SKILL",
+      "properties": {}
+    },
+    {
+      "id": "course_ifn552_systems_analysis_and_design",
+      "name": "IFN552 Systems Analysis and Design",
+      "entity_type": "COURSE",
+      "properties": {}
+    },
+    {
+      "id": "skill_system_design",
+      "name": "System Design",
+      "entity_type": "SKILL",
+      "properties": {}
+    },
+    {
+      "id": "skill_systems_analysis",
+      "name": "Systems Analysis",
+      "entity_type": "SKILL",
+      "properties": {}
+    },
+    {
+      "id": "skill_python_data_analysis_with_pandas,_numpy",
+      "name": "Python (data analysis with Pandas, NumPy)",
+      "entity_type": "SKILL",
+      "properties": {}
+    },
+    {
+      "id": "skill_sql_postgresql,_mysql",
+      "name": "SQL (PostgreSQL, MySQL)",
+      "entity_type": "SKILL",
+      "properties": {}
+    },
+    {
+      "id": "skill_business_intelligence_tools_power_bi,_tableau",
+      "name": "Business Intelligence tools (Power BI, Tableau)",
+      "entity_type": "SKILL",
+      "properties": {}
+    },
+    {
+      "id": "skill_uml_and_bpmn_modeling",
+      "name": "UML and BPMN modeling",
+      "entity_type": "SKILL",
+      "properties": {}
+    },
+    {
+      "id": "skill_cybersecurity_frameworks_nist,_iso_27001",
+      "name": "Cybersecurity frameworks (NIST, ISO 27001)",
+      "entity_type": "SKILL",
+      "properties": {}
+    },
+    {
+      "id": "skill_network_security_protocols_ssl_tls,_firewalls",
+      "name": "Network security protocols (SSL/TLS, firewalls)",
+      "entity_type": "SKILL",
+      "properties": {}
+    },
+    {
+      "id": "skill_agile_scrum_project_management",
+      "name": "Agile/Scrum project management",
+      "entity_type": "SKILL",
+      "properties": {}
+    },
+    {
+      "id": "skill_cloud_computing_aws_basics",
+      "name": "Cloud computing (AWS basics)",
+      "entity_type": "SKILL",
+      "properties": {}
+    },
+    {
+      "id": "interest_industry_4.0_and_digital_transformation",
+      "name": "Industry 4.0 and digital transformation",
+      "entity_type": "INTEREST",
+      "properties": {}
+    },
+    {
+      "id": "interest_cybersecurity_policy_development",
+      "name": "Cybersecurity policy development",
+      "entity_type": "INTEREST",
+      "properties": {}
+    },
+    {
+      "id": "interest_educational_technology_innovation",
+      "name": "Educational technology innovation",
+      "entity_type": "INTEREST",
+      "properties": {}
+    },
+    {
+      "id": "interest_agile_methodologies_in_software_development",
+      "name": "Agile methodologies in software development",
+      "entity_type": "INTEREST",
+      "properties": {}
+    },
+    {
+      "id": "interest_cross_sector_collaboration_between_academia_and_tech_industries",
+      "name": "Cross-sector collaboration between academia and tech industries",
+      "entity_type": "INTEREST",
+      "properties": {}
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "student_n01013489",
+      "target_id": "major_business_analysis",
+      "relation_type": "STUDIED_MAJOR",
+      "weight": 1.0,
+      "properties": {}
+    },
+    {
+      "source_id": "student_n01013489",
+      "target_id": "course_ifn551_computer_systems_fundamentals",
+      "relation_type": "COMPLETED_COURSE",
+      "weight": 1.0,
+      "properties": {}
+    },
+    {
+      "source_id": "course_ifn551_computer_systems_fundamentals",
+      "target_id": "skill_computer_systems",
+      "relation_type": "TEACHES_SKILL",
+      "weight": 0.9,
+      "properties": {}
+    },
+    {
+      "source_id": "student_n01013489",
+      "target_id": "skill_computer_systems",
+      "relation_type": "HAS_SKILL",
+      "weight": 0.8,
+      "properties": {
+        "source": "course"
+      }
+    },
+    {
+      "source_id": "course_ifn551_computer_systems_fundamentals",
+      "target_id": "skill_hardware_understanding",
+      "relation_type": "TEACHES_SKILL",
+      "weight": 0.9,
+      "properties": {}
+    },
+    {
+      "source_id": "student_n01013489",
+      "target_id": "skill_hardware_understanding",
+      "relation_type": "HAS_SKILL",
+      "weight": 0.8,
+      "properties": {
+        "source": "course"
+      }
+    },
+    {
+      "source_id": "student_n01013489",
+      "target_id": "course_ifn555_introduction_to_programming",
+      "relation_type": "COMPLETED_COURSE",
+      "weight": 1.0,
+      "properties": {}
+    },
+    {
+      "source_id": "course_ifn555_introduction_to_programming",
+      "target_id": "skill_algorithms",
+      "relation_type": "TEACHES_SKILL",
+      "weight": 0.9,
+      "properties": {}
+    },
+    {
+      "source_id": "student_n01013489",
+      "target_id": "skill_algorithms",
+      "relation_type": "HAS_SKILL",
+      "weight": 0.8,
+      "properties": {
+        "source": "course"
+      }
+    },
+    {
+      "source_id": "course_ifn555_introduction_to_programming",
+      "target_id": "skill_problem_solving",
+      "relation_type": "TEACHES_SKILL",
+      "weight": 0.9,
+      "properties": {}
+    },
+    {
+      "source_id": "student_n01013489",
+      "target_id": "skill_problem_solving",
+      "relation_type": "HAS_SKILL",
+      "weight": 0.8,
+      "properties": {
+        "source": "course"
+      }
+    },
+    {
+      "source_id": "course_ifn555_introduction_to_programming",
+      "target_id": "skill_programming",
+      "relation_type": "TEACHES_SKILL",
+      "weight": 0.9,
+      "properties": {}
+    },
+    {
+      "source_id": "student_n01013489",
+      "target_id": "skill_programming",
+      "relation_type": "HAS_SKILL",
+      "weight": 0.8,
+      "properties": {
+        "source": "course"
+      }
+    },
+    {
+      "source_id": "student_n01013489",
+      "target_id": "course_ifn554_databases",
+      "relation_type": "COMPLETED_COURSE",
+      "weight": 1.0,
+      "properties": {}
+    },
+    {
+      "source_id": "course_ifn554_databases",
+      "target_id": "skill_sql",
+      "relation_type": "TEACHES_SKILL",
+      "weight": 0.9,
+      "properties": {}
+    },
+    {
+      "source_id": "student_n01013489",
+      "target_id": "skill_sql",
+      "relation_type": "HAS_SKILL",
+      "weight": 0.8,
+      "properties": {
+        "source": "course"
+      }
+    },
+    {
+      "source_id": "course_ifn554_databases",
+      "target_id": "skill_database_management",
+      "relation_type": "TEACHES_SKILL",
+      "weight": 0.9,
+      "properties": {}
+    },
+    {
+      "source_id": "student_n01013489",
+      "target_id": "skill_database_management",
+      "relation_type": "HAS_SKILL",
+      "weight": 0.8,
+      "properties": {
+        "source": "course"
+      }
+    },
+    {
+      "source_id": "student_n01013489",
+      "target_id": "course_ifn614_business_process_modelling",
+      "relation_type": "COMPLETED_COURSE",
+      "weight": 1.0,
+      "properties": {}
+    },
+    {
+      "source_id": "student_n01013489",
+      "target_id": "course_ifn617_business_intelligence_systems",
+      "relation_type": "COMPLETED_COURSE",
+      "weight": 1.0,
+      "properties": {}
+    },
+    {
+      "source_id": "student_n01013489",
+      "target_id": "course_ifn616_requirements_engineering",
+      "relation_type": "COMPLETED_COURSE",
+      "weight": 1.0,
+      "properties": {}
+    },
+    {
+      "source_id": "student_n01013489",
+      "target_id": "course_ifn623_cyber_security",
+      "relation_type": "COMPLETED_COURSE",
+      "weight": 1.0,
+      "properties": {}
+    },
+    {
+      "source_id": "course_ifn623_cyber_security",
+      "target_id": "skill_cybersecurity",
+      "relation_type": "TEACHES_SKILL",
+      "weight": 0.9,
+      "properties": {}
+    },
+    {
+      "source_id": "student_n01013489",
+      "target_id": "skill_cybersecurity",
+      "relation_type": "HAS_SKILL",
+      "weight": 0.8,
+      "properties": {
+        "source": "course"
+      }
+    },
+    {
+      "source_id": "course_ifn623_cyber_security",
+      "target_id": "skill_network_security",
+      "relation_type": "TEACHES_SKILL",
+      "weight": 0.9,
+      "properties": {}
+    },
+    {
+      "source_id": "student_n01013489",
+      "target_id": "skill_network_security",
+      "relation_type": "HAS_SKILL",
+      "weight": 0.8,
+      "properties": {
+        "source": "course"
+      }
+    },
+    {
+      "source_id": "student_n01013489",
+      "target_id": "course_ifn552_systems_analysis_and_design",
+      "relation_type": "COMPLETED_COURSE",
+      "weight": 1.0,
+      "properties": {}
+    },
+    {
+      "source_id": "course_ifn552_systems_analysis_and_design",
+      "target_id": "skill_system_design",
+      "relation_type": "TEACHES_SKILL",
+      "weight": 0.9,
+      "properties": {}
+    },
+    {
+      "source_id": "student_n01013489",
+      "target_id": "skill_system_design",
+      "relation_type": "HAS_SKILL",
+      "weight": 0.8,
+      "properties": {
+        "source": "course"
+      }
+    },
+    {
+      "source_id": "course_ifn552_systems_analysis_and_design",
+      "target_id": "skill_systems_analysis",
+      "relation_type": "TEACHES_SKILL",
+      "weight": 0.9,
+      "properties": {}
+    },
+    {
+      "source_id": "student_n01013489",
+      "target_id": "skill_systems_analysis",
+      "relation_type": "HAS_SKILL",
+      "weight": 0.8,
+      "properties": {
+        "source": "course"
+      }
+    },
+    {
+      "source_id": "student_n01013489",
+      "target_id": "skill_python_data_analysis_with_pandas,_numpy",
+      "relation_type": "HAS_SKILL",
+      "weight": 0.6,
+      "properties": {
+        "source": "self-taught"
+      }
+    },
+    {
+      "source_id": "student_n01013489",
+      "target_id": "skill_sql_postgresql,_mysql",
+      "relation_type": "HAS_SKILL",
+      "weight": 0.6,
+      "properties": {
+        "source": "self-taught"
+      }
+    },
+    {
+      "source_id": "student_n01013489",
+      "target_id": "skill_business_intelligence_tools_power_bi,_tableau",
+      "relation_type": "HAS_SKILL",
+      "weight": 0.6,
+      "properties": {
+        "source": "self-taught"
+      }
+    },
+    {
+      "source_id": "student_n01013489",
+      "target_id": "skill_uml_and_bpmn_modeling",
+      "relation_type": "HAS_SKILL",
+      "weight": 0.6,
+      "properties": {
+        "source": "self-taught"
+      }
+    },
+    {
+      "source_id": "student_n01013489",
+      "target_id": "skill_cybersecurity_frameworks_nist,_iso_27001",
+      "relation_type": "HAS_SKILL",
+      "weight": 0.6,
+      "properties": {
+        "source": "self-taught"
+      }
+    },
+    {
+      "source_id": "student_n01013489",
+      "target_id": "skill_network_security_protocols_ssl_tls,_firewalls",
+      "relation_type": "HAS_SKILL",
+      "weight": 0.6,
+      "properties": {
+        "source": "self-taught"
+      }
+    },
+    {
+      "source_id": "student_n01013489",
+      "target_id": "skill_agile_scrum_project_management",
+      "relation_type": "HAS_SKILL",
+      "weight": 0.6,
+      "properties": {
+        "source": "self-taught"
+      }
+    },
+    {
+      "source_id": "student_n01013489",
+      "target_id": "skill_cloud_computing_aws_basics",
+      "relation_type": "HAS_SKILL",
+      "weight": 0.6,
+      "properties": {
+        "source": "self-taught"
+      }
+    },
+    {
+      "source_id": "student_n01013489",
+      "target_id": "interest_industry_4.0_and_digital_transformation",
+      "relation_type": "INTERESTED_IN",
+      "weight": 1.0,
+      "properties": {}
+    },
+    {
+      "source_id": "student_n01013489",
+      "target_id": "interest_cybersecurity_policy_development",
+      "relation_type": "INTERESTED_IN",
+      "weight": 1.0,
+      "properties": {}
+    },
+    {
+      "source_id": "student_n01013489",
+      "target_id": "interest_educational_technology_innovation",
+      "relation_type": "INTERESTED_IN",
+      "weight": 1.0,
+      "properties": {}
+    },
+    {
+      "source_id": "student_n01013489",
+      "target_id": "interest_agile_methodologies_in_software_development",
+      "relation_type": "INTERESTED_IN",
+      "weight": 1.0,
+      "properties": {}
+    },
+    {
+      "source_id": "student_n01013489",
+      "target_id": "interest_cross_sector_collaboration_between_academia_and_tech_industries",
+      "relation_type": "INTERESTED_IN",
+      "weight": 1.0,
+      "properties": {}
+    }
+  ],
+  "metadata": {
+    "student_id": "student_n01013489",
+    "student_name": "Tyler Rodriguez",
+    "created_at": "2025-10-02T22:34:39.804962",
+    "version": "2.0_enhanced"
+  }
+}

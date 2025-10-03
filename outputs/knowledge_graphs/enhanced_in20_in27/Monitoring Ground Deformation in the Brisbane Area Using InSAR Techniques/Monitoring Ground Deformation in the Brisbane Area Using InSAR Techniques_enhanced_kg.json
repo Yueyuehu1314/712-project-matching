@@ -1,0 +1,2777 @@
+{
+  "project": "IFN712_proposal_Wenzong_Gao_insar",
+  "project_title": "Monitoring Ground Deformation in the Brisbane Area Using InSAR Techniques",
+  "nodes": [
+    {
+      "id": "project_IFN712_proposal_Wenzong_Gao_insar",
+      "name": "IFN712_proposal_Wenzong_Gao_insar",
+      "type": "PROJECT",
+      "score": 0.0,
+      "category": "core",
+      "source": "PD",
+      "prerequisites": null
+    },
+    {
+      "id": "skill_machine_learning",
+      "name": "machine learning",
+      "type": "SKILL",
+      "score": 1.0,
+      "category": "dual_supported",
+      "source": "IN20+IN27",
+      "prerequisites": null
+    },
+    {
+      "id": "skill_business_analysis",
+      "name": "business analysis",
+      "type": "SKILL",
+      "score": 1.0,
+      "category": "extended",
+      "source": "PD",
+      "prerequisites": null
+    },
+    {
+      "id": "skill_data_science",
+      "name": "data analytics",
+      "type": "SKILL",
+      "score": 1.0,
+      "category": "dual_supported",
+      "source": "IN20+IN27",
+      "prerequisites": null
+    },
+    {
+      "id": "skill_mobile_development",
+      "name": "mobile development",
+      "type": "SKILL",
+      "score": 1.0,
+      "category": "extended",
+      "source": "PD",
+      "prerequisites": null
+    },
+    {
+      "id": "skill_programming",
+      "name": "programming",
+      "type": "SKILL",
+      "score": 1.0,
+      "category": "dual_supported",
+      "source": "IN20+IN27",
+      "prerequisites": null
+    },
+    {
+      "id": "skill_web_development",
+      "name": "web development",
+      "type": "SKILL",
+      "score": 1.0,
+      "category": "extended",
+      "source": "PD",
+      "prerequisites": null
+    },
+    {
+      "id": "skill_database",
+      "name": "database",
+      "type": "SKILL",
+      "score": 1.0,
+      "category": "supported",
+      "source": "IN27",
+      "prerequisites": null
+    },
+    {
+      "id": "skill_networking",
+      "name": "networking",
+      "type": "SKILL",
+      "score": 1.0,
+      "category": "extended",
+      "source": "PD",
+      "prerequisites": null
+    },
+    {
+      "id": "major_data_science_and_computer_science",
+      "name": "Data Science and Computer Science",
+      "type": "MAJOR",
+      "score": 1.0,
+      "category": "core",
+      "source": "PD",
+      "prerequisites": null
+    },
+    {
+      "id": "unit_IFN657",
+      "name": "IFN657 Principles of Software Security.IFN666Web and Mobi",
+      "type": "UNIT",
+      "score": 1.0,
+      "category": "core",
+      "source": null,
+      "prerequisites": null
+    },
+    {
+      "id": "unit_IEN631",
+      "name": "IEN631 IT Governance",
+      "type": "UNIT",
+      "score": 1.0,
+      "category": "core",
+      "source": null,
+      "prerequisites": null
+    },
+    {
+      "id": "unit_ENN523",
+      "name": "ENN523 Advanced Network Engineering.ENN524Mobile Network ",
+      "type": "UNIT",
+      "score": 1.0,
+      "category": "core",
+      "source": null,
+      "prerequisites": null
+    },
+    {
+      "id": "unit_IFQ552",
+      "name": "IFQ552 Credit Points6",
+      "type": "UNIT",
+      "score": 1.0,
+      "category": "core",
+      "source": null,
+      "prerequisites": null
+    },
+    {
+      "id": "unit_IFQ557",
+      "name": "IFQ557 Credit Points6",
+      "type": "UNIT",
+      "score": 1.0,
+      "category": "core",
+      "source": null,
+      "prerequisites": null
+    },
+    {
+      "id": "unit_IFN558",
+      "name": "IFN558 (8x6cp) will not be available for enrolment as you",
+      "type": "UNIT",
+      "score": 1.0,
+      "category": "core",
+      "source": null,
+      "prerequisites": null
+    },
+    {
+      "id": "unit_IFQ619",
+      "name": "IFQ619 Credit Points12",
+      "type": "UNIT",
+      "score": 1.0,
+      "category": "core",
+      "source": null,
+      "prerequisites": null
+    },
+    {
+      "id": "unit_IFN591",
+      "name": "IFN591 Principles of User Experience.IFN644Network Operat",
+      "type": "UNIT",
+      "score": 1.0,
+      "category": "core",
+      "source": null,
+      "prerequisites": null
+    },
+    {
+      "id": "unit_IFN701",
+      "name": "IFN701 Credit Points24",
+      "type": "UNIT",
+      "score": 1.0,
+      "category": "core",
+      "source": null,
+      "prerequisites": null
+    },
+    {
+      "id": "unit_IFN504",
+      "name": "IFN504 , IFN561 or IFQ561 or Admission to IN14Equivalents",
+      "type": "UNIT",
+      "score": 1.0,
+      "category": "core",
+      "source": null,
+      "prerequisites": null
+    },
+    {
+      "id": "unit_CAB302",
+      "name": "CAB302 or INB370 or INB371 or IFN666EquivalentsINB356Cred",
+      "type": "UNIT",
+      "score": 1.0,
+      "category": "core",
+      "source": null,
+      "prerequisites": null
+    },
+    {
+      "id": "unit_IFN503",
+      "name": "IFN503 or Admission to IN15, or IN16Anti-requisitesINN350",
+      "type": "UNIT",
+      "score": 1.0,
+      "category": "core",
+      "source": null,
+      "prerequisites": null
+    },
+    {
+      "id": "unit_IFN662",
+      "name": "IFN662 Enterprise Systems and Applications",
+      "type": "UNIT",
+      "score": 1.0,
+      "category": "core",
+      "source": null,
+      "prerequisites": null
+    },
+    {
+      "id": "unit_IFN515",
+      "name": "IFN515 Fundamentals of Business Process ManagementIFN521 ",
+      "type": "UNIT",
+      "score": 1.0,
+      "category": "core",
+      "source": null,
+      "prerequisites": null
+    },
+    {
+      "id": "unit_INN352",
+      "name": "INN352 Credit Points12",
+      "type": "UNIT",
+      "score": 1.0,
+      "category": "core",
+      "source": null,
+      "prerequisites": null
+    },
+    {
+      "id": "unit_IFN562",
+      "name": "IFN562 Advanced Business AnalysisYear 2, Semester 2IFN712",
+      "type": "UNIT",
+      "score": 1.0,
+      "category": "core",
+      "source": null,
+      "prerequisites": null
+    },
+    {
+      "id": "unit_IFN653",
+      "name": "IFN653 Business Process Automation July 2-year-entry/ Feb",
+      "type": "UNIT",
+      "score": 1.0,
+      "category": "core",
+      "source": null,
+      "prerequisites": [
+        "IFN653",
+        "IFN515",
+        "IFQ515"
+      ]
+    },
+    {
+      "id": "unit_IFQ515",
+      "name": "IFQ515 Credit Points12",
+      "type": "UNIT",
+      "score": 1.0,
+      "category": "core",
+      "source": null,
+      "prerequisites": null
+    },
+    {
+      "id": "unit_IAB302",
+      "name": "IAB302 Credit Points12",
+      "type": "UNIT",
+      "score": 1.0,
+      "category": "core",
+      "source": null,
+      "prerequisites": null
+    },
+    {
+      "id": "unit_IFN500",
+      "name": "IFN500 or (IFN552 and IFN558) or (lFQ552 and IFQ558) or A",
+      "type": "UNIT",
+      "score": 1.0,
+      "category": "core",
+      "source": null,
+      "prerequisites": null
+    },
+    {
+      "id": "unit_IFN553",
+      "name": "IFN553 ) or (lFQ551 and IFQ553) or IFN503 or Admission to",
+      "type": "UNIT",
+      "score": 1.0,
+      "category": "core",
+      "source": null,
+      "prerequisites": null
+    },
+    {
+      "id": "unit_IFN564",
+      "name": "IFN564 Data Structures and AlgorithmsMIT Elective UnitMIT",
+      "type": "UNIT",
+      "score": 1.0,
+      "category": "core",
+      "source": null,
+      "prerequisites": [
+        "IFN501",
+        "IFQ555",
+        "IFN556",
+        "IFN555",
+        "IFN563",
+        "IFQ556"
+      ]
+    },
+    {
+      "id": "unit_IFN501",
+      "name": "IFN501 EquivalentsIFQ555Credit Points6",
+      "type": "UNIT",
+      "score": 1.0,
+      "category": "core",
+      "source": null,
+      "prerequisites": null
+    },
+    {
+      "id": "unit_IFQ555",
+      "name": "IFQ555 Credit Points6",
+      "type": "UNIT",
+      "score": 1.0,
+      "category": "core",
+      "source": null,
+      "prerequisites": null
+    },
+    {
+      "id": "unit_IFN556",
+      "name": "IFN556 Object Oriented Programming",
+      "type": "UNIT",
+      "score": 1.0,
+      "category": "core",
+      "source": null,
+      "prerequisites": [
+        "IFN555",
+        "IFQ555"
+      ]
+    },
+    {
+      "id": "unit_IFN555",
+      "name": "IFN555 Introduction to Programming",
+      "type": "UNIT",
+      "score": 1.0,
+      "category": "core",
+      "source": null,
+      "prerequisites": null
+    },
+    {
+      "id": "unit_IFN563",
+      "name": "IFN563 Object Oriented DesignIFN564Data Structures and Al",
+      "type": "UNIT",
+      "score": 1.0,
+      "category": "core",
+      "source": null,
+      "prerequisites": [
+        "IFN501",
+        "IFQ555",
+        "IFN556",
+        "IFN555",
+        "IFQ556"
+      ]
+    },
+    {
+      "id": "unit_IFQ556",
+      "name": "IFQ556 Credit Pointse6",
+      "type": "UNIT",
+      "score": 1.0,
+      "category": "core",
+      "source": null,
+      "prerequisites": null
+    },
+    {
+      "id": "unit_IFN511",
+      "name": "IFN511 EquivalentsIFQ541Credit Points12",
+      "type": "UNIT",
+      "score": 1.0,
+      "category": "core",
+      "source": null,
+      "prerequisites": null
+    },
+    {
+      "id": "unit_IFN680",
+      "name": "IFN680 Artificial Intelligence and Machine LearningIFN692",
+      "type": "UNIT",
+      "score": 1.0,
+      "category": "core",
+      "source": null,
+      "prerequisites": null
+    },
+    {
+      "id": "unit_IFQ561",
+      "name": "IFQ561 Credit Points12",
+      "type": "UNIT",
+      "score": 1.0,
+      "category": "core",
+      "source": null,
+      "prerequisites": null
+    },
+    {
+      "id": "unit_IFQ558",
+      "name": "IFQ558 Credit Points6",
+      "type": "UNIT",
+      "score": 1.0,
+      "category": "core",
+      "source": null,
+      "prerequisites": null
+    },
+    {
+      "id": "unit_IFN557",
+      "name": "IFN557 Rapid Web DevelopmentIFN558Management Information ",
+      "type": "UNIT",
+      "score": 1.0,
+      "category": "core",
+      "source": null,
+      "prerequisites": null
+    },
+    {
+      "id": "unit_IFN600",
+      "name": "IFN600 Credit Points12",
+      "type": "UNIT",
+      "score": 1.0,
+      "category": "core",
+      "source": null,
+      "prerequisites": null
+    },
+    {
+      "id": "unit_INN342",
+      "name": "INN342 , INN343EquivalentsIFQ509Credit Points12",
+      "type": "UNIT",
+      "score": 1.0,
+      "category": "core",
+      "source": null,
+      "prerequisites": null
+    },
+    {
+      "id": "unit_INB371",
+      "name": "INB371 or IFN666EquivalentsINB356Credit Points12",
+      "type": "UNIT",
+      "score": 1.0,
+      "category": "core",
+      "source": null,
+      "prerequisites": null
+    },
+    {
+      "id": "unit_IFN631",
+      "name": "IFN631 IT GovernanceMIT Elective UnitMIT Elective UnitYea",
+      "type": "UNIT",
+      "score": 1.0,
+      "category": "core",
+      "source": null,
+      "prerequisites": null
+    },
+    {
+      "id": "unit_IFN667",
+      "name": "IFN667 Enterprise loT SystemsYear 2, Semester 2IFN712Rese",
+      "type": "UNIT",
+      "score": 1.0,
+      "category": "core",
+      "source": null,
+      "prerequisites": null
+    },
+    {
+      "id": "unit_IFN652",
+      "name": "IFN652 Enterprise Business Process ManagementIFN653Busine",
+      "type": "UNIT",
+      "score": 1.0,
+      "category": "core",
+      "source": null,
+      "prerequisites": null
+    },
+    {
+      "id": "unit_IFN664",
+      "name": "IFN664 Advanced Algorithms and ComputationalComputer Scie",
+      "type": "UNIT",
+      "score": 1.0,
+      "category": "core",
+      "source": null,
+      "prerequisites": null
+    },
+    {
+      "id": "unit_INB352",
+      "name": "INB352 , INN352Credit Points12",
+      "type": "UNIT",
+      "score": 1.0,
+      "category": "core",
+      "source": null,
+      "prerequisites": null
+    },
+    {
+      "id": "unit_IFN509",
+      "name": "IFN509 Data Exploration and Mining.IFN541Information Secu",
+      "type": "UNIT",
+      "score": 1.0,
+      "category": "core",
+      "source": null,
+      "prerequisites": [
+        "IFN582",
+        "IFQ555",
+        "IFN509",
+        "IFN555",
+        "IFN581",
+        "IFQ554",
+        "IFN554"
+      ]
+    },
+    {
+      "id": "unit_IFQ554",
+      "name": "IFQ554 or Admission to IN15. IFN554 may be studied in the",
+      "type": "UNIT",
+      "score": 1.0,
+      "category": "core",
+      "source": null,
+      "prerequisites": null
+    },
+    {
+      "id": "unit_IFN554",
+      "name": "IFN554 DatabasesIFN557Rapid Web DevelopmentIFN561Enterpri",
+      "type": "UNIT",
+      "score": 1.0,
+      "category": "core",
+      "source": null,
+      "prerequisites": null
+    },
+    {
+      "id": "unit_IFQ562",
+      "name": "IFQ562 Credit Points12",
+      "type": "UNIT",
+      "score": 1.0,
+      "category": "core",
+      "source": null,
+      "prerequisites": null
+    },
+    {
+      "id": "unit_IFN650",
+      "name": "IFN650 Business Process Analytics.IFN662Enterprise System",
+      "type": "UNIT",
+      "score": 1.0,
+      "category": "core",
+      "source": null,
+      "prerequisites": [
+        "IFN650",
+        "IFN515",
+        "IFQ515"
+      ]
+    },
+    {
+      "id": "unit_IFN666",
+      "name": "IFN666 Web and Mobile Application DevelopmentIFN680Artifi",
+      "type": "UNIT",
+      "score": 1.0,
+      "category": "core",
+      "source": null,
+      "prerequisites": [
+        "IFQ555",
+        "IFN556",
+        "IFN555",
+        "IFN581",
+        "IFQ556"
+      ]
+    },
+    {
+      "id": "unit_MGN565",
+      "name": "MGN565 Consulting and Change Management",
+      "type": "UNIT",
+      "score": 1.0,
+      "category": "core",
+      "source": null,
+      "prerequisites": null
+    },
+    {
+      "id": "unit_INB356",
+      "name": "INB356 Credit Points12",
+      "type": "UNIT",
+      "score": 1.0,
+      "category": "core",
+      "source": null,
+      "prerequisites": null
+    },
+    {
+      "id": "unit_CAB340",
+      "name": "CAB340 , IFN642Credit Points12",
+      "type": "UNIT",
+      "score": 1.0,
+      "category": "core",
+      "source": null,
+      "prerequisites": null
+    },
+    {
+      "id": "unit_IAB207",
+      "name": "IAB207 EquivalentsIFQ557Credit Points6",
+      "type": "UNIT",
+      "score": 1.0,
+      "category": "core",
+      "source": null,
+      "prerequisites": null
+    },
+    {
+      "id": "unit_IFN712",
+      "name": "IFN712 Research in IT Practice.IFN663 Advanced Enterprise",
+      "type": "UNIT",
+      "score": 1.0,
+      "category": "core",
+      "source": null,
+      "prerequisites": null
+    },
+    {
+      "id": "unit_IFN642",
+      "name": "IFN642 Credit Points12",
+      "type": "UNIT",
+      "score": 1.0,
+      "category": "core",
+      "source": null,
+      "prerequisites": null
+    },
+    {
+      "id": "unit_IFQ507",
+      "name": "IFQ507 or Admission to EN50 or EN55Anti-requisitesINB352,",
+      "type": "UNIT",
+      "score": 1.0,
+      "category": "core",
+      "source": null,
+      "prerequisites": null
+    },
+    {
+      "id": "unit_IFN663",
+      "name": "IFN663 Advanced Enterprise Architecture.Business Analysis",
+      "type": "UNIT",
+      "score": 1.0,
+      "category": "core",
+      "source": null,
+      "prerequisites": null
+    },
+    {
+      "id": "unit_IFQ649",
+      "name": "IFQ649 Unit IFQ649",
+      "type": "UNIT",
+      "score": 1.0,
+      "category": "core",
+      "source": null,
+      "prerequisites": null
+    },
+    {
+      "id": "unit_IFN502",
+      "name": "IFN502 or (IFN552 and IFN558) or (lFQ552 and IFQ558) or I",
+      "type": "UNIT",
+      "score": 1.0,
+      "category": "core",
+      "source": null,
+      "prerequisites": null
+    },
+    {
+      "id": "unit_ENN524",
+      "name": "ENN524 Mobile Network Engineering.IFN591Principles of Use",
+      "type": "UNIT",
+      "score": 1.0,
+      "category": "core",
+      "source": null,
+      "prerequisites": null
+    },
+    {
+      "id": "unit_IFQ564",
+      "name": "IFQ564 Credit Points6",
+      "type": "UNIT",
+      "score": 1.0,
+      "category": "core",
+      "source": null,
+      "prerequisites": null
+    },
+    {
+      "id": "unit_IFQ553",
+      "name": "IFQ553 ) or IFN503 or Admission to IN15, or IN16Anti-requ",
+      "type": "UNIT",
+      "score": 1.0,
+      "category": "core",
+      "source": null,
+      "prerequisites": null
+    },
+    {
+      "id": "unit_IFN711",
+      "name": "IFN711 IT Industry ProjectIFN619 Data Analytics for Strat",
+      "type": "UNIT",
+      "score": 1.0,
+      "category": "core",
+      "source": null,
+      "prerequisites": null
+    },
+    {
+      "id": "unit_INN321",
+      "name": "INN321 EquivalentsIFQ515Credit Points12",
+      "type": "UNIT",
+      "score": 1.0,
+      "category": "core",
+      "source": null,
+      "prerequisites": null
+    },
+    {
+      "id": "unit_IFN507",
+      "name": "IFN507 Network SystemsIFN509Data Exploration and Mining.I",
+      "type": "UNIT",
+      "score": 1.0,
+      "category": "core",
+      "source": null,
+      "prerequisites": null
+    },
+    {
+      "id": "unit_IFN505",
+      "name": "IFN505 EquivalentsIFQ563",
+      "type": "UNIT",
+      "score": 1.0,
+      "category": "core",
+      "source": null,
+      "prerequisites": null
+    },
+    {
+      "id": "unit_INN350",
+      "name": "INN350 , INN251, INN351EquivalentsIFQ507Credit Points12",
+      "type": "UNIT",
+      "score": 1.0,
+      "category": "core",
+      "source": null,
+      "prerequisites": null
+    },
+    {
+      "id": "unit_IGB283",
+      "name": "IGB283 or IFN556 or IFQ556Credit Points12",
+      "type": "UNIT",
+      "score": 1.0,
+      "category": "core",
+      "source": null,
+      "prerequisites": null
+    },
+    {
+      "id": "unit_IFQ563",
+      "name": "IFQ563 Unit IFQ563",
+      "type": "UNIT",
+      "score": 1.0,
+      "category": "core",
+      "source": null,
+      "prerequisites": null
+    },
+    {
+      "id": "unit_INN351",
+      "name": "INN351 EquivalentsIFQ507Credit Points12",
+      "type": "UNIT",
+      "score": 1.0,
+      "category": "core",
+      "source": null,
+      "prerequisites": null
+    },
+    {
+      "id": "unit_IFN619",
+      "name": "IFN619 Data Analytics for Strategic Decision MakersIFN562",
+      "type": "UNIT",
+      "score": 1.0,
+      "category": "core",
+      "source": null,
+      "prerequisites": null
+    },
+    {
+      "id": "unit_QFN503",
+      "name": "QFN503 or QFEN51 and Admission to IN15 or IN16Equivalents",
+      "type": "UNIT",
+      "score": 1.0,
+      "category": "core",
+      "source": null,
+      "prerequisites": null
+    },
+    {
+      "id": "unit_IFN528",
+      "name": "IFN528 Management of Information Systems, which introduce",
+      "type": "UNIT",
+      "score": 1.0,
+      "category": "core",
+      "source": null,
+      "prerequisites": null
+    },
+    {
+      "id": "unit_IFN646",
+      "name": "IFN646 Biomedical Data ScienceIFN647Text, Web and Media A",
+      "type": "UNIT",
+      "score": 1.0,
+      "category": "core",
+      "source": null,
+      "prerequisites": [
+        "IFN580",
+        "IFN509",
+        "IFQ509"
+      ]
+    },
+    {
+      "id": "unit_IFQ509",
+      "name": "IFQ509 Credit Points12",
+      "type": "UNIT",
+      "score": 1.0,
+      "category": "core",
+      "source": null,
+      "prerequisites": null
+    },
+    {
+      "id": "unit_CAB432",
+      "name": "CAB432 Cloud ComputingIFN507Network SystemsIFN509Data Exp",
+      "type": "UNIT",
+      "score": 1.0,
+      "category": "core",
+      "source": null,
+      "prerequisites": [
+        "IFN666",
+        "IFQ666",
+        "INB371",
+        "CAB301",
+        "CAB302",
+        "IFQ584",
+        "INB370",
+        "IFN584",
+        "IFQ582",
+        "IFN582"
+      ]
+    },
+    {
+      "id": "unit_CAB301",
+      "name": "CAB301 or CAB302 or INB370 or INB371 or IFN666Equivalents",
+      "type": "UNIT",
+      "score": 1.0,
+      "category": "core",
+      "source": null,
+      "prerequisites": null
+    },
+    {
+      "id": "unit_INB370",
+      "name": "INB370 or INB371 or IFN666EquivalentsINB356Credit Points1",
+      "type": "UNIT",
+      "score": 1.0,
+      "category": "core",
+      "source": null,
+      "prerequisites": null
+    },
+    {
+      "id": "unit_INN353",
+      "name": "INN353 Credit Points12",
+      "type": "UNIT",
+      "score": 1.0,
+      "category": "core",
+      "source": null,
+      "prerequisites": null
+    },
+    {
+      "id": "unit_CAB230",
+      "name": "CAB230 Credit Points12",
+      "type": "UNIT",
+      "score": 1.0,
+      "category": "core",
+      "source": null,
+      "prerequisites": null
+    },
+    {
+      "id": "unit_IFQ657",
+      "name": "IFQ657 Credit Points12",
+      "type": "UNIT",
+      "score": 1.0,
+      "category": "core",
+      "source": null,
+      "prerequisites": null
+    },
+    {
+      "id": "unit_IAB204",
+      "name": "IAB204 or admission to IN20EquivalentsINB322 IAB302Credit",
+      "type": "UNIT",
+      "score": 1.0,
+      "category": "core",
+      "source": null,
+      "prerequisites": null
+    },
+    {
+      "id": "unit_IFN623",
+      "name": "IFN623 Human Information Interaction.",
+      "type": "UNIT",
+      "score": 1.0,
+      "category": "core",
+      "source": null,
+      "prerequisites": null
+    },
+    {
+      "id": "unit_IFN692",
+      "name": "IFN692 Interaction Design for Emerging Technologies",
+      "type": "UNIT",
+      "score": 1.0,
+      "category": "core",
+      "source": null,
+      "prerequisites": null
+    },
+    {
+      "id": "unit_INB322",
+      "name": "INB322 IAB302Credit Points12",
+      "type": "UNIT",
+      "score": 1.0,
+      "category": "core",
+      "source": null,
+      "prerequisites": null
+    },
+    {
+      "id": "unit_IFN561",
+      "name": "IFN561 Enterprise Systems Lifecycle ManagementMIT Electiv",
+      "type": "UNIT",
+      "score": 1.0,
+      "category": "core",
+      "source": null,
+      "prerequisites": null
+    },
+    {
+      "id": "unit_INN343",
+      "name": "INN343 EquivalentsIFQ509Credit Points12",
+      "type": "UNIT",
+      "score": 1.0,
+      "category": "core",
+      "source": null,
+      "prerequisites": null
+    },
+    {
+      "id": "unit_IFQ591",
+      "name": "IFQ591 Credit Points12",
+      "type": "UNIT",
+      "score": 1.0,
+      "category": "core",
+      "source": null,
+      "prerequisites": null
+    },
+    {
+      "id": "unit_IFN541",
+      "name": "IFN541 Information Security Management.IFN591Principles o",
+      "type": "UNIT",
+      "score": 1.0,
+      "category": "core",
+      "source": null,
+      "prerequisites": null
+    },
+    {
+      "id": "unit_MGZ505",
+      "name": "MGZ505 MGN505Credit Points12",
+      "type": "UNIT",
+      "score": 1.0,
+      "category": "core",
+      "source": null,
+      "prerequisites": null
+    },
+    {
+      "id": "unit_IFN690",
+      "name": "IFN690 Advanced User Centred DesignIFN692Interaction Desi",
+      "type": "UNIT",
+      "score": 1.0,
+      "category": "core",
+      "source": null,
+      "prerequisites": null
+    },
+    {
+      "id": "unit_IFQ541",
+      "name": "IFQ541 Credit Points12",
+      "type": "UNIT",
+      "score": 1.0,
+      "category": "core",
+      "source": null,
+      "prerequisites": null
+    },
+    {
+      "id": "unit_INN312",
+      "name": "INN312 Credit Points12",
+      "type": "UNIT",
+      "score": 1.0,
+      "category": "core",
+      "source": null,
+      "prerequisites": null
+    },
+    {
+      "id": "unit_IFN645",
+      "name": "IFN645 Research in IT Practice Large Scale Data MiningDat",
+      "type": "UNIT",
+      "score": 1.0,
+      "category": "core",
+      "source": null,
+      "prerequisites": [
+        "IFN580",
+        "IFN509",
+        "IFQ509"
+      ]
+    },
+    {
+      "id": "unit_MGN505",
+      "name": "MGN505 Credit Points12",
+      "type": "UNIT",
+      "score": 1.0,
+      "category": "core",
+      "source": null,
+      "prerequisites": null
+    },
+    {
+      "id": "unit_IFN521",
+      "name": "IFN521 Foundations of Decision Science.IFN619 Data Analyt",
+      "type": "UNIT",
+      "score": 1.0,
+      "category": "core",
+      "source": null,
+      "prerequisites": null
+    },
+    {
+      "id": "unit_IFN644",
+      "name": "IFN644 Network Operations and SecurityIFN647Text, Web and",
+      "type": "UNIT",
+      "score": 1.0,
+      "category": "core",
+      "source": null,
+      "prerequisites": null
+    },
+    {
+      "id": "unit_IFN665",
+      "name": "IFN665 Complexity Advanced Topic 1e",
+      "type": "UNIT",
+      "score": 1.0,
+      "category": "core",
+      "source": null,
+      "prerequisites": null
+    },
+    {
+      "id": "unit_IAB402",
+      "name": "IAB402 Information Systems Consulting(note: IAB402: if yo",
+      "type": "UNIT",
+      "score": 1.0,
+      "category": "core",
+      "source": null,
+      "prerequisites": null
+    },
+    {
+      "id": "unit_IFN647",
+      "name": "IFN647 Text, Web and Media Analytics.IFN648Applied Crypto",
+      "type": "UNIT",
+      "score": 1.0,
+      "category": "core",
+      "source": null,
+      "prerequisites": null
+    },
+    {
+      "id": "unit_IFN648",
+      "name": "IFN648 Applied CryptographyIFN657Principles of Software S",
+      "type": "UNIT",
+      "score": 1.0,
+      "category": "core",
+      "source": null,
+      "prerequisites": null
+    },
+    {
+      "id": "unit_IFN649",
+      "name": "IFN649 Advanced NetworksMIT Elective UnitJuly 2-year-entr",
+      "type": "UNIT",
+      "score": 1.0,
+      "category": "core",
+      "source": null,
+      "prerequisites": null
+    },
+    {
+      "id": "unit_IFN702",
+      "name": "IFN702 Credit Points24",
+      "type": "UNIT",
+      "score": 1.0,
+      "category": "core",
+      "source": null,
+      "prerequisites": null
+    },
+    {
+      "id": "unit_INN327",
+      "name": "INN327 Credit Points12",
+      "type": "UNIT",
+      "score": 1.0,
+      "category": "core",
+      "source": null,
+      "prerequisites": null
+    },
+    {
+      "id": "unit_IAB305",
+      "name": "IAB305 to identify systems problems or opportunities and ",
+      "type": "UNIT",
+      "score": 1.0,
+      "category": "core",
+      "source": null,
+      "prerequisites": null
+    },
+    {
+      "id": "unit_IFN552",
+      "name": "IFN552 Systems Analysis and Design",
+      "type": "UNIT",
+      "score": 1.0,
+      "category": "core",
+      "source": null,
+      "prerequisites": null
+    },
+    {
+      "id": "unit_CAB431",
+      "name": "CAB431 Credit Points12",
+      "type": "UNIT",
+      "score": 1.0,
+      "category": "core",
+      "source": null,
+      "prerequisites": null
+    },
+    {
+      "id": "unit_INN251",
+      "name": "INN251 , INN351EquivalentsIFQ507Credit Points12",
+      "type": "UNIT",
+      "score": 1.0,
+      "category": "core",
+      "source": null,
+      "prerequisites": null
+    },
+    {
+      "id": "unit_IFQ521",
+      "name": "IFQ521 Credit Points12",
+      "type": "UNIT",
+      "score": 1.0,
+      "category": "core",
+      "source": null,
+      "prerequisites": null
+    },
+    {
+      "id": "unit_IFQ551",
+      "name": "IFQ551 Credit Points6",
+      "type": "UNIT",
+      "score": 1.0,
+      "category": "core",
+      "source": null,
+      "prerequisites": null
+    },
+    {
+      "id": "unit_IFN551",
+      "name": "IFN551 -IFN558 (8x6cp) will not be available for enrolmen",
+      "type": "UNIT",
+      "score": 1.0,
+      "category": "core",
+      "source": null,
+      "prerequisites": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "project_IFN712_proposal_Wenzong_Gao_insar",
+      "target": "skill_machine_learning",
+      "relation": "REQUIRES_SKILL",
+      "weight": 3.5,
+      "category": "dual_supported",
+      "source_type": "PD"
+    },
+    {
+      "source": "project_IFN712_proposal_Wenzong_Gao_insar",
+      "target": "skill_business_analysis",
+      "relation": "REQUIRES_SKILL",
+      "weight": 3.0,
+      "category": "extended",
+      "source_type": "PD"
+    },
+    {
+      "source": "project_IFN712_proposal_Wenzong_Gao_insar",
+      "target": "skill_data_science",
+      "relation": "REQUIRES_SKILL",
+      "weight": 2.5,
+      "category": "dual_supported",
+      "source_type": "PD"
+    },
+    {
+      "source": "project_IFN712_proposal_Wenzong_Gao_insar",
+      "target": "skill_mobile_development",
+      "relation": "REQUIRES_SKILL",
+      "weight": 2.0,
+      "category": "extended",
+      "source_type": "PD"
+    },
+    {
+      "source": "project_IFN712_proposal_Wenzong_Gao_insar",
+      "target": "skill_programming",
+      "relation": "REQUIRES_SKILL",
+      "weight": 3.0,
+      "category": "dual_supported",
+      "source_type": "PD"
+    },
+    {
+      "source": "project_IFN712_proposal_Wenzong_Gao_insar",
+      "target": "skill_web_development",
+      "relation": "REQUIRES_SKILL",
+      "weight": 3.0,
+      "category": "extended",
+      "source_type": "PD"
+    },
+    {
+      "source": "project_IFN712_proposal_Wenzong_Gao_insar",
+      "target": "skill_database",
+      "relation": "REQUIRES_SKILL",
+      "weight": 3.0,
+      "category": "supported",
+      "source_type": "PD"
+    },
+    {
+      "source": "project_IFN712_proposal_Wenzong_Gao_insar",
+      "target": "skill_networking",
+      "relation": "REQUIRES_SKILL",
+      "weight": 3.0,
+      "category": "extended",
+      "source_type": "PD"
+    },
+    {
+      "source": "skill_programming",
+      "target": "unit_IFN701",
+      "relation": "TAUGHT_IN",
+      "weight": 7.0,
+      "category": "core",
+      "source_type": "IN20"
+    },
+    {
+      "source": "skill_project_management",
+      "target": "unit_IFN701",
+      "relation": "TAUGHT_IN",
+      "weight": 7.0,
+      "category": "core",
+      "source_type": "IN20"
+    },
+    {
+      "source": "skill_project_management",
+      "target": "unit_IFQ561",
+      "relation": "TAUGHT_IN",
+      "weight": 2,
+      "category": "core",
+      "source_type": "IN20"
+    },
+    {
+      "source": "skill_data_analytics",
+      "target": "unit_IFN562",
+      "relation": "TAUGHT_IN",
+      "weight": 7.0,
+      "category": "core",
+      "source_type": "IN20"
+    },
+    {
+      "source": "skill_project_management",
+      "target": "unit_IFN562",
+      "relation": "TAUGHT_IN",
+      "weight": 2,
+      "category": "core",
+      "source_type": "IN20"
+    },
+    {
+      "source": "skill_project_management",
+      "target": "unit_IFQ507",
+      "relation": "TAUGHT_IN",
+      "weight": 2,
+      "category": "core",
+      "source_type": "IN20"
+    },
+    {
+      "source": "skill_project_management",
+      "target": "unit_IFQ563",
+      "relation": "TAUGHT_IN",
+      "weight": 2,
+      "category": "core",
+      "source_type": "IN20"
+    },
+    {
+      "source": "skill_project_management",
+      "target": "unit_IFQ657",
+      "relation": "TAUGHT_IN",
+      "weight": 2,
+      "category": "core",
+      "source_type": "IN20"
+    },
+    {
+      "source": "skill_programming",
+      "target": "unit_IFN653",
+      "relation": "TAUGHT_IN",
+      "weight": 7.0,
+      "category": "core",
+      "source_type": "IN20"
+    },
+    {
+      "source": "skill_project_management",
+      "target": "unit_IFN653",
+      "relation": "TAUGHT_IN",
+      "weight": 2,
+      "category": "core",
+      "source_type": "IN20"
+    },
+    {
+      "source": "skill_project_management",
+      "target": "unit_IFN600",
+      "relation": "TAUGHT_IN",
+      "weight": 2,
+      "category": "core",
+      "source_type": "IN20"
+    },
+    {
+      "source": "skill_project_management",
+      "target": "unit_IFQ551",
+      "relation": "TAUGHT_IN",
+      "weight": 2,
+      "category": "core",
+      "source_type": "IN20"
+    },
+    {
+      "source": "skill_project_management",
+      "target": "unit_IFN561",
+      "relation": "TAUGHT_IN",
+      "weight": 2,
+      "category": "core",
+      "source_type": "IN20"
+    },
+    {
+      "source": "skill_project_management",
+      "target": "unit_INN350",
+      "relation": "TAUGHT_IN",
+      "weight": 2,
+      "category": "core",
+      "source_type": "IN20"
+    },
+    {
+      "source": "skill_project_management",
+      "target": "unit_INB322",
+      "relation": "TAUGHT_IN",
+      "weight": 2,
+      "category": "core",
+      "source_type": "IN20"
+    },
+    {
+      "source": "skill_project_management",
+      "target": "unit_INN312",
+      "relation": "TAUGHT_IN",
+      "weight": 2,
+      "category": "core",
+      "source_type": "IN20"
+    },
+    {
+      "source": "skill_project_management",
+      "target": "unit_IFN501",
+      "relation": "TAUGHT_IN",
+      "weight": 2,
+      "category": "core",
+      "source_type": "IN20"
+    },
+    {
+      "source": "skill_project_management",
+      "target": "unit_IFQ558",
+      "relation": "TAUGHT_IN",
+      "weight": 2,
+      "category": "core",
+      "source_type": "IN20"
+    },
+    {
+      "source": "skill_project_management",
+      "target": "unit_IFN504",
+      "relation": "TAUGHT_IN",
+      "weight": 2,
+      "category": "core",
+      "source_type": "IN20"
+    },
+    {
+      "source": "skill_project_management",
+      "target": "unit_INN251",
+      "relation": "TAUGHT_IN",
+      "weight": 2,
+      "category": "core",
+      "source_type": "IN20"
+    },
+    {
+      "source": "skill_project_management",
+      "target": "unit_IFQ557",
+      "relation": "TAUGHT_IN",
+      "weight": 2,
+      "category": "core",
+      "source_type": "IN20"
+    },
+    {
+      "source": "skill_project_management",
+      "target": "unit_IFN551",
+      "relation": "TAUGHT_IN",
+      "weight": 2,
+      "category": "core",
+      "source_type": "IN20"
+    },
+    {
+      "source": "skill_machine_learning",
+      "target": "unit_IFN680",
+      "relation": "TAUGHT_IN",
+      "weight": 7.0,
+      "category": "core",
+      "source_type": "IN20"
+    },
+    {
+      "source": "skill_data_analytics",
+      "target": "unit_IFN680",
+      "relation": "TAUGHT_IN",
+      "weight": 7.0,
+      "category": "core",
+      "source_type": "IN20"
+    },
+    {
+      "source": "skill_project_management",
+      "target": "unit_CAB431",
+      "relation": "TAUGHT_IN",
+      "weight": 2,
+      "category": "core",
+      "source_type": "IN20"
+    },
+    {
+      "source": "skill_programming",
+      "target": "unit_IFN648",
+      "relation": "TAUGHT_IN",
+      "weight": 7.0,
+      "category": "core",
+      "source_type": "IN20"
+    },
+    {
+      "source": "skill_project_management",
+      "target": "unit_IFN648",
+      "relation": "TAUGHT_IN",
+      "weight": 2,
+      "category": "core",
+      "source_type": "IN20"
+    },
+    {
+      "source": "skill_project_management",
+      "target": "unit_INB370",
+      "relation": "TAUGHT_IN",
+      "weight": 2,
+      "category": "core",
+      "source_type": "IN20"
+    },
+    {
+      "source": "skill_programming",
+      "target": "unit_IFN555",
+      "relation": "TAUGHT_IN",
+      "weight": 7.0,
+      "category": "core",
+      "source_type": "IN20"
+    },
+    {
+      "source": "skill_project_management",
+      "target": "unit_IFN555",
+      "relation": "TAUGHT_IN",
+      "weight": 2,
+      "category": "core",
+      "source_type": "IN20"
+    },
+    {
+      "source": "skill_project_management",
+      "target": "unit_IFQ553",
+      "relation": "TAUGHT_IN",
+      "weight": 2,
+      "category": "core",
+      "source_type": "IN20"
+    },
+    {
+      "source": "skill_programming",
+      "target": "unit_IFN552",
+      "relation": "TAUGHT_IN",
+      "weight": 7.0,
+      "category": "core",
+      "source_type": "IN20"
+    },
+    {
+      "source": "skill_project_management",
+      "target": "unit_IFN552",
+      "relation": "TAUGHT_IN",
+      "weight": 2,
+      "category": "core",
+      "source_type": "IN20"
+    },
+    {
+      "source": "skill_programming",
+      "target": "unit_IFN507",
+      "relation": "TAUGHT_IN",
+      "weight": 7.0,
+      "category": "core",
+      "source_type": "IN20"
+    },
+    {
+      "source": "skill_project_management",
+      "target": "unit_IFN507",
+      "relation": "TAUGHT_IN",
+      "weight": 2,
+      "category": "core",
+      "source_type": "IN20"
+    },
+    {
+      "source": "skill_project_management",
+      "target": "unit_QFN503",
+      "relation": "TAUGHT_IN",
+      "weight": 2,
+      "category": "core",
+      "source_type": "IN20"
+    },
+    {
+      "source": "skill_project_management",
+      "target": "unit_CAB432",
+      "relation": "TAUGHT_IN",
+      "weight": 2,
+      "category": "core",
+      "source_type": "IN20"
+    },
+    {
+      "source": "skill_project_management",
+      "target": "unit_IFN505",
+      "relation": "TAUGHT_IN",
+      "weight": 2,
+      "category": "core",
+      "source_type": "IN20"
+    },
+    {
+      "source": "skill_project_management",
+      "target": "unit_INB356",
+      "relation": "TAUGHT_IN",
+      "weight": 2,
+      "category": "core",
+      "source_type": "IN20"
+    },
+    {
+      "source": "skill_project_management",
+      "target": "unit_IFN692",
+      "relation": "TAUGHT_IN",
+      "weight": 2,
+      "category": "core",
+      "source_type": "IN20"
+    },
+    {
+      "source": "skill_project_management",
+      "target": "unit_IFN644",
+      "relation": "TAUGHT_IN",
+      "weight": 2,
+      "category": "core",
+      "source_type": "IN20"
+    },
+    {
+      "source": "skill_programming",
+      "target": "unit_IFN711",
+      "relation": "TAUGHT_IN",
+      "weight": 7.0,
+      "category": "core",
+      "source_type": "IN20"
+    },
+    {
+      "source": "skill_project_management",
+      "target": "unit_IFN711",
+      "relation": "TAUGHT_IN",
+      "weight": 7.0,
+      "category": "core",
+      "source_type": "IN20"
+    },
+    {
+      "source": "skill_project_management",
+      "target": "unit_IAB402",
+      "relation": "TAUGHT_IN",
+      "weight": 2,
+      "category": "core",
+      "source_type": "IN20"
+    },
+    {
+      "source": "skill_project_management",
+      "target": "unit_IFN649",
+      "relation": "TAUGHT_IN",
+      "weight": 2,
+      "category": "core",
+      "source_type": "IN20"
+    },
+    {
+      "source": "skill_programming",
+      "target": "unit_IFN657",
+      "relation": "TAUGHT_IN",
+      "weight": 7.0,
+      "category": "core",
+      "source_type": "IN20"
+    },
+    {
+      "source": "skill_project_management",
+      "target": "unit_IFN657",
+      "relation": "TAUGHT_IN",
+      "weight": 2,
+      "category": "core",
+      "source_type": "IN20"
+    },
+    {
+      "source": "skill_project_management",
+      "target": "unit_INB352",
+      "relation": "TAUGHT_IN",
+      "weight": 2,
+      "category": "core",
+      "source_type": "IN20"
+    },
+    {
+      "source": "skill_project_management",
+      "target": "unit_IFN515",
+      "relation": "TAUGHT_IN",
+      "weight": 7.0,
+      "category": "core",
+      "source_type": "IN20"
+    },
+    {
+      "source": "skill_project_management",
+      "target": "unit_IGB283",
+      "relation": "TAUGHT_IN",
+      "weight": 2,
+      "category": "core",
+      "source_type": "IN20"
+    },
+    {
+      "source": "skill_project_management",
+      "target": "unit_INN342",
+      "relation": "TAUGHT_IN",
+      "weight": 2,
+      "category": "core",
+      "source_type": "IN20"
+    },
+    {
+      "source": "skill_project_management",
+      "target": "unit_IAB204",
+      "relation": "TAUGHT_IN",
+      "weight": 2,
+      "category": "core",
+      "source_type": "IN20"
+    },
+    {
+      "source": "skill_programming",
+      "target": "unit_IFN557",
+      "relation": "TAUGHT_IN",
+      "weight": 7.0,
+      "category": "core",
+      "source_type": "IN20"
+    },
+    {
+      "source": "skill_project_management",
+      "target": "unit_IFN557",
+      "relation": "TAUGHT_IN",
+      "weight": 2,
+      "category": "core",
+      "source_type": "IN20"
+    },
+    {
+      "source": "skill_project_management",
+      "target": "unit_IFQ619",
+      "relation": "TAUGHT_IN",
+      "weight": 2,
+      "category": "core",
+      "source_type": "IN20"
+    },
+    {
+      "source": "skill_programming",
+      "target": "unit_IFN712",
+      "relation": "TAUGHT_IN",
+      "weight": 7.0,
+      "category": "core",
+      "source_type": "IN20"
+    },
+    {
+      "source": "skill_data_analytics",
+      "target": "unit_IFN712",
+      "relation": "TAUGHT_IN",
+      "weight": 7.0,
+      "category": "core",
+      "source_type": "IN20"
+    },
+    {
+      "source": "skill_project_management",
+      "target": "unit_IFN712",
+      "relation": "TAUGHT_IN",
+      "weight": 2,
+      "category": "core",
+      "source_type": "IN20"
+    },
+    {
+      "source": "skill_project_management",
+      "target": "unit_IFQ555",
+      "relation": "TAUGHT_IN",
+      "weight": 2,
+      "category": "core",
+      "source_type": "IN20"
+    },
+    {
+      "source": "skill_project_management",
+      "target": "unit_IFN553",
+      "relation": "TAUGHT_IN",
+      "weight": 2,
+      "category": "core",
+      "source_type": "IN20"
+    },
+    {
+      "source": "skill_project_management",
+      "target": "unit_IAB302",
+      "relation": "TAUGHT_IN",
+      "weight": 2,
+      "category": "core",
+      "source_type": "IN20"
+    },
+    {
+      "source": "skill_project_management",
+      "target": "unit_IFN623",
+      "relation": "TAUGHT_IN",
+      "weight": 2,
+      "category": "core",
+      "source_type": "IN20"
+    },
+    {
+      "source": "skill_project_management",
+      "target": "unit_IFQ541",
+      "relation": "TAUGHT_IN",
+      "weight": 2,
+      "category": "core",
+      "source_type": "IN20"
+    },
+    {
+      "source": "skill_project_management",
+      "target": "unit_IFN528",
+      "relation": "TAUGHT_IN",
+      "weight": 7.0,
+      "category": "core",
+      "source_type": "IN20"
+    },
+    {
+      "source": "skill_project_management",
+      "target": "unit_IFN665",
+      "relation": "TAUGHT_IN",
+      "weight": 2,
+      "category": "core",
+      "source_type": "IN20"
+    },
+    {
+      "source": "skill_project_management",
+      "target": "unit_ENN524",
+      "relation": "TAUGHT_IN",
+      "weight": 2,
+      "category": "core",
+      "source_type": "IN20"
+    },
+    {
+      "source": "skill_project_management",
+      "target": "unit_IFN558",
+      "relation": "TAUGHT_IN",
+      "weight": 2,
+      "category": "core",
+      "source_type": "IN20"
+    },
+    {
+      "source": "skill_project_management",
+      "target": "unit_INN321",
+      "relation": "TAUGHT_IN",
+      "weight": 2,
+      "category": "core",
+      "source_type": "IN20"
+    },
+    {
+      "source": "skill_project_management",
+      "target": "unit_IFN503",
+      "relation": "TAUGHT_IN",
+      "weight": 2,
+      "category": "core",
+      "source_type": "IN20"
+    },
+    {
+      "source": "skill_project_management",
+      "target": "unit_MGZ505",
+      "relation": "TAUGHT_IN",
+      "weight": 2,
+      "category": "core",
+      "source_type": "IN20"
+    },
+    {
+      "source": "skill_project_management",
+      "target": "unit_ENN523",
+      "relation": "TAUGHT_IN",
+      "weight": 2,
+      "category": "core",
+      "source_type": "IN20"
+    },
+    {
+      "source": "skill_project_management",
+      "target": "unit_IFN541",
+      "relation": "TAUGHT_IN",
+      "weight": 2,
+      "category": "core",
+      "source_type": "IN20"
+    },
+    {
+      "source": "skill_project_management",
+      "target": "unit_IAB305",
+      "relation": "TAUGHT_IN",
+      "weight": 2,
+      "category": "core",
+      "source_type": "IN20"
+    },
+    {
+      "source": "skill_data_analytics",
+      "target": "unit_IFN554",
+      "relation": "TAUGHT_IN",
+      "weight": 7.0,
+      "category": "core",
+      "source_type": "IN20"
+    },
+    {
+      "source": "skill_project_management",
+      "target": "unit_IFN554",
+      "relation": "TAUGHT_IN",
+      "weight": 2,
+      "category": "core",
+      "source_type": "IN20"
+    },
+    {
+      "source": "skill_data_analytics",
+      "target": "unit_IFN647",
+      "relation": "TAUGHT_IN",
+      "weight": 7.0,
+      "category": "core",
+      "source_type": "IN20"
+    },
+    {
+      "source": "skill_project_management",
+      "target": "unit_IFN647",
+      "relation": "TAUGHT_IN",
+      "weight": 2,
+      "category": "core",
+      "source_type": "IN20"
+    },
+    {
+      "source": "skill_programming",
+      "target": "unit_IFN652",
+      "relation": "TAUGHT_IN",
+      "weight": 7.0,
+      "category": "core",
+      "source_type": "IN20"
+    },
+    {
+      "source": "skill_data_analytics",
+      "target": "unit_IFN652",
+      "relation": "TAUGHT_IN",
+      "weight": 7.0,
+      "category": "core",
+      "source_type": "IN20"
+    },
+    {
+      "source": "skill_project_management",
+      "target": "unit_IFN652",
+      "relation": "TAUGHT_IN",
+      "weight": 2,
+      "category": "core",
+      "source_type": "IN20"
+    },
+    {
+      "source": "skill_project_management",
+      "target": "unit_IFQ564",
+      "relation": "TAUGHT_IN",
+      "weight": 2,
+      "category": "core",
+      "source_type": "IN20"
+    },
+    {
+      "source": "skill_project_management",
+      "target": "unit_IFQ515",
+      "relation": "TAUGHT_IN",
+      "weight": 2,
+      "category": "core",
+      "source_type": "IN20"
+    },
+    {
+      "source": "skill_programming",
+      "target": "unit_IFN666",
+      "relation": "TAUGHT_IN",
+      "weight": 7.0,
+      "category": "core",
+      "source_type": "IN20"
+    },
+    {
+      "source": "skill_project_management",
+      "target": "unit_IFQ562",
+      "relation": "TAUGHT_IN",
+      "weight": 2,
+      "category": "core",
+      "source_type": "IN20"
+    },
+    {
+      "source": "skill_data_analytics",
+      "target": "unit_IFN619",
+      "relation": "TAUGHT_IN",
+      "weight": 7.0,
+      "category": "core",
+      "source_type": "IN20"
+    },
+    {
+      "source": "skill_machine_learning",
+      "target": "unit_IFN619",
+      "relation": "TAUGHT_IN",
+      "weight": 7.0,
+      "category": "core",
+      "source_type": "IN20"
+    },
+    {
+      "source": "skill_project_management",
+      "target": "unit_IFN619",
+      "relation": "TAUGHT_IN",
+      "weight": 2,
+      "category": "core",
+      "source_type": "IN20"
+    },
+    {
+      "source": "skill_project_management",
+      "target": "unit_IFN500",
+      "relation": "TAUGHT_IN",
+      "weight": 2,
+      "category": "core",
+      "source_type": "IN20"
+    },
+    {
+      "source": "skill_project_management",
+      "target": "unit_INN343",
+      "relation": "TAUGHT_IN",
+      "weight": 2,
+      "category": "core",
+      "source_type": "IN20"
+    },
+    {
+      "source": "skill_project_management",
+      "target": "unit_IFN591",
+      "relation": "TAUGHT_IN",
+      "weight": 2,
+      "category": "core",
+      "source_type": "IN20"
+    },
+    {
+      "source": "skill_project_management",
+      "target": "unit_IFN646",
+      "relation": "TAUGHT_IN",
+      "weight": 2,
+      "category": "core",
+      "source_type": "IN20"
+    },
+    {
+      "source": "skill_project_management",
+      "target": "unit_CAB302",
+      "relation": "TAUGHT_IN",
+      "weight": 2,
+      "category": "core",
+      "source_type": "IN20"
+    },
+    {
+      "source": "skill_project_management",
+      "target": "unit_CAB301",
+      "relation": "TAUGHT_IN",
+      "weight": 2,
+      "category": "core",
+      "source_type": "IN20"
+    },
+    {
+      "source": "skill_project_management",
+      "target": "unit_IEN631",
+      "relation": "TAUGHT_IN",
+      "weight": 2,
+      "category": "core",
+      "source_type": "IN20"
+    },
+    {
+      "source": "skill_programming",
+      "target": "unit_IFN702",
+      "relation": "TAUGHT_IN",
+      "weight": 7.0,
+      "category": "core",
+      "source_type": "IN20"
+    },
+    {
+      "source": "skill_project_management",
+      "target": "unit_IFN702",
+      "relation": "TAUGHT_IN",
+      "weight": 7.0,
+      "category": "core",
+      "source_type": "IN20"
+    },
+    {
+      "source": "skill_project_management",
+      "target": "unit_IFN631",
+      "relation": "TAUGHT_IN",
+      "weight": 7.0,
+      "category": "core",
+      "source_type": "IN20"
+    },
+    {
+      "source": "skill_project_management",
+      "target": "unit_IFN667",
+      "relation": "TAUGHT_IN",
+      "weight": 2,
+      "category": "core",
+      "source_type": "IN20"
+    },
+    {
+      "source": "skill_programming",
+      "target": "unit_IFN563",
+      "relation": "TAUGHT_IN",
+      "weight": 7.0,
+      "category": "core",
+      "source_type": "IN20"
+    },
+    {
+      "source": "skill_project_management",
+      "target": "unit_IFN563",
+      "relation": "TAUGHT_IN",
+      "weight": 2,
+      "category": "core",
+      "source_type": "IN20"
+    },
+    {
+      "source": "skill_project_management",
+      "target": "unit_IFQ521",
+      "relation": "TAUGHT_IN",
+      "weight": 2,
+      "category": "core",
+      "source_type": "IN20"
+    },
+    {
+      "source": "skill_project_management",
+      "target": "unit_IFQ509",
+      "relation": "TAUGHT_IN",
+      "weight": 2,
+      "category": "core",
+      "source_type": "IN20"
+    },
+    {
+      "source": "skill_project_management",
+      "target": "unit_IFN511",
+      "relation": "TAUGHT_IN",
+      "weight": 2,
+      "category": "core",
+      "source_type": "IN20"
+    },
+    {
+      "source": "skill_programming",
+      "target": "unit_IFN664",
+      "relation": "TAUGHT_IN",
+      "weight": 7.0,
+      "category": "core",
+      "source_type": "IN20"
+    },
+    {
+      "source": "skill_project_management",
+      "target": "unit_IFN664",
+      "relation": "TAUGHT_IN",
+      "weight": 2,
+      "category": "core",
+      "source_type": "IN20"
+    },
+    {
+      "source": "skill_project_management",
+      "target": "unit_IAB207",
+      "relation": "TAUGHT_IN",
+      "weight": 2,
+      "category": "core",
+      "source_type": "IN20"
+    },
+    {
+      "source": "skill_project_management",
+      "target": "unit_IFQ649",
+      "relation": "TAUGHT_IN",
+      "weight": 2,
+      "category": "core",
+      "source_type": "IN20"
+    },
+    {
+      "source": "skill_project_management",
+      "target": "unit_INN327",
+      "relation": "TAUGHT_IN",
+      "weight": 2,
+      "category": "core",
+      "source_type": "IN20"
+    },
+    {
+      "source": "skill_project_management",
+      "target": "unit_IFN645",
+      "relation": "TAUGHT_IN",
+      "weight": 2,
+      "category": "core",
+      "source_type": "IN20"
+    },
+    {
+      "source": "skill_project_management",
+      "target": "unit_INN353",
+      "relation": "TAUGHT_IN",
+      "weight": 2,
+      "category": "core",
+      "source_type": "IN20"
+    },
+    {
+      "source": "skill_programming",
+      "target": "unit_CAB340",
+      "relation": "TAUGHT_IN",
+      "weight": 7.0,
+      "category": "core",
+      "source_type": "IN20"
+    },
+    {
+      "source": "skill_project_management",
+      "target": "unit_CAB340",
+      "relation": "TAUGHT_IN",
+      "weight": 2,
+      "category": "core",
+      "source_type": "IN20"
+    },
+    {
+      "source": "skill_project_management",
+      "target": "unit_IFN642",
+      "relation": "TAUGHT_IN",
+      "weight": 2,
+      "category": "core",
+      "source_type": "IN20"
+    },
+    {
+      "source": "skill_project_management",
+      "target": "unit_IFQ552",
+      "relation": "TAUGHT_IN",
+      "weight": 2,
+      "category": "core",
+      "source_type": "IN20"
+    },
+    {
+      "source": "skill_project_management",
+      "target": "unit_IFQ556",
+      "relation": "TAUGHT_IN",
+      "weight": 2,
+      "category": "core",
+      "source_type": "IN20"
+    },
+    {
+      "source": "skill_project_management",
+      "target": "unit_IFQ591",
+      "relation": "TAUGHT_IN",
+      "weight": 2,
+      "category": "core",
+      "source_type": "IN20"
+    },
+    {
+      "source": "skill_machine_learning",
+      "target": "unit_IFN509",
+      "relation": "TAUGHT_IN",
+      "weight": 7.0,
+      "category": "core",
+      "source_type": "IN20"
+    },
+    {
+      "source": "skill_data_analytics",
+      "target": "unit_IFN509",
+      "relation": "TAUGHT_IN",
+      "weight": 7.0,
+      "category": "core",
+      "source_type": "IN20"
+    },
+    {
+      "source": "skill_project_management",
+      "target": "unit_MGN505",
+      "relation": "TAUGHT_IN",
+      "weight": 2,
+      "category": "core",
+      "source_type": "IN20"
+    },
+    {
+      "source": "skill_project_management",
+      "target": "unit_INN352",
+      "relation": "TAUGHT_IN",
+      "weight": 2,
+      "category": "core",
+      "source_type": "IN20"
+    },
+    {
+      "source": "skill_project_management",
+      "target": "unit_IFN502",
+      "relation": "TAUGHT_IN",
+      "weight": 2,
+      "category": "core",
+      "source_type": "IN20"
+    },
+    {
+      "source": "skill_project_management",
+      "target": "unit_IFQ554",
+      "relation": "TAUGHT_IN",
+      "weight": 2,
+      "category": "core",
+      "source_type": "IN20"
+    },
+    {
+      "source": "skill_project_management",
+      "target": "unit_MGN565",
+      "relation": "TAUGHT_IN",
+      "weight": 2,
+      "category": "core",
+      "source_type": "IN20"
+    },
+    {
+      "source": "skill_project_management",
+      "target": "unit_IFN564",
+      "relation": "TAUGHT_IN",
+      "weight": 2,
+      "category": "core",
+      "source_type": "IN20"
+    },
+    {
+      "source": "skill_project_management",
+      "target": "unit_IFN650",
+      "relation": "TAUGHT_IN",
+      "weight": 2,
+      "category": "core",
+      "source_type": "IN20"
+    },
+    {
+      "source": "skill_project_management",
+      "target": "unit_IFN690",
+      "relation": "TAUGHT_IN",
+      "weight": 2,
+      "category": "core",
+      "source_type": "IN20"
+    },
+    {
+      "source": "skill_project_management",
+      "target": "unit_IFN556",
+      "relation": "TAUGHT_IN",
+      "weight": 2,
+      "category": "core",
+      "source_type": "IN20"
+    },
+    {
+      "source": "skill_project_management",
+      "target": "unit_INN351",
+      "relation": "TAUGHT_IN",
+      "weight": 2,
+      "category": "core",
+      "source_type": "IN20"
+    },
+    {
+      "source": "skill_project_management",
+      "target": "unit_IFN521",
+      "relation": "TAUGHT_IN",
+      "weight": 2,
+      "category": "core",
+      "source_type": "IN20"
+    },
+    {
+      "source": "skill_project_management",
+      "target": "unit_CAB230",
+      "relation": "TAUGHT_IN",
+      "weight": 2,
+      "category": "core",
+      "source_type": "IN20"
+    },
+    {
+      "source": "skill_project_management",
+      "target": "unit_IFN663",
+      "relation": "TAUGHT_IN",
+      "weight": 2,
+      "category": "core",
+      "source_type": "IN20"
+    },
+    {
+      "source": "skill_project_management",
+      "target": "unit_INB371",
+      "relation": "TAUGHT_IN",
+      "weight": 2,
+      "category": "core",
+      "source_type": "IN20"
+    },
+    {
+      "source": "skill_programming",
+      "target": "unit_IFN662",
+      "relation": "TAUGHT_IN",
+      "weight": 7.0,
+      "category": "core",
+      "source_type": "IN20"
+    },
+    {
+      "source": "skill_project_management",
+      "target": "unit_IFN662",
+      "relation": "TAUGHT_IN",
+      "weight": 2,
+      "category": "core",
+      "source_type": "IN20"
+    },
+    {
+      "source": "skill_business_analysis",
+      "target": "unit_IFN562",
+      "relation": "TAUGHT_IN",
+      "weight": 5.0,
+      "category": "core",
+      "source_type": "MATCHED"
+    },
+    {
+      "source": "skill_business_analysis",
+      "target": "unit_IFN663",
+      "relation": "TAUGHT_IN",
+      "weight": 5.0,
+      "category": "core",
+      "source_type": "MATCHED"
+    },
+    {
+      "source": "skill_data_science",
+      "target": "unit_IFN711",
+      "relation": "TAUGHT_IN",
+      "weight": 5.0,
+      "category": "core",
+      "source_type": "IN27"
+    },
+    {
+      "source": "skill_data_science",
+      "target": "unit_IFN619",
+      "relation": "TAUGHT_IN",
+      "weight": 5.0,
+      "category": "core",
+      "source_type": "IN27"
+    },
+    {
+      "source": "skill_mobile_development",
+      "target": "unit_IFN648",
+      "relation": "TAUGHT_IN",
+      "weight": 5.0,
+      "category": "core",
+      "source_type": "MATCHED"
+    },
+    {
+      "source": "skill_mobile_development",
+      "target": "unit_IFN644",
+      "relation": "TAUGHT_IN",
+      "weight": 5.0,
+      "category": "core",
+      "source_type": "MATCHED"
+    },
+    {
+      "source": "skill_mobile_development",
+      "target": "unit_IFN657",
+      "relation": "TAUGHT_IN",
+      "weight": 5.0,
+      "category": "core",
+      "source_type": "MATCHED"
+    },
+    {
+      "source": "skill_mobile_development",
+      "target": "unit_IFN557",
+      "relation": "TAUGHT_IN",
+      "weight": 5.0,
+      "category": "core",
+      "source_type": "MATCHED"
+    },
+    {
+      "source": "skill_mobile_development",
+      "target": "unit_ENN524",
+      "relation": "TAUGHT_IN",
+      "weight": 5.0,
+      "category": "core",
+      "source_type": "MATCHED"
+    },
+    {
+      "source": "skill_web_development",
+      "target": "unit_IFN644",
+      "relation": "TAUGHT_IN",
+      "weight": 5.0,
+      "category": "core",
+      "source_type": "MATCHED"
+    },
+    {
+      "source": "skill_web_development",
+      "target": "unit_IFN657",
+      "relation": "TAUGHT_IN",
+      "weight": 5.0,
+      "category": "core",
+      "source_type": "MATCHED"
+    },
+    {
+      "source": "skill_web_development",
+      "target": "unit_IFN557",
+      "relation": "TAUGHT_IN",
+      "weight": 5.0,
+      "category": "core",
+      "source_type": "MATCHED"
+    },
+    {
+      "source": "skill_web_development",
+      "target": "unit_IFN554",
+      "relation": "TAUGHT_IN",
+      "weight": 5.0,
+      "category": "core",
+      "source_type": "MATCHED"
+    },
+    {
+      "source": "skill_web_development",
+      "target": "unit_IFN647",
+      "relation": "TAUGHT_IN",
+      "weight": 5.0,
+      "category": "core",
+      "source_type": "MATCHED"
+    },
+    {
+      "source": "skill_database",
+      "target": "unit_IFN507",
+      "relation": "TAUGHT_IN",
+      "weight": 5.0,
+      "category": "core",
+      "source_type": "IN27"
+    },
+    {
+      "source": "skill_database",
+      "target": "unit_CAB432",
+      "relation": "TAUGHT_IN",
+      "weight": 5.0,
+      "category": "core",
+      "source_type": "IN27"
+    },
+    {
+      "source": "skill_database",
+      "target": "unit_IFN711",
+      "relation": "TAUGHT_IN",
+      "weight": 5.0,
+      "category": "core",
+      "source_type": "IN27"
+    },
+    {
+      "source": "skill_database",
+      "target": "unit_IFN554",
+      "relation": "TAUGHT_IN",
+      "weight": 5.0,
+      "category": "core",
+      "source_type": "IN27"
+    },
+    {
+      "source": "skill_database",
+      "target": "unit_IFN619",
+      "relation": "TAUGHT_IN",
+      "weight": 5.0,
+      "category": "core",
+      "source_type": "IN27"
+    },
+    {
+      "source": "skill_networking",
+      "target": "unit_IFN507",
+      "relation": "TAUGHT_IN",
+      "weight": 5.0,
+      "category": "core",
+      "source_type": "MATCHED"
+    },
+    {
+      "source": "skill_networking",
+      "target": "unit_CAB432",
+      "relation": "TAUGHT_IN",
+      "weight": 5.0,
+      "category": "core",
+      "source_type": "MATCHED"
+    },
+    {
+      "source": "skill_networking",
+      "target": "unit_IFN644",
+      "relation": "TAUGHT_IN",
+      "weight": 5.0,
+      "category": "core",
+      "source_type": "MATCHED"
+    },
+    {
+      "source": "skill_networking",
+      "target": "unit_IFN649",
+      "relation": "TAUGHT_IN",
+      "weight": 5.0,
+      "category": "core",
+      "source_type": "MATCHED"
+    },
+    {
+      "source": "skill_networking",
+      "target": "unit_IFN657",
+      "relation": "TAUGHT_IN",
+      "weight": 5.0,
+      "category": "core",
+      "source_type": "MATCHED"
+    },
+    {
+      "source": "project_IFN712_proposal_Wenzong_Gao_insar",
+      "target": "major_data_science_and_computer_science",
+      "relation": "SUITABLE_FOR_MAJOR",
+      "weight": 1.0,
+      "category": "core",
+      "source_type": "PD"
+    },
+    {
+      "source": "unit_IFN653",
+      "target": "unit_IFN653",
+      "relation": "PREREQUISITE_FOR",
+      "weight": 1.0,
+      "category": "core",
+      "source_type": "IN27"
+    },
+    {
+      "source": "unit_IFN515",
+      "target": "unit_IFN653",
+      "relation": "PREREQUISITE_FOR",
+      "weight": 1.0,
+      "category": "core",
+      "source_type": "IN27"
+    },
+    {
+      "source": "unit_IFQ515",
+      "target": "unit_IFN653",
+      "relation": "PREREQUISITE_FOR",
+      "weight": 1.0,
+      "category": "core",
+      "source_type": "IN27"
+    },
+    {
+      "source": "unit_IFN501",
+      "target": "unit_IFN564",
+      "relation": "PREREQUISITE_FOR",
+      "weight": 1.0,
+      "category": "core",
+      "source_type": "IN27"
+    },
+    {
+      "source": "unit_IFQ555",
+      "target": "unit_IFN564",
+      "relation": "PREREQUISITE_FOR",
+      "weight": 1.0,
+      "category": "core",
+      "source_type": "IN27"
+    },
+    {
+      "source": "unit_IFN556",
+      "target": "unit_IFN564",
+      "relation": "PREREQUISITE_FOR",
+      "weight": 1.0,
+      "category": "core",
+      "source_type": "IN27"
+    },
+    {
+      "source": "unit_IFN555",
+      "target": "unit_IFN564",
+      "relation": "PREREQUISITE_FOR",
+      "weight": 1.0,
+      "category": "core",
+      "source_type": "IN27"
+    },
+    {
+      "source": "unit_IFN563",
+      "target": "unit_IFN564",
+      "relation": "PREREQUISITE_FOR",
+      "weight": 1.0,
+      "category": "core",
+      "source_type": "IN27"
+    },
+    {
+      "source": "unit_IFQ556",
+      "target": "unit_IFN564",
+      "relation": "PREREQUISITE_FOR",
+      "weight": 1.0,
+      "category": "core",
+      "source_type": "IN27"
+    },
+    {
+      "source": "unit_IFN555",
+      "target": "unit_IFN556",
+      "relation": "PREREQUISITE_FOR",
+      "weight": 1.0,
+      "category": "core",
+      "source_type": "IN27"
+    },
+    {
+      "source": "unit_IFQ555",
+      "target": "unit_IFN556",
+      "relation": "PREREQUISITE_FOR",
+      "weight": 1.0,
+      "category": "core",
+      "source_type": "IN27"
+    },
+    {
+      "source": "unit_IFN501",
+      "target": "unit_IFN563",
+      "relation": "PREREQUISITE_FOR",
+      "weight": 1.0,
+      "category": "core",
+      "source_type": "IN27"
+    },
+    {
+      "source": "unit_IFQ555",
+      "target": "unit_IFN563",
+      "relation": "PREREQUISITE_FOR",
+      "weight": 1.0,
+      "category": "core",
+      "source_type": "IN27"
+    },
+    {
+      "source": "unit_IFN556",
+      "target": "unit_IFN563",
+      "relation": "PREREQUISITE_FOR",
+      "weight": 1.0,
+      "category": "core",
+      "source_type": "IN27"
+    },
+    {
+      "source": "unit_IFN555",
+      "target": "unit_IFN563",
+      "relation": "PREREQUISITE_FOR",
+      "weight": 1.0,
+      "category": "core",
+      "source_type": "IN27"
+    },
+    {
+      "source": "unit_IFQ556",
+      "target": "unit_IFN563",
+      "relation": "PREREQUISITE_FOR",
+      "weight": 1.0,
+      "category": "core",
+      "source_type": "IN27"
+    },
+    {
+      "source": "unit_IFQ555",
+      "target": "unit_IFN509",
+      "relation": "PREREQUISITE_FOR",
+      "weight": 1.0,
+      "category": "core",
+      "source_type": "IN27"
+    },
+    {
+      "source": "unit_IFN509",
+      "target": "unit_IFN509",
+      "relation": "PREREQUISITE_FOR",
+      "weight": 1.0,
+      "category": "core",
+      "source_type": "IN27"
+    },
+    {
+      "source": "unit_IFN555",
+      "target": "unit_IFN509",
+      "relation": "PREREQUISITE_FOR",
+      "weight": 1.0,
+      "category": "core",
+      "source_type": "IN27"
+    },
+    {
+      "source": "unit_IFQ554",
+      "target": "unit_IFN509",
+      "relation": "PREREQUISITE_FOR",
+      "weight": 1.0,
+      "category": "core",
+      "source_type": "IN27"
+    },
+    {
+      "source": "unit_IFN554",
+      "target": "unit_IFN509",
+      "relation": "PREREQUISITE_FOR",
+      "weight": 1.0,
+      "category": "core",
+      "source_type": "IN27"
+    },
+    {
+      "source": "unit_IFN650",
+      "target": "unit_IFN650",
+      "relation": "PREREQUISITE_FOR",
+      "weight": 1.0,
+      "category": "core",
+      "source_type": "IN27"
+    },
+    {
+      "source": "unit_IFN515",
+      "target": "unit_IFN650",
+      "relation": "PREREQUISITE_FOR",
+      "weight": 1.0,
+      "category": "core",
+      "source_type": "IN27"
+    },
+    {
+      "source": "unit_IFQ515",
+      "target": "unit_IFN650",
+      "relation": "PREREQUISITE_FOR",
+      "weight": 1.0,
+      "category": "core",
+      "source_type": "IN27"
+    },
+    {
+      "source": "unit_IFQ555",
+      "target": "unit_IFN666",
+      "relation": "PREREQUISITE_FOR",
+      "weight": 1.0,
+      "category": "core",
+      "source_type": "IN27"
+    },
+    {
+      "source": "unit_IFN556",
+      "target": "unit_IFN666",
+      "relation": "PREREQUISITE_FOR",
+      "weight": 1.0,
+      "category": "core",
+      "source_type": "IN27"
+    },
+    {
+      "source": "unit_IFN555",
+      "target": "unit_IFN666",
+      "relation": "PREREQUISITE_FOR",
+      "weight": 1.0,
+      "category": "core",
+      "source_type": "IN27"
+    },
+    {
+      "source": "unit_IFQ556",
+      "target": "unit_IFN666",
+      "relation": "PREREQUISITE_FOR",
+      "weight": 1.0,
+      "category": "core",
+      "source_type": "IN27"
+    },
+    {
+      "source": "unit_IFN509",
+      "target": "unit_IFN646",
+      "relation": "PREREQUISITE_FOR",
+      "weight": 1.0,
+      "category": "core",
+      "source_type": "IN27"
+    },
+    {
+      "source": "unit_IFQ509",
+      "target": "unit_IFN646",
+      "relation": "PREREQUISITE_FOR",
+      "weight": 1.0,
+      "category": "core",
+      "source_type": "IN27"
+    },
+    {
+      "source": "unit_IFN666",
+      "target": "unit_CAB432",
+      "relation": "PREREQUISITE_FOR",
+      "weight": 1.0,
+      "category": "core",
+      "source_type": "IN27"
+    },
+    {
+      "source": "unit_INB371",
+      "target": "unit_CAB432",
+      "relation": "PREREQUISITE_FOR",
+      "weight": 1.0,
+      "category": "core",
+      "source_type": "IN27"
+    },
+    {
+      "source": "unit_CAB301",
+      "target": "unit_CAB432",
+      "relation": "PREREQUISITE_FOR",
+      "weight": 1.0,
+      "category": "core",
+      "source_type": "IN27"
+    },
+    {
+      "source": "unit_CAB302",
+      "target": "unit_CAB432",
+      "relation": "PREREQUISITE_FOR",
+      "weight": 1.0,
+      "category": "core",
+      "source_type": "IN27"
+    },
+    {
+      "source": "unit_INB370",
+      "target": "unit_CAB432",
+      "relation": "PREREQUISITE_FOR",
+      "weight": 1.0,
+      "category": "core",
+      "source_type": "IN27"
+    },
+    {
+      "source": "unit_IFN509",
+      "target": "unit_IFN645",
+      "relation": "PREREQUISITE_FOR",
+      "weight": 1.0,
+      "category": "core",
+      "source_type": "IN27"
+    },
+    {
+      "source": "unit_IFQ509",
+      "target": "unit_IFN645",
+      "relation": "PREREQUISITE_FOR",
+      "weight": 1.0,
+      "category": "core",
+      "source_type": "IN27"
+    }
+  ],
+  "metadata": {
+    "generated_at": "2025-10-02T22:20:36.479949",
+    "generator": "BalancedKGGeneratorIN20IN27",
+    "sources": [
+      "PD",
+      "IN20",
+      "IN27"
+    ]
+  }
+}
