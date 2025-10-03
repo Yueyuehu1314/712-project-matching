@@ -1,0 +1,372 @@
+[
+  {
+    "student_id": "n10995912",
+    "student_name": "Rowan Moore",
+    "project_name": "IFN712 Project Proposal Template_2025_Feng_V2P",
+    "match_score": 0.725,
+    "skill_match_score": 0.667,
+    "major_match_score": 1.0,
+    "interest_match_score": 0.25,
+    "matched_skills": [
+      "azure",
+      "cyber security",
+      "data analytics",
+      "python",
+      "nodejs",
+      "database",
+      "security",
+      "aws"
+    ],
+    "missing_skills": [
+      "internet of things",
+      "gcp",
+      "artificial intelligence",
+      "mobile app"
+    ],
+    "student_majors": [
+      "software development"
+    ],
+    "project_required_majors": [
+      "software development",
+      "computer"
+    ],
+    "details": {
+      "student_total_skills": 25,
+      "project_required_skills": 12,
+      "student_courses": 8
+    }
+  },
+  {
+    "student_id": "n14494432",
+    "student_name": "Devon Johnson",
+    "project_name": "IFN712 Project Proposal Template_2025_Feng_V2P",
+    "match_score": 0.633,
+    "skill_match_score": 0.5,
+    "major_match_score": 1.0,
+    "interest_match_score": 0.333,
+    "matched_skills": [
+      "cyber security",
+      "data analytics",
+      "python",
+      "nodejs",
+      "database",
+      "security"
+    ],
+    "missing_skills": [
+      "azure",
+      "gcp",
+      "internet of things",
+      "mobile app",
+      "artificial intelligence",
+      "aws"
+    ],
+    "student_majors": [
+      "software development"
+    ],
+    "project_required_majors": [
+      "software development",
+      "computer"
+    ],
+    "details": {
+      "student_total_skills": 25,
+      "project_required_skills": 12,
+      "student_courses": 8
+    }
+  },
+  {
+    "student_id": "n08267843",
+    "student_name": "Skylar Williams",
+    "project_name": "IFN712 Project Proposal Template_2025_Feng_V2P",
+    "match_score": 0.625,
+    "skill_match_score": 0.5,
+    "major_match_score": 1.0,
+    "interest_match_score": 0.25,
+    "matched_skills": [
+      "cyber security",
+      "data analytics",
+      "python",
+      "nodejs",
+      "database",
+      "security"
+    ],
+    "missing_skills": [
+      "azure",
+      "gcp",
+      "internet of things",
+      "mobile app",
+      "artificial intelligence",
+      "aws"
+    ],
+    "student_majors": [
+      "software development"
+    ],
+    "project_required_majors": [
+      "software development",
+      "computer"
+    ],
+    "details": {
+      "student_total_skills": 25,
+      "project_required_skills": 12,
+      "student_courses": 8
+    }
+  },
+  {
+    "student_id": "n15914596",
+    "student_name": "Rory Wright",
+    "project_name": "IFN712 Project Proposal Template_2025_Feng_V2P",
+    "match_score": 0.625,
+    "skill_match_score": 0.5,
+    "major_match_score": 1.0,
+    "interest_match_score": 0.25,
+    "matched_skills": [
+      "cyber security",
+      "data analytics",
+      "python",
+      "nodejs",
+      "database",
+      "security"
+    ],
+    "missing_skills": [
+      "azure",
+      "gcp",
+      "internet of things",
+      "mobile app",
+      "artificial intelligence",
+      "aws"
+    ],
+    "student_majors": [
+      "software development"
+    ],
+    "project_required_majors": [
+      "software development",
+      "computer"
+    ],
+    "details": {
+      "student_total_skills": 25,
+      "project_required_skills": 12,
+      "student_courses": 8
+    }
+  },
+  {
+    "student_id": "n06136847",
+    "student_name": "Avery Brown",
+    "project_name": "IFN712 Project Proposal Template_2025_Feng_V2P",
+    "match_score": 0.625,
+    "skill_match_score": 0.5,
+    "major_match_score": 1.0,
+    "interest_match_score": 0.25,
+    "matched_skills": [
+      "cyber security",
+      "data analytics",
+      "python",
+      "nodejs",
+      "database",
+      "security"
+    ],
+    "missing_skills": [
+      "azure",
+      "gcp",
+      "internet of things",
+      "mobile app",
+      "artificial intelligence",
+      "aws"
+    ],
+    "student_majors": [
+      "software development"
+    ],
+    "project_required_majors": [
+      "software development",
+      "computer"
+    ],
+    "details": {
+      "student_total_skills": 25,
+      "project_required_skills": 12,
+      "student_courses": 8
+    }
+  },
+  {
+    "student_id": "n03583544",
+    "student_name": "Rowan Lee",
+    "project_name": "IFN712 Project Proposal Template_2025_Feng_V2P",
+    "match_score": 0.625,
+    "skill_match_score": 0.5,
+    "major_match_score": 1.0,
+    "interest_match_score": 0.25,
+    "matched_skills": [
+      "cyber security",
+      "data analytics",
+      "python",
+      "nodejs",
+      "database",
+      "security"
+    ],
+    "missing_skills": [
+      "azure",
+      "gcp",
+      "internet of things",
+      "mobile app",
+      "artificial intelligence",
+      "aws"
+    ],
+    "student_majors": [
+      "software development"
+    ],
+    "project_required_majors": [
+      "software development",
+      "computer"
+    ],
+    "details": {
+      "student_total_skills": 25,
+      "project_required_skills": 12,
+      "student_courses": 8
+    }
+  },
+  {
+    "student_id": "n01368381",
+    "student_name": "Harper Garcia",
+    "project_name": "IFN712 Project Proposal Template_2025_Feng_V2P",
+    "match_score": 0.625,
+    "skill_match_score": 0.5,
+    "major_match_score": 1.0,
+    "interest_match_score": 0.25,
+    "matched_skills": [
+      "cyber security",
+      "data analytics",
+      "python",
+      "nodejs",
+      "database",
+      "security"
+    ],
+    "missing_skills": [
+      "azure",
+      "gcp",
+      "internet of things",
+      "mobile app",
+      "artificial intelligence",
+      "aws"
+    ],
+    "student_majors": [
+      "software development"
+    ],
+    "project_required_majors": [
+      "software development",
+      "computer"
+    ],
+    "details": {
+      "student_total_skills": 25,
+      "project_required_skills": 12,
+      "student_courses": 8
+    }
+  },
+  {
+    "student_id": "n03507662",
+    "student_name": "Madison Jackson",
+    "project_name": "IFN712 Project Proposal Template_2025_Feng_V2P",
+    "match_score": 0.625,
+    "skill_match_score": 0.5,
+    "major_match_score": 1.0,
+    "interest_match_score": 0.25,
+    "matched_skills": [
+      "cyber security",
+      "data analytics",
+      "python",
+      "nodejs",
+      "database",
+      "security"
+    ],
+    "missing_skills": [
+      "azure",
+      "gcp",
+      "internet of things",
+      "mobile app",
+      "artificial intelligence",
+      "aws"
+    ],
+    "student_majors": [
+      "software development"
+    ],
+    "project_required_majors": [
+      "software development",
+      "computer"
+    ],
+    "details": {
+      "student_total_skills": 24,
+      "project_required_skills": 12,
+      "student_courses": 8
+    }
+  },
+  {
+    "student_id": "n14421494",
+    "student_name": "Devon Lee",
+    "project_name": "IFN712 Project Proposal Template_2025_Feng_V2P",
+    "match_score": 0.617,
+    "skill_match_score": 0.5,
+    "major_match_score": 1.0,
+    "interest_match_score": 0.167,
+    "matched_skills": [
+      "cyber security",
+      "data analytics",
+      "python",
+      "nodejs",
+      "database",
+      "security"
+    ],
+    "missing_skills": [
+      "azure",
+      "gcp",
+      "internet of things",
+      "mobile app",
+      "artificial intelligence",
+      "aws"
+    ],
+    "student_majors": [
+      "software development"
+    ],
+    "project_required_majors": [
+      "software development",
+      "computer"
+    ],
+    "details": {
+      "student_total_skills": 25,
+      "project_required_skills": 12,
+      "student_courses": 8
+    }
+  },
+  {
+    "student_id": "n05009103",
+    "student_name": "Logan Miller",
+    "project_name": "IFN712 Project Proposal Template_2025_Feng_V2P",
+    "match_score": 0.583,
+    "skill_match_score": 0.417,
+    "major_match_score": 1.0,
+    "interest_match_score": 0.333,
+    "matched_skills": [
+      "cyber security",
+      "data analytics",
+      "python",
+      "database",
+      "security"
+    ],
+    "missing_skills": [
+      "azure",
+      "gcp",
+      "internet of things",
+      "mobile app",
+      "nodejs",
+      "artificial intelligence",
+      "aws"
+    ],
+    "student_majors": [
+      "software development"
+    ],
+    "project_required_majors": [
+      "software development",
+      "computer"
+    ],
+    "details": {
+      "student_total_skills": 25,
+      "project_required_skills": 12,
+      "student_courses": 8
+    }
+  }
+]

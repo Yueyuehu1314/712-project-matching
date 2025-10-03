@@ -1,0 +1,372 @@
+[
+  {
+    "student_id": "n07927421",
+    "student_name": "Morgan Lee",
+    "project_name": "VitalID_Proposal_Zhenguo",
+    "match_score": 0.717,
+    "skill_match_score": 0.667,
+    "major_match_score": 1.0,
+    "interest_match_score": 0.167,
+    "matched_skills": [
+      "machine learning",
+      "data analytics",
+      "python",
+      "cyber security",
+      "pytorch",
+      "artificial intelligence",
+      "security",
+      "tensorflow"
+    ],
+    "missing_skills": [
+      "internet of things",
+      "deep learning",
+      "cnn",
+      "signal processing"
+    ],
+    "student_majors": [
+      "software development"
+    ],
+    "project_required_majors": [
+      "software development",
+      "computer"
+    ],
+    "details": {
+      "student_total_skills": 24,
+      "project_required_skills": 12,
+      "student_courses": 8
+    }
+  },
+  {
+    "student_id": "n12300359",
+    "student_name": "Hayden Young",
+    "project_name": "VitalID_Proposal_Zhenguo",
+    "match_score": 0.692,
+    "skill_match_score": 0.583,
+    "major_match_score": 1.0,
+    "interest_match_score": 0.417,
+    "matched_skills": [
+      "machine learning",
+      "data analytics",
+      "python",
+      "cyber security",
+      "artificial intelligence",
+      "security",
+      "tensorflow"
+    ],
+    "missing_skills": [
+      "internet of things",
+      "pytorch",
+      "cnn",
+      "deep learning",
+      "signal processing"
+    ],
+    "student_majors": [
+      "software development"
+    ],
+    "project_required_majors": [
+      "software development",
+      "computer"
+    ],
+    "details": {
+      "student_total_skills": 23,
+      "project_required_skills": 12,
+      "student_courses": 8
+    }
+  },
+  {
+    "student_id": "n15410626",
+    "student_name": "Jamie Lopez",
+    "project_name": "VitalID_Proposal_Zhenguo",
+    "match_score": 0.683,
+    "skill_match_score": 0.583,
+    "major_match_score": 1.0,
+    "interest_match_score": 0.333,
+    "matched_skills": [
+      "machine learning",
+      "data analytics",
+      "python",
+      "cyber security",
+      "artificial intelligence",
+      "security",
+      "tensorflow"
+    ],
+    "missing_skills": [
+      "internet of things",
+      "pytorch",
+      "cnn",
+      "deep learning",
+      "signal processing"
+    ],
+    "student_majors": [
+      "software development"
+    ],
+    "project_required_majors": [
+      "software development",
+      "computer"
+    ],
+    "details": {
+      "student_total_skills": 24,
+      "project_required_skills": 12,
+      "student_courses": 8
+    }
+  },
+  {
+    "student_id": "n10761320",
+    "student_name": "Drew Johnson",
+    "project_name": "VitalID_Proposal_Zhenguo",
+    "match_score": 0.683,
+    "skill_match_score": 0.583,
+    "major_match_score": 1.0,
+    "interest_match_score": 0.333,
+    "matched_skills": [
+      "machine learning",
+      "data analytics",
+      "python",
+      "cyber security",
+      "artificial intelligence",
+      "security",
+      "tensorflow"
+    ],
+    "missing_skills": [
+      "internet of things",
+      "pytorch",
+      "cnn",
+      "deep learning",
+      "signal processing"
+    ],
+    "student_majors": [
+      "computer science software engineering specialization"
+    ],
+    "project_required_majors": [
+      "software development",
+      "computer"
+    ],
+    "details": {
+      "student_total_skills": 24,
+      "project_required_skills": 12,
+      "student_courses": 8
+    }
+  },
+  {
+    "student_id": "n15945675",
+    "student_name": "Phoenix Hill",
+    "project_name": "VitalID_Proposal_Zhenguo",
+    "match_score": 0.675,
+    "skill_match_score": 0.583,
+    "major_match_score": 1.0,
+    "interest_match_score": 0.25,
+    "matched_skills": [
+      "machine learning",
+      "data analytics",
+      "python",
+      "cyber security",
+      "artificial intelligence",
+      "security",
+      "tensorflow"
+    ],
+    "missing_skills": [
+      "internet of things",
+      "pytorch",
+      "cnn",
+      "deep learning",
+      "signal processing"
+    ],
+    "student_majors": [
+      "software development"
+    ],
+    "project_required_majors": [
+      "software development",
+      "computer"
+    ],
+    "details": {
+      "student_total_skills": 24,
+      "project_required_skills": 12,
+      "student_courses": 8
+    }
+  },
+  {
+    "student_id": "n12836502",
+    "student_name": "Skylar Harris",
+    "project_name": "VitalID_Proposal_Zhenguo",
+    "match_score": 0.675,
+    "skill_match_score": 0.583,
+    "major_match_score": 1.0,
+    "interest_match_score": 0.25,
+    "matched_skills": [
+      "machine learning",
+      "data analytics",
+      "python",
+      "cyber security",
+      "artificial intelligence",
+      "security",
+      "tensorflow"
+    ],
+    "missing_skills": [
+      "internet of things",
+      "pytorch",
+      "cnn",
+      "deep learning",
+      "signal processing"
+    ],
+    "student_majors": [
+      "software development"
+    ],
+    "project_required_majors": [
+      "software development",
+      "computer"
+    ],
+    "details": {
+      "student_total_skills": 24,
+      "project_required_skills": 12,
+      "student_courses": 8
+    }
+  },
+  {
+    "student_id": "n08963298",
+    "student_name": "Avery Young",
+    "project_name": "VitalID_Proposal_Zhenguo",
+    "match_score": 0.675,
+    "skill_match_score": 0.583,
+    "major_match_score": 1.0,
+    "interest_match_score": 0.25,
+    "matched_skills": [
+      "machine learning",
+      "data analytics",
+      "python",
+      "cyber security",
+      "artificial intelligence",
+      "security",
+      "tensorflow"
+    ],
+    "missing_skills": [
+      "internet of things",
+      "pytorch",
+      "cnn",
+      "deep learning",
+      "signal processing"
+    ],
+    "student_majors": [
+      "software development"
+    ],
+    "project_required_majors": [
+      "software development",
+      "computer"
+    ],
+    "details": {
+      "student_total_skills": 24,
+      "project_required_skills": 12,
+      "student_courses": 8
+    }
+  },
+  {
+    "student_id": "n10055590",
+    "student_name": "Blake Thompson",
+    "project_name": "VitalID_Proposal_Zhenguo",
+    "match_score": 0.675,
+    "skill_match_score": 0.583,
+    "major_match_score": 1.0,
+    "interest_match_score": 0.25,
+    "matched_skills": [
+      "machine learning",
+      "data analytics",
+      "python",
+      "cyber security",
+      "artificial intelligence",
+      "security",
+      "tensorflow"
+    ],
+    "missing_skills": [
+      "internet of things",
+      "pytorch",
+      "cnn",
+      "deep learning",
+      "signal processing"
+    ],
+    "student_majors": [
+      "software development"
+    ],
+    "project_required_majors": [
+      "software development",
+      "computer"
+    ],
+    "details": {
+      "student_total_skills": 24,
+      "project_required_skills": 12,
+      "student_courses": 8
+    }
+  },
+  {
+    "student_id": "n01189174",
+    "student_name": "Reese Allen",
+    "project_name": "VitalID_Proposal_Zhenguo",
+    "match_score": 0.675,
+    "skill_match_score": 0.583,
+    "major_match_score": 1.0,
+    "interest_match_score": 0.25,
+    "matched_skills": [
+      "machine learning",
+      "data analytics",
+      "python",
+      "cyber security",
+      "artificial intelligence",
+      "security",
+      "tensorflow"
+    ],
+    "missing_skills": [
+      "internet of things",
+      "pytorch",
+      "cnn",
+      "deep learning",
+      "signal processing"
+    ],
+    "student_majors": [
+      "software development"
+    ],
+    "project_required_majors": [
+      "software development",
+      "computer"
+    ],
+    "details": {
+      "student_total_skills": 24,
+      "project_required_skills": 12,
+      "student_courses": 8
+    }
+  },
+  {
+    "student_id": "n00195692",
+    "student_name": "Peyton Williams",
+    "project_name": "VitalID_Proposal_Zhenguo",
+    "match_score": 0.658,
+    "skill_match_score": 0.583,
+    "major_match_score": 1.0,
+    "interest_match_score": 0.083,
+    "matched_skills": [
+      "machine learning",
+      "data analytics",
+      "python",
+      "cyber security",
+      "artificial intelligence",
+      "security",
+      "tensorflow"
+    ],
+    "missing_skills": [
+      "internet of things",
+      "pytorch",
+      "cnn",
+      "deep learning",
+      "signal processing"
+    ],
+    "student_majors": [
+      "software development and computer science"
+    ],
+    "project_required_majors": [
+      "software development",
+      "computer"
+    ],
+    "details": {
+      "student_total_skills": 22,
+      "project_required_skills": 12,
+      "student_courses": 8
+    }
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "source_id": "project_Localization_Proposal_Zhenguo",
+    "target_id": "domain_machine_learning_and_ai",
+    "relation_type": "REQUIRES_DOMAIN",
+    "weight": 1.0,
+    "properties": {}
+  },
+  {
+    "source_id": "domain_machine_learning_and_ai",
+    "target_id": "skill_deep_learning",
+    "relation_type": "INCLUDES",
+    "weight": 0.8,
+    "properties": {}
+  },
+  {
+    "source_id": "project_Localization_Proposal_Zhenguo",
+    "target_id": "domain_academic_programs",
+    "relation_type": "REQUIRES_DOMAIN",
+    "weight": 1.0,
+    "properties": {}
+  },
+  {
+    "source_id": "domain_academic_programs",
+    "target_id": "skill_software_development",
+    "relation_type": "INCLUDES",
+    "weight": 0.8,
+    "properties": {}
+  },
+  {
+    "source_id": "domain_academic_programs",
+    "target_id": "skill_computer",
+    "relation_type": "INCLUDES",
+    "weight": 0.8,
+    "properties": {}
+  },
+  {
+    "source_id": "domain_machine_learning_and_ai",
+    "target_id": "tech_r",
+    "relation_type": "USES_TECH",
+    "weight": 0.9,
+    "properties": {}
+  },
+  {
+    "source_id": "project_Localization_Proposal_Zhenguo",
+    "target_id": "domain_general_technologies",
+    "relation_type": "REQUIRES_DOMAIN",
+    "weight": 1.0,
+    "properties": {}
+  },
+  {
+    "source_id": "domain_general_technologies",
+    "target_id": "tech_matlab",
+    "relation_type": "USES_TECH",
+    "weight": 0.9,
+    "properties": {}
+  },
+  {
+    "source_id": "project_Localization_Proposal_Zhenguo",
+    "target_id": "domain_web_development",
+    "relation_type": "REQUIRES_DOMAIN",
+    "weight": 1.0,
+    "properties": {}
+  },
+  {
+    "source_id": "domain_web_development",
+    "target_id": "tech_react",
+    "relation_type": "USES_TECH",
+    "weight": 0.9,
+    "properties": {}
+  }
+]

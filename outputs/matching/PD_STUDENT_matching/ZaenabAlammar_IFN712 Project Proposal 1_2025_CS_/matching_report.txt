@@ -1,0 +1,85 @@
+================================================================================
+项目-学生匹配报告
+================================================================================
+
+项目名称: ZaenabAlammar_IFN712 Project Proposal 1_2025_CS_
+生成时间: 2025-10-03 15:57:50
+学生总数: 10
+
+================================================================================
+匹配统计
+================================================================================
+
+平均匹配分数: 0.597
+最高分数: 0.650
+最低分数: 0.350
+
+分数分布:
+  • 高匹配 (≥0.7): 0 人 (0.0%)
+  • 中匹配 (0.4-0.7): 9 人 (90.0%)
+  • 低匹配 (<0.4): 1 人 (10.0%)
+
+================================================================================
+Top 10 匹配学生
+================================================================================
+
+1. Morgan Harris (n14695376)
+   总分: 0.650 | 技能: 0.500 | 专业: 1.000 | 兴趣: 0.500
+   匹配技能: database, artificial intelligence
+   缺失技能: deep learning, cnn
+   学生专业: computer science and data analytics
+
+2. Avery King (n08970940)
+   总分: 0.650 | 技能: 0.500 | 专业: 1.000 | 兴趣: 0.500
+   匹配技能: database, artificial intelligence
+   缺失技能: deep learning, cnn
+   学生专业: computer science and data analytics
+
+3. Madison Moore (n08656729)
+   总分: 0.625 | 技能: 0.500 | 专业: 1.000 | 兴趣: 0.250
+   匹配技能: database, artificial intelligence
+   缺失技能: deep learning, cnn
+   学生专业: computer science and data analytics
+
+4. Devon Williams (n13241358)
+   总分: 0.625 | 技能: 0.500 | 专业: 1.000 | 兴趣: 0.250
+   匹配技能: database, artificial intelligence
+   缺失技能: deep learning, cnn
+   学生专业: computer science and data analytics
+
+5. Jordan Wright (n04539845)
+   总分: 0.625 | 技能: 0.500 | 专业: 1.000 | 兴趣: 0.250
+   匹配技能: database, artificial intelligence
+   缺失技能: deep learning, cnn
+   学生专业: computer science and data analytics
+
+6. Drew Johnson (n04873519)
+   总分: 0.625 | 技能: 0.500 | 专业: 1.000 | 兴趣: 0.250
+   匹配技能: database, artificial intelligence
+   缺失技能: deep learning, cnn
+   学生专业: computer science and data analytics
+
+7. Alex Lee (n09745425)
+   总分: 0.625 | 技能: 0.500 | 专业: 1.000 | 兴趣: 0.250
+   匹配技能: database, artificial intelligence
+   缺失技能: deep learning, cnn
+   学生专业: computer science and data analytics
+
+8. Rowan Torres (n08153626)
+   总分: 0.600 | 技能: 0.500 | 专业: 1.000 | 兴趣: 0.000
+   匹配技能: database, artificial intelligence
+   缺失技能: deep learning, cnn
+   学生专业: computer science and data analytics
+
+9. Blake Garcia (n11136316)
+   总分: 0.600 | 技能: 0.500 | 专业: 1.000 | 兴趣: 0.000
+   匹配技能: database, artificial intelligence
+   缺失技能: deep learning, cnn
+   学生专业: computer science and data analytics
+
+10. Emery Miller (n02123086)
+   总分: 0.350 | 技能: 0.500 | 专业: 0.000 | 兴趣: 0.500
+   匹配技能: database, artificial intelligence
+   缺失技能: deep learning, cnn
+   学生专业: computer science with a minor in data analytics
+

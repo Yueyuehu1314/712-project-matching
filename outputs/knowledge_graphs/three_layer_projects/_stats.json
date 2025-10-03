@@ -1,0 +1,23 @@
+{
+  "project_id": "project_JZhang_IFN712_Project_Proposal_1_2025_CS_",
+  "project_title": "",
+  "total_entities": 11,
+  "total_relationships": 10,
+  "layer_distribution": {
+    "1": 1,
+    "2": 4,
+    "3": 6
+  },
+  "entity_types": {
+    "PROJECT": 1,
+    "DOMAIN": 4,
+    "SKILL": 4,
+    "MAJOR": 1,
+    "TECHNOLOGY": 1
+  },
+  "layers": {
+    "layer_1": "Project",
+    "layer_2": "Domains",
+    "layer_3": "Skills/Technologies/Majors"
+  }
+}

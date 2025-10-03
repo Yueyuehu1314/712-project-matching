@@ -1,0 +1,85 @@
+================================================================================
+项目-学生匹配报告
+================================================================================
+
+项目名称: IFN712 Project 12-1
+生成时间: 2025-10-03 15:57:50
+学生总数: 10
+
+================================================================================
+匹配统计
+================================================================================
+
+平均匹配分数: 0.798
+最高分数: 0.875
+最低分数: 0.713
+
+分数分布:
+  • 高匹配 (≥0.7): 10 人 (100.0%)
+  • 中匹配 (0.4-0.7): 0 人 (0.0%)
+  • 低匹配 (<0.4): 0 人 (0.0%)
+
+================================================================================
+Top 10 匹配学生
+================================================================================
+
+1. Jordan Jackson (n02313107)
+   总分: 0.875 | 技能: 0.875 | 专业: 1.000 | 兴趣: 0.500
+   匹配技能: scikitlearn, machine learning, data analytics, python, cyber security
+   缺失技能: deep learning
+   学生专业: computer science specialization in cyber security
+
+2. Rowan Moore (n07268728)
+   总分: 0.862 | 技能: 0.875 | 专业: 1.000 | 兴趣: 0.375
+   匹配技能: scikitlearn, machine learning, data analytics, python, cyber security
+   缺失技能: deep learning
+   学生专业: computer science specialization in cyber security
+
+3. Jamie Young (n08777074)
+   总分: 0.862 | 技能: 0.875 | 专业: 1.000 | 兴趣: 0.375
+   匹配技能: scikitlearn, machine learning, data analytics, python, cyber security
+   缺失技能: deep learning
+   学生专业: computer science
+
+4. Rory Brown (n11283106)
+   总分: 0.800 | 技能: 0.750 | 专业: 1.000 | 兴趣: 0.500
+   匹配技能: scikitlearn, machine learning, data analytics, python, cyber security
+   缺失技能: deep learning, artificial intelligence
+   学生专业: computer science
+
+5. Rory Flores (n15664732)
+   总分: 0.787 | 技能: 0.750 | 专业: 1.000 | 兴趣: 0.375
+   匹配技能: scikitlearn, machine learning, data analytics, python, cyber security
+   缺失技能: deep learning, artificial intelligence
+   学生专业: computer science and cyber security
+
+6. Madison White (n00596089)
+   总分: 0.787 | 技能: 0.750 | 专业: 1.000 | 兴趣: 0.375
+   匹配技能: scikitlearn, machine learning, data analytics, python, cyber security
+   缺失技能: deep learning, artificial intelligence
+   学生专业: computer science with a minor in data analytics
+
+7. Jordan Allen (n00767167)
+   总分: 0.787 | 技能: 0.750 | 专业: 1.000 | 兴趣: 0.375
+   匹配技能: scikitlearn, machine learning, data analytics, python, cyber security
+   缺失技能: deep learning, artificial intelligence
+   学生专业: computer science cyber security specialization
+
+8. Tyler Brown (n01025709)
+   总分: 0.787 | 技能: 0.750 | 专业: 1.000 | 兴趣: 0.375
+   匹配技能: scikitlearn, machine learning, data analytics, python, cyber security
+   缺失技能: deep learning, artificial intelligence
+   学生专业: computer science
+
+9. Drew Johnson (n02866979)
+   总分: 0.725 | 技能: 0.625 | 专业: 1.000 | 兴趣: 0.500
+   匹配技能: scikitlearn, data analytics, python, cyber security, security
+   缺失技能: deep learning, artificial intelligence, machine learning
+   学生专业: computer science
+
+10. Casey Anderson (n12231776)
+   总分: 0.713 | 技能: 0.625 | 专业: 1.000 | 兴趣: 0.375
+   匹配技能: scikitlearn, data analytics, python, cyber security, security
+   缺失技能: deep learning, artificial intelligence, machine learning
+   学生专业: computer science with a minor in data analytics
+

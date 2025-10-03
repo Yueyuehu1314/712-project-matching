@@ -1,0 +1,83 @@
+[
+  {
+    "id": "project_IFN712_25se2-Bradford-01",
+    "name": "The Power of Patterns: Using",
+    "entity_type": "PROJECT",
+    "layer": 1,
+    "properties": {
+      "description": "functions as part of the bacterial immune response, defending against viral infections. In the lab, it has been repurposed as a powerful gene-editing tool. It finds the right gene in the DNA by lookin",
+      "file_path": "data/processed/projects_md/IFN712_25se2-Bradford-01.md"
+    }
+  },
+  {
+    "id": "domain_programming_languages",
+    "name": "Programming Languages",
+    "entity_type": "DOMAIN",
+    "layer": 2,
+    "properties": {
+      "skill_count": 2
+    }
+  },
+  {
+    "id": "skill_algorithms",
+    "name": "Algorithms",
+    "entity_type": "SKILL",
+    "layer": 3,
+    "properties": {}
+  },
+  {
+    "id": "skill_data_structures",
+    "name": "Data Structures",
+    "entity_type": "SKILL",
+    "layer": 3,
+    "properties": {}
+  },
+  {
+    "id": "domain_general_skills",
+    "name": "General Skills",
+    "entity_type": "DOMAIN",
+    "layer": 2,
+    "properties": {
+      "skill_count": 1
+    }
+  },
+  {
+    "id": "skill_api",
+    "name": "Api",
+    "entity_type": "SKILL",
+    "layer": 3,
+    "properties": {}
+  },
+  {
+    "id": "domain_academic_programs",
+    "name": "Academic Programs",
+    "entity_type": "DOMAIN",
+    "layer": 2,
+    "properties": {
+      "skill_count": 1
+    }
+  },
+  {
+    "id": "skill_artificial_intelligence",
+    "name": "Artificial Intelligence",
+    "entity_type": "MAJOR",
+    "layer": 3,
+    "properties": {}
+  },
+  {
+    "id": "domain_machine_learning_and_ai",
+    "name": "Machine Learning & AI",
+    "entity_type": "DOMAIN",
+    "layer": 2,
+    "properties": {
+      "tech_count": 1
+    }
+  },
+  {
+    "id": "tech_r",
+    "name": "R",
+    "entity_type": "TECHNOLOGY",
+    "layer": 3,
+    "properties": {}
+  }
+]

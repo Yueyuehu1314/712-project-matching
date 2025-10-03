@@ -1,0 +1,23 @@
+{
+  "project_id": "project_Localization_Proposal_Zhenguo",
+  "project_title": "Smart Intersection Localization",
+  "total_entities": 11,
+  "total_relationships": 10,
+  "layer_distribution": {
+    "1": 1,
+    "2": 4,
+    "3": 6
+  },
+  "entity_types": {
+    "PROJECT": 1,
+    "DOMAIN": 4,
+    "SKILL": 1,
+    "MAJOR": 2,
+    "TECHNOLOGY": 3
+  },
+  "layers": {
+    "layer_1": "Project",
+    "layer_2": "Domains",
+    "layer_3": "Skills/Technologies/Majors"
+  }
+}

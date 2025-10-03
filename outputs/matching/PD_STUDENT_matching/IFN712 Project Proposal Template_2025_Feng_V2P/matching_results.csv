@@ -1,0 +1,11 @@
+﻿Student ID,Student Name,Total Score,Skill Score,Major Score,Interest Score,Matched Skills,Missing Skills,Student Majors
+n10995912,Rowan Moore,0.725,0.667,1.0,0.25,"azure, cyber security, data analytics, python, nodejs","internet of things, gcp, artificial intelligence, mobile app",software development
+n14494432,Devon Johnson,0.633,0.5,1.0,0.333,"cyber security, data analytics, python, nodejs, database","azure, gcp, internet of things, mobile app, artificial intelligence",software development
+n08267843,Skylar Williams,0.625,0.5,1.0,0.25,"cyber security, data analytics, python, nodejs, database","azure, gcp, internet of things, mobile app, artificial intelligence",software development
+n15914596,Rory Wright,0.625,0.5,1.0,0.25,"cyber security, data analytics, python, nodejs, database","azure, gcp, internet of things, mobile app, artificial intelligence",software development
+n06136847,Avery Brown,0.625,0.5,1.0,0.25,"cyber security, data analytics, python, nodejs, database","azure, gcp, internet of things, mobile app, artificial intelligence",software development
+n03583544,Rowan Lee,0.625,0.5,1.0,0.25,"cyber security, data analytics, python, nodejs, database","azure, gcp, internet of things, mobile app, artificial intelligence",software development
+n01368381,Harper Garcia,0.625,0.5,1.0,0.25,"cyber security, data analytics, python, nodejs, database","azure, gcp, internet of things, mobile app, artificial intelligence",software development
+n03507662,Madison Jackson,0.625,0.5,1.0,0.25,"cyber security, data analytics, python, nodejs, database","azure, gcp, internet of things, mobile app, artificial intelligence",software development
+n14421494,Devon Lee,0.617,0.5,1.0,0.167,"cyber security, data analytics, python, nodejs, database","azure, gcp, internet of things, mobile app, artificial intelligence",software development
+n05009103,Logan Miller,0.583,0.417,1.0,0.333,"cyber security, data analytics, python, database, security","azure, gcp, internet of things, mobile app, nodejs",software development

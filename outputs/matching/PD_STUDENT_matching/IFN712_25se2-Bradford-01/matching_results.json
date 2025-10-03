@@ -1,0 +1,272 @@
+[
+  {
+    "student_id": "n16028113",
+    "student_name": "Rory Moore",
+    "project_name": "IFN712_25se2-Bradford-01",
+    "match_score": 0.7,
+    "skill_match_score": 0.667,
+    "major_match_score": 1.0,
+    "interest_match_score": 0.0,
+    "matched_skills": [
+      "python",
+      "data analytics"
+    ],
+    "missing_skills": [
+      "artificial intelligence"
+    ],
+    "student_majors": [
+      "artificial intelligence"
+    ],
+    "project_required_majors": [
+      "artificial intelligence"
+    ],
+    "details": {
+      "student_total_skills": 22,
+      "project_required_skills": 3,
+      "student_courses": 6
+    }
+  },
+  {
+    "student_id": "n08396782",
+    "student_name": "Sage Young",
+    "project_name": "IFN712_25se2-Bradford-01",
+    "match_score": 0.533,
+    "skill_match_score": 0.333,
+    "major_match_score": 1.0,
+    "interest_match_score": 0.333,
+    "matched_skills": [
+      "python"
+    ],
+    "missing_skills": [
+      "artificial intelligence",
+      "data analytics"
+    ],
+    "student_majors": [
+      "artificial intelligence"
+    ],
+    "project_required_majors": [
+      "artificial intelligence"
+    ],
+    "details": {
+      "student_total_skills": 21,
+      "project_required_skills": 3,
+      "student_courses": 6
+    }
+  },
+  {
+    "student_id": "n07039725",
+    "student_name": "Avery Flores",
+    "project_name": "IFN712_25se2-Bradford-01",
+    "match_score": 0.533,
+    "skill_match_score": 0.333,
+    "major_match_score": 1.0,
+    "interest_match_score": 0.333,
+    "matched_skills": [
+      "python"
+    ],
+    "missing_skills": [
+      "artificial intelligence",
+      "data analytics"
+    ],
+    "student_majors": [
+      "artificial intelligence"
+    ],
+    "project_required_majors": [
+      "artificial intelligence"
+    ],
+    "details": {
+      "student_total_skills": 22,
+      "project_required_skills": 3,
+      "student_courses": 6
+    }
+  },
+  {
+    "student_id": "n15651121",
+    "student_name": "Taylor White",
+    "project_name": "IFN712_25se2-Bradford-01",
+    "match_score": 0.533,
+    "skill_match_score": 0.333,
+    "major_match_score": 1.0,
+    "interest_match_score": 0.333,
+    "matched_skills": [
+      "python"
+    ],
+    "missing_skills": [
+      "artificial intelligence",
+      "data analytics"
+    ],
+    "student_majors": [
+      "artificial intelligence"
+    ],
+    "project_required_majors": [
+      "artificial intelligence"
+    ],
+    "details": {
+      "student_total_skills": 22,
+      "project_required_skills": 3,
+      "student_courses": 6
+    }
+  },
+  {
+    "student_id": "n02008322",
+    "student_name": "Sydney Taylor",
+    "project_name": "IFN712_25se2-Bradford-01",
+    "match_score": 0.533,
+    "skill_match_score": 0.333,
+    "major_match_score": 1.0,
+    "interest_match_score": 0.333,
+    "matched_skills": [
+      "python"
+    ],
+    "missing_skills": [
+      "artificial intelligence",
+      "data analytics"
+    ],
+    "student_majors": [
+      "artificial intelligence"
+    ],
+    "project_required_majors": [
+      "artificial intelligence"
+    ],
+    "details": {
+      "student_total_skills": 22,
+      "project_required_skills": 3,
+      "student_courses": 6
+    }
+  },
+  {
+    "student_id": "n15766237",
+    "student_name": "Sydney Moore",
+    "project_name": "IFN712_25se2-Bradford-01",
+    "match_score": 0.5,
+    "skill_match_score": 0.333,
+    "major_match_score": 1.0,
+    "interest_match_score": 0.0,
+    "matched_skills": [
+      "python"
+    ],
+    "missing_skills": [
+      "artificial intelligence",
+      "data analytics"
+    ],
+    "student_majors": [
+      "artificial intelligence"
+    ],
+    "project_required_majors": [
+      "artificial intelligence"
+    ],
+    "details": {
+      "student_total_skills": 22,
+      "project_required_skills": 3,
+      "student_courses": 6
+    }
+  },
+  {
+    "student_id": "n06913443",
+    "student_name": "Casey Martin",
+    "project_name": "IFN712_25se2-Bradford-01",
+    "match_score": 0.5,
+    "skill_match_score": 0.333,
+    "major_match_score": 1.0,
+    "interest_match_score": 0.0,
+    "matched_skills": [
+      "python"
+    ],
+    "missing_skills": [
+      "artificial intelligence",
+      "data analytics"
+    ],
+    "student_majors": [
+      "artificial intelligence"
+    ],
+    "project_required_majors": [
+      "artificial intelligence"
+    ],
+    "details": {
+      "student_total_skills": 22,
+      "project_required_skills": 3,
+      "student_courses": 6
+    }
+  },
+  {
+    "student_id": "n10100065",
+    "student_name": "Harper Wilson",
+    "project_name": "IFN712_25se2-Bradford-01",
+    "match_score": 0.5,
+    "skill_match_score": 0.333,
+    "major_match_score": 1.0,
+    "interest_match_score": 0.0,
+    "matched_skills": [
+      "python"
+    ],
+    "missing_skills": [
+      "artificial intelligence",
+      "data analytics"
+    ],
+    "student_majors": [
+      "artificial intelligence"
+    ],
+    "project_required_majors": [
+      "artificial intelligence"
+    ],
+    "details": {
+      "student_total_skills": 22,
+      "project_required_skills": 3,
+      "student_courses": 6
+    }
+  },
+  {
+    "student_id": "n08291346",
+    "student_name": "Casey Martin",
+    "project_name": "IFN712_25se2-Bradford-01",
+    "match_score": 0.5,
+    "skill_match_score": 0.333,
+    "major_match_score": 1.0,
+    "interest_match_score": 0.0,
+    "matched_skills": [
+      "python"
+    ],
+    "missing_skills": [
+      "artificial intelligence",
+      "data analytics"
+    ],
+    "student_majors": [
+      "artificial intelligence"
+    ],
+    "project_required_majors": [
+      "artificial intelligence"
+    ],
+    "details": {
+      "student_total_skills": 22,
+      "project_required_skills": 3,
+      "student_courses": 6
+    }
+  },
+  {
+    "student_id": "n12482357",
+    "student_name": "River Harris",
+    "project_name": "IFN712_25se2-Bradford-01",
+    "match_score": 0.5,
+    "skill_match_score": 0.333,
+    "major_match_score": 1.0,
+    "interest_match_score": 0.0,
+    "matched_skills": [
+      "python"
+    ],
+    "missing_skills": [
+      "artificial intelligence",
+      "data analytics"
+    ],
+    "student_majors": [
+      "artificial intelligence"
+    ],
+    "project_required_majors": [
+      "artificial intelligence"
+    ],
+    "details": {
+      "student_total_skills": 22,
+      "project_required_skills": 3,
+      "student_courses": 6
+    }
+  }
+]

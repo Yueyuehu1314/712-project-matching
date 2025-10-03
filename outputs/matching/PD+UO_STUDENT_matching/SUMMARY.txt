@@ -1,0 +1,127 @@
+增强知识图谱匹配系统 - 总体汇总
+================================================================================
+生成时间: 2025-10-03 16:19:47
+项目总数: 20
+
+================================================================================
+
+项目: A Systematic Review of Deep Learning Applications in Disease Detection Using X-ray Imaging
+  学生数: 200
+  平均得分: 0.170
+  最高得分: 0.319 (Drew Johnson)
+  输出目录: A Systematic Review of Deep Learning Applications in Disease Detection Using X-ray Imaging/
+
+项目: AI-Based Human Activity Recognition Using WiFi Channel State Information
+  学生数: 200
+  平均得分: 0.233
+  最高得分: 0.440 (Phoenix Hill)
+  输出目录: AI-Based Human Activity Recognition Using WiFi Channel State Information/
+
+项目: AI-Driven Project-Student Matching under Data Scarcity and Privacy Constraints
+  学生数: 200
+  平均得分: 0.229
+  最高得分: 0.418 (Phoenix Hill)
+  输出目录: AI-Driven Project-Student Matching under Data Scarcity and Privacy Constraints/
+
+项目: Aligning ICT Education with Industry Needs_ A Skills Gap and Stakeholder Analysis
+  学生数: 200
+  平均得分: 0.124
+  最高得分: 0.266 (Finley Martinez)
+  输出目录: Aligning ICT Education with Industry Needs_ A Skills Gap and Stakeholder Analysis/
+
+项目: Assessing the IT Skill Requirements Expected from Graduates Among Various Industry Professionals
+  学生数: 200
+  平均得分: 0.121
+  最高得分: 0.229 (Skylar Young)
+  输出目录: Assessing the IT Skill Requirements Expected from Graduates Among Various Industry Professionals/
+
+项目: Binary vs. Multiclass Evaluation of IoT Cyber Attacks
+  学生数: 200
+  平均得分: 0.222
+  最高得分: 0.398 (Phoenix Hill)
+  输出目录: Binary vs. Multiclass Evaluation of IoT Cyber Attacks/
+
+项目: Feature Selection Impact on IoT Attack Detection Accuracy
+  学生数: 200
+  平均得分: 0.227
+  最高得分: 0.395 (Phoenix Hill)
+  输出目录: Feature Selection Impact on IoT Attack Detection Accuracy/
+
+项目: IFN712 Project Proposal Template_2025_CS -3
+  学生数: 200
+  平均得分: 0.119
+  最高得分: 0.207 (Phoenix Hill)
+  输出目录: IFN712 Project Proposal Template_2025_CS -3/
+
+项目: IoT-Based Spectral Sensing and Machine Learning for Plant Health Monitoring
+  学生数: 200
+  平均得分: 0.241
+  最高得分: 0.435 (Skylar Harris)
+  输出目录: IoT-Based Spectral Sensing and Machine Learning for Plant Health Monitoring/
+
+项目: JZhang_IFN712 Project Proposal 1_2025_CS 
+  学生数: 200
+  平均得分: 0.166
+  最高得分: 0.286 (Peyton Williams)
+  输出目录: JZhang_IFN712 Project Proposal 1_2025_CS /
+
+项目: Leveraging IoT for Smart City Solutions_ Comparative Analysis and Strategic Insights
+  学生数: 200
+  平均得分: 0.199
+  最高得分: 0.376 (Cameron Jones)
+  输出目录: Leveraging IoT for Smart City Solutions_ Comparative Analysis and Strategic Insights/
+
+项目: Machine Learning-Based Prediction of GNSS Precise Ephemeris Using Broadcast Orbit Data
+  学生数: 200
+  平均得分: 0.207
+  最高得分: 0.377 (Jordan Wright)
+  输出目录: Machine Learning-Based Prediction of GNSS Precise Ephemeris Using Broadcast Orbit Data/
+
+项目: Monitoring Ground Deformation in the Brisbane Area Using InSAR Techniques
+  学生数: 200
+  平均得分: 0.182
+  最高得分: 0.349 (Jordan Wright)
+  输出目录: Monitoring Ground Deformation in the Brisbane Area Using InSAR Techniques/
+
+项目: Prosody & Perception_ Toward a Dataset for Emotional Listenability in Chatbots
+  学生数: 200
+  平均得分: 0.177
+  最高得分: 0.308 (Jordan Wright)
+  输出目录: Prosody & Perception_ Toward a Dataset for Emotional Listenability in Chatbots/
+
+项目: Smart Intersection Localization for Pedestrians Using Bluetooth and Deep learning
+  学生数: 200
+  平均得分: 0.237
+  最高得分: 0.438 (Skylar Harris)
+  输出目录: Smart Intersection Localization for Pedestrians Using Bluetooth and Deep learning/
+
+项目: Smartphone-Based Real-Time V2P Safety System for Signalized Intersections
+  学生数: 200
+  平均得分: 0.220
+  最高得分: 0.433 (Skylar Harris)
+  输出目录: Smartphone-Based Real-Time V2P Safety System for Signalized Intersections/
+
+项目: Testing and Validating the Impact of GNSS Signal Obstruction on Positioning Accuracy
+  学生数: 200
+  平均得分: 0.197
+  最高得分: 0.357 (Jordan Wright)
+  输出目录: Testing and Validating the Impact of GNSS Signal Obstruction on Positioning Accuracy/
+
+项目: The Power of Patterns_ Using Binary Codes to Improve the Safety of the CRISPR Gene Editing Technology
+  学生数: 200
+  平均得分: 0.163
+  最高得分: 0.329 (Peyton Williams)
+  输出目录: The Power of Patterns_ Using Binary Codes to Improve the Safety of the CRISPR Gene Editing Technology/
+
+项目: VitalID_ Smartphone-Based Identity Authentication Using Heart Rate and Breathing Signals
+  学生数: 200
+  平均得分: 0.213
+  最高得分: 0.408 (Skylar Harris)
+  输出目录: VitalID_ Smartphone-Based Identity Authentication Using Heart Rate and Breathing Signals/
+
+项目: Zero-Day Attack Detection Using Machine Learning Methods
+  学生数: 200
+  平均得分: 0.254
+  最高得分: 0.447 (Phoenix Hill)
+  输出目录: Zero-Day Attack Detection Using Machine Learning Methods/
+

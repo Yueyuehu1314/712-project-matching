@@ -1,0 +1,287 @@
+项目匹配报告
+================================================================================
+项目名称: VitalID_ Smartphone-Based Identity Authentication Using Heart Rate and Breathing Signals
+匹配学生数: 200
+生成时间: 2025-10-03 16:19:47
+
+匹配权重配置:
+  - 技能匹配: 50.0%
+  - 专业匹配: 20.0%
+  - 课程匹配: 20.0%
+  - 兴趣匹配: 10.0%
+
+================================================================================
+
+Top 20 匹配学生:
+--------------------------------------------------------------------------------
+
+排名 #1
+学生: Skylar Harris (n12836502)
+综合得分: 0.408
+  - 技能得分: 0.380
+  - 专业得分: 1.000
+  - 课程得分: 0.045
+  - 兴趣得分: 0.091
+匹配详情:
+  - 匹配技能 (5): machine learning, mobile development, web development, programming, networking
+  - 匹配课程 (5): IFN564, IFN553, IFN555, IFN554, IFN623
+  - 匹配兴趣: cybersecurity and ethical hacking
+
+--------------------------------------------------------------------------------
+
+排名 #2
+学生: Reese Allen (n01189174)
+综合得分: 0.408
+  - 技能得分: 0.380
+  - 专业得分: 1.000
+  - 课程得分: 0.045
+  - 兴趣得分: 0.091
+匹配详情:
+  - 匹配技能 (5): machine learning, mobile development, web development, programming, networking
+  - 匹配课程 (5): IFN564, IFN553, IFN555, IFN554, IFN623
+  - 匹配兴趣: ethical hacking and penetration testing, cybersecurity policy and regulations
+
+--------------------------------------------------------------------------------
+
+排名 #3
+学生: Jamie Lopez (n15410626)
+综合得分: 0.408
+  - 技能得分: 0.380
+  - 专业得分: 1.000
+  - 课程得分: 0.045
+  - 兴趣得分: 0.091
+匹配详情:
+  - 匹配技能 (5): machine learning, mobile development, web development, programming, networking
+  - 匹配课程 (5): IFN564, IFN553, IFN555, IFN554, IFN623
+  - 匹配兴趣: cybersecurity and privacy preserving technologies, data science and predictive analytics
+
+--------------------------------------------------------------------------------
+
+排名 #4
+学生: Hayden Young (n12300359)
+综合得分: 0.408
+  - 技能得分: 0.380
+  - 专业得分: 1.000
+  - 课程得分: 0.045
+  - 兴趣得分: 0.091
+匹配详情:
+  - 匹配技能 (5): machine learning, mobile development, web development, programming, networking
+  - 匹配课程 (5): IFN564, IFN553, IFN555, IFN554, IFN623
+  - 匹配兴趣: data science and analytics, artificial intelligence and machine learning, cybersecurity and privacy technologies
+
+--------------------------------------------------------------------------------
+
+排名 #5
+学生: Phoenix Hill (n15945675)
+综合得分: 0.399
+  - 技能得分: 0.380
+  - 专业得分: 1.000
+  - 课程得分: 0.045
+  - 兴趣得分: 0.000
+匹配详情:
+  - 匹配技能 (5): machine learning, mobile development, web development, programming, networking
+  - 匹配课程 (5): IFN564, IFN553, IFN555, IFN554, IFN623
+
+--------------------------------------------------------------------------------
+
+排名 #6
+学生: Morgan Lee (n07927421)
+综合得分: 0.399
+  - 技能得分: 0.380
+  - 专业得分: 1.000
+  - 课程得分: 0.045
+  - 兴趣得分: 0.000
+匹配详情:
+  - 匹配技能 (5): machine learning, mobile development, web development, programming, networking
+  - 匹配课程 (5): IFN564, IFN553, IFN555, IFN554, IFN623
+
+--------------------------------------------------------------------------------
+
+排名 #7
+学生: Avery Young (n08963298)
+综合得分: 0.399
+  - 技能得分: 0.380
+  - 专业得分: 1.000
+  - 课程得分: 0.045
+  - 兴趣得分: 0.000
+匹配详情:
+  - 匹配技能 (5): machine learning, mobile development, web development, programming, networking
+  - 匹配课程 (5): IFN564, IFN553, IFN555, IFN554, IFN623
+
+--------------------------------------------------------------------------------
+
+排名 #8
+学生: Blake Thompson (n10055590)
+综合得分: 0.399
+  - 技能得分: 0.380
+  - 专业得分: 1.000
+  - 课程得分: 0.045
+  - 兴趣得分: 0.000
+匹配详情:
+  - 匹配技能 (5): machine learning, mobile development, web development, programming, networking
+  - 匹配课程 (5): IFN564, IFN553, IFN555, IFN554, IFN623
+
+--------------------------------------------------------------------------------
+
+排名 #9
+学生: Skylar Williams (n08267843)
+综合得分: 0.358
+  - 技能得分: 0.280
+  - 专业得分: 1.000
+  - 课程得分: 0.045
+  - 兴趣得分: 0.091
+匹配详情:
+  - 匹配技能 (4): mobile development, web development, programming, networking
+  - 匹配课程 (5): IFN556, IFN553, IFN555, IFN554, IFN552
+  - 匹配兴趣: cybersecurity and ethical hacking
+
+--------------------------------------------------------------------------------
+
+排名 #10
+学生: Devon Johnson (n14494432)
+综合得分: 0.358
+  - 技能得分: 0.280
+  - 专业得分: 1.000
+  - 课程得分: 0.045
+  - 兴趣得分: 0.091
+匹配详情:
+  - 匹配技能 (4): mobile development, web development, programming, networking
+  - 匹配课程 (5): IFN556, IFN553, IFN555, IFN554, IFN552
+  - 匹配兴趣: data visualization and analytics
+
+--------------------------------------------------------------------------------
+
+排名 #11
+学生: Avery Brown (n06136847)
+综合得分: 0.358
+  - 技能得分: 0.280
+  - 专业得分: 1.000
+  - 课程得分: 0.045
+  - 兴趣得分: 0.091
+匹配详情:
+  - 匹配技能 (4): mobile development, web development, programming, networking
+  - 匹配课程 (5): IFN556, IFN553, IFN555, IFN554, IFN552
+  - 匹配兴趣: urban mobility and smart city solutions, mobile technology and real time systems, data science and machine learning, cybersecurity and data privacy
+
+--------------------------------------------------------------------------------
+
+排名 #12
+学生: Harper Garcia (n01368381)
+综合得分: 0.358
+  - 技能得分: 0.280
+  - 专业得分: 1.000
+  - 课程得分: 0.045
+  - 兴趣得分: 0.091
+匹配详情:
+  - 匹配技能 (4): mobile development, web development, programming, networking
+  - 匹配课程 (5): IFN556, IFN553, IFN555, IFN554, IFN552
+  - 匹配兴趣: hackathons and coding competitions
+
+--------------------------------------------------------------------------------
+
+排名 #13
+学生: Logan Miller (n05009103)
+综合得分: 0.358
+  - 技能得分: 0.280
+  - 专业得分: 1.000
+  - 课程得分: 0.045
+  - 兴趣得分: 0.091
+匹配详情:
+  - 匹配技能 (4): mobile development, web development, programming, networking
+  - 匹配课程 (5): IFN556, IFN553, IFN555, IFN554, IFN552
+  - 匹配兴趣: hiking and outdoor navigation
+
+--------------------------------------------------------------------------------
+
+排名 #14
+学生: Rory Wright (n15914596)
+综合得分: 0.349
+  - 技能得分: 0.280
+  - 专业得分: 1.000
+  - 课程得分: 0.045
+  - 兴趣得分: 0.000
+匹配详情:
+  - 匹配技能 (4): mobile development, web development, programming, networking
+  - 匹配课程 (5): IFN556, IFN553, IFN555, IFN554, IFN552
+
+--------------------------------------------------------------------------------
+
+排名 #15
+学生: Rowan Lee (n03583544)
+综合得分: 0.349
+  - 技能得分: 0.280
+  - 专业得分: 1.000
+  - 课程得分: 0.045
+  - 兴趣得分: 0.000
+匹配详情:
+  - 匹配技能 (4): mobile development, web development, programming, networking
+  - 匹配课程 (5): IFN556, IFN553, IFN555, IFN554, IFN552
+
+--------------------------------------------------------------------------------
+
+排名 #16
+学生: Rowan Moore (n10995912)
+综合得分: 0.349
+  - 技能得分: 0.280
+  - 专业得分: 1.000
+  - 课程得分: 0.045
+  - 兴趣得分: 0.000
+匹配详情:
+  - 匹配技能 (4): mobile development, web development, programming, networking
+  - 匹配课程 (5): IFN556, IFN553, IFN555, IFN554, IFN552
+
+--------------------------------------------------------------------------------
+
+排名 #17
+学生: Devon Lee (n14421494)
+综合得分: 0.349
+  - 技能得分: 0.280
+  - 专业得分: 1.000
+  - 课程得分: 0.045
+  - 兴趣得分: 0.000
+匹配详情:
+  - 匹配技能 (4): mobile development, web development, programming, networking
+  - 匹配课程 (5): IFN556, IFN553, IFN555, IFN554, IFN552
+
+--------------------------------------------------------------------------------
+
+排名 #18
+学生: Madison Jackson (n03507662)
+综合得分: 0.349
+  - 技能得分: 0.280
+  - 专业得分: 1.000
+  - 课程得分: 0.045
+  - 兴趣得分: 0.000
+匹配详情:
+  - 匹配技能 (4): mobile development, web development, programming, networking
+  - 匹配课程 (5): IFN556, IFN553, IFN555, IFN554, IFN552
+
+--------------------------------------------------------------------------------
+
+排名 #19
+学生: Jordan Wright (n04539845)
+综合得分: 0.346
+  - 技能得分: 0.269
+  - 专业得分: 1.000
+  - 课程得分: 0.055
+  - 兴趣得分: 0.000
+匹配详情:
+  - 匹配技能 (4): machine learning, web development, programming, networking
+  - 匹配课程 (6): IFN564, IFN556, IFN555, IFN563, IFN552, IFN551
+
+--------------------------------------------------------------------------------
+
+排名 #20
+学生: Morgan Harris (n14695376)
+综合得分: 0.330
+  - 技能得分: 0.220
+  - 专业得分: 1.000
+  - 课程得分: 0.055
+  - 兴趣得分: 0.091
+匹配详情:
+  - 匹配技能 (3): machine learning, web development, programming
+  - 匹配课程 (6): IFN564, IFN556, IFN555, IFN563, IFN552, IFN551
+  - 匹配兴趣: data visualization and web development
+
+--------------------------------------------------------------------------------
+

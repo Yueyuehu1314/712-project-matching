@@ -1,0 +1,312 @@
+[
+  {
+    "student_id": "n05399136",
+    "student_name": "Skylar Williams",
+    "project_name": "IFN712 Project Proposal Template_2025_Project matching",
+    "match_score": 0.633,
+    "skill_match_score": 0.5,
+    "major_match_score": 1.0,
+    "interest_match_score": 0.333,
+    "matched_skills": [
+      "data analytics",
+      "react",
+      "security"
+    ],
+    "missing_skills": [
+      "artificial intelligence",
+      "gan",
+      "nlp"
+    ],
+    "student_majors": [
+      "software development"
+    ],
+    "project_required_majors": [
+      "software development",
+      "computer"
+    ],
+    "details": {
+      "student_total_skills": 18,
+      "project_required_skills": 6,
+      "student_courses": 8
+    }
+  },
+  {
+    "student_id": "n08416091",
+    "student_name": "Hayden Lopez",
+    "project_name": "IFN712 Project Proposal Template_2025_Project matching",
+    "match_score": 0.633,
+    "skill_match_score": 0.5,
+    "major_match_score": 1.0,
+    "interest_match_score": 0.333,
+    "matched_skills": [
+      "data analytics",
+      "react",
+      "security"
+    ],
+    "missing_skills": [
+      "artificial intelligence",
+      "gan",
+      "nlp"
+    ],
+    "student_majors": [
+      "software development"
+    ],
+    "project_required_majors": [
+      "software development",
+      "computer"
+    ],
+    "details": {
+      "student_total_skills": 22,
+      "project_required_skills": 6,
+      "student_courses": 8
+    }
+  },
+  {
+    "student_id": "n10531344",
+    "student_name": "River Garcia",
+    "project_name": "IFN712 Project Proposal Template_2025_Project matching",
+    "match_score": 0.633,
+    "skill_match_score": 0.5,
+    "major_match_score": 1.0,
+    "interest_match_score": 0.333,
+    "matched_skills": [
+      "data analytics",
+      "react",
+      "security"
+    ],
+    "missing_skills": [
+      "artificial intelligence",
+      "gan",
+      "nlp"
+    ],
+    "student_majors": [
+      "software development"
+    ],
+    "project_required_majors": [
+      "software development",
+      "computer"
+    ],
+    "details": {
+      "student_total_skills": 22,
+      "project_required_skills": 6,
+      "student_courses": 8
+    }
+  },
+  {
+    "student_id": "n03962866",
+    "student_name": "Tyler Thompson",
+    "project_name": "IFN712 Project Proposal Template_2025_Project matching",
+    "match_score": 0.633,
+    "skill_match_score": 0.5,
+    "major_match_score": 1.0,
+    "interest_match_score": 0.333,
+    "matched_skills": [
+      "data analytics",
+      "react",
+      "security"
+    ],
+    "missing_skills": [
+      "artificial intelligence",
+      "gan",
+      "nlp"
+    ],
+    "student_majors": [
+      "software development"
+    ],
+    "project_required_majors": [
+      "software development",
+      "computer"
+    ],
+    "details": {
+      "student_total_skills": 22,
+      "project_required_skills": 6,
+      "student_courses": 8
+    }
+  },
+  {
+    "student_id": "n03186319",
+    "student_name": "Rowan Thompson",
+    "project_name": "IFN712 Project Proposal Template_2025_Project matching",
+    "match_score": 0.633,
+    "skill_match_score": 0.5,
+    "major_match_score": 1.0,
+    "interest_match_score": 0.333,
+    "matched_skills": [
+      "data analytics",
+      "react",
+      "security"
+    ],
+    "missing_skills": [
+      "artificial intelligence",
+      "gan",
+      "nlp"
+    ],
+    "student_majors": [
+      "software development"
+    ],
+    "project_required_majors": [
+      "software development",
+      "computer"
+    ],
+    "details": {
+      "student_total_skills": 22,
+      "project_required_skills": 6,
+      "student_courses": 8
+    }
+  },
+  {
+    "student_id": "n09324256",
+    "student_name": "Madison Hernandez",
+    "project_name": "IFN712 Project Proposal Template_2025_Project matching",
+    "match_score": 0.633,
+    "skill_match_score": 0.5,
+    "major_match_score": 1.0,
+    "interest_match_score": 0.333,
+    "matched_skills": [
+      "data analytics",
+      "react",
+      "security"
+    ],
+    "missing_skills": [
+      "artificial intelligence",
+      "gan",
+      "nlp"
+    ],
+    "student_majors": [
+      "computer science and software engineering"
+    ],
+    "project_required_majors": [
+      "software development",
+      "computer"
+    ],
+    "details": {
+      "student_total_skills": 22,
+      "project_required_skills": 6,
+      "student_courses": 8
+    }
+  },
+  {
+    "student_id": "n14689252",
+    "student_name": "Riley Johnson",
+    "project_name": "IFN712 Project Proposal Template_2025_Project matching",
+    "match_score": 0.633,
+    "skill_match_score": 0.5,
+    "major_match_score": 1.0,
+    "interest_match_score": 0.333,
+    "matched_skills": [
+      "data analytics",
+      "react",
+      "security"
+    ],
+    "missing_skills": [
+      "artificial intelligence",
+      "gan",
+      "nlp"
+    ],
+    "student_majors": [
+      "software development"
+    ],
+    "project_required_majors": [
+      "software development",
+      "computer"
+    ],
+    "details": {
+      "student_total_skills": 22,
+      "project_required_skills": 6,
+      "student_courses": 8
+    }
+  },
+  {
+    "student_id": "n00408694",
+    "student_name": "Phoenix Martinez",
+    "project_name": "IFN712 Project Proposal Template_2025_Project matching",
+    "match_score": 0.633,
+    "skill_match_score": 0.5,
+    "major_match_score": 1.0,
+    "interest_match_score": 0.333,
+    "matched_skills": [
+      "data analytics",
+      "react",
+      "security"
+    ],
+    "missing_skills": [
+      "artificial intelligence",
+      "gan",
+      "nlp"
+    ],
+    "student_majors": [
+      "software development"
+    ],
+    "project_required_majors": [
+      "software development",
+      "computer"
+    ],
+    "details": {
+      "student_total_skills": 22,
+      "project_required_skills": 6,
+      "student_courses": 8
+    }
+  },
+  {
+    "student_id": "n14963558",
+    "student_name": "Devon Taylor",
+    "project_name": "IFN712 Project Proposal Template_2025_Project matching",
+    "match_score": 0.617,
+    "skill_match_score": 0.5,
+    "major_match_score": 1.0,
+    "interest_match_score": 0.167,
+    "matched_skills": [
+      "data analytics",
+      "react",
+      "security"
+    ],
+    "missing_skills": [
+      "artificial intelligence",
+      "gan",
+      "nlp"
+    ],
+    "student_majors": [
+      "software development"
+    ],
+    "project_required_majors": [
+      "software development",
+      "computer"
+    ],
+    "details": {
+      "student_total_skills": 22,
+      "project_required_skills": 6,
+      "student_courses": 8
+    }
+  },
+  {
+    "student_id": "n09133119",
+    "student_name": "Reese Lee",
+    "project_name": "IFN712 Project Proposal Template_2025_Project matching",
+    "match_score": 0.617,
+    "skill_match_score": 0.5,
+    "major_match_score": 1.0,
+    "interest_match_score": 0.167,
+    "matched_skills": [
+      "data analytics",
+      "react",
+      "security"
+    ],
+    "missing_skills": [
+      "artificial intelligence",
+      "gan",
+      "nlp"
+    ],
+    "student_majors": [
+      "software development"
+    ],
+    "project_required_majors": [
+      "software development",
+      "computer"
+    ],
+    "details": {
+      "student_total_skills": 22,
+      "project_required_skills": 6,
+      "student_courses": 8
+    }
+  }
+]

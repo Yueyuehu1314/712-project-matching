@@ -1,0 +1,564 @@
+{
+  "entities": [
+    {
+      "id": "student_nfd66da84",
+      "name": "Rory Johnson",
+      "entity_type": "STUDENT",
+      "properties": {
+        "student_id": "nfd66da84",
+        "major": "Computer Science",
+        "year": "3rd Year",
+        "file_path": "enhanced_profile_md/IFN712 Project Proposal Template_2025_CS -3_IN20_1.md"
+      }
+    },
+    {
+      "id": "major_computer_science",
+      "name": "Computer Science",
+      "entity_type": "MAJOR",
+      "properties": {}
+    },
+    {
+      "id": "course_ifn712_-_research_project",
+      "name": "IFN712 - Research Project",
+      "entity_type": "COURSE",
+      "properties": {}
+    },
+    {
+      "id": "course_ifn701_-_research_methods",
+      "name": "IFN701 - Research Methods",
+      "entity_type": "COURSE",
+      "properties": {}
+    },
+    {
+      "id": "course_ifn702_-_advanced_programming",
+      "name": "IFN702 - Advanced Programming",
+      "entity_type": "COURSE",
+      "properties": {}
+    },
+    {
+      "id": "skill_programming",
+      "name": "Programming",
+      "entity_type": "SKILL",
+      "properties": {}
+    },
+    {
+      "id": "course_ifn703_-_software_engineering",
+      "name": "IFN703 - Software Engineering",
+      "entity_type": "COURSE",
+      "properties": {}
+    },
+    {
+      "id": "course_ifn704_-_database_systems",
+      "name": "IFN704 - Database Systems",
+      "entity_type": "COURSE",
+      "properties": {}
+    },
+    {
+      "id": "skill_database_management",
+      "name": "Database Management",
+      "entity_type": "SKILL",
+      "properties": {}
+    },
+    {
+      "id": "skill_sql",
+      "name": "SQL",
+      "entity_type": "SKILL",
+      "properties": {}
+    },
+    {
+      "id": "course_ifn709_-_advanced_machine_learning",
+      "name": "IFN709 - Advanced Machine Learning",
+      "entity_type": "COURSE",
+      "properties": {}
+    },
+    {
+      "id": "skill_machine_learning",
+      "name": "Machine Learning",
+      "entity_type": "SKILL",
+      "properties": {}
+    },
+    {
+      "id": "skill_data_science",
+      "name": "Data Science",
+      "entity_type": "SKILL",
+      "properties": {}
+    },
+    {
+      "id": "project_exp_nfd66da84_0",
+      "name": "Machine Learning-Based Sentiment Analysis Tool: De...",
+      "entity_type": "PROJECT_EXPERIENCE",
+      "properties": {
+        "description": "Machine Learning-Based Sentiment Analysis Tool: Developed a Python-based sentiment analysis model using Scikit-learn and NLP techniques to classify social media data, achieving 92% accuracy.",
+        "index": 0
+      }
+    },
+    {
+      "id": "skill_python",
+      "name": "Python",
+      "entity_type": "SKILL",
+      "properties": {}
+    },
+    {
+      "id": "skill_natural_language_processing",
+      "name": "Natural Language Processing",
+      "entity_type": "SKILL",
+      "properties": {}
+    },
+    {
+      "id": "project_exp_nfd66da84_1",
+      "name": "Interactive Data Visualization Dashboard: Created ...",
+      "entity_type": "PROJECT_EXPERIENCE",
+      "properties": {
+        "description": "Interactive Data Visualization Dashboard: Created a real-time dashboard with Matplotlib and Plotly to visualize IoT sensor data, enabling dynamic insights for a smart agriculture project.",
+        "index": 1
+      }
+    },
+    {
+      "id": "project_exp_nfd66da84_2",
+      "name": "Automated Testing Framework for Web Applications: ...",
+      "entity_type": "PROJECT_EXPERIENCE",
+      "properties": {
+        "description": "Automated Testing Framework for Web Applications: Designed a Selenium-based framework to automate regression testing, reducing manual testing time by 40% for a Software Engineering course project.",
+        "index": 2
+      }
+    },
+    {
+      "id": "skill_web_development",
+      "name": "Web Development",
+      "entity_type": "SKILL",
+      "properties": {}
+    },
+    {
+      "id": "skill_python_scikit-learn,_pandas,_numpy",
+      "name": "Python (Scikit-learn, Pandas, NumPy)",
+      "entity_type": "SKILL",
+      "properties": {}
+    },
+    {
+      "id": "skill_data_visualization_matplotlib,_tableau,_power_bi",
+      "name": "Data Visualization (Matplotlib, Tableau, Power BI)",
+      "entity_type": "SKILL",
+      "properties": {}
+    },
+    {
+      "id": "skill_machine_learning_supervised_unsupervised_learning",
+      "name": "Machine Learning (Supervised/Unsupervised Learning)",
+      "entity_type": "SKILL",
+      "properties": {}
+    },
+    {
+      "id": "skill_software_engineering_java,_c++,_git",
+      "name": "Software Engineering (Java, C++, Git)",
+      "entity_type": "SKILL",
+      "properties": {}
+    },
+    {
+      "id": "skill_web_development_javascript,_react",
+      "name": "Web Development (JavaScript, React)",
+      "entity_type": "SKILL",
+      "properties": {}
+    },
+    {
+      "id": "skill_database_management_sql,_mongodb",
+      "name": "Database Management (SQL, MongoDB)",
+      "entity_type": "SKILL",
+      "properties": {}
+    },
+    {
+      "id": "skill_cloud_computing_aws_basics",
+      "name": "Cloud Computing (AWS Basics)",
+      "entity_type": "SKILL",
+      "properties": {}
+    },
+    {
+      "id": "skill_agile_project_management",
+      "name": "Agile Project Management",
+      "entity_type": "SKILL",
+      "properties": {}
+    },
+    {
+      "id": "interest_machine_learning_and_ai_ethics",
+      "name": "Machine learning and AI ethics",
+      "entity_type": "INTEREST",
+      "properties": {}
+    },
+    {
+      "id": "interest_open_source_software_development",
+      "name": "Open-source software development",
+      "entity_type": "INTEREST",
+      "properties": {}
+    },
+    {
+      "id": "interest_data_storytelling_and_visualization",
+      "name": "Data storytelling and visualization",
+      "entity_type": "INTEREST",
+      "properties": {}
+    },
+    {
+      "id": "interest_competitive_programming_(leetcode,_kaggle)",
+      "name": "Competitive programming (LeetCode, Kaggle)",
+      "entity_type": "INTEREST",
+      "properties": {}
+    },
+    {
+      "id": "interest_robotics_and_iot_systems",
+      "name": "Robotics and IoT systems",
+      "entity_type": "INTEREST",
+      "properties": {}
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "student_nfd66da84",
+      "target_id": "major_computer_science",
+      "relation_type": "STUDIED_MAJOR",
+      "weight": 1.0,
+      "properties": {}
+    },
+    {
+      "source_id": "student_nfd66da84",
+      "target_id": "course_ifn712_-_research_project",
+      "relation_type": "COMPLETED_COURSE",
+      "weight": 1.0,
+      "properties": {}
+    },
+    {
+      "source_id": "student_nfd66da84",
+      "target_id": "course_ifn701_-_research_methods",
+      "relation_type": "COMPLETED_COURSE",
+      "weight": 1.0,
+      "properties": {}
+    },
+    {
+      "source_id": "student_nfd66da84",
+      "target_id": "course_ifn702_-_advanced_programming",
+      "relation_type": "COMPLETED_COURSE",
+      "weight": 1.0,
+      "properties": {}
+    },
+    {
+      "source_id": "course_ifn702_-_advanced_programming",
+      "target_id": "skill_programming",
+      "relation_type": "TEACHES_SKILL",
+      "weight": 0.9,
+      "properties": {}
+    },
+    {
+      "source_id": "student_nfd66da84",
+      "target_id": "skill_programming",
+      "relation_type": "HAS_SKILL",
+      "weight": 0.8,
+      "properties": {
+        "source": "course"
+      }
+    },
+    {
+      "source_id": "student_nfd66da84",
+      "target_id": "course_ifn703_-_software_engineering",
+      "relation_type": "COMPLETED_COURSE",
+      "weight": 1.0,
+      "properties": {}
+    },
+    {
+      "source_id": "student_nfd66da84",
+      "target_id": "course_ifn704_-_database_systems",
+      "relation_type": "COMPLETED_COURSE",
+      "weight": 1.0,
+      "properties": {}
+    },
+    {
+      "source_id": "course_ifn704_-_database_systems",
+      "target_id": "skill_database_management",
+      "relation_type": "TEACHES_SKILL",
+      "weight": 0.9,
+      "properties": {}
+    },
+    {
+      "source_id": "student_nfd66da84",
+      "target_id": "skill_database_management",
+      "relation_type": "HAS_SKILL",
+      "weight": 0.8,
+      "properties": {
+        "source": "course"
+      }
+    },
+    {
+      "source_id": "course_ifn704_-_database_systems",
+      "target_id": "skill_sql",
+      "relation_type": "TEACHES_SKILL",
+      "weight": 0.9,
+      "properties": {}
+    },
+    {
+      "source_id": "student_nfd66da84",
+      "target_id": "skill_sql",
+      "relation_type": "HAS_SKILL",
+      "weight": 0.8,
+      "properties": {
+        "source": "course"
+      }
+    },
+    {
+      "source_id": "student_nfd66da84",
+      "target_id": "course_ifn709_-_advanced_machine_learning",
+      "relation_type": "COMPLETED_COURSE",
+      "weight": 1.0,
+      "properties": {}
+    },
+    {
+      "source_id": "course_ifn709_-_advanced_machine_learning",
+      "target_id": "skill_machine_learning",
+      "relation_type": "TEACHES_SKILL",
+      "weight": 0.9,
+      "properties": {}
+    },
+    {
+      "source_id": "student_nfd66da84",
+      "target_id": "skill_machine_learning",
+      "relation_type": "HAS_SKILL",
+      "weight": 0.8,
+      "properties": {
+        "source": "course"
+      }
+    },
+    {
+      "source_id": "course_ifn709_-_advanced_machine_learning",
+      "target_id": "skill_data_science",
+      "relation_type": "TEACHES_SKILL",
+      "weight": 0.9,
+      "properties": {}
+    },
+    {
+      "source_id": "student_nfd66da84",
+      "target_id": "skill_data_science",
+      "relation_type": "HAS_SKILL",
+      "weight": 0.8,
+      "properties": {
+        "source": "course"
+      }
+    },
+    {
+      "source_id": "student_nfd66da84",
+      "target_id": "project_exp_nfd66da84_0",
+      "relation_type": "PARTICIPATED_IN_PROJECT",
+      "weight": 1.0,
+      "properties": {}
+    },
+    {
+      "source_id": "project_exp_nfd66da84_0",
+      "target_id": "skill_python",
+      "relation_type": "REQUIRES_SKILL",
+      "weight": 0.7,
+      "properties": {}
+    },
+    {
+      "source_id": "student_nfd66da84",
+      "target_id": "skill_python",
+      "relation_type": "HAS_SKILL",
+      "weight": 0.75,
+      "properties": {
+        "source": "project"
+      }
+    },
+    {
+      "source_id": "project_exp_nfd66da84_0",
+      "target_id": "skill_machine_learning",
+      "relation_type": "REQUIRES_SKILL",
+      "weight": 0.7,
+      "properties": {}
+    },
+    {
+      "source_id": "project_exp_nfd66da84_0",
+      "target_id": "skill_natural_language_processing",
+      "relation_type": "REQUIRES_SKILL",
+      "weight": 0.7,
+      "properties": {}
+    },
+    {
+      "source_id": "student_nfd66da84",
+      "target_id": "skill_natural_language_processing",
+      "relation_type": "HAS_SKILL",
+      "weight": 0.75,
+      "properties": {
+        "source": "project"
+      }
+    },
+    {
+      "source_id": "student_nfd66da84",
+      "target_id": "project_exp_nfd66da84_1",
+      "relation_type": "PARTICIPATED_IN_PROJECT",
+      "weight": 1.0,
+      "properties": {}
+    },
+    {
+      "source_id": "student_nfd66da84",
+      "target_id": "project_exp_nfd66da84_2",
+      "relation_type": "PARTICIPATED_IN_PROJECT",
+      "weight": 1.0,
+      "properties": {}
+    },
+    {
+      "source_id": "project_exp_nfd66da84_2",
+      "target_id": "skill_web_development",
+      "relation_type": "REQUIRES_SKILL",
+      "weight": 0.7,
+      "properties": {}
+    },
+    {
+      "source_id": "student_nfd66da84",
+      "target_id": "skill_web_development",
+      "relation_type": "HAS_SKILL",
+      "weight": 0.75,
+      "properties": {
+        "source": "project"
+      }
+    },
+    {
+      "source_id": "student_nfd66da84",
+      "target_id": "skill_python_scikit-learn,_pandas,_numpy",
+      "relation_type": "HAS_SKILL",
+      "weight": 0.6,
+      "properties": {
+        "source": "self-taught"
+      }
+    },
+    {
+      "source_id": "student_nfd66da84",
+      "target_id": "skill_data_visualization_matplotlib,_tableau,_power_bi",
+      "relation_type": "HAS_SKILL",
+      "weight": 0.6,
+      "properties": {
+        "source": "self-taught"
+      }
+    },
+    {
+      "source_id": "student_nfd66da84",
+      "target_id": "skill_machine_learning_supervised_unsupervised_learning",
+      "relation_type": "HAS_SKILL",
+      "weight": 0.6,
+      "properties": {
+        "source": "self-taught"
+      }
+    },
+    {
+      "source_id": "student_nfd66da84",
+      "target_id": "skill_software_engineering_java,_c++,_git",
+      "relation_type": "HAS_SKILL",
+      "weight": 0.6,
+      "properties": {
+        "source": "self-taught"
+      }
+    },
+    {
+      "source_id": "student_nfd66da84",
+      "target_id": "skill_web_development_javascript,_react",
+      "relation_type": "HAS_SKILL",
+      "weight": 0.6,
+      "properties": {
+        "source": "self-taught"
+      }
+    },
+    {
+      "source_id": "student_nfd66da84",
+      "target_id": "skill_database_management_sql,_mongodb",
+      "relation_type": "HAS_SKILL",
+      "weight": 0.6,
+      "properties": {
+        "source": "self-taught"
+      }
+    },
+    {
+      "source_id": "student_nfd66da84",
+      "target_id": "skill_cloud_computing_aws_basics",
+      "relation_type": "HAS_SKILL",
+      "weight": 0.6,
+      "properties": {
+        "source": "self-taught"
+      }
+    },
+    {
+      "source_id": "student_nfd66da84",
+      "target_id": "skill_agile_project_management",
+      "relation_type": "HAS_SKILL",
+      "weight": 0.6,
+      "properties": {
+        "source": "self-taught"
+      }
+    },
+    {
+      "source_id": "student_nfd66da84",
+      "target_id": "interest_machine_learning_and_ai_ethics",
+      "relation_type": "INTERESTED_IN",
+      "weight": 1.0,
+      "properties": {}
+    },
+    {
+      "source_id": "student_nfd66da84",
+      "target_id": "interest_open_source_software_development",
+      "relation_type": "INTERESTED_IN",
+      "weight": 1.0,
+      "properties": {}
+    },
+    {
+      "source_id": "student_nfd66da84",
+      "target_id": "interest_data_storytelling_and_visualization",
+      "relation_type": "INTERESTED_IN",
+      "weight": 1.0,
+      "properties": {}
+    },
+    {
+      "source_id": "student_nfd66da84",
+      "target_id": "interest_competitive_programming_(leetcode,_kaggle)",
+      "relation_type": "INTERESTED_IN",
+      "weight": 1.0,
+      "properties": {}
+    },
+    {
+      "source_id": "student_nfd66da84",
+      "target_id": "interest_robotics_and_iot_systems",
+      "relation_type": "INTERESTED_IN",
+      "weight": 1.0,
+      "properties": {}
+    }
+  ],
+  "metadata": {
+    "student_id": "student_nfd66da84",
+    "student_name": "Rory Johnson",
+    "created_at": "2025-10-03T15:16:11.672920",
+    "version": "2.0_enhanced",
+    "prerequisite_analysis": {
+      "courses_with_prereq": [
+        {
+          "course": "IFN703",
+          "prerequisites": [
+            "INN700",
+            "IFN619",
+            "IFN600"
+          ]
+        },
+        {
+          "course": "IFN704",
+          "prerequisites": [
+            "INN700",
+            "IFN619",
+            "IFN600"
+          ]
+        }
+      ],
+      "missing_prerequisites": [
+        "IFN600",
+        "IFN619",
+        "INN700"
+      ],
+      "completed_prerequisites": [],
+      "student_courses": [
+        "IFN701",
+        "IFN702",
+        "IFN703",
+        "IFN704",
+        "IFN709",
+        "IFN712"
+      ]
+    }
+  }
+}

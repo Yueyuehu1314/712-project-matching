@@ -1,0 +1,85 @@
+================================================================================
+项目-学生匹配报告
+================================================================================
+
+项目名称: IFN712 Project 13-1
+生成时间: 2025-10-03 15:57:50
+学生总数: 10
+
+================================================================================
+匹配统计
+================================================================================
+
+平均匹配分数: 0.799
+最高分数: 0.878
+最低分数: 0.678
+
+分数分布:
+  • 高匹配 (≥0.7): 9 人 (90.0%)
+  • 中匹配 (0.4-0.7): 1 人 (10.0%)
+  • 低匹配 (<0.4): 0 人 (0.0%)
+
+================================================================================
+Top 10 匹配学生
+================================================================================
+
+1. Jordan Davis (n06466472)
+   总分: 0.878 | 技能: 0.889 | 专业: 1.000 | 兴趣: 0.444
+   匹配技能: scikitlearn, machine learning, data analytics, python, cyber security
+   缺失技能: deep learning
+   学生专业: data analytics
+
+2. Peyton Brown (n03497884)
+   总分: 0.822 | 技能: 0.778 | 专业: 1.000 | 兴趣: 0.556
+   匹配技能: scikitlearn, machine learning, data analytics, python, cyber security
+   缺失技能: internet of things, deep learning
+   学生专业: data analytics with a concentration in computer science
+
+3. Alex Anderson (n08665949)
+   总分: 0.811 | 技能: 0.778 | 专业: 1.000 | 兴趣: 0.444
+   匹配技能: scikitlearn, machine learning, data analytics, python, cyber security
+   缺失技能: deep learning, artificial intelligence
+   学生专业: computer science
+
+4. Morgan Flores (n13093353)
+   总分: 0.811 | 技能: 0.778 | 专业: 1.000 | 兴趣: 0.444
+   匹配技能: scikitlearn, machine learning, data analytics, python, cyber security
+   缺失技能: internet of things, deep learning
+   学生专业: data analytics
+
+5. Harper Scott (n02418311)
+   总分: 0.811 | 技能: 0.778 | 专业: 1.000 | 兴趣: 0.444
+   匹配技能: scikitlearn, machine learning, data analytics, python, cyber security
+   缺失技能: internet of things, deep learning
+   学生专业: computer science specialization in cyber security
+
+6. Rowan Martin (n04358655)
+   总分: 0.811 | 技能: 0.778 | 专业: 1.000 | 兴趣: 0.444
+   匹配技能: scikitlearn, machine learning, data analytics, python, cyber security
+   缺失技能: internet of things, deep learning
+   学生专业: data analytics
+
+7. Taylor Martinez (n15162080)
+   总分: 0.811 | 技能: 0.778 | 专业: 1.000 | 兴趣: 0.444
+   匹配技能: scikitlearn, machine learning, data analytics, python, cyber security
+   缺失技能: internet of things, deep learning
+   学生专业: computer science with a minor in data analytics
+
+8. Taylor Wright (n12134948)
+   总分: 0.811 | 技能: 0.778 | 专业: 1.000 | 兴趣: 0.444
+   匹配技能: scikitlearn, machine learning, data analytics, python, cyber security
+   缺失技能: internet of things, deep learning
+   学生专业: data analytics and cyber security double major
+
+9. Drew Hernandez (n04541718)
+   总分: 0.744 | 技能: 0.667 | 专业: 1.000 | 兴趣: 0.444
+   匹配技能: scikitlearn, machine learning, data analytics, cyber security, artificial intelligence
+   缺失技能: python, deep learning, internet of things
+   学生专业: data analytics minor in computer science
+
+10. Rory Rodriguez (n08932659)
+   总分: 0.678 | 技能: 0.556 | 专业: 1.000 | 兴趣: 0.444
+   匹配技能: scikitlearn, machine learning, data analytics, cyber security, security
+   缺失技能: python, deep learning, internet of things, artificial intelligence
+   学生专业: computer science specialization in data analytics
+

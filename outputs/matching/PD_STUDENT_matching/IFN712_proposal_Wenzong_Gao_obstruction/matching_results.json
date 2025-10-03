@@ -1,0 +1,262 @@
+[
+  {
+    "student_id": "n10303522",
+    "student_name": "Cameron Miller",
+    "project_name": "IFN712_proposal_Wenzong_Gao_obstruction",
+    "match_score": 0.933,
+    "skill_match_score": 1.0,
+    "major_match_score": 1.0,
+    "interest_match_score": 0.333,
+    "matched_skills": [
+      "python",
+      "artificial intelligence",
+      "data analytics"
+    ],
+    "missing_skills": [],
+    "student_majors": [
+      "data analytics"
+    ],
+    "project_required_majors": [
+      "data analytics and computer science"
+    ],
+    "details": {
+      "student_total_skills": 26,
+      "project_required_skills": 3,
+      "student_courses": 8
+    }
+  },
+  {
+    "student_id": "n11998054",
+    "student_name": "Harper Thompson",
+    "project_name": "IFN712_proposal_Wenzong_Gao_obstruction",
+    "match_score": 0.933,
+    "skill_match_score": 1.0,
+    "major_match_score": 1.0,
+    "interest_match_score": 0.333,
+    "matched_skills": [
+      "python",
+      "artificial intelligence",
+      "data analytics"
+    ],
+    "missing_skills": [],
+    "student_majors": [
+      "data analytics"
+    ],
+    "project_required_majors": [
+      "data analytics and computer science"
+    ],
+    "details": {
+      "student_total_skills": 26,
+      "project_required_skills": 3,
+      "student_courses": 8
+    }
+  },
+  {
+    "student_id": "n13035893",
+    "student_name": "Taylor Hill",
+    "project_name": "IFN712_proposal_Wenzong_Gao_obstruction",
+    "match_score": 0.9,
+    "skill_match_score": 1.0,
+    "major_match_score": 1.0,
+    "interest_match_score": 0.0,
+    "matched_skills": [
+      "python",
+      "artificial intelligence",
+      "data analytics"
+    ],
+    "missing_skills": [],
+    "student_majors": [
+      "data analytics and computer science"
+    ],
+    "project_required_majors": [
+      "data analytics and computer science"
+    ],
+    "details": {
+      "student_total_skills": 26,
+      "project_required_skills": 3,
+      "student_courses": 8
+    }
+  },
+  {
+    "student_id": "n05927857",
+    "student_name": "Devon Johnson",
+    "project_name": "IFN712_proposal_Wenzong_Gao_obstruction",
+    "match_score": 0.9,
+    "skill_match_score": 1.0,
+    "major_match_score": 1.0,
+    "interest_match_score": 0.0,
+    "matched_skills": [
+      "python",
+      "artificial intelligence",
+      "data analytics"
+    ],
+    "missing_skills": [],
+    "student_majors": [
+      "data analytics and computer science"
+    ],
+    "project_required_majors": [
+      "data analytics and computer science"
+    ],
+    "details": {
+      "student_total_skills": 26,
+      "project_required_skills": 3,
+      "student_courses": 8
+    }
+  },
+  {
+    "student_id": "n01159145",
+    "student_name": "Rory Wilson",
+    "project_name": "IFN712_proposal_Wenzong_Gao_obstruction",
+    "match_score": 0.9,
+    "skill_match_score": 1.0,
+    "major_match_score": 1.0,
+    "interest_match_score": 0.0,
+    "matched_skills": [
+      "python",
+      "artificial intelligence",
+      "data analytics"
+    ],
+    "missing_skills": [],
+    "student_majors": [
+      "data analytics"
+    ],
+    "project_required_majors": [
+      "data analytics and computer science"
+    ],
+    "details": {
+      "student_total_skills": 26,
+      "project_required_skills": 3,
+      "student_courses": 8
+    }
+  },
+  {
+    "student_id": "n06976848",
+    "student_name": "Jordan Harris",
+    "project_name": "IFN712_proposal_Wenzong_Gao_obstruction",
+    "match_score": 0.9,
+    "skill_match_score": 1.0,
+    "major_match_score": 1.0,
+    "interest_match_score": 0.0,
+    "matched_skills": [
+      "python",
+      "artificial intelligence",
+      "data analytics"
+    ],
+    "missing_skills": [],
+    "student_majors": [
+      "data analytics"
+    ],
+    "project_required_majors": [
+      "data analytics and computer science"
+    ],
+    "details": {
+      "student_total_skills": 26,
+      "project_required_skills": 3,
+      "student_courses": 8
+    }
+  },
+  {
+    "student_id": "n01585387",
+    "student_name": "Blake Flores",
+    "project_name": "IFN712_proposal_Wenzong_Gao_obstruction",
+    "match_score": 0.6,
+    "skill_match_score": 1.0,
+    "major_match_score": 0.0,
+    "interest_match_score": 0.0,
+    "matched_skills": [
+      "python",
+      "artificial intelligence",
+      "data analytics"
+    ],
+    "missing_skills": [],
+    "student_majors": [
+      "data analytics with computer systems specialization"
+    ],
+    "project_required_majors": [
+      "data analytics and computer science"
+    ],
+    "details": {
+      "student_total_skills": 26,
+      "project_required_skills": 3,
+      "student_courses": 8
+    }
+  },
+  {
+    "student_id": "n06992661",
+    "student_name": "Blake Miller",
+    "project_name": "IFN712_proposal_Wenzong_Gao_obstruction",
+    "match_score": 0.6,
+    "skill_match_score": 1.0,
+    "major_match_score": 0.0,
+    "interest_match_score": 0.0,
+    "matched_skills": [
+      "python",
+      "artificial intelligence",
+      "data analytics"
+    ],
+    "missing_skills": [],
+    "student_majors": [
+      "data analytics with a minor in computer science"
+    ],
+    "project_required_majors": [
+      "data analytics and computer science"
+    ],
+    "details": {
+      "student_total_skills": 26,
+      "project_required_skills": 3,
+      "student_courses": 8
+    }
+  },
+  {
+    "student_id": "n07002401",
+    "student_name": "Sydney Nguyen",
+    "project_name": "IFN712_proposal_Wenzong_Gao_obstruction",
+    "match_score": 0.6,
+    "skill_match_score": 1.0,
+    "major_match_score": 0.0,
+    "interest_match_score": 0.0,
+    "matched_skills": [
+      "python",
+      "artificial intelligence",
+      "data analytics"
+    ],
+    "missing_skills": [],
+    "student_majors": [
+      "data analytics with a focus on computer systems"
+    ],
+    "project_required_majors": [
+      "data analytics and computer science"
+    ],
+    "details": {
+      "student_total_skills": 26,
+      "project_required_skills": 3,
+      "student_courses": 8
+    }
+  },
+  {
+    "student_id": "n00668490",
+    "student_name": "Jordan Scott",
+    "project_name": "IFN712_proposal_Wenzong_Gao_obstruction",
+    "match_score": 0.6,
+    "skill_match_score": 1.0,
+    "major_match_score": 0.0,
+    "interest_match_score": 0.0,
+    "matched_skills": [
+      "python",
+      "artificial intelligence",
+      "data analytics"
+    ],
+    "missing_skills": [],
+    "student_majors": [
+      "data analytics with a minor in computer science"
+    ],
+    "project_required_majors": [
+      "data analytics and computer science"
+    ],
+    "details": {
+      "student_total_skills": 26,
+      "project_required_skills": 3,
+      "student_courses": 8
+    }
+  }
+]

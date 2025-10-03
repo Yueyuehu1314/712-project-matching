@@ -1,0 +1,11 @@
+﻿Student ID,Student Name,Total Score,Skill Score,Major Score,Interest Score,Matched Skills,Missing Skills,Student Majors
+n13431626,Blake Chen,0.717,0.667,1.0,0.167,"data analytics, cyber security, python, react, pytorch","deep learning, cnn, artificial intelligence, lstm",software development
+n16212621,Morgan Allen,0.667,0.583,1.0,0.167,"data analytics, cyber security, python, react, security","lstm, pytorch, cnn, artificial intelligence, deep learning",software development
+n01087640,Casey Moore,0.65,0.583,1.0,0.0,"data analytics, cyber security, python, react, security","lstm, pytorch, cnn, artificial intelligence, deep learning",software development
+n10548652,Harper Garcia,0.65,0.583,1.0,0.0,"data analytics, cyber security, python, react, security","lstm, pytorch, cnn, artificial intelligence, deep learning",software development
+n02448239,Finley Lopez,0.65,0.583,1.0,0.0,"data analytics, cyber security, python, react, security","lstm, pytorch, cnn, artificial intelligence, deep learning",software development and computer engineering
+n13351390,River Lee,0.617,0.5,1.0,0.167,"data analytics, cyber security, python, react, security","lstm, pytorch, cnn, artificial intelligence, tensorflow",software development
+n10078927,Drew Torres,0.617,0.5,1.0,0.167,"data analytics, cyber security, python, react, security","lstm, pytorch, cnn, artificial intelligence, tensorflow",computer science
+n10825571,Rowan Scott,0.617,0.5,1.0,0.167,"data analytics, cyber security, python, react, security","lstm, pytorch, cnn, artificial intelligence, tensorflow",software development
+n15463920,Cameron Thompson,0.6,0.5,1.0,0.0,"cyber security, python, react, security, tensorflow","data analytics, lstm, pytorch, cnn, artificial intelligence",software development
+n03536839,Skylar Allen,0.35,0.583,0.0,0.0,"data analytics, cyber security, python, react, security","lstm, pytorch, cnn, artificial intelligence, deep learning",software engineering

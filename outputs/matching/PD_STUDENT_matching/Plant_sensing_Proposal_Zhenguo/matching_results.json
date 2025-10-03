@@ -1,0 +1,362 @@
+[
+  {
+    "student_id": "n15750559",
+    "student_name": "Devon Miller",
+    "project_name": "Plant_sensing_Proposal_Zhenguo",
+    "match_score": 0.827,
+    "skill_match_score": 0.818,
+    "major_match_score": 1.0,
+    "interest_match_score": 0.364,
+    "matched_skills": [
+      "scikitlearn",
+      "web development",
+      "machine learning",
+      "data analytics",
+      "python",
+      "cyber security",
+      "internet of things",
+      "security",
+      "tensorflow"
+    ],
+    "missing_skills": [
+      "deep learning",
+      "artificial intelligence"
+    ],
+    "student_majors": [
+      "software development"
+    ],
+    "project_required_majors": [
+      "software development",
+      "computer"
+    ],
+    "details": {
+      "student_total_skills": 23,
+      "project_required_skills": 11,
+      "student_courses": 8
+    }
+  },
+  {
+    "student_id": "n07590196",
+    "student_name": "Morgan Taylor",
+    "project_name": "Plant_sensing_Proposal_Zhenguo",
+    "match_score": 0.827,
+    "skill_match_score": 0.818,
+    "major_match_score": 1.0,
+    "interest_match_score": 0.364,
+    "matched_skills": [
+      "scikitlearn",
+      "web development",
+      "machine learning",
+      "data analytics",
+      "python",
+      "cyber security",
+      "internet of things",
+      "security",
+      "tensorflow"
+    ],
+    "missing_skills": [
+      "deep learning",
+      "artificial intelligence"
+    ],
+    "student_majors": [
+      "software development"
+    ],
+    "project_required_majors": [
+      "software development",
+      "computer"
+    ],
+    "details": {
+      "student_total_skills": 23,
+      "project_required_skills": 11,
+      "student_courses": 8
+    }
+  },
+  {
+    "student_id": "n07556855",
+    "student_name": "Blake Moore",
+    "project_name": "Plant_sensing_Proposal_Zhenguo",
+    "match_score": 0.818,
+    "skill_match_score": 0.818,
+    "major_match_score": 1.0,
+    "interest_match_score": 0.273,
+    "matched_skills": [
+      "scikitlearn",
+      "web development",
+      "machine learning",
+      "data analytics",
+      "python",
+      "cyber security",
+      "internet of things",
+      "security",
+      "tensorflow"
+    ],
+    "missing_skills": [
+      "deep learning",
+      "artificial intelligence"
+    ],
+    "student_majors": [
+      "computer systems"
+    ],
+    "project_required_majors": [
+      "software development",
+      "computer"
+    ],
+    "details": {
+      "student_total_skills": 22,
+      "project_required_skills": 11,
+      "student_courses": 8
+    }
+  },
+  {
+    "student_id": "n04106989",
+    "student_name": "Jordan Wright",
+    "project_name": "Plant_sensing_Proposal_Zhenguo",
+    "match_score": 0.782,
+    "skill_match_score": 0.727,
+    "major_match_score": 1.0,
+    "interest_match_score": 0.455,
+    "matched_skills": [
+      "scikitlearn",
+      "web development",
+      "machine learning",
+      "data analytics",
+      "python",
+      "cyber security",
+      "security",
+      "tensorflow"
+    ],
+    "missing_skills": [
+      "internet of things",
+      "deep learning",
+      "artificial intelligence"
+    ],
+    "student_majors": [
+      "software development and cyber security"
+    ],
+    "project_required_majors": [
+      "software development",
+      "computer"
+    ],
+    "details": {
+      "student_total_skills": 23,
+      "project_required_skills": 11,
+      "student_courses": 8
+    }
+  },
+  {
+    "student_id": "n06988417",
+    "student_name": "Peyton Moore",
+    "project_name": "Plant_sensing_Proposal_Zhenguo",
+    "match_score": 0.764,
+    "skill_match_score": 0.727,
+    "major_match_score": 1.0,
+    "interest_match_score": 0.273,
+    "matched_skills": [
+      "web development",
+      "machine learning",
+      "data analytics",
+      "python",
+      "cyber security",
+      "internet of things",
+      "security",
+      "tensorflow"
+    ],
+    "missing_skills": [
+      "deep learning",
+      "scikitlearn",
+      "artificial intelligence"
+    ],
+    "student_majors": [
+      "computer science"
+    ],
+    "project_required_majors": [
+      "software development",
+      "computer"
+    ],
+    "details": {
+      "student_total_skills": 25,
+      "project_required_skills": 11,
+      "student_courses": 8
+    }
+  },
+  {
+    "student_id": "n16774452",
+    "student_name": "Sage King",
+    "project_name": "Plant_sensing_Proposal_Zhenguo",
+    "match_score": 0.755,
+    "skill_match_score": 0.727,
+    "major_match_score": 1.0,
+    "interest_match_score": 0.182,
+    "matched_skills": [
+      "web development",
+      "machine learning",
+      "data analytics",
+      "python",
+      "cyber security",
+      "internet of things",
+      "security",
+      "tensorflow"
+    ],
+    "missing_skills": [
+      "deep learning",
+      "scikitlearn",
+      "artificial intelligence"
+    ],
+    "student_majors": [
+      "software development"
+    ],
+    "project_required_majors": [
+      "software development",
+      "computer"
+    ],
+    "details": {
+      "student_total_skills": 23,
+      "project_required_skills": 11,
+      "student_courses": 8
+    }
+  },
+  {
+    "student_id": "n09544816",
+    "student_name": "Kendall Moore",
+    "project_name": "Plant_sensing_Proposal_Zhenguo",
+    "match_score": 0.718,
+    "skill_match_score": 0.636,
+    "major_match_score": 1.0,
+    "interest_match_score": 0.364,
+    "matched_skills": [
+      "scikitlearn",
+      "web development",
+      "machine learning",
+      "python",
+      "cyber security",
+      "security",
+      "tensorflow"
+    ],
+    "missing_skills": [
+      "internet of things",
+      "deep learning",
+      "artificial intelligence",
+      "data analytics"
+    ],
+    "student_majors": [
+      "software development"
+    ],
+    "project_required_majors": [
+      "software development",
+      "computer"
+    ],
+    "details": {
+      "student_total_skills": 25,
+      "project_required_skills": 11,
+      "student_courses": 8
+    }
+  },
+  {
+    "student_id": "n04909199",
+    "student_name": "Rory Miller",
+    "project_name": "Plant_sensing_Proposal_Zhenguo",
+    "match_score": 0.691,
+    "skill_match_score": 0.636,
+    "major_match_score": 1.0,
+    "interest_match_score": 0.091,
+    "matched_skills": [
+      "scikitlearn",
+      "web development",
+      "machine learning",
+      "python",
+      "cyber security",
+      "security",
+      "tensorflow"
+    ],
+    "missing_skills": [
+      "internet of things",
+      "deep learning",
+      "artificial intelligence",
+      "data analytics"
+    ],
+    "student_majors": [
+      "software development"
+    ],
+    "project_required_majors": [
+      "software development",
+      "computer"
+    ],
+    "details": {
+      "student_total_skills": 23,
+      "project_required_skills": 11,
+      "student_courses": 8
+    }
+  },
+  {
+    "student_id": "n03869948",
+    "student_name": "Taylor Rodriguez",
+    "project_name": "Plant_sensing_Proposal_Zhenguo",
+    "match_score": 0.664,
+    "skill_match_score": 0.545,
+    "major_match_score": 1.0,
+    "interest_match_score": 0.364,
+    "matched_skills": [
+      "web development",
+      "machine learning",
+      "data analytics",
+      "python",
+      "cyber security",
+      "security"
+    ],
+    "missing_skills": [
+      "scikitlearn",
+      "internet of things",
+      "artificial intelligence",
+      "tensorflow",
+      "deep learning"
+    ],
+    "student_majors": [
+      "software development"
+    ],
+    "project_required_majors": [
+      "software development",
+      "computer"
+    ],
+    "details": {
+      "student_total_skills": 25,
+      "project_required_skills": 11,
+      "student_courses": 8
+    }
+  },
+  {
+    "student_id": "n02481839",
+    "student_name": "Madison Jones",
+    "project_name": "Plant_sensing_Proposal_Zhenguo",
+    "match_score": 0.418,
+    "skill_match_score": 0.636,
+    "major_match_score": 0.0,
+    "interest_match_score": 0.364,
+    "matched_skills": [
+      "scikitlearn",
+      "web development",
+      "machine learning",
+      "data analytics",
+      "python",
+      "cyber security",
+      "security"
+    ],
+    "missing_skills": [
+      "internet of things",
+      "deep learning",
+      "artificial intelligence",
+      "tensorflow"
+    ],
+    "student_majors": [
+      "software engineering"
+    ],
+    "project_required_majors": [
+      "software development",
+      "computer"
+    ],
+    "details": {
+      "student_total_skills": 23,
+      "project_required_skills": 11,
+      "student_courses": 8
+    }
+  }
+]

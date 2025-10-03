@@ -1,0 +1,11 @@
+﻿Student ID,Student Name,Total Score,Skill Score,Major Score,Interest Score,Matched Skills,Missing Skills,Student Majors
+n01803983,Blake Allen,0.7,0.615,1.0,0.308,"data analytics, cyber security, csi, signal processing, security","internet of things, pytorch, artificial intelligence, deep learning, gan",software development with a focus on computer systems
+n08259368,Casey Garcia,0.662,0.538,1.0,0.385,"data analytics, cyber security, csi, security, tensorflow","internet of things, pytorch, artificial intelligence, deep learning, signal processing",software development
+n04837386,Blake White,0.662,0.538,1.0,0.385,"data analytics, cyber security, csi, security, tensorflow","internet of things, pytorch, artificial intelligence, deep learning, signal processing",software development and computer systems
+n10858028,Harper Smith,0.662,0.538,1.0,0.385,"data analytics, cyber security, csi, security, tensorflow","internet of things, pytorch, artificial intelligence, deep learning, signal processing",software development
+n08031750,Drew Hill,0.654,0.538,1.0,0.308,"data analytics, cyber security, csi, security, tensorflow","internet of things, pytorch, artificial intelligence, deep learning, signal processing",software development
+n12638212,Riley Young,0.615,0.462,1.0,0.385,"data analytics, cyber security, security, tensorflow, wifi","internet of things, csi, pytorch, artificial intelligence, deep learning",software development with a minor in computer science
+n12562489,Drew Allen,0.608,0.462,1.0,0.308,"data analytics, cyber security, security, tensorflow, wifi","internet of things, csi, pytorch, artificial intelligence, deep learning",software engineering with a focus on computer systems
+n04539845,Jordan Wright,0.608,0.462,1.0,0.308,"data analytics, cyber security, security, tensorflow, wifi","internet of things, csi, pytorch, artificial intelligence, deep learning",software development
+n15315806,Logan Rodriguez,0.6,0.462,1.0,0.231,"data analytics, cyber security, security, tensorflow, wifi","internet of things, csi, pytorch, artificial intelligence, deep learning",software development
+n05856469,Parker Taylor,0.569,0.385,1.0,0.385,"cyber security, security, tensorflow, wifi, networking","data analytics, internet of things, csi, pytorch, artificial intelligence",software development and computer science

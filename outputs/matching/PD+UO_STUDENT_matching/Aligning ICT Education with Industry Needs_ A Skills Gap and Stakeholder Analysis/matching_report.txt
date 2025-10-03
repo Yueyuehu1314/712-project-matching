@@ -1,0 +1,297 @@
+项目匹配报告
+================================================================================
+项目名称: Aligning ICT Education with Industry Needs_ A Skills Gap and Stakeholder Analysis
+匹配学生数: 200
+生成时间: 2025-10-03 16:19:47
+
+匹配权重配置:
+  - 技能匹配: 50.0%
+  - 专业匹配: 20.0%
+  - 课程匹配: 20.0%
+  - 兴趣匹配: 10.0%
+
+================================================================================
+
+Top 20 匹配学生:
+--------------------------------------------------------------------------------
+
+排名 #1
+学生: Finley Martinez (n07744472)
+综合得分: 0.266
+  - 技能得分: 0.063
+  - 专业得分: 1.000
+  - 课程得分: 0.045
+  - 兴趣得分: 0.250
+匹配详情:
+  - 匹配技能 (1): programming
+  - 匹配课程 (5): IFN552, IFN555, IFN554, IFN551, IFN623
+  - 匹配兴趣: data storytelling and visualization, bridging education industry gaps in ict
+
+--------------------------------------------------------------------------------
+
+排名 #2
+学生: Skylar Miller (n04565156)
+综合得分: 0.257
+  - 技能得分: 0.063
+  - 专业得分: 1.000
+  - 课程得分: 0.045
+  - 兴趣得分: 0.167
+匹配详情:
+  - 匹配技能 (1): programming
+  - 匹配课程 (5): IFN552, IFN555, IFN554, IFN551, IFN623
+  - 匹配兴趣: bridging education industry gaps in technology, data visualization and analytics, professional development in ict, cybersecurity policy and ethics
+
+--------------------------------------------------------------------------------
+
+排名 #3
+学生: Sage Chen (n00153538)
+综合得分: 0.257
+  - 技能得分: 0.063
+  - 专业得分: 1.000
+  - 课程得分: 0.045
+  - 兴趣得分: 0.167
+匹配详情:
+  - 匹配技能 (1): programming
+  - 匹配课程 (5): IFN552, IFN555, IFN554, IFN551, IFN623
+  - 匹配兴趣: industry education collaboration
+
+--------------------------------------------------------------------------------
+
+排名 #4
+学生: Peyton Moore (n09948799)
+综合得分: 0.257
+  - 技能得分: 0.063
+  - 专业得分: 1.000
+  - 课程得分: 0.045
+  - 兴趣得分: 0.167
+匹配详情:
+  - 匹配技能 (1): programming
+  - 匹配课程 (5): IFN552, IFN555, IFN554, IFN551, IFN623
+  - 匹配兴趣: attending tech conferences and hackathons, data visualization and storytelling with tableau, industry 4 0 technologies and digital transformation
+
+--------------------------------------------------------------------------------
+
+排名 #5
+学生: Emery Nguyen (n06841239)
+综合得分: 0.249
+  - 技能得分: 0.063
+  - 专业得分: 1.000
+  - 课程得分: 0.045
+  - 兴趣得分: 0.083
+匹配详情:
+  - 匹配技能 (1): programming
+  - 匹配课程 (5): IFN552, IFN555, IFN554, IFN551, IFN623
+  - 匹配兴趣: ethical hacking and penetration testing, data science and predictive analytics
+
+--------------------------------------------------------------------------------
+
+排名 #6
+学生: Alex Jones (n04868510)
+综合得分: 0.249
+  - 技能得分: 0.063
+  - 专业得分: 1.000
+  - 课程得分: 0.045
+  - 兴趣得分: 0.083
+匹配详情:
+  - 匹配技能 (1): programming
+  - 匹配课程 (5): IFN552, IFN555, IFN554, IFN551, IFN623
+  - 匹配兴趣: data storytelling and visualization, digital transformation in education, industry academia collaboration, ethical hacking and cyber resilience
+
+--------------------------------------------------------------------------------
+
+排名 #7
+学生: Avery Thompson (n07817504)
+综合得分: 0.249
+  - 技能得分: 0.063
+  - 专业得分: 1.000
+  - 课程得分: 0.045
+  - 兴趣得分: 0.083
+匹配详情:
+  - 匹配技能 (1): programming
+  - 匹配课程 (5): IFN552, IFN555, IFN554, IFN551, IFN623
+  - 匹配兴趣: data analytics and visualization, digital transformation in education, emerging technologies in ai and blockchain
+
+--------------------------------------------------------------------------------
+
+排名 #8
+学生: Peyton Williams (n00195692)
+综合得分: 0.217
+  - 技能得分: 0.336
+  - 专业得分: 0.160
+  - 课程得分: 0.045
+  - 兴趣得分: 0.083
+匹配详情:
+  - 匹配技能 (5): machine learning, mobile development, web development, programming, networking
+  - 匹配课程 (5): IFN564, IFN553, IFN555, IFN554, IFN623
+  - 匹配兴趣: ethical hacking and penetration testing
+
+--------------------------------------------------------------------------------
+
+排名 #9
+学生: Morgan Torres (n15715574)
+综合得分: 0.212
+  - 技能得分: 0.210
+  - 专业得分: 0.400
+  - 课程得分: 0.055
+  - 兴趣得分: 0.167
+匹配详情:
+  - 匹配技能 (3): machine learning, web development, programming
+  - 匹配课程 (6): IFN564, IFN551, IFN556, IFN555, IFN554, IFN552
+  - 匹配兴趣: industry research and surveys
+
+--------------------------------------------------------------------------------
+
+排名 #10
+学生: Reese Jones (n08042935)
+综合得分: 0.212
+  - 技能得分: 0.210
+  - 专业得分: 0.400
+  - 课程得分: 0.055
+  - 兴趣得分: 0.167
+匹配详情:
+  - 匹配技能 (3): machine learning, web development, programming
+  - 匹配课程 (6): IFN564, IFN551, IFN556, IFN555, IFN554, IFN552
+  - 匹配兴趣: industry 4 0 and smart infrastructure, web development and user experience design
+
+--------------------------------------------------------------------------------
+
+排名 #11
+学生: Reese Brown (n03009760)
+综合得分: 0.212
+  - 技能得分: 0.210
+  - 专业得分: 0.400
+  - 课程得分: 0.055
+  - 兴趣得分: 0.167
+匹配详情:
+  - 匹配技能 (3): machine learning, web development, programming
+  - 匹配课程 (6): IFN564, IFN551, IFN556, IFN555, IFN554, IFN552
+  - 匹配兴趣: web development and ux design, industry research and professional networking, data science and machine learning, hiking and outdoor photography
+
+--------------------------------------------------------------------------------
+
+排名 #12
+学生: Harper Rodriguez (n04003748)
+综合得分: 0.211
+  - 技能得分: 0.210
+  - 专业得分: 0.400
+  - 课程得分: 0.045
+  - 兴趣得分: 0.167
+匹配详情:
+  - 匹配技能 (3): machine learning, web development, programming
+  - 匹配课程 (5): IFN552, IFN564, IFN555, IFN554, IFN551
+  - 匹配兴趣: industry 4 0 and smart technologies, ai ethics and workforce readiness
+
+--------------------------------------------------------------------------------
+
+排名 #13
+学生: Reagan Chen (n05891550)
+综合得分: 0.204
+  - 技能得分: 0.210
+  - 专业得分: 0.400
+  - 课程得分: 0.055
+  - 兴趣得分: 0.083
+匹配详情:
+  - 匹配技能 (3): machine learning, web development, programming
+  - 匹配课程 (6): IFN564, IFN551, IFN556, IFN555, IFN554, IFN552
+  - 匹配兴趣: cross industry collaboration
+
+--------------------------------------------------------------------------------
+
+排名 #14
+学生: Taylor Torres (n07213892)
+综合得分: 0.204
+  - 技能得分: 0.210
+  - 专业得分: 0.400
+  - 课程得分: 0.055
+  - 兴趣得分: 0.083
+匹配详情:
+  - 匹配技能 (3): machine learning, web development, programming
+  - 匹配课程 (6): IFN564, IFN551, IFN556, IFN555, IFN554, IFN552
+  - 匹配兴趣: data analytics and visualization, machine learning applications in industry
+
+--------------------------------------------------------------------------------
+
+排名 #15
+学生: Hayden Scott (n13650218)
+综合得分: 0.204
+  - 技能得分: 0.210
+  - 专业得分: 0.400
+  - 课程得分: 0.055
+  - 兴趣得分: 0.083
+匹配详情:
+  - 匹配技能 (3): machine learning, web development, programming
+  - 匹配课程 (6): IFN564, IFN551, IFN556, IFN555, IFN554, IFN552
+  - 匹配兴趣: machine learning in industry
+
+--------------------------------------------------------------------------------
+
+排名 #16
+学生: Skylar Young (n01092625)
+综合得分: 0.204
+  - 技能得分: 0.210
+  - 专业得分: 0.400
+  - 课程得分: 0.055
+  - 兴趣得分: 0.083
+匹配详情:
+  - 匹配技能 (3): machine learning, web development, programming
+  - 匹配课程 (6): IFN564, IFN551, IFN556, IFN555, IFN554, IFN552
+  - 匹配兴趣: cross industry it integration
+
+--------------------------------------------------------------------------------
+
+排名 #17
+学生: Hayden Moore (n09492178)
+综合得分: 0.204
+  - 技能得分: 0.210
+  - 专业得分: 0.400
+  - 课程得分: 0.055
+  - 兴趣得分: 0.083
+匹配详情:
+  - 匹配技能 (3): machine learning, web development, programming
+  - 匹配课程 (6): IFN564, IFN551, IFN556, IFN555, IFN554, IFN552
+  - 匹配兴趣: data analytics and visualization, machine learning in industry applications, business strategy and operations
+
+--------------------------------------------------------------------------------
+
+排名 #18
+学生: Rowan Moore (n15737619)
+综合得分: 0.204
+  - 技能得分: 0.210
+  - 专业得分: 0.400
+  - 课程得分: 0.055
+  - 兴趣得分: 0.083
+匹配详情:
+  - 匹配技能 (3): machine learning, web development, programming
+  - 匹配课程 (6): IFN564, IFN551, IFN556, IFN555, IFN554, IFN552
+  - 匹配兴趣: machine learning applications in industry
+
+--------------------------------------------------------------------------------
+
+排名 #19
+学生: Jordan Wright (n04539845)
+综合得分: 0.190
+  - 技能得分: 0.261
+  - 专业得分: 0.200
+  - 课程得分: 0.055
+  - 兴趣得分: 0.083
+匹配详情:
+  - 匹配技能 (4): machine learning, web development, programming, networking
+  - 匹配课程 (6): IFN564, IFN556, IFN555, IFN563, IFN552, IFN551
+  - 匹配兴趣: medical imaging analysis
+
+--------------------------------------------------------------------------------
+
+排名 #20
+学生: Morgan Lee (n07927421)
+综合得分: 0.185
+  - 技能得分: 0.336
+  - 专业得分: 0.000
+  - 课程得分: 0.045
+  - 兴趣得分: 0.083
+匹配详情:
+  - 匹配技能 (5): machine learning, mobile development, web development, programming, networking
+  - 匹配课程 (5): IFN564, IFN553, IFN555, IFN554, IFN623
+  - 匹配兴趣: biometric data analysis
+
+--------------------------------------------------------------------------------
+

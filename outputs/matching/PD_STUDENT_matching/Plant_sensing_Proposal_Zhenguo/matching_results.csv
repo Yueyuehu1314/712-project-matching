@@ -1,0 +1,11 @@
+﻿Student ID,Student Name,Total Score,Skill Score,Major Score,Interest Score,Matched Skills,Missing Skills,Student Majors
+n15750559,Devon Miller,0.827,0.818,1.0,0.364,"scikitlearn, web development, machine learning, data analytics, python","deep learning, artificial intelligence",software development
+n07590196,Morgan Taylor,0.827,0.818,1.0,0.364,"scikitlearn, web development, machine learning, data analytics, python","deep learning, artificial intelligence",software development
+n07556855,Blake Moore,0.818,0.818,1.0,0.273,"scikitlearn, web development, machine learning, data analytics, python","deep learning, artificial intelligence",computer systems
+n04106989,Jordan Wright,0.782,0.727,1.0,0.455,"scikitlearn, web development, machine learning, data analytics, python","internet of things, deep learning, artificial intelligence",software development and cyber security
+n06988417,Peyton Moore,0.764,0.727,1.0,0.273,"web development, machine learning, data analytics, python, cyber security","deep learning, scikitlearn, artificial intelligence",computer science
+n16774452,Sage King,0.755,0.727,1.0,0.182,"web development, machine learning, data analytics, python, cyber security","deep learning, scikitlearn, artificial intelligence",software development
+n09544816,Kendall Moore,0.718,0.636,1.0,0.364,"scikitlearn, web development, machine learning, python, cyber security","internet of things, deep learning, artificial intelligence, data analytics",software development
+n04909199,Rory Miller,0.691,0.636,1.0,0.091,"scikitlearn, web development, machine learning, python, cyber security","internet of things, deep learning, artificial intelligence, data analytics",software development
+n03869948,Taylor Rodriguez,0.664,0.545,1.0,0.364,"web development, machine learning, data analytics, python, cyber security","scikitlearn, internet of things, artificial intelligence, tensorflow, deep learning",software development
+n02481839,Madison Jones,0.418,0.636,0.0,0.364,"scikitlearn, web development, machine learning, data analytics, python","internet of things, deep learning, artificial intelligence, tensorflow",software engineering

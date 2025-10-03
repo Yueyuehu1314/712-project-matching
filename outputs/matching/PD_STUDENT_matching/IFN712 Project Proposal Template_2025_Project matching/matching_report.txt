@@ -1,0 +1,85 @@
+================================================================================
+项目-学生匹配报告
+================================================================================
+
+项目名称: IFN712 Project Proposal Template_2025_Project matching
+生成时间: 2025-10-03 15:57:50
+学生总数: 10
+
+================================================================================
+匹配统计
+================================================================================
+
+平均匹配分数: 0.630
+最高分数: 0.633
+最低分数: 0.617
+
+分数分布:
+  • 高匹配 (≥0.7): 0 人 (0.0%)
+  • 中匹配 (0.4-0.7): 10 人 (100.0%)
+  • 低匹配 (<0.4): 0 人 (0.0%)
+
+================================================================================
+Top 10 匹配学生
+================================================================================
+
+1. Skylar Williams (n05399136)
+   总分: 0.633 | 技能: 0.500 | 专业: 1.000 | 兴趣: 0.333
+   匹配技能: data analytics, react, security
+   缺失技能: artificial intelligence, gan, nlp
+   学生专业: software development
+
+2. Hayden Lopez (n08416091)
+   总分: 0.633 | 技能: 0.500 | 专业: 1.000 | 兴趣: 0.333
+   匹配技能: data analytics, react, security
+   缺失技能: artificial intelligence, gan, nlp
+   学生专业: software development
+
+3. River Garcia (n10531344)
+   总分: 0.633 | 技能: 0.500 | 专业: 1.000 | 兴趣: 0.333
+   匹配技能: data analytics, react, security
+   缺失技能: artificial intelligence, gan, nlp
+   学生专业: software development
+
+4. Tyler Thompson (n03962866)
+   总分: 0.633 | 技能: 0.500 | 专业: 1.000 | 兴趣: 0.333
+   匹配技能: data analytics, react, security
+   缺失技能: artificial intelligence, gan, nlp
+   学生专业: software development
+
+5. Rowan Thompson (n03186319)
+   总分: 0.633 | 技能: 0.500 | 专业: 1.000 | 兴趣: 0.333
+   匹配技能: data analytics, react, security
+   缺失技能: artificial intelligence, gan, nlp
+   学生专业: software development
+
+6. Madison Hernandez (n09324256)
+   总分: 0.633 | 技能: 0.500 | 专业: 1.000 | 兴趣: 0.333
+   匹配技能: data analytics, react, security
+   缺失技能: artificial intelligence, gan, nlp
+   学生专业: computer science and software engineering
+
+7. Riley Johnson (n14689252)
+   总分: 0.633 | 技能: 0.500 | 专业: 1.000 | 兴趣: 0.333
+   匹配技能: data analytics, react, security
+   缺失技能: artificial intelligence, gan, nlp
+   学生专业: software development
+
+8. Phoenix Martinez (n00408694)
+   总分: 0.633 | 技能: 0.500 | 专业: 1.000 | 兴趣: 0.333
+   匹配技能: data analytics, react, security
+   缺失技能: artificial intelligence, gan, nlp
+   学生专业: software development
+
+9. Devon Taylor (n14963558)
+   总分: 0.617 | 技能: 0.500 | 专业: 1.000 | 兴趣: 0.167
+   匹配技能: data analytics, react, security
+   缺失技能: artificial intelligence, gan, nlp
+   学生专业: software development
+
+10. Reese Lee (n09133119)
+   总分: 0.617 | 技能: 0.500 | 专业: 1.000 | 兴趣: 0.167
+   匹配技能: data analytics, react, security
+   缺失技能: artificial intelligence, gan, nlp
+   学生专业: software development
+

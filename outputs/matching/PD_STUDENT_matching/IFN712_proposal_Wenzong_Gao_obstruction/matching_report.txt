@@ -1,0 +1,85 @@
+================================================================================
+项目-学生匹配报告
+================================================================================
+
+项目名称: IFN712_proposal_Wenzong_Gao_obstruction
+生成时间: 2025-10-03 15:57:50
+学生总数: 10
+
+================================================================================
+匹配统计
+================================================================================
+
+平均匹配分数: 0.787
+最高分数: 0.933
+最低分数: 0.600
+
+分数分布:
+  • 高匹配 (≥0.7): 6 人 (60.0%)
+  • 中匹配 (0.4-0.7): 4 人 (40.0%)
+  • 低匹配 (<0.4): 0 人 (0.0%)
+
+================================================================================
+Top 10 匹配学生
+================================================================================
+
+1. Cameron Miller (n10303522)
+   总分: 0.933 | 技能: 1.000 | 专业: 1.000 | 兴趣: 0.333
+   匹配技能: python, artificial intelligence, data analytics
+   缺失技能: 
+   学生专业: data analytics
+
+2. Harper Thompson (n11998054)
+   总分: 0.933 | 技能: 1.000 | 专业: 1.000 | 兴趣: 0.333
+   匹配技能: python, artificial intelligence, data analytics
+   缺失技能: 
+   学生专业: data analytics
+
+3. Taylor Hill (n13035893)
+   总分: 0.900 | 技能: 1.000 | 专业: 1.000 | 兴趣: 0.000
+   匹配技能: python, artificial intelligence, data analytics
+   缺失技能: 
+   学生专业: data analytics and computer science
+
+4. Devon Johnson (n05927857)
+   总分: 0.900 | 技能: 1.000 | 专业: 1.000 | 兴趣: 0.000
+   匹配技能: python, artificial intelligence, data analytics
+   缺失技能: 
+   学生专业: data analytics and computer science
+
+5. Rory Wilson (n01159145)
+   总分: 0.900 | 技能: 1.000 | 专业: 1.000 | 兴趣: 0.000
+   匹配技能: python, artificial intelligence, data analytics
+   缺失技能: 
+   学生专业: data analytics
+
+6. Jordan Harris (n06976848)
+   总分: 0.900 | 技能: 1.000 | 专业: 1.000 | 兴趣: 0.000
+   匹配技能: python, artificial intelligence, data analytics
+   缺失技能: 
+   学生专业: data analytics
+
+7. Blake Flores (n01585387)
+   总分: 0.600 | 技能: 1.000 | 专业: 0.000 | 兴趣: 0.000
+   匹配技能: python, artificial intelligence, data analytics
+   缺失技能: 
+   学生专业: data analytics with computer systems specialization
+
+8. Blake Miller (n06992661)
+   总分: 0.600 | 技能: 1.000 | 专业: 0.000 | 兴趣: 0.000
+   匹配技能: python, artificial intelligence, data analytics
+   缺失技能: 
+   学生专业: data analytics with a minor in computer science
+
+9. Sydney Nguyen (n07002401)
+   总分: 0.600 | 技能: 1.000 | 专业: 0.000 | 兴趣: 0.000
+   匹配技能: python, artificial intelligence, data analytics
+   缺失技能: 
+   学生专业: data analytics with a focus on computer systems
+
+10. Jordan Scott (n00668490)
+   总分: 0.600 | 技能: 1.000 | 专业: 0.000 | 兴趣: 0.000
+   匹配技能: python, artificial intelligence, data analytics
+   缺失技能: 
+   学生专业: data analytics with a minor in computer science
+

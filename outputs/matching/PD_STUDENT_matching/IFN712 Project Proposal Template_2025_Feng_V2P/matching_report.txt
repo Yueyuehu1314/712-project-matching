@@ -1,0 +1,85 @@
+================================================================================
+项目-学生匹配报告
+================================================================================
+
+项目名称: IFN712 Project Proposal Template_2025_Feng_V2P
+生成时间: 2025-10-03 15:57:50
+学生总数: 10
+
+================================================================================
+匹配统计
+================================================================================
+
+平均匹配分数: 0.631
+最高分数: 0.725
+最低分数: 0.583
+
+分数分布:
+  • 高匹配 (≥0.7): 1 人 (10.0%)
+  • 中匹配 (0.4-0.7): 9 人 (90.0%)
+  • 低匹配 (<0.4): 0 人 (0.0%)
+
+================================================================================
+Top 10 匹配学生
+================================================================================
+
+1. Rowan Moore (n10995912)
+   总分: 0.725 | 技能: 0.667 | 专业: 1.000 | 兴趣: 0.250
+   匹配技能: azure, cyber security, data analytics, python, nodejs
+   缺失技能: internet of things, gcp, artificial intelligence, mobile app
+   学生专业: software development
+
+2. Devon Johnson (n14494432)
+   总分: 0.633 | 技能: 0.500 | 专业: 1.000 | 兴趣: 0.333
+   匹配技能: cyber security, data analytics, python, nodejs, database
+   缺失技能: azure, gcp, internet of things, mobile app, artificial intelligence
+   学生专业: software development
+
+3. Skylar Williams (n08267843)
+   总分: 0.625 | 技能: 0.500 | 专业: 1.000 | 兴趣: 0.250
+   匹配技能: cyber security, data analytics, python, nodejs, database
+   缺失技能: azure, gcp, internet of things, mobile app, artificial intelligence
+   学生专业: software development
+
+4. Rory Wright (n15914596)
+   总分: 0.625 | 技能: 0.500 | 专业: 1.000 | 兴趣: 0.250
+   匹配技能: cyber security, data analytics, python, nodejs, database
+   缺失技能: azure, gcp, internet of things, mobile app, artificial intelligence
+   学生专业: software development
+
+5. Avery Brown (n06136847)
+   总分: 0.625 | 技能: 0.500 | 专业: 1.000 | 兴趣: 0.250
+   匹配技能: cyber security, data analytics, python, nodejs, database
+   缺失技能: azure, gcp, internet of things, mobile app, artificial intelligence
+   学生专业: software development
+
+6. Rowan Lee (n03583544)
+   总分: 0.625 | 技能: 0.500 | 专业: 1.000 | 兴趣: 0.250
+   匹配技能: cyber security, data analytics, python, nodejs, database
+   缺失技能: azure, gcp, internet of things, mobile app, artificial intelligence
+   学生专业: software development
+
+7. Harper Garcia (n01368381)
+   总分: 0.625 | 技能: 0.500 | 专业: 1.000 | 兴趣: 0.250
+   匹配技能: cyber security, data analytics, python, nodejs, database
+   缺失技能: azure, gcp, internet of things, mobile app, artificial intelligence
+   学生专业: software development
+
+8. Madison Jackson (n03507662)
+   总分: 0.625 | 技能: 0.500 | 专业: 1.000 | 兴趣: 0.250
+   匹配技能: cyber security, data analytics, python, nodejs, database
+   缺失技能: azure, gcp, internet of things, mobile app, artificial intelligence
+   学生专业: software development
+
+9. Devon Lee (n14421494)
+   总分: 0.617 | 技能: 0.500 | 专业: 1.000 | 兴趣: 0.167
+   匹配技能: cyber security, data analytics, python, nodejs, database
+   缺失技能: azure, gcp, internet of things, mobile app, artificial intelligence
+   学生专业: software development
+
+10. Logan Miller (n05009103)
+   总分: 0.583 | 技能: 0.417 | 专业: 1.000 | 兴趣: 0.333
+   匹配技能: cyber security, data analytics, python, database, security
+   缺失技能: azure, gcp, internet of things, mobile app, nodejs
+   学生专业: software development
+

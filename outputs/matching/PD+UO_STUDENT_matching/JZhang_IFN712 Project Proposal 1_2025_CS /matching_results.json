@@ -1,0 +1,6700 @@
+{
+  "project": "JZhang_IFN712 Project Proposal 1_2025_CS ",
+  "total_students": 200,
+  "generated_at": "2025-10-03T16:19:47.636937",
+  "matching_method": "KG_Enhanced",
+  "weights": {
+    "skill": 0.5,
+    "major": 0.2,
+    "course": 0.2,
+    "interest": 0.1
+  },
+  "matches": [
+    {
+      "student_id": "n00195692",
+      "student_name": "Peyton Williams",
+      "project_name": "JZhang_IFN712 Project Proposal 1_2025_CS ",
+      "total_score": 0.2856800563777308,
+      "skill_score": 0.4465116279069768,
+      "major_score": 0.26666666666666666,
+      "course_score": 0.045454545454545456,
+      "interest_score": 0.0,
+      "matched_skills": [
+        "machine learning",
+        "mobile development",
+        "web development",
+        "programming",
+        "networking"
+      ],
+      "matched_courses": [
+        "IFN564",
+        "IFN553",
+        "IFN555",
+        "IFN554",
+        "IFN623"
+      ],
+      "matched_interests": [],
+      "details": {
+        "student_major": "Software Development and Computer Science",
+        "project_majors": [
+          "computer science and data science other majors are also fine"
+        ],
+        "student_skill_count": 22,
+        "project_skill_count": 9,
+        "student_course_count": 8,
+        "project_unit_count": 108
+      }
+    },
+    {
+      "student_id": "n04539845",
+      "student_name": "Jordan Wright",
+      "project_name": "JZhang_IFN712 Project Proposal 1_2025_CS ",
+      "total_score": 0.28236903922950435,
+      "skill_score": 0.40069767441860465,
+      "major_score": 0.35555555555555557,
+      "course_score": 0.05454545454545454,
+      "interest_score": 0.0,
+      "matched_skills": [
+        "machine learning",
+        "web development",
+        "programming",
+        "networking"
+      ],
+      "matched_courses": [
+        "IFN564",
+        "IFN556",
+        "IFN555",
+        "IFN563",
+        "IFN552",
+        "IFN551"
+      ],
+      "matched_interests": [],
+      "details": {
+        "student_major": "Computer Science and Data Science",
+        "project_majors": [
+          "computer science and data science other majors are also fine"
+        ],
+        "student_skill_count": 30,
+        "project_skill_count": 9,
+        "student_course_count": 8,
+        "project_unit_count": 108
+      }
+    },
+    {
+      "student_id": "n10761320",
+      "student_name": "Drew Johnson",
+      "project_name": "JZhang_IFN712 Project Proposal 1_2025_CS ",
+      "total_score": 0.267902278599953,
+      "skill_score": 0.4465116279069768,
+      "major_score": 0.17777777777777778,
+      "course_score": 0.045454545454545456,
+      "interest_score": 0.0,
+      "matched_skills": [
+        "machine learning",
+        "mobile development",
+        "web development",
+        "programming",
+        "networking"
+      ],
+      "matched_courses": [
+        "IFN564",
+        "IFN553",
+        "IFN555",
+        "IFN554",
+        "IFN623"
+      ],
+      "matched_interests": [],
+      "details": {
+        "student_major": "Computer Science (Software Engineering Specialization)",
+        "project_majors": [
+          "computer science and data science other majors are also fine"
+        ],
+        "student_skill_count": 24,
+        "project_skill_count": 9,
+        "student_course_count": 8,
+        "project_unit_count": 108
+      }
+    },
+    {
+      "student_id": "n02418311",
+      "student_name": "Harper Scott",
+      "project_name": "JZhang_IFN712 Project Proposal 1_2025_CS ",
+      "total_score": 0.25665492130608414,
+      "skill_score": 0.41674418604651164,
+      "major_score": 0.17777777777777778,
+      "course_score": 0.06363636363636363,
+      "interest_score": 0.0,
+      "matched_skills": [
+        "machine learning",
+        "web development",
+        "programming",
+        "networking"
+      ],
+      "matched_courses": [
+        "IFN564",
+        "IFN619",
+        "IFN556",
+        "IFN553",
+        "IFN555",
+        "IFN551",
+        "IFN623"
+      ],
+      "matched_interests": [],
+      "details": {
+        "student_major": "Computer Science (Specialization in Cybersecurity)",
+        "project_majors": [
+          "computer science and data science other majors are also fine"
+        ],
+        "student_skill_count": 26,
+        "project_skill_count": 9,
+        "student_course_count": 8,
+        "project_unit_count": 108
+      }
+    },
+    {
+      "student_id": "n14695376",
+      "student_name": "Morgan Harris",
+      "project_name": "JZhang_IFN712 Project Proposal 1_2025_CS ",
+      "total_score": 0.24574113225276017,
+      "skill_score": 0.3274418604651163,
+      "major_score": 0.35555555555555557,
+      "course_score": 0.05454545454545454,
+      "interest_score": 0.0,
+      "matched_skills": [
+        "machine learning",
+        "web development",
+        "programming"
+      ],
+      "matched_courses": [
+        "IFN564",
+        "IFN556",
+        "IFN555",
+        "IFN563",
+        "IFN552",
+        "IFN551"
+      ],
+      "matched_interests": [],
+      "details": {
+        "student_major": "Computer Science and Data Science",
+        "project_majors": [
+          "computer science and data science other majors are also fine"
+        ],
+        "student_skill_count": 26,
+        "project_skill_count": 9,
+        "student_course_count": 8,
+        "project_unit_count": 108
+      }
+    },
+    {
+      "student_id": "n08656729",
+      "student_name": "Madison Moore",
+      "project_name": "JZhang_IFN712 Project Proposal 1_2025_CS ",
+      "total_score": 0.24574113225276017,
+      "skill_score": 0.3274418604651163,
+      "major_score": 0.35555555555555557,
+      "course_score": 0.05454545454545454,
+      "interest_score": 0.0,
+      "matched_skills": [
+        "machine learning",
+        "web development",
+        "programming"
+      ],
+      "matched_courses": [
+        "IFN564",
+        "IFN556",
+        "IFN555",
+        "IFN563",
+        "IFN552",
+        "IFN551"
+      ],
+      "matched_interests": [],
+      "details": {
+        "student_major": "Computer Science and Data Science",
+        "project_majors": [
+          "computer science and data science other majors are also fine"
+        ],
+        "student_skill_count": 26,
+        "project_skill_count": 9,
+        "student_course_count": 8,
+        "project_unit_count": 108
+      }
+    },
+    {
+      "student_id": "n13241358",
+      "student_name": "Devon Williams",
+      "project_name": "JZhang_IFN712 Project Proposal 1_2025_CS ",
+      "total_score": 0.24574113225276017,
+      "skill_score": 0.3274418604651163,
+      "major_score": 0.35555555555555557,
+      "course_score": 0.05454545454545454,
+      "interest_score": 0.0,
+      "matched_skills": [
+        "machine learning",
+        "web development",
+        "programming"
+      ],
+      "matched_courses": [
+        "IFN564",
+        "IFN556",
+        "IFN555",
+        "IFN563",
+        "IFN552",
+        "IFN551"
+      ],
+      "matched_interests": [],
+      "details": {
+        "student_major": "Computer Science and Data Science",
+        "project_majors": [
+          "computer science and data science other majors are also fine"
+        ],
+        "student_skill_count": 26,
+        "project_skill_count": 9,
+        "student_course_count": 8,
+        "project_unit_count": 108
+      }
+    },
+    {
+      "student_id": "n08970940",
+      "student_name": "Avery King",
+      "project_name": "JZhang_IFN712 Project Proposal 1_2025_CS ",
+      "total_score": 0.24574113225276017,
+      "skill_score": 0.3274418604651163,
+      "major_score": 0.35555555555555557,
+      "course_score": 0.05454545454545454,
+      "interest_score": 0.0,
+      "matched_skills": [
+        "machine learning",
+        "web development",
+        "programming"
+      ],
+      "matched_courses": [
+        "IFN564",
+        "IFN556",
+        "IFN555",
+        "IFN563",
+        "IFN552",
+        "IFN551"
+      ],
+      "matched_interests": [],
+      "details": {
+        "student_major": "Computer Science and Data Science",
+        "project_majors": [
+          "computer science and data science other majors are also fine"
+        ],
+        "student_skill_count": 26,
+        "project_skill_count": 9,
+        "student_course_count": 8,
+        "project_unit_count": 108
+      }
+    },
+    {
+      "student_id": "n08153626",
+      "student_name": "Rowan Torres",
+      "project_name": "JZhang_IFN712 Project Proposal 1_2025_CS ",
+      "total_score": 0.24574113225276017,
+      "skill_score": 0.3274418604651163,
+      "major_score": 0.35555555555555557,
+      "course_score": 0.05454545454545454,
+      "interest_score": 0.0,
+      "matched_skills": [
+        "machine learning",
+        "web development",
+        "programming"
+      ],
+      "matched_courses": [
+        "IFN564",
+        "IFN556",
+        "IFN555",
+        "IFN563",
+        "IFN552",
+        "IFN551"
+      ],
+      "matched_interests": [],
+      "details": {
+        "student_major": "Computer Science and Data Science",
+        "project_majors": [
+          "computer science and data science other majors are also fine"
+        ],
+        "student_skill_count": 26,
+        "project_skill_count": 9,
+        "student_course_count": 8,
+        "project_unit_count": 108
+      }
+    },
+    {
+      "student_id": "n04873519",
+      "student_name": "Drew Johnson",
+      "project_name": "JZhang_IFN712 Project Proposal 1_2025_CS ",
+      "total_score": 0.24574113225276017,
+      "skill_score": 0.3274418604651163,
+      "major_score": 0.35555555555555557,
+      "course_score": 0.05454545454545454,
+      "interest_score": 0.0,
+      "matched_skills": [
+        "machine learning",
+        "web development",
+        "programming"
+      ],
+      "matched_courses": [
+        "IFN564",
+        "IFN556",
+        "IFN555",
+        "IFN563",
+        "IFN552",
+        "IFN551"
+      ],
+      "matched_interests": [],
+      "details": {
+        "student_major": "Computer Science and Data Science",
+        "project_majors": [
+          "computer science and data science other majors are also fine"
+        ],
+        "student_skill_count": 26,
+        "project_skill_count": 9,
+        "student_course_count": 8,
+        "project_unit_count": 108
+      }
+    },
+    {
+      "student_id": "n09745425",
+      "student_name": "Alex Lee",
+      "project_name": "JZhang_IFN712 Project Proposal 1_2025_CS ",
+      "total_score": 0.24574113225276017,
+      "skill_score": 0.3274418604651163,
+      "major_score": 0.35555555555555557,
+      "course_score": 0.05454545454545454,
+      "interest_score": 0.0,
+      "matched_skills": [
+        "machine learning",
+        "web development",
+        "programming"
+      ],
+      "matched_courses": [
+        "IFN564",
+        "IFN556",
+        "IFN555",
+        "IFN563",
+        "IFN552",
+        "IFN551"
+      ],
+      "matched_interests": [],
+      "details": {
+        "student_major": "Computer Science and Data Science",
+        "project_majors": [
+          "computer science and data science other majors are also fine"
+        ],
+        "student_skill_count": 26,
+        "project_skill_count": 9,
+        "student_course_count": 8,
+        "project_unit_count": 108
+      }
+    },
+    {
+      "student_id": "n11136316",
+      "student_name": "Blake Garcia",
+      "project_name": "JZhang_IFN712 Project Proposal 1_2025_CS ",
+      "total_score": 0.24574113225276017,
+      "skill_score": 0.3274418604651163,
+      "major_score": 0.35555555555555557,
+      "course_score": 0.05454545454545454,
+      "interest_score": 0.0,
+      "matched_skills": [
+        "machine learning",
+        "web development",
+        "programming"
+      ],
+      "matched_courses": [
+        "IFN564",
+        "IFN556",
+        "IFN555",
+        "IFN563",
+        "IFN552",
+        "IFN551"
+      ],
+      "matched_interests": [],
+      "details": {
+        "student_major": "Computer Science and Data Science",
+        "project_majors": [
+          "computer science and data science other majors are also fine"
+        ],
+        "student_skill_count": 26,
+        "project_skill_count": 9,
+        "student_course_count": 8,
+        "project_unit_count": 108
+      }
+    },
+    {
+      "student_id": "n13074181",
+      "student_name": "Avery Davis",
+      "project_name": "JZhang_IFN712 Project Proposal 1_2025_CS ",
+      "total_score": 0.24574113225276017,
+      "skill_score": 0.3274418604651163,
+      "major_score": 0.35555555555555557,
+      "course_score": 0.05454545454545454,
+      "interest_score": 0.0,
+      "matched_skills": [
+        "machine learning",
+        "web development",
+        "programming"
+      ],
+      "matched_courses": [
+        "IFN564",
+        "IFN556",
+        "IFN555",
+        "IFN563",
+        "IFN554",
+        "IFN552"
+      ],
+      "matched_interests": [],
+      "details": {
+        "student_major": "Computer Science and Data Science",
+        "project_majors": [
+          "computer science and data science other majors are also fine"
+        ],
+        "student_skill_count": 26,
+        "project_skill_count": 9,
+        "student_course_count": 8,
+        "project_unit_count": 108
+      }
+    },
+    {
+      "student_id": "n13177467",
+      "student_name": "Rory Lopez",
+      "project_name": "JZhang_IFN712 Project Proposal 1_2025_CS ",
+      "total_score": 0.24574113225276017,
+      "skill_score": 0.3274418604651163,
+      "major_score": 0.35555555555555557,
+      "course_score": 0.05454545454545454,
+      "interest_score": 0.0,
+      "matched_skills": [
+        "machine learning",
+        "web development",
+        "programming"
+      ],
+      "matched_courses": [
+        "IFN564",
+        "IFN556",
+        "IFN555",
+        "IFN563",
+        "IFN554",
+        "IFN552"
+      ],
+      "matched_interests": [],
+      "details": {
+        "student_major": "Computer Science and Data Analytics",
+        "project_majors": [
+          "computer science and data science other majors are also fine"
+        ],
+        "student_skill_count": 26,
+        "project_skill_count": 9,
+        "student_course_count": 8,
+        "project_unit_count": 108
+      }
+    },
+    {
+      "student_id": "n03698473",
+      "student_name": "Logan Lee",
+      "project_name": "JZhang_IFN712 Project Proposal 1_2025_CS ",
+      "total_score": 0.24574113225276017,
+      "skill_score": 0.3274418604651163,
+      "major_score": 0.35555555555555557,
+      "course_score": 0.05454545454545454,
+      "interest_score": 0.0,
+      "matched_skills": [
+        "machine learning",
+        "web development",
+        "programming"
+      ],
+      "matched_courses": [
+        "IFN564",
+        "IFN556",
+        "IFN555",
+        "IFN563",
+        "IFN554",
+        "IFN552"
+      ],
+      "matched_interests": [],
+      "details": {
+        "student_major": "Computer Science and Data Science",
+        "project_majors": [
+          "computer science and data science other majors are also fine"
+        ],
+        "student_skill_count": 26,
+        "project_skill_count": 9,
+        "student_course_count": 8,
+        "project_unit_count": 108
+      }
+    },
+    {
+      "student_id": "n10165670",
+      "student_name": "Reese Hernandez",
+      "project_name": "JZhang_IFN712 Project Proposal 1_2025_CS ",
+      "total_score": 0.24574113225276017,
+      "skill_score": 0.3274418604651163,
+      "major_score": 0.35555555555555557,
+      "course_score": 0.05454545454545454,
+      "interest_score": 0.0,
+      "matched_skills": [
+        "machine learning",
+        "web development",
+        "programming"
+      ],
+      "matched_courses": [
+        "IFN564",
+        "IFN556",
+        "IFN555",
+        "IFN563",
+        "IFN554",
+        "IFN552"
+      ],
+      "matched_interests": [],
+      "details": {
+        "student_major": "Computer Science and Data Science",
+        "project_majors": [
+          "computer science and data science other majors are also fine"
+        ],
+        "student_skill_count": 26,
+        "project_skill_count": 9,
+        "student_course_count": 8,
+        "project_unit_count": 108
+      }
+    },
+    {
+      "student_id": "n08499357",
+      "student_name": "Kendall Scott",
+      "project_name": "JZhang_IFN712 Project Proposal 1_2025_CS ",
+      "total_score": 0.24574113225276017,
+      "skill_score": 0.3274418604651163,
+      "major_score": 0.35555555555555557,
+      "course_score": 0.05454545454545454,
+      "interest_score": 0.0,
+      "matched_skills": [
+        "machine learning",
+        "web development",
+        "programming"
+      ],
+      "matched_courses": [
+        "IFN564",
+        "IFN556",
+        "IFN555",
+        "IFN563",
+        "IFN554",
+        "IFN552"
+      ],
+      "matched_interests": [],
+      "details": {
+        "student_major": "Computer Science and Data Analytics",
+        "project_majors": [
+          "computer science and data science other majors are also fine"
+        ],
+        "student_skill_count": 26,
+        "project_skill_count": 9,
+        "student_course_count": 8,
+        "project_unit_count": 108
+      }
+    },
+    {
+      "student_id": "n06341957",
+      "student_name": "Tyler Flores",
+      "project_name": "JZhang_IFN712 Project Proposal 1_2025_CS ",
+      "total_score": 0.24574113225276017,
+      "skill_score": 0.3274418604651163,
+      "major_score": 0.35555555555555557,
+      "course_score": 0.05454545454545454,
+      "interest_score": 0.0,
+      "matched_skills": [
+        "machine learning",
+        "web development",
+        "programming"
+      ],
+      "matched_courses": [
+        "IFN564",
+        "IFN556",
+        "IFN555",
+        "IFN563",
+        "IFN554",
+        "IFN552"
+      ],
+      "matched_interests": [],
+      "details": {
+        "student_major": "Computer Science and Data Science",
+        "project_majors": [
+          "computer science and data science other majors are also fine"
+        ],
+        "student_skill_count": 26,
+        "project_skill_count": 9,
+        "student_course_count": 8,
+        "project_unit_count": 108
+      }
+    },
+    {
+      "student_id": "n15945675",
+      "student_name": "Phoenix Hill",
+      "project_name": "JZhang_IFN712 Project Proposal 1_2025_CS ",
+      "total_score": 0.2323467230443975,
+      "skill_score": 0.4465116279069768,
+      "major_score": 0.0,
+      "course_score": 0.045454545454545456,
+      "interest_score": 0.0,
+      "matched_skills": [
+        "machine learning",
+        "mobile development",
+        "web development",
+        "programming",
+        "networking"
+      ],
+      "matched_courses": [
+        "IFN564",
+        "IFN553",
+        "IFN555",
+        "IFN554",
+        "IFN623"
+      ],
+      "matched_interests": [],
+      "details": {
+        "student_major": "Software Development",
+        "project_majors": [
+          "computer science and data science other majors are also fine"
+        ],
+        "student_skill_count": 24,
+        "project_skill_count": 9,
+        "student_course_count": 8,
+        "project_unit_count": 108
+      }
+    },
+    {
+      "student_id": "n07927421",
+      "student_name": "Morgan Lee",
+      "project_name": "JZhang_IFN712 Project Proposal 1_2025_CS ",
+      "total_score": 0.2323467230443975,
+      "skill_score": 0.4465116279069768,
+      "major_score": 0.0,
+      "course_score": 0.045454545454545456,
+      "interest_score": 0.0,
+      "matched_skills": [
+        "machine learning",
+        "mobile development",
+        "web development",
+        "programming",
+        "networking"
+      ],
+      "matched_courses": [
+        "IFN564",
+        "IFN553",
+        "IFN555",
+        "IFN554",
+        "IFN623"
+      ],
+      "matched_interests": [],
+      "details": {
+        "student_major": "Software Development",
+        "project_majors": [
+          "computer science and data science other majors are also fine"
+        ],
+        "student_skill_count": 24,
+        "project_skill_count": 9,
+        "student_course_count": 8,
+        "project_unit_count": 108
+      }
+    },
+    {
+      "student_id": "n12836502",
+      "student_name": "Skylar Harris",
+      "project_name": "JZhang_IFN712 Project Proposal 1_2025_CS ",
+      "total_score": 0.2323467230443975,
+      "skill_score": 0.4465116279069768,
+      "major_score": 0.0,
+      "course_score": 0.045454545454545456,
+      "interest_score": 0.0,
+      "matched_skills": [
+        "machine learning",
+        "mobile development",
+        "web development",
+        "programming",
+        "networking"
+      ],
+      "matched_courses": [
+        "IFN564",
+        "IFN553",
+        "IFN555",
+        "IFN554",
+        "IFN623"
+      ],
+      "matched_interests": [],
+      "details": {
+        "student_major": "Software Development",
+        "project_majors": [
+          "computer science and data science other majors are also fine"
+        ],
+        "student_skill_count": 24,
+        "project_skill_count": 9,
+        "student_course_count": 8,
+        "project_unit_count": 108
+      }
+    },
+    {
+      "student_id": "n08963298",
+      "student_name": "Avery Young",
+      "project_name": "JZhang_IFN712 Project Proposal 1_2025_CS ",
+      "total_score": 0.2323467230443975,
+      "skill_score": 0.4465116279069768,
+      "major_score": 0.0,
+      "course_score": 0.045454545454545456,
+      "interest_score": 0.0,
+      "matched_skills": [
+        "machine learning",
+        "mobile development",
+        "web development",
+        "programming",
+        "networking"
+      ],
+      "matched_courses": [
+        "IFN564",
+        "IFN553",
+        "IFN555",
+        "IFN554",
+        "IFN623"
+      ],
+      "matched_interests": [],
+      "details": {
+        "student_major": "Software Development",
+        "project_majors": [
+          "computer science and data science other majors are also fine"
+        ],
+        "student_skill_count": 24,
+        "project_skill_count": 9,
+        "student_course_count": 8,
+        "project_unit_count": 108
+      }
+    },
+    {
+      "student_id": "n10055590",
+      "student_name": "Blake Thompson",
+      "project_name": "JZhang_IFN712 Project Proposal 1_2025_CS ",
+      "total_score": 0.2323467230443975,
+      "skill_score": 0.4465116279069768,
+      "major_score": 0.0,
+      "course_score": 0.045454545454545456,
+      "interest_score": 0.0,
+      "matched_skills": [
+        "machine learning",
+        "mobile development",
+        "web development",
+        "programming",
+        "networking"
+      ],
+      "matched_courses": [
+        "IFN564",
+        "IFN553",
+        "IFN555",
+        "IFN554",
+        "IFN623"
+      ],
+      "matched_interests": [],
+      "details": {
+        "student_major": "Software Development",
+        "project_majors": [
+          "computer science and data science other majors are also fine"
+        ],
+        "student_skill_count": 24,
+        "project_skill_count": 9,
+        "student_course_count": 8,
+        "project_unit_count": 108
+      }
+    },
+    {
+      "student_id": "n01189174",
+      "student_name": "Reese Allen",
+      "project_name": "JZhang_IFN712 Project Proposal 1_2025_CS ",
+      "total_score": 0.2323467230443975,
+      "skill_score": 0.4465116279069768,
+      "major_score": 0.0,
+      "course_score": 0.045454545454545456,
+      "interest_score": 0.0,
+      "matched_skills": [
+        "machine learning",
+        "mobile development",
+        "web development",
+        "programming",
+        "networking"
+      ],
+      "matched_courses": [
+        "IFN564",
+        "IFN553",
+        "IFN555",
+        "IFN554",
+        "IFN623"
+      ],
+      "matched_interests": [],
+      "details": {
+        "student_major": "Software Development",
+        "project_majors": [
+          "computer science and data science other majors are also fine"
+        ],
+        "student_skill_count": 24,
+        "project_skill_count": 9,
+        "student_course_count": 8,
+        "project_unit_count": 108
+      }
+    },
+    {
+      "student_id": "n15410626",
+      "student_name": "Jamie Lopez",
+      "project_name": "JZhang_IFN712 Project Proposal 1_2025_CS ",
+      "total_score": 0.2323467230443975,
+      "skill_score": 0.4465116279069768,
+      "major_score": 0.0,
+      "course_score": 0.045454545454545456,
+      "interest_score": 0.0,
+      "matched_skills": [
+        "machine learning",
+        "mobile development",
+        "web development",
+        "programming",
+        "networking"
+      ],
+      "matched_courses": [
+        "IFN564",
+        "IFN553",
+        "IFN555",
+        "IFN554",
+        "IFN623"
+      ],
+      "matched_interests": [],
+      "details": {
+        "student_major": "Software Development",
+        "project_majors": [
+          "computer science and data science other majors are also fine"
+        ],
+        "student_skill_count": 24,
+        "project_skill_count": 9,
+        "student_course_count": 8,
+        "project_unit_count": 108
+      }
+    },
+    {
+      "student_id": "n12300359",
+      "student_name": "Hayden Young",
+      "project_name": "JZhang_IFN712 Project Proposal 1_2025_CS ",
+      "total_score": 0.2323467230443975,
+      "skill_score": 0.4465116279069768,
+      "major_score": 0.0,
+      "course_score": 0.045454545454545456,
+      "interest_score": 0.0,
+      "matched_skills": [
+        "machine learning",
+        "mobile development",
+        "web development",
+        "programming",
+        "networking"
+      ],
+      "matched_courses": [
+        "IFN564",
+        "IFN553",
+        "IFN555",
+        "IFN554",
+        "IFN623"
+      ],
+      "matched_interests": [],
+      "details": {
+        "student_major": "Software Development",
+        "project_majors": [
+          "computer science and data science other majors are also fine"
+        ],
+        "student_skill_count": 23,
+        "project_skill_count": 9,
+        "student_course_count": 8,
+        "project_unit_count": 108
+      }
+    },
+    {
+      "student_id": "n12525597",
+      "student_name": "Sydney King",
+      "project_name": "JZhang_IFN712 Project Proposal 1_2025_CS ",
+      "total_score": 0.23159971811134605,
+      "skill_score": 0.3274418604651163,
+      "major_score": 0.26666666666666666,
+      "course_score": 0.07272727272727272,
+      "interest_score": 0.0,
+      "matched_skills": [
+        "machine learning",
+        "programming",
+        "networking"
+      ],
+      "matched_courses": [
+        "IFN564",
+        "IFN556",
+        "IFN554",
+        "IFN553",
+        "IFN555",
+        "IFN563",
+        "IFN552",
+        "IFN551"
+      ],
+      "matched_interests": [],
+      "details": {
+        "student_major": "Computer Science with a Minor in Data Science",
+        "project_majors": [
+          "computer science and data science other majors are also fine"
+        ],
+        "student_skill_count": 25,
+        "project_skill_count": 9,
+        "student_course_count": 8,
+        "project_unit_count": 108
+      }
+    },
+    {
+      "student_id": "n04541718",
+      "student_name": "Drew Hernandez",
+      "project_name": "JZhang_IFN712 Project Proposal 1_2025_CS ",
+      "total_score": 0.2279633544749824,
+      "skill_score": 0.3274418604651163,
+      "major_score": 0.26666666666666666,
+      "course_score": 0.05454545454545454,
+      "interest_score": 0.0,
+      "matched_skills": [
+        "machine learning",
+        "web development",
+        "networking"
+      ],
+      "matched_courses": [
+        "IFN564",
+        "IFN619",
+        "IFN553",
+        "IFN563",
+        "IFN551",
+        "IFN623"
+      ],
+      "matched_interests": [],
+      "details": {
+        "student_major": "Data Science (Minor in Computer Science)",
+        "project_majors": [
+          "computer science and data science other majors are also fine"
+        ],
+        "student_skill_count": 25,
+        "project_skill_count": 9,
+        "student_course_count": 8,
+        "project_unit_count": 108
+      }
+    },
+    {
+      "student_id": "n03497884",
+      "student_name": "Peyton Brown",
+      "project_name": "JZhang_IFN712 Project Proposal 1_2025_CS ",
+      "total_score": 0.2279633544749824,
+      "skill_score": 0.3274418604651163,
+      "major_score": 0.26666666666666666,
+      "course_score": 0.05454545454545454,
+      "interest_score": 0.0,
+      "matched_skills": [
+        "machine learning",
+        "web development",
+        "networking"
+      ],
+      "matched_courses": [
+        "IFN564",
+        "IFN619",
+        "IFN553",
+        "IFN563",
+        "IFN551",
+        "IFN623"
+      ],
+      "matched_interests": [],
+      "details": {
+        "student_major": "Data Science with a concentration in Computer Science",
+        "project_majors": [
+          "computer science and data science other majors are also fine"
+        ],
+        "student_skill_count": 25,
+        "project_skill_count": 9,
+        "student_course_count": 8,
+        "project_unit_count": 108
+      }
+    },
+    {
+      "student_id": "n15162080",
+      "student_name": "Taylor Martinez",
+      "project_name": "JZhang_IFN712 Project Proposal 1_2025_CS ",
+      "total_score": 0.2279633544749824,
+      "skill_score": 0.3274418604651163,
+      "major_score": 0.26666666666666666,
+      "course_score": 0.05454545454545454,
+      "interest_score": 0.0,
+      "matched_skills": [
+        "machine learning",
+        "web development",
+        "networking"
+      ],
+      "matched_courses": [
+        "IFN564",
+        "IFN619",
+        "IFN553",
+        "IFN563",
+        "IFN551",
+        "IFN623"
+      ],
+      "matched_interests": [],
+      "details": {
+        "student_major": "Computer Science with a minor in Data Science",
+        "project_majors": [
+          "computer science and data science other majors are also fine"
+        ],
+        "student_skill_count": 25,
+        "project_skill_count": 9,
+        "student_course_count": 8,
+        "project_unit_count": 108
+      }
+    },
+    {
+      "student_id": "n12134948",
+      "student_name": "Taylor Wright",
+      "project_name": "JZhang_IFN712 Project Proposal 1_2025_CS ",
+      "total_score": 0.2279633544749824,
+      "skill_score": 0.3274418604651163,
+      "major_score": 0.26666666666666666,
+      "course_score": 0.05454545454545454,
+      "interest_score": 0.0,
+      "matched_skills": [
+        "machine learning",
+        "web development",
+        "networking"
+      ],
+      "matched_courses": [
+        "IFN564",
+        "IFN619",
+        "IFN553",
+        "IFN563",
+        "IFN551",
+        "IFN623"
+      ],
+      "matched_interests": [],
+      "details": {
+        "student_major": "Data Science and Cybersecurity (Double Major)",
+        "project_majors": [
+          "computer science and data science other majors are also fine"
+        ],
+        "student_skill_count": 25,
+        "project_skill_count": 9,
+        "student_course_count": 8,
+        "project_unit_count": 108
+      }
+    },
+    {
+      "student_id": "n13410902",
+      "student_name": "Madison Johnson",
+      "project_name": "JZhang_IFN712 Project Proposal 1_2025_CS ",
+      "total_score": 0.2279633544749824,
+      "skill_score": 0.3274418604651163,
+      "major_score": 0.26666666666666666,
+      "course_score": 0.05454545454545454,
+      "interest_score": 0.0,
+      "matched_skills": [
+        "machine learning",
+        "web development",
+        "programming"
+      ],
+      "matched_courses": [
+        "IFN564",
+        "IFN556",
+        "IFN555",
+        "IFN563",
+        "IFN554",
+        "IFN552"
+      ],
+      "matched_interests": [],
+      "details": {
+        "student_major": "Computer Science with Data Science Specialization",
+        "project_majors": [
+          "computer science and data science other majors are also fine"
+        ],
+        "student_skill_count": 26,
+        "project_skill_count": 9,
+        "student_course_count": 8,
+        "project_unit_count": 108
+      }
+    },
+    {
+      "student_id": "n10415240",
+      "student_name": "Quinn Garcia",
+      "project_name": "JZhang_IFN712 Project Proposal 1_2025_CS ",
+      "total_score": 0.2279633544749824,
+      "skill_score": 0.3274418604651163,
+      "major_score": 0.26666666666666666,
+      "course_score": 0.05454545454545454,
+      "interest_score": 0.0,
+      "matched_skills": [
+        "machine learning",
+        "web development",
+        "programming"
+      ],
+      "matched_courses": [
+        "IFN564",
+        "IFN556",
+        "IFN555",
+        "IFN563",
+        "IFN554",
+        "IFN552"
+      ],
+      "matched_interests": [],
+      "details": {
+        "student_major": "Computer Science with Data Science Specialization",
+        "project_majors": [
+          "computer science and data science other majors are also fine"
+        ],
+        "student_skill_count": 26,
+        "project_skill_count": 9,
+        "student_course_count": 8,
+        "project_unit_count": 108
+      }
+    },
+    {
+      "student_id": "n02867192",
+      "student_name": "Harper Harris",
+      "project_name": "JZhang_IFN712 Project Proposal 1_2025_CS ",
+      "total_score": 0.2279633544749824,
+      "skill_score": 0.3274418604651163,
+      "major_score": 0.26666666666666666,
+      "course_score": 0.05454545454545454,
+      "interest_score": 0.0,
+      "matched_skills": [
+        "machine learning",
+        "web development",
+        "programming"
+      ],
+      "matched_courses": [
+        "IFN564",
+        "IFN556",
+        "IFN555",
+        "IFN563",
+        "IFN554",
+        "IFN552"
+      ],
+      "matched_interests": [],
+      "details": {
+        "student_major": "Computer Science with Data Science Specialization",
+        "project_majors": [
+          "computer science and data science other majors are also fine"
+        ],
+        "student_skill_count": 25,
+        "project_skill_count": 9,
+        "student_course_count": 8,
+        "project_unit_count": 108
+      }
+    },
+    {
+      "student_id": "n13605583",
+      "student_name": "Rory Allen",
+      "project_name": "JZhang_IFN712 Project Proposal 1_2025_CS ",
+      "total_score": 0.2279633544749824,
+      "skill_score": 0.3274418604651163,
+      "major_score": 0.26666666666666666,
+      "course_score": 0.05454545454545454,
+      "interest_score": 0.0,
+      "matched_skills": [
+        "machine learning",
+        "web development",
+        "programming"
+      ],
+      "matched_courses": [
+        "IFN564",
+        "IFN556",
+        "IFN555",
+        "IFN563",
+        "IFN554",
+        "IFN552"
+      ],
+      "matched_interests": [],
+      "details": {
+        "student_major": "Computer Science (Data Science Specialization)",
+        "project_majors": [
+          "computer science and data science other majors are also fine"
+        ],
+        "student_skill_count": 25,
+        "project_skill_count": 9,
+        "student_course_count": 8,
+        "project_unit_count": 108
+      }
+    },
+    {
+      "student_id": "n01687591",
+      "student_name": "Reagan Thompson",
+      "project_name": "JZhang_IFN712 Project Proposal 1_2025_CS ",
+      "total_score": 0.2279633544749824,
+      "skill_score": 0.3274418604651163,
+      "major_score": 0.26666666666666666,
+      "course_score": 0.05454545454545454,
+      "interest_score": 0.0,
+      "matched_skills": [
+        "machine learning",
+        "web development",
+        "programming"
+      ],
+      "matched_courses": [
+        "IFN552",
+        "IFN564",
+        "IFN556",
+        "IFN554",
+        "IFN551",
+        "IFN623"
+      ],
+      "matched_interests": [],
+      "details": {
+        "student_major": "Cyber Security and Computer Science",
+        "project_majors": [
+          "computer science and data science other majors are also fine"
+        ],
+        "student_skill_count": 27,
+        "project_skill_count": 9,
+        "student_course_count": 8,
+        "project_unit_count": 108
+      }
+    },
+    {
+      "student_id": "n00201259",
+      "student_name": "Blake Jackson",
+      "project_name": "JZhang_IFN712 Project Proposal 1_2025_CS ",
+      "total_score": 0.2279633544749824,
+      "skill_score": 0.3274418604651163,
+      "major_score": 0.26666666666666666,
+      "course_score": 0.05454545454545454,
+      "interest_score": 0.0,
+      "matched_skills": [
+        "machine learning",
+        "web development",
+        "programming"
+      ],
+      "matched_courses": [
+        "IFN552",
+        "IFN564",
+        "IFN556",
+        "IFN554",
+        "IFN551",
+        "IFN623"
+      ],
+      "matched_interests": [],
+      "details": {
+        "student_major": "Cyber Security and Computer Science",
+        "project_majors": [
+          "computer science and data science other majors are also fine"
+        ],
+        "student_skill_count": 27,
+        "project_skill_count": 9,
+        "student_course_count": 8,
+        "project_unit_count": 108
+      }
+    },
+    {
+      "student_id": "n02123086",
+      "student_name": "Emery Miller",
+      "project_name": "JZhang_IFN712 Project Proposal 1_2025_CS ",
+      "total_score": 0.2261451726568006,
+      "skill_score": 0.3274418604651163,
+      "major_score": 0.26666666666666666,
+      "course_score": 0.045454545454545456,
+      "interest_score": 0.0,
+      "matched_skills": [
+        "machine learning",
+        "web development",
+        "programming"
+      ],
+      "matched_courses": [
+        "IFN564",
+        "IFN555",
+        "IFN563",
+        "IFN552",
+        "IFN551"
+      ],
+      "matched_interests": [],
+      "details": {
+        "student_major": "Computer Science with a minor in Data Science",
+        "project_majors": [
+          "computer science and data science other majors are also fine"
+        ],
+        "student_skill_count": 24,
+        "project_skill_count": 9,
+        "student_course_count": 8,
+        "project_unit_count": 108
+      }
+    },
+    {
+      "student_id": "n05873042",
+      "student_name": "Peyton Garcia",
+      "project_name": "JZhang_IFN712 Project Proposal 1_2025_CS ",
+      "total_score": 0.21382194033356827,
+      "skill_score": 0.3274418604651163,
+      "major_score": 0.17777777777777778,
+      "course_score": 0.07272727272727272,
+      "interest_score": 0.0,
+      "matched_skills": [
+        "machine learning",
+        "programming",
+        "networking"
+      ],
+      "matched_courses": [
+        "IFN564",
+        "IFN556",
+        "IFN554",
+        "IFN553",
+        "IFN555",
+        "IFN563",
+        "IFN552",
+        "IFN551"
+      ],
+      "matched_interests": [],
+      "details": {
+        "student_major": "Data Science with Cybersecurity Specialization",
+        "project_majors": [
+          "computer science and data science other majors are also fine"
+        ],
+        "student_skill_count": 26,
+        "project_skill_count": 9,
+        "student_course_count": 8,
+        "project_unit_count": 108
+      }
+    },
+    {
+      "student_id": "n01429702",
+      "student_name": "Blake Smith",
+      "project_name": "JZhang_IFN712 Project Proposal 1_2025_CS ",
+      "total_score": 0.21382194033356827,
+      "skill_score": 0.3274418604651163,
+      "major_score": 0.17777777777777778,
+      "course_score": 0.07272727272727272,
+      "interest_score": 0.0,
+      "matched_skills": [
+        "machine learning",
+        "programming",
+        "networking"
+      ],
+      "matched_courses": [
+        "IFN564",
+        "IFN556",
+        "IFN554",
+        "IFN553",
+        "IFN555",
+        "IFN563",
+        "IFN552",
+        "IFN551"
+      ],
+      "matched_interests": [],
+      "details": {
+        "student_major": "Computer Science",
+        "project_majors": [
+          "computer science and data science other majors are also fine"
+        ],
+        "student_skill_count": 26,
+        "project_skill_count": 9,
+        "student_course_count": 8,
+        "project_unit_count": 108
+      }
+    },
+    {
+      "student_id": "n07418871",
+      "student_name": "Finley Brown",
+      "project_name": "JZhang_IFN712 Project Proposal 1_2025_CS ",
+      "total_score": 0.21382194033356827,
+      "skill_score": 0.3274418604651163,
+      "major_score": 0.17777777777777778,
+      "course_score": 0.07272727272727272,
+      "interest_score": 0.0,
+      "matched_skills": [
+        "machine learning",
+        "programming",
+        "networking"
+      ],
+      "matched_courses": [
+        "IFN564",
+        "IFN556",
+        "IFN554",
+        "IFN553",
+        "IFN555",
+        "IFN563",
+        "IFN552",
+        "IFN551"
+      ],
+      "matched_interests": [],
+      "details": {
+        "student_major": "Computer Science",
+        "project_majors": [
+          "computer science and data science other majors are also fine"
+        ],
+        "student_skill_count": 26,
+        "project_skill_count": 9,
+        "student_course_count": 8,
+        "project_unit_count": 108
+      }
+    },
+    {
+      "student_id": "n04735911",
+      "student_name": "Kendall Williams",
+      "project_name": "JZhang_IFN712 Project Proposal 1_2025_CS ",
+      "total_score": 0.21382194033356827,
+      "skill_score": 0.3274418604651163,
+      "major_score": 0.17777777777777778,
+      "course_score": 0.07272727272727272,
+      "interest_score": 0.0,
+      "matched_skills": [
+        "machine learning",
+        "programming",
+        "networking"
+      ],
+      "matched_courses": [
+        "IFN564",
+        "IFN556",
+        "IFN554",
+        "IFN553",
+        "IFN555",
+        "IFN563",
+        "IFN552",
+        "IFN551"
+      ],
+      "matched_interests": [],
+      "details": {
+        "student_major": "Computer Science",
+        "project_majors": [
+          "computer science and data science other majors are also fine"
+        ],
+        "student_skill_count": 26,
+        "project_skill_count": 9,
+        "student_course_count": 8,
+        "project_unit_count": 108
+      }
+    },
+    {
+      "student_id": "n02367825",
+      "student_name": "Cameron Rodriguez",
+      "project_name": "JZhang_IFN712 Project Proposal 1_2025_CS ",
+      "total_score": 0.21382194033356827,
+      "skill_score": 0.3274418604651163,
+      "major_score": 0.17777777777777778,
+      "course_score": 0.07272727272727272,
+      "interest_score": 0.0,
+      "matched_skills": [
+        "machine learning",
+        "programming",
+        "networking"
+      ],
+      "matched_courses": [
+        "IFN564",
+        "IFN556",
+        "IFN554",
+        "IFN553",
+        "IFN555",
+        "IFN563",
+        "IFN552",
+        "IFN551"
+      ],
+      "matched_interests": [],
+      "details": {
+        "student_major": "Computer Science",
+        "project_majors": [
+          "computer science and data science other majors are also fine"
+        ],
+        "student_skill_count": 26,
+        "project_skill_count": 9,
+        "student_course_count": 8,
+        "project_unit_count": 108
+      }
+    },
+    {
+      "student_id": "n03419818",
+      "student_name": "Finley Miller",
+      "project_name": "JZhang_IFN712 Project Proposal 1_2025_CS ",
+      "total_score": 0.21382194033356827,
+      "skill_score": 0.3274418604651163,
+      "major_score": 0.17777777777777778,
+      "course_score": 0.07272727272727272,
+      "interest_score": 0.0,
+      "matched_skills": [
+        "machine learning",
+        "programming",
+        "networking"
+      ],
+      "matched_courses": [
+        "IFN564",
+        "IFN556",
+        "IFN554",
+        "IFN553",
+        "IFN555",
+        "IFN563",
+        "IFN552",
+        "IFN551"
+      ],
+      "matched_interests": [],
+      "details": {
+        "student_major": "Computer Science",
+        "project_majors": [
+          "computer science and data science other majors are also fine"
+        ],
+        "student_skill_count": 26,
+        "project_skill_count": 9,
+        "student_course_count": 8,
+        "project_unit_count": 108
+      }
+    },
+    {
+      "student_id": "n15508042",
+      "student_name": "Cameron Jones",
+      "project_name": "JZhang_IFN712 Project Proposal 1_2025_CS ",
+      "total_score": 0.21382194033356827,
+      "skill_score": 0.3274418604651163,
+      "major_score": 0.17777777777777778,
+      "course_score": 0.07272727272727272,
+      "interest_score": 0.0,
+      "matched_skills": [
+        "machine learning",
+        "programming",
+        "networking"
+      ],
+      "matched_courses": [
+        "IFN564",
+        "IFN556",
+        "IFN554",
+        "IFN553",
+        "IFN555",
+        "IFN563",
+        "IFN552",
+        "IFN551"
+      ],
+      "matched_interests": [],
+      "details": {
+        "student_major": "Computer Science",
+        "project_majors": [
+          "computer science and data science other majors are also fine"
+        ],
+        "student_skill_count": 26,
+        "project_skill_count": 9,
+        "student_course_count": 8,
+        "project_unit_count": 108
+      }
+    },
+    {
+      "student_id": "n00201193",
+      "student_name": "Reagan Anderson",
+      "project_name": "JZhang_IFN712 Project Proposal 1_2025_CS ",
+      "total_score": 0.21382194033356827,
+      "skill_score": 0.3274418604651163,
+      "major_score": 0.17777777777777778,
+      "course_score": 0.07272727272727272,
+      "interest_score": 0.0,
+      "matched_skills": [
+        "machine learning",
+        "programming",
+        "networking"
+      ],
+      "matched_courses": [
+        "IFN564",
+        "IFN556",
+        "IFN554",
+        "IFN553",
+        "IFN555",
+        "IFN563",
+        "IFN552",
+        "IFN551"
+      ],
+      "matched_interests": [],
+      "details": {
+        "student_major": "Computer Science",
+        "project_majors": [
+          "computer science and data science other majors are also fine"
+        ],
+        "student_skill_count": 26,
+        "project_skill_count": 9,
+        "student_course_count": 8,
+        "project_unit_count": 108
+      }
+    },
+    {
+      "student_id": "n07440256",
+      "student_name": "Parker Allen",
+      "project_name": "JZhang_IFN712 Project Proposal 1_2025_CS ",
+      "total_score": 0.21382194033356827,
+      "skill_score": 0.3274418604651163,
+      "major_score": 0.17777777777777778,
+      "course_score": 0.07272727272727272,
+      "interest_score": 0.0,
+      "matched_skills": [
+        "machine learning",
+        "programming",
+        "networking"
+      ],
+      "matched_courses": [
+        "IFN564",
+        "IFN556",
+        "IFN554",
+        "IFN553",
+        "IFN555",
+        "IFN563",
+        "IFN552",
+        "IFN551"
+      ],
+      "matched_interests": [],
+      "details": {
+        "student_major": "Computer Science",
+        "project_majors": [
+          "computer science and data science other majors are also fine"
+        ],
+        "student_skill_count": 26,
+        "project_skill_count": 9,
+        "student_course_count": 8,
+        "project_unit_count": 108
+      }
+    },
+    {
+      "student_id": "n07268728",
+      "student_name": "Rowan Moore",
+      "project_name": "JZhang_IFN712 Project Proposal 1_2025_CS ",
+      "total_score": 0.21200375851538644,
+      "skill_score": 0.3274418604651163,
+      "major_score": 0.17777777777777778,
+      "course_score": 0.06363636363636363,
+      "interest_score": 0.0,
+      "matched_skills": [
+        "machine learning",
+        "programming",
+        "networking"
+      ],
+      "matched_courses": [
+        "IFN564",
+        "IFN619",
+        "IFN553",
+        "IFN563",
+        "IFN554",
+        "IFN556",
+        "IFN623"
+      ],
+      "matched_interests": [],
+      "details": {
+        "student_major": "Computer Science (Specialization in Cybersecurity)",
+        "project_majors": [
+          "computer science and data science other majors are also fine"
+        ],
+        "student_skill_count": 25,
+        "project_skill_count": 9,
+        "student_course_count": 8,
+        "project_unit_count": 108
+      }
+    },
+    {
+      "student_id": "n02313107",
+      "student_name": "Jordan Jackson",
+      "project_name": "JZhang_IFN712 Project Proposal 1_2025_CS ",
+      "total_score": 0.21200375851538644,
+      "skill_score": 0.3274418604651163,
+      "major_score": 0.17777777777777778,
+      "course_score": 0.06363636363636363,
+      "interest_score": 0.0,
+      "matched_skills": [
+        "machine learning",
+        "programming",
+        "networking"
+      ],
+      "matched_courses": [
+        "IFN564",
+        "IFN619",
+        "IFN553",
+        "IFN563",
+        "IFN554",
+        "IFN556",
+        "IFN623"
+      ],
+      "matched_interests": [],
+      "details": {
+        "student_major": "Computer Science (Specialization in Cybersecurity)",
+        "project_majors": [
+          "computer science and data science other majors are also fine"
+        ],
+        "student_skill_count": 25,
+        "project_skill_count": 9,
+        "student_course_count": 8,
+        "project_unit_count": 108
+      }
+    },
+    {
+      "student_id": "n08777074",
+      "student_name": "Jamie Young",
+      "project_name": "JZhang_IFN712 Project Proposal 1_2025_CS ",
+      "total_score": 0.21200375851538644,
+      "skill_score": 0.3274418604651163,
+      "major_score": 0.17777777777777778,
+      "course_score": 0.06363636363636363,
+      "interest_score": 0.0,
+      "matched_skills": [
+        "machine learning",
+        "programming",
+        "networking"
+      ],
+      "matched_courses": [
+        "IFN564",
+        "IFN619",
+        "IFN553",
+        "IFN563",
+        "IFN554",
+        "IFN556",
+        "IFN623"
+      ],
+      "matched_interests": [],
+      "details": {
+        "student_major": "Computer Science",
+        "project_majors": [
+          "computer science and data science other majors are also fine"
+        ],
+        "student_skill_count": 25,
+        "project_skill_count": 9,
+        "student_course_count": 8,
+        "project_unit_count": 108
+      }
+    },
+    {
+      "student_id": "n13093353",
+      "student_name": "Morgan Flores",
+      "project_name": "JZhang_IFN712 Project Proposal 1_2025_CS ",
+      "total_score": 0.2101855766972046,
+      "skill_score": 0.3274418604651163,
+      "major_score": 0.17777777777777778,
+      "course_score": 0.05454545454545454,
+      "interest_score": 0.0,
+      "matched_skills": [
+        "machine learning",
+        "web development",
+        "networking"
+      ],
+      "matched_courses": [
+        "IFN564",
+        "IFN619",
+        "IFN553",
+        "IFN563",
+        "IFN551",
+        "IFN623"
+      ],
+      "matched_interests": [],
+      "details": {
+        "student_major": "Data Science",
+        "project_majors": [
+          "computer science and data science other majors are also fine"
+        ],
+        "student_skill_count": 25,
+        "project_skill_count": 9,
+        "student_course_count": 8,
+        "project_unit_count": 108
+      }
+    },
+    {
+      "student_id": "n06466472",
+      "student_name": "Jordan Davis",
+      "project_name": "JZhang_IFN712 Project Proposal 1_2025_CS ",
+      "total_score": 0.2101855766972046,
+      "skill_score": 0.3274418604651163,
+      "major_score": 0.17777777777777778,
+      "course_score": 0.05454545454545454,
+      "interest_score": 0.0,
+      "matched_skills": [
+        "machine learning",
+        "web development",
+        "networking"
+      ],
+      "matched_courses": [
+        "IFN564",
+        "IFN619",
+        "IFN553",
+        "IFN563",
+        "IFN551",
+        "IFN623"
+      ],
+      "matched_interests": [],
+      "details": {
+        "student_major": "Data Science",
+        "project_majors": [
+          "computer science and data science other majors are also fine"
+        ],
+        "student_skill_count": 25,
+        "project_skill_count": 9,
+        "student_course_count": 8,
+        "project_unit_count": 108
+      }
+    },
+    {
+      "student_id": "n04358655",
+      "student_name": "Rowan Martin",
+      "project_name": "JZhang_IFN712 Project Proposal 1_2025_CS ",
+      "total_score": 0.2101855766972046,
+      "skill_score": 0.3274418604651163,
+      "major_score": 0.17777777777777778,
+      "course_score": 0.05454545454545454,
+      "interest_score": 0.0,
+      "matched_skills": [
+        "machine learning",
+        "web development",
+        "networking"
+      ],
+      "matched_courses": [
+        "IFN564",
+        "IFN619",
+        "IFN553",
+        "IFN563",
+        "IFN551",
+        "IFN623"
+      ],
+      "matched_interests": [],
+      "details": {
+        "student_major": "Data Science",
+        "project_majors": [
+          "computer science and data science other majors are also fine"
+        ],
+        "student_skill_count": 25,
+        "project_skill_count": 9,
+        "student_course_count": 8,
+        "project_unit_count": 108
+      }
+    },
+    {
+      "student_id": "n08875269",
+      "student_name": "Rory Flores",
+      "project_name": "JZhang_IFN712 Project Proposal 1_2025_CS ",
+      "total_score": 0.2101855766972046,
+      "skill_score": 0.3274418604651163,
+      "major_score": 0.17777777777777778,
+      "course_score": 0.05454545454545454,
+      "interest_score": 0.0,
+      "matched_skills": [
+        "machine learning",
+        "web development",
+        "programming"
+      ],
+      "matched_courses": [
+        "IFN552",
+        "IFN564",
+        "IFN556",
+        "IFN554",
+        "IFN551",
+        "IFN623"
+      ],
+      "matched_interests": [],
+      "details": {
+        "student_major": "Computer Science with a Minor in Cyber Security",
+        "project_majors": [
+          "computer science and data science other majors are also fine"
+        ],
+        "student_skill_count": 27,
+        "project_skill_count": 9,
+        "student_course_count": 8,
+        "project_unit_count": 108
+      }
+    },
+    {
+      "student_id": "n08665949",
+      "student_name": "Alex Anderson",
+      "project_name": "JZhang_IFN712 Project Proposal 1_2025_CS ",
+      "total_score": 0.2083673948790228,
+      "skill_score": 0.3274418604651163,
+      "major_score": 0.17777777777777778,
+      "course_score": 0.045454545454545456,
+      "interest_score": 0.0,
+      "matched_skills": [
+        "machine learning",
+        "web development",
+        "programming"
+      ],
+      "matched_courses": [
+        "IFN619",
+        "IFN556",
+        "IFN563",
+        "IFN554",
+        "IFN551"
+      ],
+      "matched_interests": [],
+      "details": {
+        "student_major": "Computer Science",
+        "project_majors": [
+          "computer science and data science other majors are also fine"
+        ],
+        "student_skill_count": 28,
+        "project_skill_count": 9,
+        "student_course_count": 8,
+        "project_unit_count": 108
+      }
+    },
+    {
+      "student_id": "n16269827",
+      "student_name": "Logan Rodriguez",
+      "project_name": "JZhang_IFN712 Project Proposal 1_2025_CS ",
+      "total_score": 0.20290815128024434,
+      "skill_score": 0.23813953488372097,
+      "major_score": 0.35555555555555557,
+      "course_score": 0.06363636363636363,
+      "interest_score": 0.0,
+      "matched_skills": [
+        "machine learning",
+        "programming"
+      ],
+      "matched_courses": [
+        "IFN564",
+        "IFN556",
+        "IFN554",
+        "IFN555",
+        "IFN563",
+        "IFN552",
+        "IFN551"
+      ],
+      "matched_interests": [],
+      "details": {
+        "student_major": "Data Science and Computer Science",
+        "project_majors": [
+          "computer science and data science other majors are also fine"
+        ],
+        "student_skill_count": 25,
+        "project_skill_count": 9,
+        "student_course_count": 8,
+        "project_unit_count": 108
+      }
+    },
+    {
+      "student_id": "n10935984",
+      "student_name": "Quinn Martinez",
+      "project_name": "JZhang_IFN712 Project Proposal 1_2025_CS ",
+      "total_score": 0.20290815128024434,
+      "skill_score": 0.23813953488372097,
+      "major_score": 0.35555555555555557,
+      "course_score": 0.06363636363636363,
+      "interest_score": 0.0,
+      "matched_skills": [
+        "machine learning",
+        "programming"
+      ],
+      "matched_courses": [
+        "IFN564",
+        "IFN556",
+        "IFN554",
+        "IFN555",
+        "IFN563",
+        "IFN552",
+        "IFN551"
+      ],
+      "matched_interests": [],
+      "details": {
+        "student_major": "Data Science and Computer Science",
+        "project_majors": [
+          "computer science and data science other majors are also fine"
+        ],
+        "student_skill_count": 25,
+        "project_skill_count": 9,
+        "student_course_count": 8,
+        "project_unit_count": 108
+      }
+    },
+    {
+      "student_id": "n11993026",
+      "student_name": "Rowan Chen",
+      "project_name": "JZhang_IFN712 Project Proposal 1_2025_CS ",
+      "total_score": 0.20290815128024434,
+      "skill_score": 0.23813953488372097,
+      "major_score": 0.35555555555555557,
+      "course_score": 0.06363636363636363,
+      "interest_score": 0.0,
+      "matched_skills": [
+        "machine learning",
+        "programming"
+      ],
+      "matched_courses": [
+        "IFN564",
+        "IFN556",
+        "IFN554",
+        "IFN555",
+        "IFN563",
+        "IFN552",
+        "IFN551"
+      ],
+      "matched_interests": [],
+      "details": {
+        "student_major": "Data Science and Computer Science",
+        "project_majors": [
+          "computer science and data science other majors are also fine"
+        ],
+        "student_skill_count": 25,
+        "project_skill_count": 9,
+        "student_course_count": 8,
+        "project_unit_count": 108
+      }
+    },
+    {
+      "student_id": "n14895165",
+      "student_name": "Peyton Lopez",
+      "project_name": "JZhang_IFN712 Project Proposal 1_2025_CS ",
+      "total_score": 0.20290815128024434,
+      "skill_score": 0.23813953488372097,
+      "major_score": 0.35555555555555557,
+      "course_score": 0.06363636363636363,
+      "interest_score": 0.0,
+      "matched_skills": [
+        "machine learning",
+        "programming"
+      ],
+      "matched_courses": [
+        "IFN564",
+        "IFN556",
+        "IFN554",
+        "IFN555",
+        "IFN563",
+        "IFN552",
+        "IFN551"
+      ],
+      "matched_interests": [],
+      "details": {
+        "student_major": "Data Science and Computer Science",
+        "project_majors": [
+          "computer science and data science other majors are also fine"
+        ],
+        "student_skill_count": 25,
+        "project_skill_count": 9,
+        "student_course_count": 8,
+        "project_unit_count": 108
+      }
+    },
+    {
+      "student_id": "n11092794",
+      "student_name": "Reese Wilson",
+      "project_name": "JZhang_IFN712 Project Proposal 1_2025_CS ",
+      "total_score": 0.20290815128024434,
+      "skill_score": 0.23813953488372097,
+      "major_score": 0.35555555555555557,
+      "course_score": 0.06363636363636363,
+      "interest_score": 0.0,
+      "matched_skills": [
+        "machine learning",
+        "programming"
+      ],
+      "matched_courses": [
+        "IFN564",
+        "IFN556",
+        "IFN554",
+        "IFN555",
+        "IFN563",
+        "IFN552",
+        "IFN551"
+      ],
+      "matched_interests": [],
+      "details": {
+        "student_major": "Data Science and Computer Science",
+        "project_majors": [
+          "computer science and data science other majors are also fine"
+        ],
+        "student_skill_count": 25,
+        "project_skill_count": 9,
+        "student_course_count": 8,
+        "project_unit_count": 108
+      }
+    },
+    {
+      "student_id": "n08901613",
+      "student_name": "Sydney Brown",
+      "project_name": "JZhang_IFN712 Project Proposal 1_2025_CS ",
+      "total_score": 0.20108996946206253,
+      "skill_score": 0.23813953488372097,
+      "major_score": 0.35555555555555557,
+      "course_score": 0.05454545454545454,
+      "interest_score": 0.0,
+      "matched_skills": [
+        "machine learning",
+        "programming"
+      ],
+      "matched_courses": [
+        "IFN564",
+        "IFN551",
+        "IFN556",
+        "IFN555",
+        "IFN563",
+        "IFN552"
+      ],
+      "matched_interests": [],
+      "details": {
+        "student_major": "Data Science and Computer Science",
+        "project_majors": [
+          "computer science and data science other majors are also fine"
+        ],
+        "student_skill_count": 25,
+        "project_skill_count": 9,
+        "student_course_count": 8,
+        "project_unit_count": 108
+      }
+    },
+    {
+      "student_id": "n11252525",
+      "student_name": "Alex Flores",
+      "project_name": "JZhang_IFN712 Project Proposal 1_2025_CS ",
+      "total_score": 0.20108996946206253,
+      "skill_score": 0.23813953488372097,
+      "major_score": 0.35555555555555557,
+      "course_score": 0.05454545454545454,
+      "interest_score": 0.0,
+      "matched_skills": [
+        "machine learning",
+        "programming"
+      ],
+      "matched_courses": [
+        "IFN564",
+        "IFN551",
+        "IFN556",
+        "IFN555",
+        "IFN563",
+        "IFN552"
+      ],
+      "matched_interests": [],
+      "details": {
+        "student_major": "Data Science and Computer Science",
+        "project_majors": [
+          "computer science and data science other majors are also fine"
+        ],
+        "student_skill_count": 25,
+        "project_skill_count": 9,
+        "student_course_count": 8,
+        "project_unit_count": 108
+      }
+    },
+    {
+      "student_id": "n09804514",
+      "student_name": "Reese Scott",
+      "project_name": "JZhang_IFN712 Project Proposal 1_2025_CS ",
+      "total_score": 0.20108996946206253,
+      "skill_score": 0.23813953488372097,
+      "major_score": 0.35555555555555557,
+      "course_score": 0.05454545454545454,
+      "interest_score": 0.0,
+      "matched_skills": [
+        "machine learning",
+        "programming"
+      ],
+      "matched_courses": [
+        "IFN564",
+        "IFN551",
+        "IFN556",
+        "IFN555",
+        "IFN563",
+        "IFN552"
+      ],
+      "matched_interests": [],
+      "details": {
+        "student_major": "Data Science and Computer Science",
+        "project_majors": [
+          "computer science and data science other majors are also fine"
+        ],
+        "student_skill_count": 25,
+        "project_skill_count": 9,
+        "student_course_count": 8,
+        "project_unit_count": 108
+      }
+    },
+    {
+      "student_id": "n09274950",
+      "student_name": "Drew Jones",
+      "project_name": "JZhang_IFN712 Project Proposal 1_2025_CS ",
+      "total_score": 0.20108996946206253,
+      "skill_score": 0.23813953488372097,
+      "major_score": 0.35555555555555557,
+      "course_score": 0.05454545454545454,
+      "interest_score": 0.0,
+      "matched_skills": [
+        "machine learning",
+        "programming"
+      ],
+      "matched_courses": [
+        "IFN564",
+        "IFN551",
+        "IFN556",
+        "IFN555",
+        "IFN563",
+        "IFN552"
+      ],
+      "matched_interests": [],
+      "details": {
+        "student_major": "Data Science and Computer Science",
+        "project_majors": [
+          "computer science and data science other majors are also fine"
+        ],
+        "student_skill_count": 25,
+        "project_skill_count": 9,
+        "student_course_count": 8,
+        "project_unit_count": 108
+      }
+    },
+    {
+      "student_id": "n13087663",
+      "student_name": "Peyton Hernandez",
+      "project_name": "JZhang_IFN712 Project Proposal 1_2025_CS ",
+      "total_score": 0.20108996946206253,
+      "skill_score": 0.23813953488372097,
+      "major_score": 0.35555555555555557,
+      "course_score": 0.05454545454545454,
+      "interest_score": 0.0,
+      "matched_skills": [
+        "machine learning",
+        "programming"
+      ],
+      "matched_courses": [
+        "IFN564",
+        "IFN551",
+        "IFN556",
+        "IFN555",
+        "IFN563",
+        "IFN552"
+      ],
+      "matched_interests": [],
+      "details": {
+        "student_major": "Data Science and Computer Science",
+        "project_majors": [
+          "computer science and data science other majors are also fine"
+        ],
+        "student_skill_count": 25,
+        "project_skill_count": 9,
+        "student_course_count": 8,
+        "project_unit_count": 108
+      }
+    },
+    {
+      "student_id": "n12784106",
+      "student_name": "Phoenix Miller",
+      "project_name": "JZhang_IFN712 Project Proposal 1_2025_CS ",
+      "total_score": 0.20108996946206253,
+      "skill_score": 0.23813953488372097,
+      "major_score": 0.35555555555555557,
+      "course_score": 0.05454545454545454,
+      "interest_score": 0.0,
+      "matched_skills": [
+        "machine learning",
+        "programming"
+      ],
+      "matched_courses": [
+        "IFN564",
+        "IFN551",
+        "IFN556",
+        "IFN555",
+        "IFN563",
+        "IFN552"
+      ],
+      "matched_interests": [],
+      "details": {
+        "student_major": "Data Science and Computer Science",
+        "project_majors": [
+          "computer science and data science other majors are also fine"
+        ],
+        "student_skill_count": 25,
+        "project_skill_count": 9,
+        "student_course_count": 8,
+        "project_unit_count": 108
+      }
+    },
+    {
+      "student_id": "n13035893",
+      "student_name": "Taylor Hill",
+      "project_name": "JZhang_IFN712 Project Proposal 1_2025_CS ",
+      "total_score": 0.20108996946206253,
+      "skill_score": 0.23813953488372097,
+      "major_score": 0.35555555555555557,
+      "course_score": 0.05454545454545454,
+      "interest_score": 0.0,
+      "matched_skills": [
+        "machine learning",
+        "programming"
+      ],
+      "matched_courses": [
+        "IFN564",
+        "IFN551",
+        "IFN619",
+        "IFN555",
+        "IFN554",
+        "IFN552"
+      ],
+      "matched_interests": [],
+      "details": {
+        "student_major": "Data Science and Computer Science",
+        "project_majors": [
+          "computer science and data science other majors are also fine"
+        ],
+        "student_skill_count": 26,
+        "project_skill_count": 9,
+        "student_course_count": 8,
+        "project_unit_count": 108
+      }
+    },
+    {
+      "student_id": "n05927857",
+      "student_name": "Devon Johnson",
+      "project_name": "JZhang_IFN712 Project Proposal 1_2025_CS ",
+      "total_score": 0.20108996946206253,
+      "skill_score": 0.23813953488372097,
+      "major_score": 0.35555555555555557,
+      "course_score": 0.05454545454545454,
+      "interest_score": 0.0,
+      "matched_skills": [
+        "machine learning",
+        "programming"
+      ],
+      "matched_courses": [
+        "IFN564",
+        "IFN551",
+        "IFN619",
+        "IFN555",
+        "IFN554",
+        "IFN552"
+      ],
+      "matched_interests": [],
+      "details": {
+        "student_major": "Data Science and Computer Science",
+        "project_majors": [
+          "computer science and data science other majors are also fine"
+        ],
+        "student_skill_count": 26,
+        "project_skill_count": 9,
+        "student_course_count": 8,
+        "project_unit_count": 108
+      }
+    },
+    {
+      "student_id": "n13650218",
+      "student_name": "Hayden Scott",
+      "project_name": "JZhang_IFN712 Project Proposal 1_2025_CS ",
+      "total_score": 0.19963002114164904,
+      "skill_score": 0.3274418604651163,
+      "major_score": 0.0,
+      "course_score": 0.05454545454545454,
+      "interest_score": 0.25,
+      "matched_skills": [
+        "machine learning",
+        "web development",
+        "programming"
+      ],
+      "matched_courses": [
+        "IFN564",
+        "IFN551",
+        "IFN556",
+        "IFN555",
+        "IFN554",
+        "IFN552"
+      ],
+      "matched_interests": [
+        "it project management"
+      ],
+      "details": {
+        "student_major": "Business Analysis",
+        "project_majors": [
+          "computer science and data science other majors are also fine"
+        ],
+        "student_skill_count": 25,
+        "project_skill_count": 9,
+        "student_course_count": 7,
+        "project_unit_count": 108
+      }
+    },
+    {
+      "student_id": "nb065aafc",
+      "student_name": "Cameron Hernandez",
+      "project_name": "JZhang_IFN712 Project Proposal 1_2025_CS ",
+      "total_score": 0.19670777542870568,
+      "skill_score": 0.3113953488372093,
+      "major_score": 0.17777777777777778,
+      "course_score": 0.02727272727272727,
+      "interest_score": 0.0,
+      "matched_skills": [
+        "machine learning",
+        "web development",
+        "programming"
+      ],
+      "matched_courses": [
+        "IFN702",
+        "IFN701",
+        "IFN712"
+      ],
+      "matched_interests": [],
+      "details": {
+        "student_major": "Computer Science",
+        "project_majors": [
+          "computer science and data science other majors are also fine"
+        ],
+        "student_skill_count": 15,
+        "project_skill_count": 9,
+        "student_course_count": 6,
+        "project_unit_count": 108
+      }
+    },
+    {
+      "student_id": "nfd66da84",
+      "student_name": "Rory Johnson",
+      "project_name": "JZhang_IFN712 Project Proposal 1_2025_CS ",
+      "total_score": 0.19670777542870568,
+      "skill_score": 0.3113953488372093,
+      "major_score": 0.17777777777777778,
+      "course_score": 0.02727272727272727,
+      "interest_score": 0.0,
+      "matched_skills": [
+        "machine learning",
+        "web development",
+        "programming"
+      ],
+      "matched_courses": [
+        "IFN702",
+        "IFN701",
+        "IFN712"
+      ],
+      "matched_interests": [],
+      "details": {
+        "student_major": "Computer Science",
+        "project_majors": [
+          "computer science and data science other majors are also fine"
+        ],
+        "student_skill_count": 16,
+        "project_skill_count": 9,
+        "student_course_count": 6,
+        "project_unit_count": 108
+      }
+    },
+    {
+      "student_id": "n08932659",
+      "student_name": "Rory Rodriguez",
+      "project_name": "JZhang_IFN712 Project Proposal 1_2025_CS ",
+      "total_score": 0.18513037350246656,
+      "skill_score": 0.23813953488372097,
+      "major_score": 0.26666666666666666,
+      "course_score": 0.06363636363636363,
+      "interest_score": 0.0,
+      "matched_skills": [
+        "machine learning",
+        "programming"
+      ],
+      "matched_courses": [
+        "IFN552",
+        "IFN619",
+        "IFN556",
+        "IFN555",
+        "IFN554",
+        "IFN551",
+        "IFN623"
+      ],
+      "matched_interests": [],
+      "details": {
+        "student_major": "Computer Science (Specialization in Data Science)",
+        "project_majors": [
+          "computer science and data science other majors are also fine"
+        ],
+        "student_skill_count": 27,
+        "project_skill_count": 9,
+        "student_course_count": 8,
+        "project_unit_count": 108
+      }
+    },
+    {
+      "student_id": "n06365339",
+      "student_name": "Harper Anderson",
+      "project_name": "JZhang_IFN712 Project Proposal 1_2025_CS ",
+      "total_score": 0.18513037350246656,
+      "skill_score": 0.23813953488372097,
+      "major_score": 0.26666666666666666,
+      "course_score": 0.06363636363636363,
+      "interest_score": 0.0,
+      "matched_skills": [
+        "machine learning",
+        "programming"
+      ],
+      "matched_courses": [
+        "IFN564",
+        "IFN556",
+        "IFN554",
+        "IFN555",
+        "IFN563",
+        "IFN552",
+        "IFN551"
+      ],
+      "matched_interests": [],
+      "details": {
+        "student_major": "Data Science (with a minor in Computer Science)",
+        "project_majors": [
+          "computer science and data science other majors are also fine"
+        ],
+        "student_skill_count": 25,
+        "project_skill_count": 9,
+        "student_course_count": 8,
+        "project_unit_count": 108
+      }
+    },
+    {
+      "student_id": "n03780196",
+      "student_name": "Sage Brown",
+      "project_name": "JZhang_IFN712 Project Proposal 1_2025_CS ",
+      "total_score": 0.18331219168428475,
+      "skill_score": 0.23813953488372097,
+      "major_score": 0.26666666666666666,
+      "course_score": 0.05454545454545454,
+      "interest_score": 0.0,
+      "matched_skills": [
+        "machine learning",
+        "programming"
+      ],
+      "matched_courses": [
+        "IFN564",
+        "IFN551",
+        "IFN556",
+        "IFN555",
+        "IFN563",
+        "IFN552"
+      ],
+      "matched_interests": [],
+      "details": {
+        "student_major": "Data Science (Minor in Computer Science)",
+        "project_majors": [
+          "computer science and data science other majors are also fine"
+        ],
+        "student_skill_count": 25,
+        "project_skill_count": 9,
+        "student_course_count": 8,
+        "project_unit_count": 108
+      }
+    },
+    {
+      "student_id": "n00352388",
+      "student_name": "Finley White",
+      "project_name": "JZhang_IFN712 Project Proposal 1_2025_CS ",
+      "total_score": 0.18331219168428475,
+      "skill_score": 0.23813953488372097,
+      "major_score": 0.26666666666666666,
+      "course_score": 0.05454545454545454,
+      "interest_score": 0.0,
+      "matched_skills": [
+        "machine learning",
+        "programming"
+      ],
+      "matched_courses": [
+        "IFN564",
+        "IFN551",
+        "IFN556",
+        "IFN555",
+        "IFN563",
+        "IFN552"
+      ],
+      "matched_interests": [],
+      "details": {
+        "student_major": "Data Science with a Minor in Computer Science",
+        "project_majors": [
+          "computer science and data science other majors are also fine"
+        ],
+        "student_skill_count": 25,
+        "project_skill_count": 9,
+        "student_course_count": 8,
+        "project_unit_count": 108
+      }
+    },
+    {
+      "student_id": "n14519596",
+      "student_name": "Tyler Lopez",
+      "project_name": "JZhang_IFN712 Project Proposal 1_2025_CS ",
+      "total_score": 0.18331219168428475,
+      "skill_score": 0.23813953488372097,
+      "major_score": 0.26666666666666666,
+      "course_score": 0.05454545454545454,
+      "interest_score": 0.0,
+      "matched_skills": [
+        "machine learning",
+        "programming"
+      ],
+      "matched_courses": [
+        "IFN564",
+        "IFN551",
+        "IFN556",
+        "IFN555",
+        "IFN563",
+        "IFN552"
+      ],
+      "matched_interests": [],
+      "details": {
+        "student_major": "Data Science with a minor in Computer Science",
+        "project_majors": [
+          "computer science and data science other majors are also fine"
+        ],
+        "student_skill_count": 25,
+        "project_skill_count": 9,
+        "student_course_count": 8,
+        "project_unit_count": 108
+      }
+    },
+    {
+      "student_id": "n01585387",
+      "student_name": "Blake Flores",
+      "project_name": "JZhang_IFN712 Project Proposal 1_2025_CS ",
+      "total_score": 0.18331219168428475,
+      "skill_score": 0.23813953488372097,
+      "major_score": 0.26666666666666666,
+      "course_score": 0.05454545454545454,
+      "interest_score": 0.0,
+      "matched_skills": [
+        "machine learning",
+        "programming"
+      ],
+      "matched_courses": [
+        "IFN564",
+        "IFN551",
+        "IFN619",
+        "IFN555",
+        "IFN554",
+        "IFN552"
+      ],
+      "matched_interests": [],
+      "details": {
+        "student_major": "Data Science with Computer Systems Specialization",
+        "project_majors": [
+          "computer science and data science other majors are also fine"
+        ],
+        "student_skill_count": 26,
+        "project_skill_count": 9,
+        "student_course_count": 8,
+        "project_unit_count": 108
+      }
+    },
+    {
+      "student_id": "n06992661",
+      "student_name": "Blake Miller",
+      "project_name": "JZhang_IFN712 Project Proposal 1_2025_CS ",
+      "total_score": 0.18331219168428475,
+      "skill_score": 0.23813953488372097,
+      "major_score": 0.26666666666666666,
+      "course_score": 0.05454545454545454,
+      "interest_score": 0.0,
+      "matched_skills": [
+        "machine learning",
+        "programming"
+      ],
+      "matched_courses": [
+        "IFN564",
+        "IFN551",
+        "IFN619",
+        "IFN555",
+        "IFN554",
+        "IFN552"
+      ],
+      "matched_interests": [],
+      "details": {
+        "student_major": "Data Science with a Minor in Computer Science",
+        "project_majors": [
+          "computer science and data science other majors are also fine"
+        ],
+        "student_skill_count": 26,
+        "project_skill_count": 9,
+        "student_course_count": 8,
+        "project_unit_count": 108
+      }
+    },
+    {
+      "student_id": "n07002401",
+      "student_name": "Sydney Nguyen",
+      "project_name": "JZhang_IFN712 Project Proposal 1_2025_CS ",
+      "total_score": 0.18331219168428475,
+      "skill_score": 0.23813953488372097,
+      "major_score": 0.26666666666666666,
+      "course_score": 0.05454545454545454,
+      "interest_score": 0.0,
+      "matched_skills": [
+        "machine learning",
+        "programming"
+      ],
+      "matched_courses": [
+        "IFN564",
+        "IFN551",
+        "IFN619",
+        "IFN555",
+        "IFN554",
+        "IFN552"
+      ],
+      "matched_interests": [],
+      "details": {
+        "student_major": "Data Science with a focus on Computer Systems",
+        "project_majors": [
+          "computer science and data science other majors are also fine"
+        ],
+        "student_skill_count": 26,
+        "project_skill_count": 9,
+        "student_course_count": 8,
+        "project_unit_count": 108
+      }
+    },
+    {
+      "student_id": "n00668490",
+      "student_name": "Jordan Scott",
+      "project_name": "JZhang_IFN712 Project Proposal 1_2025_CS ",
+      "total_score": 0.18331219168428475,
+      "skill_score": 0.23813953488372097,
+      "major_score": 0.26666666666666666,
+      "course_score": 0.05454545454545454,
+      "interest_score": 0.0,
+      "matched_skills": [
+        "machine learning",
+        "programming"
+      ],
+      "matched_courses": [
+        "IFN564",
+        "IFN551",
+        "IFN619",
+        "IFN555",
+        "IFN554",
+        "IFN552"
+      ],
+      "matched_interests": [],
+      "details": {
+        "student_major": "Data Science with a minor in Computer Science",
+        "project_majors": [
+          "computer science and data science other majors are also fine"
+        ],
+        "student_skill_count": 26,
+        "project_skill_count": 9,
+        "student_course_count": 8,
+        "project_unit_count": 108
+      }
+    },
+    {
+      "student_id": "n14421494",
+      "student_name": "Devon Lee",
+      "project_name": "JZhang_IFN712 Project Proposal 1_2025_CS ",
+      "total_score": 0.18292811839323467,
+      "skill_score": 0.29767441860465116,
+      "major_score": 0.0,
+      "course_score": 0.045454545454545456,
+      "interest_score": 0.25,
+      "matched_skills": [
+        "mobile development",
+        "web development",
+        "programming",
+        "networking"
+      ],
+      "matched_courses": [
+        "IFN556",
+        "IFN553",
+        "IFN555",
+        "IFN554",
+        "IFN552"
+      ],
+      "matched_interests": [
+        "agile project management"
+      ],
+      "details": {
+        "student_major": "Software Development",
+        "project_majors": [
+          "computer science and data science other majors are also fine"
+        ],
+        "student_skill_count": 25,
+        "project_skill_count": 9,
+        "student_course_count": 8,
+        "project_unit_count": 108
+      }
+    },
+    {
+      "student_id": "n06988417",
+      "student_name": "Peyton Moore",
+      "project_name": "JZhang_IFN712 Project Proposal 1_2025_CS ",
+      "total_score": 0.18223631665492135,
+      "skill_score": 0.2679069767441861,
+      "major_score": 0.17777777777777778,
+      "course_score": 0.06363636363636363,
+      "interest_score": 0.0,
+      "matched_skills": [
+        "web development",
+        "programming",
+        "networking"
+      ],
+      "matched_courses": [
+        "IFN551",
+        "IFN556",
+        "IFN553",
+        "IFN555",
+        "IFN554",
+        "IFN552",
+        "IFN623"
+      ],
+      "matched_interests": [],
+      "details": {
+        "student_major": "Computer Science",
+        "project_majors": [
+          "computer science and data science other majors are also fine"
+        ],
+        "student_skill_count": 25,
+        "project_skill_count": 9,
+        "student_course_count": 8,
+        "project_unit_count": 108
+      }
+    },
+    {
+      "student_id": "n12405076",
+      "student_name": "Riley White",
+      "project_name": "JZhang_IFN712 Project Proposal 1_2025_CS ",
+      "total_score": 0.17463002114164905,
+      "skill_score": 0.3274418604651163,
+      "major_score": 0.0,
+      "course_score": 0.05454545454545454,
+      "interest_score": 0.0,
+      "matched_skills": [
+        "machine learning",
+        "web development",
+        "programming"
+      ],
+      "matched_courses": [
+        "IFN552",
+        "IFN564",
+        "IFN556",
+        "IFN554",
+        "IFN551",
+        "IFN623"
+      ],
+      "matched_interests": [],
+      "details": {
+        "student_major": "Cyber Security",
+        "project_majors": [
+          "computer science and data science other majors are also fine"
+        ],
+        "student_skill_count": 27,
+        "project_skill_count": 9,
+        "student_course_count": 8,
+        "project_unit_count": 108
+      }
+    },
+    {
+      "student_id": "n06306854",
+      "student_name": "Tyler Williams",
+      "project_name": "JZhang_IFN712 Project Proposal 1_2025_CS ",
+      "total_score": 0.17463002114164905,
+      "skill_score": 0.3274418604651163,
+      "major_score": 0.0,
+      "course_score": 0.05454545454545454,
+      "interest_score": 0.0,
+      "matched_skills": [
+        "machine learning",
+        "web development",
+        "programming"
+      ],
+      "matched_courses": [
+        "IFN552",
+        "IFN564",
+        "IFN556",
+        "IFN554",
+        "IFN551",
+        "IFN623"
+      ],
+      "matched_interests": [],
+      "details": {
+        "student_major": "Cyber Security",
+        "project_majors": [
+          "computer science and data science other majors are also fine"
+        ],
+        "student_skill_count": 27,
+        "project_skill_count": 9,
+        "student_course_count": 8,
+        "project_unit_count": 108
+      }
+    },
+    {
+      "student_id": "n13873661",
+      "student_name": "Skylar Smith",
+      "project_name": "JZhang_IFN712 Project Proposal 1_2025_CS ",
+      "total_score": 0.17463002114164905,
+      "skill_score": 0.3274418604651163,
+      "major_score": 0.0,
+      "course_score": 0.05454545454545454,
+      "interest_score": 0.0,
+      "matched_skills": [
+        "machine learning",
+        "web development",
+        "programming"
+      ],
+      "matched_courses": [
+        "IFN552",
+        "IFN564",
+        "IFN556",
+        "IFN554",
+        "IFN551",
+        "IFN623"
+      ],
+      "matched_interests": [],
+      "details": {
+        "student_major": "Cyber Security",
+        "project_majors": [
+          "computer science and data science other majors are also fine"
+        ],
+        "student_skill_count": 27,
+        "project_skill_count": 9,
+        "student_course_count": 8,
+        "project_unit_count": 108
+      }
+    },
+    {
+      "student_id": "n06718034",
+      "student_name": "Devon Lopez",
+      "project_name": "JZhang_IFN712 Project Proposal 1_2025_CS ",
+      "total_score": 0.17463002114164905,
+      "skill_score": 0.3274418604651163,
+      "major_score": 0.0,
+      "course_score": 0.05454545454545454,
+      "interest_score": 0.0,
+      "matched_skills": [
+        "machine learning",
+        "web development",
+        "programming"
+      ],
+      "matched_courses": [
+        "IFN552",
+        "IFN564",
+        "IFN556",
+        "IFN554",
+        "IFN551",
+        "IFN623"
+      ],
+      "matched_interests": [],
+      "details": {
+        "student_major": "Cyber Security",
+        "project_majors": [
+          "computer science and data science other majors are also fine"
+        ],
+        "student_skill_count": 27,
+        "project_skill_count": 9,
+        "student_course_count": 8,
+        "project_unit_count": 108
+      }
+    },
+    {
+      "student_id": "n02835887",
+      "student_name": "Peyton Jones",
+      "project_name": "JZhang_IFN712 Project Proposal 1_2025_CS ",
+      "total_score": 0.17463002114164905,
+      "skill_score": 0.3274418604651163,
+      "major_score": 0.0,
+      "course_score": 0.05454545454545454,
+      "interest_score": 0.0,
+      "matched_skills": [
+        "machine learning",
+        "web development",
+        "programming"
+      ],
+      "matched_courses": [
+        "IFN552",
+        "IFN564",
+        "IFN556",
+        "IFN554",
+        "IFN551",
+        "IFN623"
+      ],
+      "matched_interests": [],
+      "details": {
+        "student_major": "Cyber Security",
+        "project_majors": [
+          "computer science and data science other majors are also fine"
+        ],
+        "student_skill_count": 27,
+        "project_skill_count": 9,
+        "student_course_count": 8,
+        "project_unit_count": 108
+      }
+    },
+    {
+      "student_id": "n16162654",
+      "student_name": "Jamie Chen",
+      "project_name": "JZhang_IFN712 Project Proposal 1_2025_CS ",
+      "total_score": 0.17463002114164905,
+      "skill_score": 0.3274418604651163,
+      "major_score": 0.0,
+      "course_score": 0.05454545454545454,
+      "interest_score": 0.0,
+      "matched_skills": [
+        "machine learning",
+        "web development",
+        "programming"
+      ],
+      "matched_courses": [
+        "IFN552",
+        "IFN564",
+        "IFN556",
+        "IFN554",
+        "IFN551",
+        "IFN623"
+      ],
+      "matched_interests": [],
+      "details": {
+        "student_major": "Cyber Security",
+        "project_majors": [
+          "computer science and data science other majors are also fine"
+        ],
+        "student_skill_count": 27,
+        "project_skill_count": 9,
+        "student_course_count": 8,
+        "project_unit_count": 108
+      }
+    },
+    {
+      "student_id": "n11497005",
+      "student_name": "Devon White",
+      "project_name": "JZhang_IFN712 Project Proposal 1_2025_CS ",
+      "total_score": 0.17463002114164905,
+      "skill_score": 0.3274418604651163,
+      "major_score": 0.0,
+      "course_score": 0.05454545454545454,
+      "interest_score": 0.0,
+      "matched_skills": [
+        "machine learning",
+        "web development",
+        "programming"
+      ],
+      "matched_courses": [
+        "IFN552",
+        "IFN564",
+        "IFN556",
+        "IFN554",
+        "IFN551",
+        "IFN623"
+      ],
+      "matched_interests": [],
+      "details": {
+        "student_major": "Cyber Security",
+        "project_majors": [
+          "computer science and data science other majors are also fine"
+        ],
+        "student_skill_count": 27,
+        "project_skill_count": 9,
+        "student_course_count": 8,
+        "project_unit_count": 108
+      }
+    },
+    {
+      "student_id": "n05891550",
+      "student_name": "Reagan Chen",
+      "project_name": "JZhang_IFN712 Project Proposal 1_2025_CS ",
+      "total_score": 0.17463002114164905,
+      "skill_score": 0.3274418604651163,
+      "major_score": 0.0,
+      "course_score": 0.05454545454545454,
+      "interest_score": 0.0,
+      "matched_skills": [
+        "machine learning",
+        "web development",
+        "programming"
+      ],
+      "matched_courses": [
+        "IFN564",
+        "IFN551",
+        "IFN556",
+        "IFN555",
+        "IFN554",
+        "IFN552"
+      ],
+      "matched_interests": [],
+      "details": {
+        "student_major": "Business Analysis",
+        "project_majors": [
+          "computer science and data science other majors are also fine"
+        ],
+        "student_skill_count": 25,
+        "project_skill_count": 9,
+        "student_course_count": 7,
+        "project_unit_count": 108
+      }
+    },
+    {
+      "student_id": "n15715574",
+      "student_name": "Morgan Torres",
+      "project_name": "JZhang_IFN712 Project Proposal 1_2025_CS ",
+      "total_score": 0.17463002114164905,
+      "skill_score": 0.3274418604651163,
+      "major_score": 0.0,
+      "course_score": 0.05454545454545454,
+      "interest_score": 0.0,
+      "matched_skills": [
+        "machine learning",
+        "web development",
+        "programming"
+      ],
+      "matched_courses": [
+        "IFN564",
+        "IFN551",
+        "IFN556",
+        "IFN555",
+        "IFN554",
+        "IFN552"
+      ],
+      "matched_interests": [],
+      "details": {
+        "student_major": "Business Analysis",
+        "project_majors": [
+          "computer science and data science other majors are also fine"
+        ],
+        "student_skill_count": 25,
+        "project_skill_count": 9,
+        "student_course_count": 7,
+        "project_unit_count": 108
+      }
+    },
+    {
+      "student_id": "n07213892",
+      "student_name": "Taylor Torres",
+      "project_name": "JZhang_IFN712 Project Proposal 1_2025_CS ",
+      "total_score": 0.17463002114164905,
+      "skill_score": 0.3274418604651163,
+      "major_score": 0.0,
+      "course_score": 0.05454545454545454,
+      "interest_score": 0.0,
+      "matched_skills": [
+        "machine learning",
+        "web development",
+        "programming"
+      ],
+      "matched_courses": [
+        "IFN564",
+        "IFN551",
+        "IFN556",
+        "IFN555",
+        "IFN554",
+        "IFN552"
+      ],
+      "matched_interests": [],
+      "details": {
+        "student_major": "Business Analysis",
+        "project_majors": [
+          "computer science and data science other majors are also fine"
+        ],
+        "student_skill_count": 25,
+        "project_skill_count": 9,
+        "student_course_count": 7,
+        "project_unit_count": 108
+      }
+    },
+    {
+      "student_id": "n08042935",
+      "student_name": "Reese Jones",
+      "project_name": "JZhang_IFN712 Project Proposal 1_2025_CS ",
+      "total_score": 0.17463002114164905,
+      "skill_score": 0.3274418604651163,
+      "major_score": 0.0,
+      "course_score": 0.05454545454545454,
+      "interest_score": 0.0,
+      "matched_skills": [
+        "machine learning",
+        "web development",
+        "programming"
+      ],
+      "matched_courses": [
+        "IFN564",
+        "IFN551",
+        "IFN556",
+        "IFN555",
+        "IFN554",
+        "IFN552"
+      ],
+      "matched_interests": [],
+      "details": {
+        "student_major": "Business Analysis",
+        "project_majors": [
+          "computer science and data science other majors are also fine"
+        ],
+        "student_skill_count": 25,
+        "project_skill_count": 9,
+        "student_course_count": 7,
+        "project_unit_count": 108
+      }
+    },
+    {
+      "student_id": "n01092625",
+      "student_name": "Skylar Young",
+      "project_name": "JZhang_IFN712 Project Proposal 1_2025_CS ",
+      "total_score": 0.17463002114164905,
+      "skill_score": 0.3274418604651163,
+      "major_score": 0.0,
+      "course_score": 0.05454545454545454,
+      "interest_score": 0.0,
+      "matched_skills": [
+        "machine learning",
+        "web development",
+        "programming"
+      ],
+      "matched_courses": [
+        "IFN564",
+        "IFN551",
+        "IFN556",
+        "IFN555",
+        "IFN554",
+        "IFN552"
+      ],
+      "matched_interests": [],
+      "details": {
+        "student_major": "Business Analysis",
+        "project_majors": [
+          "computer science and data science other majors are also fine"
+        ],
+        "student_skill_count": 25,
+        "project_skill_count": 9,
+        "student_course_count": 7,
+        "project_unit_count": 108
+      }
+    },
+    {
+      "student_id": "n09492178",
+      "student_name": "Hayden Moore",
+      "project_name": "JZhang_IFN712 Project Proposal 1_2025_CS ",
+      "total_score": 0.17463002114164905,
+      "skill_score": 0.3274418604651163,
+      "major_score": 0.0,
+      "course_score": 0.05454545454545454,
+      "interest_score": 0.0,
+      "matched_skills": [
+        "machine learning",
+        "web development",
+        "programming"
+      ],
+      "matched_courses": [
+        "IFN564",
+        "IFN551",
+        "IFN556",
+        "IFN555",
+        "IFN554",
+        "IFN552"
+      ],
+      "matched_interests": [],
+      "details": {
+        "student_major": "Business Analysis",
+        "project_majors": [
+          "computer science and data science other majors are also fine"
+        ],
+        "student_skill_count": 25,
+        "project_skill_count": 9,
+        "student_course_count": 7,
+        "project_unit_count": 108
+      }
+    },
+    {
+      "student_id": "n15737619",
+      "student_name": "Rowan Moore",
+      "project_name": "JZhang_IFN712 Project Proposal 1_2025_CS ",
+      "total_score": 0.17463002114164905,
+      "skill_score": 0.3274418604651163,
+      "major_score": 0.0,
+      "course_score": 0.05454545454545454,
+      "interest_score": 0.0,
+      "matched_skills": [
+        "machine learning",
+        "web development",
+        "programming"
+      ],
+      "matched_courses": [
+        "IFN564",
+        "IFN551",
+        "IFN556",
+        "IFN555",
+        "IFN554",
+        "IFN552"
+      ],
+      "matched_interests": [],
+      "details": {
+        "student_major": "Business Analysis",
+        "project_majors": [
+          "computer science and data science other majors are also fine"
+        ],
+        "student_skill_count": 25,
+        "project_skill_count": 9,
+        "student_course_count": 7,
+        "project_unit_count": 108
+      }
+    },
+    {
+      "student_id": "n03009760",
+      "student_name": "Reese Brown",
+      "project_name": "JZhang_IFN712 Project Proposal 1_2025_CS ",
+      "total_score": 0.17463002114164905,
+      "skill_score": 0.3274418604651163,
+      "major_score": 0.0,
+      "course_score": 0.05454545454545454,
+      "interest_score": 0.0,
+      "matched_skills": [
+        "machine learning",
+        "web development",
+        "programming"
+      ],
+      "matched_courses": [
+        "IFN564",
+        "IFN551",
+        "IFN556",
+        "IFN555",
+        "IFN554",
+        "IFN552"
+      ],
+      "matched_interests": [],
+      "details": {
+        "student_major": "Business Analysis",
+        "project_majors": [
+          "computer science and data science other majors are also fine"
+        ],
+        "student_skill_count": 25,
+        "project_skill_count": 9,
+        "student_course_count": 7,
+        "project_unit_count": 108
+      }
+    },
+    {
+      "student_id": "n04003748",
+      "student_name": "Harper Rodriguez",
+      "project_name": "JZhang_IFN712 Project Proposal 1_2025_CS ",
+      "total_score": 0.17281183932346725,
+      "skill_score": 0.3274418604651163,
+      "major_score": 0.0,
+      "course_score": 0.045454545454545456,
+      "interest_score": 0.0,
+      "matched_skills": [
+        "machine learning",
+        "web development",
+        "programming"
+      ],
+      "matched_courses": [
+        "IFN552",
+        "IFN564",
+        "IFN555",
+        "IFN554",
+        "IFN551"
+      ],
+      "matched_interests": [],
+      "details": {
+        "student_major": "Business Analysis",
+        "project_majors": [
+          "computer science and data science other majors are also fine"
+        ],
+        "student_skill_count": 23,
+        "project_skill_count": 9,
+        "student_course_count": 7,
+        "project_unit_count": 108
+      }
+    },
+    {
+      "student_id": "n06813303",
+      "student_name": "Harper White",
+      "project_name": "JZhang_IFN712 Project Proposal 1_2025_CS ",
+      "total_score": 0.16735259572468877,
+      "skill_score": 0.23813953488372097,
+      "major_score": 0.17777777777777778,
+      "course_score": 0.06363636363636363,
+      "interest_score": 0.0,
+      "matched_skills": [
+        "machine learning",
+        "programming"
+      ],
+      "matched_courses": [
+        "IFN564",
+        "IFN619",
+        "IFN554",
+        "IFN555",
+        "IFN563",
+        "IFN552",
+        "IFN551"
+      ],
+      "matched_interests": [],
+      "details": {
+        "student_major": "Data Science",
+        "project_majors": [
+          "computer science and data science other majors are also fine"
+        ],
+        "student_skill_count": 25,
+        "project_skill_count": 9,
+        "student_course_count": 8,
+        "project_unit_count": 108
+      }
+    },
+    {
+      "student_id": "n05458643",
+      "student_name": "Kendall Johnson",
+      "project_name": "JZhang_IFN712 Project Proposal 1_2025_CS ",
+      "total_score": 0.16735259572468877,
+      "skill_score": 0.23813953488372097,
+      "major_score": 0.17777777777777778,
+      "course_score": 0.06363636363636363,
+      "interest_score": 0.0,
+      "matched_skills": [
+        "machine learning",
+        "programming"
+      ],
+      "matched_courses": [
+        "IFN564",
+        "IFN619",
+        "IFN554",
+        "IFN555",
+        "IFN563",
+        "IFN552",
+        "IFN551"
+      ],
+      "matched_interests": [],
+      "details": {
+        "student_major": "Data Science",
+        "project_majors": [
+          "computer science and data science other majors are also fine"
+        ],
+        "student_skill_count": 25,
+        "project_skill_count": 9,
+        "student_course_count": 8,
+        "project_unit_count": 108
+      }
+    },
+    {
+      "student_id": "n09303561",
+      "student_name": "Reagan Hernandez",
+      "project_name": "JZhang_IFN712 Project Proposal 1_2025_CS ",
+      "total_score": 0.16735259572468877,
+      "skill_score": 0.23813953488372097,
+      "major_score": 0.17777777777777778,
+      "course_score": 0.06363636363636363,
+      "interest_score": 0.0,
+      "matched_skills": [
+        "machine learning",
+        "programming"
+      ],
+      "matched_courses": [
+        "IFN564",
+        "IFN556",
+        "IFN554",
+        "IFN555",
+        "IFN563",
+        "IFN552",
+        "IFN551"
+      ],
+      "matched_interests": [],
+      "details": {
+        "student_major": "Data Science",
+        "project_majors": [
+          "computer science and data science other majors are also fine"
+        ],
+        "student_skill_count": 25,
+        "project_skill_count": 9,
+        "student_course_count": 8,
+        "project_unit_count": 108
+      }
+    },
+    {
+      "student_id": "n00767167",
+      "student_name": "Jordan Allen",
+      "project_name": "JZhang_IFN712 Project Proposal 1_2025_CS ",
+      "total_score": 0.16735259572468877,
+      "skill_score": 0.23813953488372097,
+      "major_score": 0.17777777777777778,
+      "course_score": 0.06363636363636363,
+      "interest_score": 0.0,
+      "matched_skills": [
+        "machine learning",
+        "programming"
+      ],
+      "matched_courses": [
+        "IFN564",
+        "IFN556",
+        "IFN554",
+        "IFN555",
+        "IFN563",
+        "IFN552",
+        "IFN551"
+      ],
+      "matched_interests": [],
+      "details": {
+        "student_major": "Data Science",
+        "project_majors": [
+          "computer science and data science other majors are also fine"
+        ],
+        "student_skill_count": 26,
+        "project_skill_count": 9,
+        "student_course_count": 8,
+        "project_unit_count": 108
+      }
+    },
+    {
+      "student_id": "n02264802",
+      "student_name": "Kendall Torres",
+      "project_name": "JZhang_IFN712 Project Proposal 1_2025_CS ",
+      "total_score": 0.16735259572468877,
+      "skill_score": 0.23813953488372097,
+      "major_score": 0.17777777777777778,
+      "course_score": 0.06363636363636363,
+      "interest_score": 0.0,
+      "matched_skills": [
+        "machine learning",
+        "programming"
+      ],
+      "matched_courses": [
+        "IFN564",
+        "IFN556",
+        "IFN554",
+        "IFN555",
+        "IFN563",
+        "IFN552",
+        "IFN551"
+      ],
+      "matched_interests": [],
+      "details": {
+        "student_major": "Data Science",
+        "project_majors": [
+          "computer science and data science other majors are also fine"
+        ],
+        "student_skill_count": 25,
+        "project_skill_count": 9,
+        "student_course_count": 8,
+        "project_unit_count": 108
+      }
+    },
+    {
+      "student_id": "n14683409",
+      "student_name": "Peyton Flores",
+      "project_name": "JZhang_IFN712 Project Proposal 1_2025_CS ",
+      "total_score": 0.16735259572468877,
+      "skill_score": 0.23813953488372097,
+      "major_score": 0.17777777777777778,
+      "course_score": 0.06363636363636363,
+      "interest_score": 0.0,
+      "matched_skills": [
+        "machine learning",
+        "programming"
+      ],
+      "matched_courses": [
+        "IFN564",
+        "IFN556",
+        "IFN554",
+        "IFN555",
+        "IFN563",
+        "IFN552",
+        "IFN551"
+      ],
+      "matched_interests": [],
+      "details": {
+        "student_major": "Data Science",
+        "project_majors": [
+          "computer science and data science other majors are also fine"
+        ],
+        "student_skill_count": 25,
+        "project_skill_count": 9,
+        "student_course_count": 8,
+        "project_unit_count": 108
+      }
+    },
+    {
+      "student_id": "n05856469",
+      "student_name": "Parker Taylor",
+      "project_name": "JZhang_IFN712 Project Proposal 1_2025_CS ",
+      "total_score": 0.16661028893587035,
+      "skill_score": 0.20837209302325582,
+      "major_score": 0.26666666666666666,
+      "course_score": 0.045454545454545456,
+      "interest_score": 0.0,
+      "matched_skills": [
+        "mobile development",
+        "web development",
+        "networking"
+      ],
+      "matched_courses": [
+        "IFN552",
+        "IFN553",
+        "IFN554",
+        "IFN551",
+        "IFN623"
+      ],
+      "matched_interests": [],
+      "details": {
+        "student_major": "Software Development and Computer Science",
+        "project_majors": [
+          "computer science and data science other majors are also fine"
+        ],
+        "student_skill_count": 22,
+        "project_skill_count": 9,
+        "student_course_count": 8,
+        "project_unit_count": 108
+      }
+    },
+    {
+      "student_id": "n00114716",
+      "student_name": "Finley Thompson",
+      "project_name": "JZhang_IFN712 Project Proposal 1_2025_CS ",
+      "total_score": 0.16553441390650697,
+      "skill_score": 0.23813953488372097,
+      "major_score": 0.17777777777777778,
+      "course_score": 0.05454545454545454,
+      "interest_score": 0.0,
+      "matched_skills": [
+        "machine learning",
+        "programming"
+      ],
+      "matched_courses": [
+        "IFN551",
+        "IFN619",
+        "IFN555",
+        "IFN563",
+        "IFN552",
+        "IFN556"
+      ],
+      "matched_interests": [],
+      "details": {
+        "student_major": "Computer Science",
+        "project_majors": [
+          "computer science and data science other majors are also fine"
+        ],
+        "student_skill_count": 28,
+        "project_skill_count": 9,
+        "student_course_count": 8,
+        "project_unit_count": 108
+      }
+    },
+    {
+      "student_id": "n09394187",
+      "student_name": "Riley Jackson",
+      "project_name": "JZhang_IFN712 Project Proposal 1_2025_CS ",
+      "total_score": 0.16553441390650697,
+      "skill_score": 0.23813953488372097,
+      "major_score": 0.17777777777777778,
+      "course_score": 0.05454545454545454,
+      "interest_score": 0.0,
+      "matched_skills": [
+        "machine learning",
+        "programming"
+      ],
+      "matched_courses": [
+        "IFN551",
+        "IFN619",
+        "IFN555",
+        "IFN563",
+        "IFN552",
+        "IFN556"
+      ],
+      "matched_interests": [],
+      "details": {
+        "student_major": "Data Science",
+        "project_majors": [
+          "computer science and data science other majors are also fine"
+        ],
+        "student_skill_count": 26,
+        "project_skill_count": 9,
+        "student_course_count": 8,
+        "project_unit_count": 108
+      }
+    },
+    {
+      "student_id": "n01737848",
+      "student_name": "Sydney Martin",
+      "project_name": "JZhang_IFN712 Project Proposal 1_2025_CS ",
+      "total_score": 0.16553441390650697,
+      "skill_score": 0.23813953488372097,
+      "major_score": 0.17777777777777778,
+      "course_score": 0.05454545454545454,
+      "interest_score": 0.0,
+      "matched_skills": [
+        "machine learning",
+        "programming"
+      ],
+      "matched_courses": [
+        "IFN551",
+        "IFN619",
+        "IFN555",
+        "IFN563",
+        "IFN552",
+        "IFN556"
+      ],
+      "matched_interests": [],
+      "details": {
+        "student_major": "Data Science",
+        "project_majors": [
+          "computer science and data science other majors are also fine"
+        ],
+        "student_skill_count": 26,
+        "project_skill_count": 9,
+        "student_course_count": 8,
+        "project_unit_count": 108
+      }
+    },
+    {
+      "student_id": "n04552993",
+      "student_name": "Quinn King",
+      "project_name": "JZhang_IFN712 Project Proposal 1_2025_CS ",
+      "total_score": 0.16553441390650697,
+      "skill_score": 0.23813953488372097,
+      "major_score": 0.17777777777777778,
+      "course_score": 0.05454545454545454,
+      "interest_score": 0.0,
+      "matched_skills": [
+        "machine learning",
+        "programming"
+      ],
+      "matched_courses": [
+        "IFN551",
+        "IFN619",
+        "IFN555",
+        "IFN563",
+        "IFN552",
+        "IFN556"
+      ],
+      "matched_interests": [],
+      "details": {
+        "student_major": "Data Science",
+        "project_majors": [
+          "computer science and data science other majors are also fine"
+        ],
+        "student_skill_count": 26,
+        "project_skill_count": 9,
+        "student_course_count": 8,
+        "project_unit_count": 108
+      }
+    },
+    {
+      "student_id": "n13907629",
+      "student_name": "Riley Rodriguez",
+      "project_name": "JZhang_IFN712 Project Proposal 1_2025_CS ",
+      "total_score": 0.16553441390650697,
+      "skill_score": 0.23813953488372097,
+      "major_score": 0.17777777777777778,
+      "course_score": 0.05454545454545454,
+      "interest_score": 0.0,
+      "matched_skills": [
+        "machine learning",
+        "programming"
+      ],
+      "matched_courses": [
+        "IFN551",
+        "IFN619",
+        "IFN555",
+        "IFN563",
+        "IFN552",
+        "IFN556"
+      ],
+      "matched_interests": [],
+      "details": {
+        "student_major": "Data Science",
+        "project_majors": [
+          "computer science and data science other majors are also fine"
+        ],
+        "student_skill_count": 26,
+        "project_skill_count": 9,
+        "student_course_count": 8,
+        "project_unit_count": 108
+      }
+    },
+    {
+      "student_id": "n13857326",
+      "student_name": "Morgan Williams",
+      "project_name": "JZhang_IFN712 Project Proposal 1_2025_CS ",
+      "total_score": 0.16553441390650697,
+      "skill_score": 0.23813953488372097,
+      "major_score": 0.17777777777777778,
+      "course_score": 0.05454545454545454,
+      "interest_score": 0.0,
+      "matched_skills": [
+        "machine learning",
+        "programming"
+      ],
+      "matched_courses": [
+        "IFN552",
+        "IFN564",
+        "IFN619",
+        "IFN563",
+        "IFN554",
+        "IFN551"
+      ],
+      "matched_interests": [],
+      "details": {
+        "student_major": "Data Science",
+        "project_majors": [
+          "computer science and data science other majors are also fine"
+        ],
+        "student_skill_count": 24,
+        "project_skill_count": 9,
+        "student_course_count": 8,
+        "project_unit_count": 108
+      }
+    },
+    {
+      "student_id": "n06114515",
+      "student_name": "Devon Williams",
+      "project_name": "JZhang_IFN712 Project Proposal 1_2025_CS ",
+      "total_score": 0.16553441390650697,
+      "skill_score": 0.23813953488372097,
+      "major_score": 0.17777777777777778,
+      "course_score": 0.05454545454545454,
+      "interest_score": 0.0,
+      "matched_skills": [
+        "machine learning",
+        "programming"
+      ],
+      "matched_courses": [
+        "IFN564",
+        "IFN551",
+        "IFN556",
+        "IFN555",
+        "IFN563",
+        "IFN552"
+      ],
+      "matched_interests": [],
+      "details": {
+        "student_major": "Data Science",
+        "project_majors": [
+          "computer science and data science other majors are also fine"
+        ],
+        "student_skill_count": 25,
+        "project_skill_count": 9,
+        "student_course_count": 8,
+        "project_unit_count": 108
+      }
+    },
+    {
+      "student_id": "n01159145",
+      "student_name": "Rory Wilson",
+      "project_name": "JZhang_IFN712 Project Proposal 1_2025_CS ",
+      "total_score": 0.16553441390650697,
+      "skill_score": 0.23813953488372097,
+      "major_score": 0.17777777777777778,
+      "course_score": 0.05454545454545454,
+      "interest_score": 0.0,
+      "matched_skills": [
+        "machine learning",
+        "programming"
+      ],
+      "matched_courses": [
+        "IFN564",
+        "IFN551",
+        "IFN619",
+        "IFN555",
+        "IFN554",
+        "IFN552"
+      ],
+      "matched_interests": [],
+      "details": {
+        "student_major": "Data Science",
+        "project_majors": [
+          "computer science and data science other majors are also fine"
+        ],
+        "student_skill_count": 26,
+        "project_skill_count": 9,
+        "student_course_count": 8,
+        "project_unit_count": 108
+      }
+    },
+    {
+      "student_id": "n06976848",
+      "student_name": "Jordan Harris",
+      "project_name": "JZhang_IFN712 Project Proposal 1_2025_CS ",
+      "total_score": 0.16553441390650697,
+      "skill_score": 0.23813953488372097,
+      "major_score": 0.17777777777777778,
+      "course_score": 0.05454545454545454,
+      "interest_score": 0.0,
+      "matched_skills": [
+        "machine learning",
+        "programming"
+      ],
+      "matched_courses": [
+        "IFN564",
+        "IFN551",
+        "IFN619",
+        "IFN555",
+        "IFN554",
+        "IFN552"
+      ],
+      "matched_interests": [],
+      "details": {
+        "student_major": "Data Science",
+        "project_majors": [
+          "computer science and data science other majors are also fine"
+        ],
+        "student_skill_count": 26,
+        "project_skill_count": 9,
+        "student_course_count": 8,
+        "project_unit_count": 108
+      }
+    },
+    {
+      "student_id": "n10303522",
+      "student_name": "Cameron Miller",
+      "project_name": "JZhang_IFN712 Project Proposal 1_2025_CS ",
+      "total_score": 0.16553441390650697,
+      "skill_score": 0.23813953488372097,
+      "major_score": 0.17777777777777778,
+      "course_score": 0.05454545454545454,
+      "interest_score": 0.0,
+      "matched_skills": [
+        "machine learning",
+        "programming"
+      ],
+      "matched_courses": [
+        "IFN564",
+        "IFN551",
+        "IFN619",
+        "IFN555",
+        "IFN554",
+        "IFN552"
+      ],
+      "matched_interests": [],
+      "details": {
+        "student_major": "Data Science",
+        "project_majors": [
+          "computer science and data science other majors are also fine"
+        ],
+        "student_skill_count": 26,
+        "project_skill_count": 9,
+        "student_course_count": 8,
+        "project_unit_count": 108
+      }
+    },
+    {
+      "student_id": "n11998054",
+      "student_name": "Harper Thompson",
+      "project_name": "JZhang_IFN712 Project Proposal 1_2025_CS ",
+      "total_score": 0.16553441390650697,
+      "skill_score": 0.23813953488372097,
+      "major_score": 0.17777777777777778,
+      "course_score": 0.05454545454545454,
+      "interest_score": 0.0,
+      "matched_skills": [
+        "machine learning",
+        "programming"
+      ],
+      "matched_courses": [
+        "IFN564",
+        "IFN551",
+        "IFN619",
+        "IFN555",
+        "IFN554",
+        "IFN552"
+      ],
+      "matched_interests": [],
+      "details": {
+        "student_major": "Data Science",
+        "project_majors": [
+          "computer science and data science other majors are also fine"
+        ],
+        "student_skill_count": 26,
+        "project_skill_count": 9,
+        "student_course_count": 8,
+        "project_unit_count": 108
+      }
+    },
+    {
+      "student_id": "n06955897",
+      "student_name": "Finley Flores",
+      "project_name": "JZhang_IFN712 Project Proposal 1_2025_CS ",
+      "total_score": 0.16371623208832514,
+      "skill_score": 0.23813953488372097,
+      "major_score": 0.17777777777777778,
+      "course_score": 0.045454545454545456,
+      "interest_score": 0.0,
+      "matched_skills": [
+        "machine learning",
+        "programming"
+      ],
+      "matched_courses": [
+        "IFN619",
+        "IFN555",
+        "IFN563",
+        "IFN552",
+        "IFN551"
+      ],
+      "matched_interests": [],
+      "details": {
+        "student_major": "Data Science",
+        "project_majors": [
+          "computer science and data science other majors are also fine"
+        ],
+        "student_skill_count": 24,
+        "project_skill_count": 9,
+        "student_course_count": 8,
+        "project_unit_count": 108
+      }
+    },
+    {
+      "student_id": "n335f2be5",
+      "student_name": "Finley Flores",
+      "project_name": "JZhang_IFN712 Project Proposal 1_2025_CS ",
+      "total_score": 0.1600798684519615,
+      "skill_score": 0.23813953488372097,
+      "major_score": 0.17777777777777778,
+      "course_score": 0.02727272727272727,
+      "interest_score": 0.0,
+      "matched_skills": [
+        "machine learning",
+        "programming"
+      ],
+      "matched_courses": [
+        "IFN702",
+        "IFN701",
+        "IFN712"
+      ],
+      "matched_interests": [],
+      "details": {
+        "student_major": "Computer Science",
+        "project_majors": [
+          "computer science and data science other majors are also fine"
+        ],
+        "student_skill_count": 14,
+        "project_skill_count": 9,
+        "student_course_count": 6,
+        "project_unit_count": 108
+      }
+    },
+    {
+      "student_id": "n72f28e37",
+      "student_name": "Emery Taylor",
+      "project_name": "JZhang_IFN712 Project Proposal 1_2025_CS ",
+      "total_score": 0.1600798684519615,
+      "skill_score": 0.23813953488372097,
+      "major_score": 0.17777777777777778,
+      "course_score": 0.02727272727272727,
+      "interest_score": 0.0,
+      "matched_skills": [
+        "machine learning",
+        "programming"
+      ],
+      "matched_courses": [
+        "IFN702",
+        "IFN701",
+        "IFN712"
+      ],
+      "matched_interests": [],
+      "details": {
+        "student_major": "Computer Science",
+        "project_majors": [
+          "computer science and data science other majors are also fine"
+        ],
+        "student_skill_count": 15,
+        "project_skill_count": 9,
+        "student_course_count": 6,
+        "project_unit_count": 108
+      }
+    },
+    {
+      "student_id": "nba9e3de4",
+      "student_name": "Peyton Hill",
+      "project_name": "JZhang_IFN712 Project Proposal 1_2025_CS ",
+      "total_score": 0.1600798684519615,
+      "skill_score": 0.23813953488372097,
+      "major_score": 0.17777777777777778,
+      "course_score": 0.02727272727272727,
+      "interest_score": 0.0,
+      "matched_skills": [
+        "machine learning",
+        "programming"
+      ],
+      "matched_courses": [
+        "IFN702",
+        "IFN701",
+        "IFN712"
+      ],
+      "matched_interests": [],
+      "details": {
+        "student_major": "Computer Science",
+        "project_majors": [
+          "computer science and data science other majors are also fine"
+        ],
+        "student_skill_count": 13,
+        "project_skill_count": 9,
+        "student_course_count": 6,
+        "project_unit_count": 108
+      }
+    },
+    {
+      "student_id": "n08267843",
+      "student_name": "Skylar Williams",
+      "project_name": "JZhang_IFN712 Project Proposal 1_2025_CS ",
+      "total_score": 0.15792811839323467,
+      "skill_score": 0.29767441860465116,
+      "major_score": 0.0,
+      "course_score": 0.045454545454545456,
+      "interest_score": 0.0,
+      "matched_skills": [
+        "mobile development",
+        "web development",
+        "programming",
+        "networking"
+      ],
+      "matched_courses": [
+        "IFN556",
+        "IFN553",
+        "IFN555",
+        "IFN554",
+        "IFN552"
+      ],
+      "matched_interests": [],
+      "details": {
+        "student_major": "Software Development",
+        "project_majors": [
+          "computer science and data science other majors are also fine"
+        ],
+        "student_skill_count": 25,
+        "project_skill_count": 9,
+        "student_course_count": 8,
+        "project_unit_count": 108
+      }
+    },
+    {
+      "student_id": "n15914596",
+      "student_name": "Rory Wright",
+      "project_name": "JZhang_IFN712 Project Proposal 1_2025_CS ",
+      "total_score": 0.15792811839323467,
+      "skill_score": 0.29767441860465116,
+      "major_score": 0.0,
+      "course_score": 0.045454545454545456,
+      "interest_score": 0.0,
+      "matched_skills": [
+        "mobile development",
+        "web development",
+        "programming",
+        "networking"
+      ],
+      "matched_courses": [
+        "IFN556",
+        "IFN553",
+        "IFN555",
+        "IFN554",
+        "IFN552"
+      ],
+      "matched_interests": [],
+      "details": {
+        "student_major": "Software Development",
+        "project_majors": [
+          "computer science and data science other majors are also fine"
+        ],
+        "student_skill_count": 25,
+        "project_skill_count": 9,
+        "student_course_count": 8,
+        "project_unit_count": 108
+      }
+    },
+    {
+      "student_id": "n14494432",
+      "student_name": "Devon Johnson",
+      "project_name": "JZhang_IFN712 Project Proposal 1_2025_CS ",
+      "total_score": 0.15792811839323467,
+      "skill_score": 0.29767441860465116,
+      "major_score": 0.0,
+      "course_score": 0.045454545454545456,
+      "interest_score": 0.0,
+      "matched_skills": [
+        "mobile development",
+        "web development",
+        "programming",
+        "networking"
+      ],
+      "matched_courses": [
+        "IFN556",
+        "IFN553",
+        "IFN555",
+        "IFN554",
+        "IFN552"
+      ],
+      "matched_interests": [],
+      "details": {
+        "student_major": "Software Development",
+        "project_majors": [
+          "computer science and data science other majors are also fine"
+        ],
+        "student_skill_count": 25,
+        "project_skill_count": 9,
+        "student_course_count": 8,
+        "project_unit_count": 108
+      }
+    },
+    {
+      "student_id": "n06136847",
+      "student_name": "Avery Brown",
+      "project_name": "JZhang_IFN712 Project Proposal 1_2025_CS ",
+      "total_score": 0.15792811839323467,
+      "skill_score": 0.29767441860465116,
+      "major_score": 0.0,
+      "course_score": 0.045454545454545456,
+      "interest_score": 0.0,
+      "matched_skills": [
+        "mobile development",
+        "web development",
+        "programming",
+        "networking"
+      ],
+      "matched_courses": [
+        "IFN556",
+        "IFN553",
+        "IFN555",
+        "IFN554",
+        "IFN552"
+      ],
+      "matched_interests": [],
+      "details": {
+        "student_major": "Software Development",
+        "project_majors": [
+          "computer science and data science other majors are also fine"
+        ],
+        "student_skill_count": 25,
+        "project_skill_count": 9,
+        "student_course_count": 8,
+        "project_unit_count": 108
+      }
+    },
+    {
+      "student_id": "n03583544",
+      "student_name": "Rowan Lee",
+      "project_name": "JZhang_IFN712 Project Proposal 1_2025_CS ",
+      "total_score": 0.15792811839323467,
+      "skill_score": 0.29767441860465116,
+      "major_score": 0.0,
+      "course_score": 0.045454545454545456,
+      "interest_score": 0.0,
+      "matched_skills": [
+        "mobile development",
+        "web development",
+        "programming",
+        "networking"
+      ],
+      "matched_courses": [
+        "IFN556",
+        "IFN553",
+        "IFN555",
+        "IFN554",
+        "IFN552"
+      ],
+      "matched_interests": [],
+      "details": {
+        "student_major": "Software Development",
+        "project_majors": [
+          "computer science and data science other majors are also fine"
+        ],
+        "student_skill_count": 25,
+        "project_skill_count": 9,
+        "student_course_count": 8,
+        "project_unit_count": 108
+      }
+    },
+    {
+      "student_id": "n01368381",
+      "student_name": "Harper Garcia",
+      "project_name": "JZhang_IFN712 Project Proposal 1_2025_CS ",
+      "total_score": 0.15792811839323467,
+      "skill_score": 0.29767441860465116,
+      "major_score": 0.0,
+      "course_score": 0.045454545454545456,
+      "interest_score": 0.0,
+      "matched_skills": [
+        "mobile development",
+        "web development",
+        "programming",
+        "networking"
+      ],
+      "matched_courses": [
+        "IFN556",
+        "IFN553",
+        "IFN555",
+        "IFN554",
+        "IFN552"
+      ],
+      "matched_interests": [],
+      "details": {
+        "student_major": "Software Development",
+        "project_majors": [
+          "computer science and data science other majors are also fine"
+        ],
+        "student_skill_count": 25,
+        "project_skill_count": 9,
+        "student_course_count": 8,
+        "project_unit_count": 108
+      }
+    },
+    {
+      "student_id": "n10995912",
+      "student_name": "Rowan Moore",
+      "project_name": "JZhang_IFN712 Project Proposal 1_2025_CS ",
+      "total_score": 0.15792811839323467,
+      "skill_score": 0.29767441860465116,
+      "major_score": 0.0,
+      "course_score": 0.045454545454545456,
+      "interest_score": 0.0,
+      "matched_skills": [
+        "mobile development",
+        "web development",
+        "programming",
+        "networking"
+      ],
+      "matched_courses": [
+        "IFN556",
+        "IFN553",
+        "IFN555",
+        "IFN554",
+        "IFN552"
+      ],
+      "matched_interests": [],
+      "details": {
+        "student_major": "Software Development",
+        "project_majors": [
+          "computer science and data science other majors are also fine"
+        ],
+        "student_skill_count": 25,
+        "project_skill_count": 9,
+        "student_course_count": 8,
+        "project_unit_count": 108
+      }
+    },
+    {
+      "student_id": "n03507662",
+      "student_name": "Madison Jackson",
+      "project_name": "JZhang_IFN712 Project Proposal 1_2025_CS ",
+      "total_score": 0.15792811839323467,
+      "skill_score": 0.29767441860465116,
+      "major_score": 0.0,
+      "course_score": 0.045454545454545456,
+      "interest_score": 0.0,
+      "matched_skills": [
+        "mobile development",
+        "web development",
+        "programming",
+        "networking"
+      ],
+      "matched_courses": [
+        "IFN556",
+        "IFN553",
+        "IFN555",
+        "IFN554",
+        "IFN552"
+      ],
+      "matched_interests": [],
+      "details": {
+        "student_major": "Software Development",
+        "project_majors": [
+          "computer science and data science other majors are also fine"
+        ],
+        "student_skill_count": 24,
+        "project_skill_count": 9,
+        "student_course_count": 8,
+        "project_unit_count": 108
+      }
+    },
+    {
+      "student_id": "n05009103",
+      "student_name": "Logan Miller",
+      "project_name": "JZhang_IFN712 Project Proposal 1_2025_CS ",
+      "total_score": 0.15792811839323467,
+      "skill_score": 0.29767441860465116,
+      "major_score": 0.0,
+      "course_score": 0.045454545454545456,
+      "interest_score": 0.0,
+      "matched_skills": [
+        "mobile development",
+        "web development",
+        "programming",
+        "networking"
+      ],
+      "matched_courses": [
+        "IFN556",
+        "IFN553",
+        "IFN555",
+        "IFN554",
+        "IFN552"
+      ],
+      "matched_interests": [],
+      "details": {
+        "student_major": "Software Development",
+        "project_majors": [
+          "computer science and data science other majors are also fine"
+        ],
+        "student_skill_count": 25,
+        "project_skill_count": 9,
+        "student_course_count": 8,
+        "project_unit_count": 108
+      }
+    },
+    {
+      "student_id": "n09324256",
+      "student_name": "Madison Hernandez",
+      "project_name": "JZhang_IFN712 Project Proposal 1_2025_CS ",
+      "total_score": 0.15536293164200143,
+      "skill_score": 0.17860465116279073,
+      "major_score": 0.26666666666666666,
+      "course_score": 0.06363636363636363,
+      "interest_score": 0.0,
+      "matched_skills": [
+        "programming",
+        "networking"
+      ],
+      "matched_courses": [
+        "IFN551",
+        "IFN556",
+        "IFN553",
+        "IFN555",
+        "IFN554",
+        "IFN552",
+        "IFN623"
+      ],
+      "matched_interests": [],
+      "details": {
+        "student_major": "Computer Science and Software Engineering",
+        "project_majors": [
+          "computer science and data science other majors are also fine"
+        ],
+        "student_skill_count": 22,
+        "project_skill_count": 9,
+        "student_course_count": 8,
+        "project_unit_count": 108
+      }
+    },
+    {
+      "student_id": "n15664732",
+      "student_name": "Rory Flores",
+      "project_name": "JZhang_IFN712 Project Proposal 1_2025_CS ",
+      "total_score": 0.1535447498238196,
+      "skill_score": 0.17860465116279073,
+      "major_score": 0.26666666666666666,
+      "course_score": 0.05454545454545454,
+      "interest_score": 0.0,
+      "matched_skills": [
+        "web development",
+        "programming"
+      ],
+      "matched_courses": [
+        "IFN551",
+        "IFN619",
+        "IFN555",
+        "IFN552",
+        "IFN556",
+        "IFN623"
+      ],
+      "matched_interests": [],
+      "details": {
+        "student_major": "Computer Science and Cybersecurity",
+        "project_majors": [
+          "computer science and data science other majors are also fine"
+        ],
+        "student_skill_count": 27,
+        "project_skill_count": 9,
+        "student_course_count": 8,
+        "project_unit_count": 108
+      }
+    },
+    {
+      "student_id": "n00596089",
+      "student_name": "Madison White",
+      "project_name": "JZhang_IFN712 Project Proposal 1_2025_CS ",
+      "total_score": 0.1535447498238196,
+      "skill_score": 0.17860465116279073,
+      "major_score": 0.26666666666666666,
+      "course_score": 0.05454545454545454,
+      "interest_score": 0.0,
+      "matched_skills": [
+        "web development",
+        "programming"
+      ],
+      "matched_courses": [
+        "IFN551",
+        "IFN619",
+        "IFN555",
+        "IFN552",
+        "IFN556",
+        "IFN623"
+      ],
+      "matched_interests": [],
+      "details": {
+        "student_major": "Computer Science with a minor in Data Science",
+        "project_majors": [
+          "computer science and data science other majors are also fine"
+        ],
+        "student_skill_count": 27,
+        "project_skill_count": 9,
+        "student_course_count": 8,
+        "project_unit_count": 108
+      }
+    },
+    {
+      "student_id": "n12231776",
+      "student_name": "Casey Anderson",
+      "project_name": "JZhang_IFN712 Project Proposal 1_2025_CS ",
+      "total_score": 0.1535447498238196,
+      "skill_score": 0.17860465116279073,
+      "major_score": 0.26666666666666666,
+      "course_score": 0.05454545454545454,
+      "interest_score": 0.0,
+      "matched_skills": [
+        "web development",
+        "programming"
+      ],
+      "matched_courses": [
+        "IFN551",
+        "IFN619",
+        "IFN555",
+        "IFN552",
+        "IFN556",
+        "IFN623"
+      ],
+      "matched_interests": [],
+      "details": {
+        "student_major": "Computer Science with a Minor in Data Science",
+        "project_majors": [
+          "computer science and data science other majors are also fine"
+        ],
+        "student_skill_count": 27,
+        "project_skill_count": 9,
+        "student_course_count": 8,
+        "project_unit_count": 108
+      }
+    },
+    {
+      "student_id": "n04837386",
+      "student_name": "Blake White",
+      "project_name": "JZhang_IFN712 Project Proposal 1_2025_CS ",
+      "total_score": 0.14883251115809257,
+      "skill_score": 0.20837209302325582,
+      "major_score": 0.17777777777777778,
+      "course_score": 0.045454545454545456,
+      "interest_score": 0.0,
+      "matched_skills": [
+        "mobile development",
+        "web development",
+        "networking"
+      ],
+      "matched_courses": [
+        "IFN552",
+        "IFN553",
+        "IFN554",
+        "IFN551",
+        "IFN623"
+      ],
+      "matched_interests": [],
+      "details": {
+        "student_major": "Software Development and Computer Systems",
+        "project_majors": [
+          "computer science and data science other majors are also fine"
+        ],
+        "student_skill_count": 22,
+        "project_skill_count": 9,
+        "student_course_count": 8,
+        "project_unit_count": 108
+      }
+    },
+    {
+      "student_id": "n12638212",
+      "student_name": "Riley Young",
+      "project_name": "JZhang_IFN712 Project Proposal 1_2025_CS ",
+      "total_score": 0.14883251115809257,
+      "skill_score": 0.20837209302325582,
+      "major_score": 0.17777777777777778,
+      "course_score": 0.045454545454545456,
+      "interest_score": 0.0,
+      "matched_skills": [
+        "mobile development",
+        "web development",
+        "networking"
+      ],
+      "matched_courses": [
+        "IFN552",
+        "IFN553",
+        "IFN554",
+        "IFN551",
+        "IFN623"
+      ],
+      "matched_interests": [],
+      "details": {
+        "student_major": "Software Development with a Minor in Computer Science",
+        "project_majors": [
+          "computer science and data science other majors are also fine"
+        ],
+        "student_skill_count": 22,
+        "project_skill_count": 9,
+        "student_course_count": 8,
+        "project_unit_count": 108
+      }
+    },
+    {
+      "student_id": "n03869948",
+      "student_name": "Taylor Rodriguez",
+      "project_name": "JZhang_IFN712 Project Proposal 1_2025_CS ",
+      "total_score": 0.1466807610993658,
+      "skill_score": 0.2679069767441861,
+      "major_score": 0.0,
+      "course_score": 0.06363636363636363,
+      "interest_score": 0.0,
+      "matched_skills": [
+        "web development",
+        "programming",
+        "networking"
+      ],
+      "matched_courses": [
+        "IFN551",
+        "IFN556",
+        "IFN553",
+        "IFN555",
+        "IFN554",
+        "IFN552",
+        "IFN623"
+      ],
+      "matched_interests": [],
+      "details": {
+        "student_major": "Software Development",
+        "project_majors": [
+          "computer science and data science other majors are also fine"
+        ],
+        "student_skill_count": 25,
+        "project_skill_count": 9,
+        "student_course_count": 8,
+        "project_unit_count": 108
+      }
+    },
+    {
+      "student_id": "n09544816",
+      "student_name": "Kendall Moore",
+      "project_name": "JZhang_IFN712 Project Proposal 1_2025_CS ",
+      "total_score": 0.1466807610993658,
+      "skill_score": 0.2679069767441861,
+      "major_score": 0.0,
+      "course_score": 0.06363636363636363,
+      "interest_score": 0.0,
+      "matched_skills": [
+        "web development",
+        "programming",
+        "networking"
+      ],
+      "matched_courses": [
+        "IFN551",
+        "IFN556",
+        "IFN553",
+        "IFN555",
+        "IFN554",
+        "IFN552",
+        "IFN623"
+      ],
+      "matched_interests": [],
+      "details": {
+        "student_major": "Software Development",
+        "project_majors": [
+          "computer science and data science other majors are also fine"
+        ],
+        "student_skill_count": 25,
+        "project_skill_count": 9,
+        "student_course_count": 8,
+        "project_unit_count": 108
+      }
+    },
+    {
+      "student_id": "n02448239",
+      "student_name": "Finley Lopez",
+      "project_name": "JZhang_IFN712 Project Proposal 1_2025_CS ",
+      "total_score": 0.13758515386422365,
+      "skill_score": 0.17860465116279073,
+      "major_score": 0.17777777777777778,
+      "course_score": 0.06363636363636363,
+      "interest_score": 0.0,
+      "matched_skills": [
+        "programming",
+        "networking"
+      ],
+      "matched_courses": [
+        "IFN551",
+        "IFN556",
+        "IFN553",
+        "IFN555",
+        "IFN554",
+        "IFN552",
+        "IFN623"
+      ],
+      "matched_interests": [],
+      "details": {
+        "student_major": "Software Development and Computer Engineering",
+        "project_majors": [
+          "computer science and data science other majors are also fine"
+        ],
+        "student_skill_count": 22,
+        "project_skill_count": 9,
+        "student_course_count": 8,
+        "project_unit_count": 108
+      }
+    },
+    {
+      "student_id": "n10078927",
+      "student_name": "Drew Torres",
+      "project_name": "JZhang_IFN712 Project Proposal 1_2025_CS ",
+      "total_score": 0.13758515386422365,
+      "skill_score": 0.17860465116279073,
+      "major_score": 0.17777777777777778,
+      "course_score": 0.06363636363636363,
+      "interest_score": 0.0,
+      "matched_skills": [
+        "programming",
+        "networking"
+      ],
+      "matched_courses": [
+        "IFN551",
+        "IFN556",
+        "IFN553",
+        "IFN555",
+        "IFN554",
+        "IFN552",
+        "IFN623"
+      ],
+      "matched_interests": [],
+      "details": {
+        "student_major": "Computer Science",
+        "project_majors": [
+          "computer science and data science other majors are also fine"
+        ],
+        "student_skill_count": 22,
+        "project_skill_count": 9,
+        "student_course_count": 8,
+        "project_unit_count": 108
+      }
+    },
+    {
+      "student_id": "n00767167",
+      "student_name": "Jordan Allen",
+      "project_name": "JZhang_IFN712 Project Proposal 1_2025_CS ",
+      "total_score": 0.13576697204604182,
+      "skill_score": 0.17860465116279073,
+      "major_score": 0.17777777777777778,
+      "course_score": 0.05454545454545454,
+      "interest_score": 0.0,
+      "matched_skills": [
+        "web development",
+        "programming"
+      ],
+      "matched_courses": [
+        "IFN551",
+        "IFN619",
+        "IFN555",
+        "IFN552",
+        "IFN556",
+        "IFN623"
+      ],
+      "matched_interests": [],
+      "details": {
+        "student_major": "Computer Science (Cybersecurity Specialization)",
+        "project_majors": [
+          "computer science and data science other majors are also fine"
+        ],
+        "student_skill_count": 27,
+        "project_skill_count": 9,
+        "student_course_count": 8,
+        "project_unit_count": 108
+      }
+    },
+    {
+      "student_id": "n11283106",
+      "student_name": "Rory Brown",
+      "project_name": "JZhang_IFN712 Project Proposal 1_2025_CS ",
+      "total_score": 0.13576697204604182,
+      "skill_score": 0.17860465116279073,
+      "major_score": 0.17777777777777778,
+      "course_score": 0.05454545454545454,
+      "interest_score": 0.0,
+      "matched_skills": [
+        "web development",
+        "programming"
+      ],
+      "matched_courses": [
+        "IFN551",
+        "IFN619",
+        "IFN555",
+        "IFN552",
+        "IFN556",
+        "IFN623"
+      ],
+      "matched_interests": [],
+      "details": {
+        "student_major": "Computer Science",
+        "project_majors": [
+          "computer science and data science other majors are also fine"
+        ],
+        "student_skill_count": 27,
+        "project_skill_count": 9,
+        "student_course_count": 8,
+        "project_unit_count": 108
+      }
+    },
+    {
+      "student_id": "n01025709",
+      "student_name": "Tyler Brown",
+      "project_name": "JZhang_IFN712 Project Proposal 1_2025_CS ",
+      "total_score": 0.13576697204604182,
+      "skill_score": 0.17860465116279073,
+      "major_score": 0.17777777777777778,
+      "course_score": 0.05454545454545454,
+      "interest_score": 0.0,
+      "matched_skills": [
+        "web development",
+        "programming"
+      ],
+      "matched_courses": [
+        "IFN551",
+        "IFN619",
+        "IFN555",
+        "IFN552",
+        "IFN556",
+        "IFN623"
+      ],
+      "matched_interests": [],
+      "details": {
+        "student_major": "Computer Science",
+        "project_majors": [
+          "computer science and data science other majors are also fine"
+        ],
+        "student_skill_count": 27,
+        "project_skill_count": 9,
+        "student_course_count": 8,
+        "project_unit_count": 108
+      }
+    },
+    {
+      "student_id": "n02866979",
+      "student_name": "Drew Johnson",
+      "project_name": "JZhang_IFN712 Project Proposal 1_2025_CS ",
+      "total_score": 0.13576697204604182,
+      "skill_score": 0.17860465116279073,
+      "major_score": 0.17777777777777778,
+      "course_score": 0.05454545454545454,
+      "interest_score": 0.0,
+      "matched_skills": [
+        "web development",
+        "programming"
+      ],
+      "matched_courses": [
+        "IFN551",
+        "IFN619",
+        "IFN555",
+        "IFN552",
+        "IFN556",
+        "IFN623"
+      ],
+      "matched_interests": [],
+      "details": {
+        "student_major": "Computer Science",
+        "project_majors": [
+          "computer science and data science other majors are also fine"
+        ],
+        "student_skill_count": 27,
+        "project_skill_count": 9,
+        "student_course_count": 8,
+        "project_unit_count": 108
+      }
+    },
+    {
+      "student_id": "n12562489",
+      "student_name": "Drew Allen",
+      "project_name": "JZhang_IFN712 Project Proposal 1_2025_CS ",
+      "total_score": 0.1310547333803148,
+      "skill_score": 0.20837209302325582,
+      "major_score": 0.08888888888888889,
+      "course_score": 0.045454545454545456,
+      "interest_score": 0.0,
+      "matched_skills": [
+        "mobile development",
+        "web development",
+        "networking"
+      ],
+      "matched_courses": [
+        "IFN552",
+        "IFN553",
+        "IFN554",
+        "IFN551",
+        "IFN623"
+      ],
+      "matched_interests": [],
+      "details": {
+        "student_major": "Software Engineering with a Focus on Computer Systems",
+        "project_majors": [
+          "computer science and data science other majors are also fine"
+        ],
+        "student_skill_count": 22,
+        "project_skill_count": 9,
+        "student_course_count": 8,
+        "project_unit_count": 108
+      }
+    },
+    {
+      "student_id": "n01803983",
+      "student_name": "Blake Allen",
+      "project_name": "JZhang_IFN712 Project Proposal 1_2025_CS ",
+      "total_score": 0.1310547333803148,
+      "skill_score": 0.20837209302325582,
+      "major_score": 0.08888888888888889,
+      "course_score": 0.045454545454545456,
+      "interest_score": 0.0,
+      "matched_skills": [
+        "mobile development",
+        "web development",
+        "networking"
+      ],
+      "matched_courses": [
+        "IFN552",
+        "IFN553",
+        "IFN554",
+        "IFN551",
+        "IFN623"
+      ],
+      "matched_interests": [],
+      "details": {
+        "student_major": "Software Development with a focus on Computer Systems",
+        "project_majors": [
+          "computer science and data science other majors are also fine"
+        ],
+        "student_skill_count": 22,
+        "project_skill_count": 9,
+        "student_course_count": 8,
+        "project_unit_count": 108
+      }
+    },
+    {
+      "student_id": "n03186319",
+      "student_name": "Rowan Thompson",
+      "project_name": "JZhang_IFN712 Project Proposal 1_2025_CS ",
+      "total_score": 0.12702959830866808,
+      "skill_score": 0.17860465116279073,
+      "major_score": 0.0,
+      "course_score": 0.06363636363636363,
+      "interest_score": 0.25,
+      "matched_skills": [
+        "programming",
+        "networking"
+      ],
+      "matched_courses": [
+        "IFN551",
+        "IFN556",
+        "IFN553",
+        "IFN555",
+        "IFN554",
+        "IFN552",
+        "IFN623"
+      ],
+      "matched_interests": [
+        "agile project management"
+      ],
+      "details": {
+        "student_major": "Software Development",
+        "project_majors": [
+          "computer science and data science other majors are also fine"
+        ],
+        "student_skill_count": 22,
+        "project_skill_count": 9,
+        "student_course_count": 8,
+        "project_unit_count": 108
+      }
+    },
+    {
+      "student_id": "n08259368",
+      "student_name": "Casey Garcia",
+      "project_name": "JZhang_IFN712 Project Proposal 1_2025_CS ",
+      "total_score": 0.113276955602537,
+      "skill_score": 0.20837209302325582,
+      "major_score": 0.0,
+      "course_score": 0.045454545454545456,
+      "interest_score": 0.0,
+      "matched_skills": [
+        "mobile development",
+        "web development",
+        "networking"
+      ],
+      "matched_courses": [
+        "IFN552",
+        "IFN553",
+        "IFN554",
+        "IFN551",
+        "IFN623"
+      ],
+      "matched_interests": [],
+      "details": {
+        "student_major": "Software Development",
+        "project_majors": [
+          "computer science and data science other majors are also fine"
+        ],
+        "student_skill_count": 22,
+        "project_skill_count": 9,
+        "student_course_count": 8,
+        "project_unit_count": 108
+      }
+    },
+    {
+      "student_id": "n04539845",
+      "student_name": "Jordan Wright",
+      "project_name": "JZhang_IFN712 Project Proposal 1_2025_CS ",
+      "total_score": 0.113276955602537,
+      "skill_score": 0.20837209302325582,
+      "major_score": 0.0,
+      "course_score": 0.045454545454545456,
+      "interest_score": 0.0,
+      "matched_skills": [
+        "mobile development",
+        "web development",
+        "networking"
+      ],
+      "matched_courses": [
+        "IFN552",
+        "IFN553",
+        "IFN554",
+        "IFN551",
+        "IFN623"
+      ],
+      "matched_interests": [],
+      "details": {
+        "student_major": "Software Development",
+        "project_majors": [
+          "computer science and data science other majors are also fine"
+        ],
+        "student_skill_count": 22,
+        "project_skill_count": 9,
+        "student_course_count": 8,
+        "project_unit_count": 108
+      }
+    },
+    {
+      "student_id": "n10858028",
+      "student_name": "Harper Smith",
+      "project_name": "JZhang_IFN712 Project Proposal 1_2025_CS ",
+      "total_score": 0.113276955602537,
+      "skill_score": 0.20837209302325582,
+      "major_score": 0.0,
+      "course_score": 0.045454545454545456,
+      "interest_score": 0.0,
+      "matched_skills": [
+        "mobile development",
+        "web development",
+        "networking"
+      ],
+      "matched_courses": [
+        "IFN552",
+        "IFN553",
+        "IFN554",
+        "IFN551",
+        "IFN623"
+      ],
+      "matched_interests": [],
+      "details": {
+        "student_major": "Software Development",
+        "project_majors": [
+          "computer science and data science other majors are also fine"
+        ],
+        "student_skill_count": 21,
+        "project_skill_count": 9,
+        "student_course_count": 8,
+        "project_unit_count": 108
+      }
+    },
+    {
+      "student_id": "n15315806",
+      "student_name": "Logan Rodriguez",
+      "project_name": "JZhang_IFN712 Project Proposal 1_2025_CS ",
+      "total_score": 0.113276955602537,
+      "skill_score": 0.20837209302325582,
+      "major_score": 0.0,
+      "course_score": 0.045454545454545456,
+      "interest_score": 0.0,
+      "matched_skills": [
+        "mobile development",
+        "web development",
+        "networking"
+      ],
+      "matched_courses": [
+        "IFN552",
+        "IFN553",
+        "IFN554",
+        "IFN551",
+        "IFN623"
+      ],
+      "matched_interests": [],
+      "details": {
+        "student_major": "Software Development",
+        "project_majors": [
+          "computer science and data science other majors are also fine"
+        ],
+        "student_skill_count": 22,
+        "project_skill_count": 9,
+        "student_course_count": 8,
+        "project_unit_count": 108
+      }
+    },
+    {
+      "student_id": "n08031750",
+      "student_name": "Drew Hill",
+      "project_name": "JZhang_IFN712 Project Proposal 1_2025_CS ",
+      "total_score": 0.113276955602537,
+      "skill_score": 0.20837209302325582,
+      "major_score": 0.0,
+      "course_score": 0.045454545454545456,
+      "interest_score": 0.0,
+      "matched_skills": [
+        "mobile development",
+        "web development",
+        "networking"
+      ],
+      "matched_courses": [
+        "IFN552",
+        "IFN553",
+        "IFN554",
+        "IFN551",
+        "IFN623"
+      ],
+      "matched_interests": [],
+      "details": {
+        "student_major": "Software Development",
+        "project_majors": [
+          "computer science and data science other majors are also fine"
+        ],
+        "student_skill_count": 21,
+        "project_skill_count": 9,
+        "student_course_count": 8,
+        "project_unit_count": 108
+      }
+    },
+    {
+      "student_id": "n01087640",
+      "student_name": "Casey Moore",
+      "project_name": "JZhang_IFN712 Project Proposal 1_2025_CS ",
+      "total_score": 0.10202959830866809,
+      "skill_score": 0.17860465116279073,
+      "major_score": 0.0,
+      "course_score": 0.06363636363636363,
+      "interest_score": 0.0,
+      "matched_skills": [
+        "programming",
+        "networking"
+      ],
+      "matched_courses": [
+        "IFN551",
+        "IFN556",
+        "IFN553",
+        "IFN555",
+        "IFN554",
+        "IFN552",
+        "IFN623"
+      ],
+      "matched_interests": [],
+      "details": {
+        "student_major": "Software Development",
+        "project_majors": [
+          "computer science and data science other majors are also fine"
+        ],
+        "student_skill_count": 22,
+        "project_skill_count": 9,
+        "student_course_count": 8,
+        "project_unit_count": 108
+      }
+    },
+    {
+      "student_id": "n03536839",
+      "student_name": "Skylar Allen",
+      "project_name": "JZhang_IFN712 Project Proposal 1_2025_CS ",
+      "total_score": 0.10202959830866809,
+      "skill_score": 0.17860465116279073,
+      "major_score": 0.0,
+      "course_score": 0.06363636363636363,
+      "interest_score": 0.0,
+      "matched_skills": [
+        "programming",
+        "networking"
+      ],
+      "matched_courses": [
+        "IFN551",
+        "IFN556",
+        "IFN553",
+        "IFN555",
+        "IFN554",
+        "IFN552",
+        "IFN623"
+      ],
+      "matched_interests": [],
+      "details": {
+        "student_major": "Software Engineering",
+        "project_majors": [
+          "computer science and data science other majors are also fine"
+        ],
+        "student_skill_count": 22,
+        "project_skill_count": 9,
+        "student_course_count": 8,
+        "project_unit_count": 108
+      }
+    },
+    {
+      "student_id": "n10548652",
+      "student_name": "Harper Garcia",
+      "project_name": "JZhang_IFN712 Project Proposal 1_2025_CS ",
+      "total_score": 0.10202959830866809,
+      "skill_score": 0.17860465116279073,
+      "major_score": 0.0,
+      "course_score": 0.06363636363636363,
+      "interest_score": 0.0,
+      "matched_skills": [
+        "programming",
+        "networking"
+      ],
+      "matched_courses": [
+        "IFN551",
+        "IFN556",
+        "IFN553",
+        "IFN555",
+        "IFN554",
+        "IFN552",
+        "IFN623"
+      ],
+      "matched_interests": [],
+      "details": {
+        "student_major": "Software Development",
+        "project_majors": [
+          "computer science and data science other majors are also fine"
+        ],
+        "student_skill_count": 22,
+        "project_skill_count": 9,
+        "student_course_count": 8,
+        "project_unit_count": 108
+      }
+    },
+    {
+      "student_id": "n13351390",
+      "student_name": "River Lee",
+      "project_name": "JZhang_IFN712 Project Proposal 1_2025_CS ",
+      "total_score": 0.10202959830866809,
+      "skill_score": 0.17860465116279073,
+      "major_score": 0.0,
+      "course_score": 0.06363636363636363,
+      "interest_score": 0.0,
+      "matched_skills": [
+        "programming",
+        "networking"
+      ],
+      "matched_courses": [
+        "IFN551",
+        "IFN556",
+        "IFN553",
+        "IFN555",
+        "IFN554",
+        "IFN552",
+        "IFN623"
+      ],
+      "matched_interests": [],
+      "details": {
+        "student_major": "Software Development",
+        "project_majors": [
+          "computer science and data science other majors are also fine"
+        ],
+        "student_skill_count": 22,
+        "project_skill_count": 9,
+        "student_course_count": 8,
+        "project_unit_count": 108
+      }
+    },
+    {
+      "student_id": "n13431626",
+      "student_name": "Blake Chen",
+      "project_name": "JZhang_IFN712 Project Proposal 1_2025_CS ",
+      "total_score": 0.10202959830866809,
+      "skill_score": 0.17860465116279073,
+      "major_score": 0.0,
+      "course_score": 0.06363636363636363,
+      "interest_score": 0.0,
+      "matched_skills": [
+        "programming",
+        "networking"
+      ],
+      "matched_courses": [
+        "IFN551",
+        "IFN556",
+        "IFN553",
+        "IFN555",
+        "IFN554",
+        "IFN552",
+        "IFN623"
+      ],
+      "matched_interests": [],
+      "details": {
+        "student_major": "Software Development",
+        "project_majors": [
+          "computer science and data science other majors are also fine"
+        ],
+        "student_skill_count": 22,
+        "project_skill_count": 9,
+        "student_course_count": 8,
+        "project_unit_count": 108
+      }
+    },
+    {
+      "student_id": "n16212621",
+      "student_name": "Morgan Allen",
+      "project_name": "JZhang_IFN712 Project Proposal 1_2025_CS ",
+      "total_score": 0.10202959830866809,
+      "skill_score": 0.17860465116279073,
+      "major_score": 0.0,
+      "course_score": 0.06363636363636363,
+      "interest_score": 0.0,
+      "matched_skills": [
+        "programming",
+        "networking"
+      ],
+      "matched_courses": [
+        "IFN551",
+        "IFN556",
+        "IFN553",
+        "IFN555",
+        "IFN554",
+        "IFN552",
+        "IFN623"
+      ],
+      "matched_interests": [],
+      "details": {
+        "student_major": "Software Development",
+        "project_majors": [
+          "computer science and data science other majors are also fine"
+        ],
+        "student_skill_count": 22,
+        "project_skill_count": 9,
+        "student_course_count": 8,
+        "project_unit_count": 108
+      }
+    },
+    {
+      "student_id": "n10825571",
+      "student_name": "Rowan Scott",
+      "project_name": "JZhang_IFN712 Project Proposal 1_2025_CS ",
+      "total_score": 0.10202959830866809,
+      "skill_score": 0.17860465116279073,
+      "major_score": 0.0,
+      "course_score": 0.06363636363636363,
+      "interest_score": 0.0,
+      "matched_skills": [
+        "programming",
+        "networking"
+      ],
+      "matched_courses": [
+        "IFN551",
+        "IFN556",
+        "IFN553",
+        "IFN555",
+        "IFN554",
+        "IFN552",
+        "IFN623"
+      ],
+      "matched_interests": [],
+      "details": {
+        "student_major": "Software Development",
+        "project_majors": [
+          "computer science and data science other majors are also fine"
+        ],
+        "student_skill_count": 22,
+        "project_skill_count": 9,
+        "student_course_count": 8,
+        "project_unit_count": 108
+      }
+    },
+    {
+      "student_id": "n05399136",
+      "student_name": "Skylar Williams",
+      "project_name": "JZhang_IFN712 Project Proposal 1_2025_CS ",
+      "total_score": 0.10202959830866809,
+      "skill_score": 0.17860465116279073,
+      "major_score": 0.0,
+      "course_score": 0.06363636363636363,
+      "interest_score": 0.0,
+      "matched_skills": [
+        "programming",
+        "networking"
+      ],
+      "matched_courses": [
+        "IFN551",
+        "IFN556",
+        "IFN553",
+        "IFN555",
+        "IFN554",
+        "IFN552",
+        "IFN623"
+      ],
+      "matched_interests": [],
+      "details": {
+        "student_major": "Software Development",
+        "project_majors": [
+          "computer science and data science other majors are also fine"
+        ],
+        "student_skill_count": 18,
+        "project_skill_count": 9,
+        "student_course_count": 8,
+        "project_unit_count": 108
+      }
+    },
+    {
+      "student_id": "n08416091",
+      "student_name": "Hayden Lopez",
+      "project_name": "JZhang_IFN712 Project Proposal 1_2025_CS ",
+      "total_score": 0.10202959830866809,
+      "skill_score": 0.17860465116279073,
+      "major_score": 0.0,
+      "course_score": 0.06363636363636363,
+      "interest_score": 0.0,
+      "matched_skills": [
+        "programming",
+        "networking"
+      ],
+      "matched_courses": [
+        "IFN551",
+        "IFN556",
+        "IFN553",
+        "IFN555",
+        "IFN554",
+        "IFN552",
+        "IFN623"
+      ],
+      "matched_interests": [],
+      "details": {
+        "student_major": "Software Development",
+        "project_majors": [
+          "computer science and data science other majors are also fine"
+        ],
+        "student_skill_count": 22,
+        "project_skill_count": 9,
+        "student_course_count": 8,
+        "project_unit_count": 108
+      }
+    },
+    {
+      "student_id": "n10531344",
+      "student_name": "River Garcia",
+      "project_name": "JZhang_IFN712 Project Proposal 1_2025_CS ",
+      "total_score": 0.10202959830866809,
+      "skill_score": 0.17860465116279073,
+      "major_score": 0.0,
+      "course_score": 0.06363636363636363,
+      "interest_score": 0.0,
+      "matched_skills": [
+        "programming",
+        "networking"
+      ],
+      "matched_courses": [
+        "IFN551",
+        "IFN556",
+        "IFN553",
+        "IFN555",
+        "IFN554",
+        "IFN552",
+        "IFN623"
+      ],
+      "matched_interests": [],
+      "details": {
+        "student_major": "Software Development",
+        "project_majors": [
+          "computer science and data science other majors are also fine"
+        ],
+        "student_skill_count": 22,
+        "project_skill_count": 9,
+        "student_course_count": 8,
+        "project_unit_count": 108
+      }
+    },
+    {
+      "student_id": "n03962866",
+      "student_name": "Tyler Thompson",
+      "project_name": "JZhang_IFN712 Project Proposal 1_2025_CS ",
+      "total_score": 0.10202959830866809,
+      "skill_score": 0.17860465116279073,
+      "major_score": 0.0,
+      "course_score": 0.06363636363636363,
+      "interest_score": 0.0,
+      "matched_skills": [
+        "programming",
+        "networking"
+      ],
+      "matched_courses": [
+        "IFN551",
+        "IFN556",
+        "IFN553",
+        "IFN555",
+        "IFN554",
+        "IFN552",
+        "IFN623"
+      ],
+      "matched_interests": [],
+      "details": {
+        "student_major": "Software Development",
+        "project_majors": [
+          "computer science and data science other majors are also fine"
+        ],
+        "student_skill_count": 22,
+        "project_skill_count": 9,
+        "student_course_count": 8,
+        "project_unit_count": 108
+      }
+    },
+    {
+      "student_id": "n14963558",
+      "student_name": "Devon Taylor",
+      "project_name": "JZhang_IFN712 Project Proposal 1_2025_CS ",
+      "total_score": 0.10202959830866809,
+      "skill_score": 0.17860465116279073,
+      "major_score": 0.0,
+      "course_score": 0.06363636363636363,
+      "interest_score": 0.0,
+      "matched_skills": [
+        "programming",
+        "networking"
+      ],
+      "matched_courses": [
+        "IFN551",
+        "IFN556",
+        "IFN553",
+        "IFN555",
+        "IFN554",
+        "IFN552",
+        "IFN623"
+      ],
+      "matched_interests": [],
+      "details": {
+        "student_major": "Software Development",
+        "project_majors": [
+          "computer science and data science other majors are also fine"
+        ],
+        "student_skill_count": 22,
+        "project_skill_count": 9,
+        "student_course_count": 8,
+        "project_unit_count": 108
+      }
+    },
+    {
+      "student_id": "n14689252",
+      "student_name": "Riley Johnson",
+      "project_name": "JZhang_IFN712 Project Proposal 1_2025_CS ",
+      "total_score": 0.10202959830866809,
+      "skill_score": 0.17860465116279073,
+      "major_score": 0.0,
+      "course_score": 0.06363636363636363,
+      "interest_score": 0.0,
+      "matched_skills": [
+        "programming",
+        "networking"
+      ],
+      "matched_courses": [
+        "IFN551",
+        "IFN556",
+        "IFN553",
+        "IFN555",
+        "IFN554",
+        "IFN552",
+        "IFN623"
+      ],
+      "matched_interests": [],
+      "details": {
+        "student_major": "Software Development",
+        "project_majors": [
+          "computer science and data science other majors are also fine"
+        ],
+        "student_skill_count": 22,
+        "project_skill_count": 9,
+        "student_course_count": 8,
+        "project_unit_count": 108
+      }
+    },
+    {
+      "student_id": "n09133119",
+      "student_name": "Reese Lee",
+      "project_name": "JZhang_IFN712 Project Proposal 1_2025_CS ",
+      "total_score": 0.10202959830866809,
+      "skill_score": 0.17860465116279073,
+      "major_score": 0.0,
+      "course_score": 0.06363636363636363,
+      "interest_score": 0.0,
+      "matched_skills": [
+        "programming",
+        "networking"
+      ],
+      "matched_courses": [
+        "IFN551",
+        "IFN556",
+        "IFN553",
+        "IFN555",
+        "IFN554",
+        "IFN552",
+        "IFN623"
+      ],
+      "matched_interests": [],
+      "details": {
+        "student_major": "Software Development",
+        "project_majors": [
+          "computer science and data science other majors are also fine"
+        ],
+        "student_skill_count": 22,
+        "project_skill_count": 9,
+        "student_course_count": 8,
+        "project_unit_count": 108
+      }
+    },
+    {
+      "student_id": "n00408694",
+      "student_name": "Phoenix Martinez",
+      "project_name": "JZhang_IFN712 Project Proposal 1_2025_CS ",
+      "total_score": 0.10202959830866809,
+      "skill_score": 0.17860465116279073,
+      "major_score": 0.0,
+      "course_score": 0.06363636363636363,
+      "interest_score": 0.0,
+      "matched_skills": [
+        "programming",
+        "networking"
+      ],
+      "matched_courses": [
+        "IFN551",
+        "IFN556",
+        "IFN553",
+        "IFN555",
+        "IFN554",
+        "IFN552",
+        "IFN623"
+      ],
+      "matched_interests": [],
+      "details": {
+        "student_major": "Software Development",
+        "project_majors": [
+          "computer science and data science other majors are also fine"
+        ],
+        "student_skill_count": 22,
+        "project_skill_count": 9,
+        "student_course_count": 8,
+        "project_unit_count": 108
+      }
+    },
+    {
+      "student_id": "n15463920",
+      "student_name": "Cameron Thompson",
+      "project_name": "JZhang_IFN712 Project Proposal 1_2025_CS ",
+      "total_score": 0.10021141649048627,
+      "skill_score": 0.17860465116279073,
+      "major_score": 0.0,
+      "course_score": 0.05454545454545454,
+      "interest_score": 0.0,
+      "matched_skills": [
+        "programming",
+        "networking"
+      ],
+      "matched_courses": [
+        "IFN551",
+        "IFN556",
+        "IFN553",
+        "IFN555",
+        "IFN554",
+        "IFN552"
+      ],
+      "matched_interests": [],
+      "details": {
+        "student_major": "Software Development",
+        "project_majors": [
+          "computer science and data science other majors are also fine"
+        ],
+        "student_skill_count": 22,
+        "project_skill_count": 9,
+        "student_course_count": 8,
+        "project_unit_count": 108
+      }
+    },
+    {
+      "student_id": "n15766237",
+      "student_name": "Sydney Moore",
+      "project_name": "JZhang_IFN712 Project Proposal 1_2025_CS ",
+      "total_score": 0.09839323467230446,
+      "skill_score": 0.17860465116279073,
+      "major_score": 0.0,
+      "course_score": 0.045454545454545456,
+      "interest_score": 0.0,
+      "matched_skills": [
+        "web development",
+        "programming"
+      ],
+      "matched_courses": [
+        "IFN552",
+        "IFN556",
+        "IFN555",
+        "IFN554",
+        "IFN551"
+      ],
+      "matched_interests": [],
+      "details": {
+        "student_major": "Artificial Intelligence",
+        "project_majors": [
+          "computer science and data science other majors are also fine"
+        ],
+        "student_skill_count": 22,
+        "project_skill_count": 9,
+        "student_course_count": 6,
+        "project_unit_count": 108
+      }
+    },
+    {
+      "student_id": "n16028113",
+      "student_name": "Rory Moore",
+      "project_name": "JZhang_IFN712 Project Proposal 1_2025_CS ",
+      "total_score": 0.09839323467230446,
+      "skill_score": 0.17860465116279073,
+      "major_score": 0.0,
+      "course_score": 0.045454545454545456,
+      "interest_score": 0.0,
+      "matched_skills": [
+        "web development",
+        "programming"
+      ],
+      "matched_courses": [
+        "IFN552",
+        "IFN556",
+        "IFN555",
+        "IFN554",
+        "IFN551"
+      ],
+      "matched_interests": [],
+      "details": {
+        "student_major": "Artificial Intelligence",
+        "project_majors": [
+          "computer science and data science other majors are also fine"
+        ],
+        "student_skill_count": 22,
+        "project_skill_count": 9,
+        "student_course_count": 6,
+        "project_unit_count": 108
+      }
+    },
+    {
+      "student_id": "n08396782",
+      "student_name": "Sage Young",
+      "project_name": "JZhang_IFN712 Project Proposal 1_2025_CS ",
+      "total_score": 0.09839323467230446,
+      "skill_score": 0.17860465116279073,
+      "major_score": 0.0,
+      "course_score": 0.045454545454545456,
+      "interest_score": 0.0,
+      "matched_skills": [
+        "web development",
+        "programming"
+      ],
+      "matched_courses": [
+        "IFN552",
+        "IFN556",
+        "IFN555",
+        "IFN554",
+        "IFN551"
+      ],
+      "matched_interests": [],
+      "details": {
+        "student_major": "Artificial Intelligence",
+        "project_majors": [
+          "computer science and data science other majors are also fine"
+        ],
+        "student_skill_count": 21,
+        "project_skill_count": 9,
+        "student_course_count": 6,
+        "project_unit_count": 108
+      }
+    },
+    {
+      "student_id": "n06913443",
+      "student_name": "Casey Martin",
+      "project_name": "JZhang_IFN712 Project Proposal 1_2025_CS ",
+      "total_score": 0.09839323467230446,
+      "skill_score": 0.17860465116279073,
+      "major_score": 0.0,
+      "course_score": 0.045454545454545456,
+      "interest_score": 0.0,
+      "matched_skills": [
+        "web development",
+        "programming"
+      ],
+      "matched_courses": [
+        "IFN552",
+        "IFN556",
+        "IFN555",
+        "IFN554",
+        "IFN551"
+      ],
+      "matched_interests": [],
+      "details": {
+        "student_major": "Artificial Intelligence",
+        "project_majors": [
+          "computer science and data science other majors are also fine"
+        ],
+        "student_skill_count": 22,
+        "project_skill_count": 9,
+        "student_course_count": 6,
+        "project_unit_count": 108
+      }
+    },
+    {
+      "student_id": "n07039725",
+      "student_name": "Avery Flores",
+      "project_name": "JZhang_IFN712 Project Proposal 1_2025_CS ",
+      "total_score": 0.09839323467230446,
+      "skill_score": 0.17860465116279073,
+      "major_score": 0.0,
+      "course_score": 0.045454545454545456,
+      "interest_score": 0.0,
+      "matched_skills": [
+        "web development",
+        "programming"
+      ],
+      "matched_courses": [
+        "IFN552",
+        "IFN556",
+        "IFN555",
+        "IFN554",
+        "IFN551"
+      ],
+      "matched_interests": [],
+      "details": {
+        "student_major": "Artificial Intelligence",
+        "project_majors": [
+          "computer science and data science other majors are also fine"
+        ],
+        "student_skill_count": 22,
+        "project_skill_count": 9,
+        "student_course_count": 6,
+        "project_unit_count": 108
+      }
+    },
+    {
+      "student_id": "n15651121",
+      "student_name": "Taylor White",
+      "project_name": "JZhang_IFN712 Project Proposal 1_2025_CS ",
+      "total_score": 0.09839323467230446,
+      "skill_score": 0.17860465116279073,
+      "major_score": 0.0,
+      "course_score": 0.045454545454545456,
+      "interest_score": 0.0,
+      "matched_skills": [
+        "web development",
+        "programming"
+      ],
+      "matched_courses": [
+        "IFN552",
+        "IFN556",
+        "IFN555",
+        "IFN554",
+        "IFN551"
+      ],
+      "matched_interests": [],
+      "details": {
+        "student_major": "Artificial Intelligence",
+        "project_majors": [
+          "computer science and data science other majors are also fine"
+        ],
+        "student_skill_count": 22,
+        "project_skill_count": 9,
+        "student_course_count": 6,
+        "project_unit_count": 108
+      }
+    },
+    {
+      "student_id": "n10100065",
+      "student_name": "Harper Wilson",
+      "project_name": "JZhang_IFN712 Project Proposal 1_2025_CS ",
+      "total_score": 0.09839323467230446,
+      "skill_score": 0.17860465116279073,
+      "major_score": 0.0,
+      "course_score": 0.045454545454545456,
+      "interest_score": 0.0,
+      "matched_skills": [
+        "web development",
+        "programming"
+      ],
+      "matched_courses": [
+        "IFN552",
+        "IFN556",
+        "IFN555",
+        "IFN554",
+        "IFN551"
+      ],
+      "matched_interests": [],
+      "details": {
+        "student_major": "Artificial Intelligence",
+        "project_majors": [
+          "computer science and data science other majors are also fine"
+        ],
+        "student_skill_count": 22,
+        "project_skill_count": 9,
+        "student_course_count": 6,
+        "project_unit_count": 108
+      }
+    },
+    {
+      "student_id": "n08291346",
+      "student_name": "Casey Martin",
+      "project_name": "JZhang_IFN712 Project Proposal 1_2025_CS ",
+      "total_score": 0.09839323467230446,
+      "skill_score": 0.17860465116279073,
+      "major_score": 0.0,
+      "course_score": 0.045454545454545456,
+      "interest_score": 0.0,
+      "matched_skills": [
+        "web development",
+        "programming"
+      ],
+      "matched_courses": [
+        "IFN552",
+        "IFN556",
+        "IFN555",
+        "IFN554",
+        "IFN551"
+      ],
+      "matched_interests": [],
+      "details": {
+        "student_major": "Artificial Intelligence",
+        "project_majors": [
+          "computer science and data science other majors are also fine"
+        ],
+        "student_skill_count": 22,
+        "project_skill_count": 9,
+        "student_course_count": 6,
+        "project_unit_count": 108
+      }
+    },
+    {
+      "student_id": "n02008322",
+      "student_name": "Sydney Taylor",
+      "project_name": "JZhang_IFN712 Project Proposal 1_2025_CS ",
+      "total_score": 0.09839323467230446,
+      "skill_score": 0.17860465116279073,
+      "major_score": 0.0,
+      "course_score": 0.045454545454545456,
+      "interest_score": 0.0,
+      "matched_skills": [
+        "web development",
+        "programming"
+      ],
+      "matched_courses": [
+        "IFN552",
+        "IFN556",
+        "IFN555",
+        "IFN554",
+        "IFN551"
+      ],
+      "matched_interests": [],
+      "details": {
+        "student_major": "Artificial Intelligence",
+        "project_majors": [
+          "computer science and data science other majors are also fine"
+        ],
+        "student_skill_count": 22,
+        "project_skill_count": 9,
+        "student_course_count": 6,
+        "project_unit_count": 108
+      }
+    },
+    {
+      "student_id": "n12482357",
+      "student_name": "River Harris",
+      "project_name": "JZhang_IFN712 Project Proposal 1_2025_CS ",
+      "total_score": 0.09839323467230446,
+      "skill_score": 0.17860465116279073,
+      "major_score": 0.0,
+      "course_score": 0.045454545454545456,
+      "interest_score": 0.0,
+      "matched_skills": [
+        "web development",
+        "programming"
+      ],
+      "matched_courses": [
+        "IFN552",
+        "IFN556",
+        "IFN555",
+        "IFN554",
+        "IFN551"
+      ],
+      "matched_interests": [],
+      "details": {
+        "student_major": "Artificial Intelligence",
+        "project_majors": [
+          "computer science and data science other majors are also fine"
+        ],
+        "student_skill_count": 22,
+        "project_skill_count": 9,
+        "student_course_count": 6,
+        "project_unit_count": 108
+      }
+    },
+    {
+      "student_id": "n04565156",
+      "student_name": "Skylar Miller",
+      "project_name": "JZhang_IFN712 Project Proposal 1_2025_CS ",
+      "total_score": 0.09651984965938457,
+      "skill_score": 0.08930232558139536,
+      "major_score": 0.08888888888888889,
+      "course_score": 0.045454545454545456,
+      "interest_score": 0.25,
+      "matched_skills": [
+        "programming"
+      ],
+      "matched_courses": [
+        "IFN552",
+        "IFN555",
+        "IFN554",
+        "IFN551",
+        "IFN623"
+      ],
+      "matched_interests": [
+        "agile project management methodologies"
+      ],
+      "details": {
+        "student_major": "Business Analysis and ExecIT",
+        "project_majors": [
+          "computer science and data science other majors are also fine"
+        ],
+        "student_skill_count": 19,
+        "project_skill_count": 9,
+        "student_course_count": 8,
+        "project_unit_count": 108
+      }
+    },
+    {
+      "student_id": "n07744472",
+      "student_name": "Finley Martinez",
+      "project_name": "JZhang_IFN712 Project Proposal 1_2025_CS ",
+      "total_score": 0.09651984965938457,
+      "skill_score": 0.08930232558139536,
+      "major_score": 0.08888888888888889,
+      "course_score": 0.045454545454545456,
+      "interest_score": 0.25,
+      "matched_skills": [
+        "programming"
+      ],
+      "matched_courses": [
+        "IFN552",
+        "IFN555",
+        "IFN554",
+        "IFN551",
+        "IFN623"
+      ],
+      "matched_interests": [
+        "agile project management"
+      ],
+      "details": {
+        "student_major": "Business Analysis and ExecIT",
+        "project_majors": [
+          "computer science and data science other majors are also fine"
+        ],
+        "student_skill_count": 19,
+        "project_skill_count": 9,
+        "student_course_count": 8,
+        "project_unit_count": 108
+      }
+    },
+    {
+      "student_id": "n5dd13e45",
+      "student_name": "Rory Moore",
+      "project_name": "JZhang_IFN712 Project Proposal 1_2025_CS ",
+      "total_score": 0.09583274606530422,
+      "skill_score": 0.1488372093023256,
+      "major_score": 0.08888888888888889,
+      "course_score": 0.01818181818181818,
+      "interest_score": 0.0,
+      "matched_skills": [
+        "machine learning"
+      ],
+      "matched_courses": [
+        "IFN701",
+        "IFN712"
+      ],
+      "matched_interests": [],
+      "details": {
+        "student_major": "Data Analytics",
+        "project_majors": [
+          "computer science and data science other majors are also fine"
+        ],
+        "student_skill_count": 14,
+        "project_skill_count": 9,
+        "student_course_count": 7,
+        "project_unit_count": 108
+      }
+    },
+    {
+      "student_id": "n8ab07320",
+      "student_name": "Drew Wilson",
+      "project_name": "JZhang_IFN712 Project Proposal 1_2025_CS ",
+      "total_score": 0.09583274606530422,
+      "skill_score": 0.1488372093023256,
+      "major_score": 0.08888888888888889,
+      "course_score": 0.01818181818181818,
+      "interest_score": 0.0,
+      "matched_skills": [
+        "machine learning"
+      ],
+      "matched_courses": [
+        "IFN701",
+        "IFN712"
+      ],
+      "matched_interests": [],
+      "details": {
+        "student_major": "Data Analytics",
+        "project_majors": [
+          "computer science and data science other majors are also fine"
+        ],
+        "student_skill_count": 13,
+        "project_skill_count": 9,
+        "student_course_count": 7,
+        "project_unit_count": 108
+      }
+    },
+    {
+      "student_id": "nff065a74",
+      "student_name": "Tyler Johnson",
+      "project_name": "JZhang_IFN712 Project Proposal 1_2025_CS ",
+      "total_score": 0.09583274606530422,
+      "skill_score": 0.1488372093023256,
+      "major_score": 0.08888888888888889,
+      "course_score": 0.01818181818181818,
+      "interest_score": 0.0,
+      "matched_skills": [
+        "machine learning"
+      ],
+      "matched_courses": [
+        "IFN701",
+        "IFN712"
+      ],
+      "matched_interests": [],
+      "details": {
+        "student_major": "Data Analytics",
+        "project_majors": [
+          "computer science and data science other majors are also fine"
+        ],
+        "student_skill_count": 14,
+        "project_skill_count": 9,
+        "student_course_count": 7,
+        "project_unit_count": 108
+      }
+    },
+    {
+      "student_id": "n825574e8",
+      "student_name": "Taylor Harris",
+      "project_name": "JZhang_IFN712 Project Proposal 1_2025_CS ",
+      "total_score": 0.09583274606530422,
+      "skill_score": 0.1488372093023256,
+      "major_score": 0.08888888888888889,
+      "course_score": 0.01818181818181818,
+      "interest_score": 0.0,
+      "matched_skills": [
+        "machine learning"
+      ],
+      "matched_courses": [
+        "IFN701",
+        "IFN712"
+      ],
+      "matched_interests": [],
+      "details": {
+        "student_major": "Data Analytics",
+        "project_majors": [
+          "computer science and data science other majors are also fine"
+        ],
+        "student_skill_count": 13,
+        "project_skill_count": 9,
+        "student_course_count": 7,
+        "project_unit_count": 108
+      }
+    },
+    {
+      "student_id": "n1370d1a5",
+      "student_name": "Finley Wilson",
+      "project_name": "JZhang_IFN712 Project Proposal 1_2025_CS ",
+      "total_score": 0.09583274606530422,
+      "skill_score": 0.1488372093023256,
+      "major_score": 0.08888888888888889,
+      "course_score": 0.01818181818181818,
+      "interest_score": 0.0,
+      "matched_skills": [
+        "machine learning"
+      ],
+      "matched_courses": [
+        "IFN701",
+        "IFN712"
+      ],
+      "matched_interests": [],
+      "details": {
+        "student_major": "Data Analytics",
+        "project_majors": [
+          "computer science and data science other majors are also fine"
+        ],
+        "student_skill_count": 13,
+        "project_skill_count": 9,
+        "student_course_count": 7,
+        "project_unit_count": 108
+      }
+    },
+    {
+      "student_id": "n04106989",
+      "student_name": "Jordan Wright",
+      "project_name": "JZhang_IFN712 Project Proposal 1_2025_CS ",
+      "total_score": 0.08822175240779893,
+      "skill_score": 0.11906976744186049,
+      "major_score": 0.08888888888888889,
+      "course_score": 0.05454545454545454,
+      "interest_score": 0.0,
+      "matched_skills": [
+        "mobile development",
+        "programming"
+      ],
+      "matched_courses": [
+        "IFN552",
+        "IFN556",
+        "IFN555",
+        "IFN554",
+        "IFN551",
+        "IFN623"
+      ],
+      "matched_interests": [],
+      "details": {
+        "student_major": "Software Development and Cybersecurity",
+        "project_majors": [
+          "computer science and data science other majors are also fine"
+        ],
+        "student_skill_count": 23,
+        "project_skill_count": 9,
+        "student_course_count": 8,
+        "project_unit_count": 108
+      }
+    },
+    {
+      "student_id": "n07556855",
+      "student_name": "Blake Moore",
+      "project_name": "JZhang_IFN712 Project Proposal 1_2025_CS ",
+      "total_score": 0.08822175240779893,
+      "skill_score": 0.11906976744186049,
+      "major_score": 0.08888888888888889,
+      "course_score": 0.05454545454545454,
+      "interest_score": 0.0,
+      "matched_skills": [
+        "mobile development",
+        "programming"
+      ],
+      "matched_courses": [
+        "IFN552",
+        "IFN556",
+        "IFN555",
+        "IFN554",
+        "IFN551",
+        "IFN623"
+      ],
+      "matched_interests": [],
+      "details": {
+        "student_major": "Computer Systems",
+        "project_majors": [
+          "computer science and data science other majors are also fine"
+        ],
+        "student_skill_count": 22,
+        "project_skill_count": 9,
+        "student_course_count": 8,
+        "project_unit_count": 108
+      }
+    },
+    {
+      "student_id": "n01490036",
+      "student_name": "Harper King",
+      "project_name": "JZhang_IFN712 Project Proposal 1_2025_CS ",
+      "total_score": 0.07874207188160678,
+      "skill_score": 0.08930232558139536,
+      "major_score": 0.0,
+      "course_score": 0.045454545454545456,
+      "interest_score": 0.25,
+      "matched_skills": [
+        "programming"
+      ],
+      "matched_courses": [
+        "IFN552",
+        "IFN555",
+        "IFN554",
+        "IFN551",
+        "IFN623"
+      ],
+      "matched_interests": [
+        "agile project management"
+      ],
+      "details": {
+        "student_major": "ExecIT)",
+        "project_majors": [
+          "computer science and data science other majors are also fine"
+        ],
+        "student_skill_count": 19,
+        "project_skill_count": 9,
+        "student_course_count": 8,
+        "project_unit_count": 108
+      }
+    },
+    {
+      "student_id": "n06841239",
+      "student_name": "Emery Nguyen",
+      "project_name": "JZhang_IFN712 Project Proposal 1_2025_CS ",
+      "total_score": 0.07151984965938456,
+      "skill_score": 0.08930232558139536,
+      "major_score": 0.08888888888888889,
+      "course_score": 0.045454545454545456,
+      "interest_score": 0.0,
+      "matched_skills": [
+        "programming"
+      ],
+      "matched_courses": [
+        "IFN552",
+        "IFN555",
+        "IFN554",
+        "IFN551",
+        "IFN623"
+      ],
+      "matched_interests": [],
+      "details": {
+        "student_major": "Business Analysis and ExecIT",
+        "project_majors": [
+          "computer science and data science other majors are also fine"
+        ],
+        "student_skill_count": 19,
+        "project_skill_count": 9,
+        "student_course_count": 8,
+        "project_unit_count": 108
+      }
+    },
+    {
+      "student_id": "n00153538",
+      "student_name": "Sage Chen",
+      "project_name": "JZhang_IFN712 Project Proposal 1_2025_CS ",
+      "total_score": 0.07151984965938456,
+      "skill_score": 0.08930232558139536,
+      "major_score": 0.08888888888888889,
+      "course_score": 0.045454545454545456,
+      "interest_score": 0.0,
+      "matched_skills": [
+        "programming"
+      ],
+      "matched_courses": [
+        "IFN552",
+        "IFN555",
+        "IFN554",
+        "IFN551",
+        "IFN623"
+      ],
+      "matched_interests": [],
+      "details": {
+        "student_major": "Business Analysis and ExecIT",
+        "project_majors": [
+          "computer science and data science other majors are also fine"
+        ],
+        "student_skill_count": 19,
+        "project_skill_count": 9,
+        "student_course_count": 8,
+        "project_unit_count": 108
+      }
+    },
+    {
+      "student_id": "n09948799",
+      "student_name": "Peyton Moore",
+      "project_name": "JZhang_IFN712 Project Proposal 1_2025_CS ",
+      "total_score": 0.07151984965938456,
+      "skill_score": 0.08930232558139536,
+      "major_score": 0.08888888888888889,
+      "course_score": 0.045454545454545456,
+      "interest_score": 0.0,
+      "matched_skills": [
+        "programming"
+      ],
+      "matched_courses": [
+        "IFN552",
+        "IFN555",
+        "IFN554",
+        "IFN551",
+        "IFN623"
+      ],
+      "matched_interests": [],
+      "details": {
+        "student_major": "Business Analysis and ExecIT",
+        "project_majors": [
+          "computer science and data science other majors are also fine"
+        ],
+        "student_skill_count": 19,
+        "project_skill_count": 9,
+        "student_course_count": 8,
+        "project_unit_count": 108
+      }
+    },
+    {
+      "student_id": "n04868510",
+      "student_name": "Alex Jones",
+      "project_name": "JZhang_IFN712 Project Proposal 1_2025_CS ",
+      "total_score": 0.07151984965938456,
+      "skill_score": 0.08930232558139536,
+      "major_score": 0.08888888888888889,
+      "course_score": 0.045454545454545456,
+      "interest_score": 0.0,
+      "matched_skills": [
+        "programming"
+      ],
+      "matched_courses": [
+        "IFN552",
+        "IFN555",
+        "IFN554",
+        "IFN551",
+        "IFN623"
+      ],
+      "matched_interests": [],
+      "details": {
+        "student_major": "Business Analysis and ExecIT",
+        "project_majors": [
+          "computer science and data science other majors are also fine"
+        ],
+        "student_skill_count": 19,
+        "project_skill_count": 9,
+        "student_course_count": 8,
+        "project_unit_count": 108
+      }
+    },
+    {
+      "student_id": "n07817504",
+      "student_name": "Avery Thompson",
+      "project_name": "JZhang_IFN712 Project Proposal 1_2025_CS ",
+      "total_score": 0.07151984965938456,
+      "skill_score": 0.08930232558139536,
+      "major_score": 0.08888888888888889,
+      "course_score": 0.045454545454545456,
+      "interest_score": 0.0,
+      "matched_skills": [
+        "programming"
+      ],
+      "matched_courses": [
+        "IFN552",
+        "IFN555",
+        "IFN554",
+        "IFN551",
+        "IFN623"
+      ],
+      "matched_interests": [],
+      "details": {
+        "student_major": "Business Analysis and ExecIT",
+        "project_majors": [
+          "computer science and data science other majors are also fine"
+        ],
+        "student_skill_count": 19,
+        "project_skill_count": 9,
+        "student_course_count": 8,
+        "project_unit_count": 108
+      }
+    },
+    {
+      "student_id": "n15750559",
+      "student_name": "Devon Miller",
+      "project_name": "JZhang_IFN712 Project Proposal 1_2025_CS ",
+      "total_score": 0.07044397463002115,
+      "skill_score": 0.11906976744186049,
+      "major_score": 0.0,
+      "course_score": 0.05454545454545454,
+      "interest_score": 0.0,
+      "matched_skills": [
+        "mobile development",
+        "programming"
+      ],
+      "matched_courses": [
+        "IFN552",
+        "IFN556",
+        "IFN555",
+        "IFN554",
+        "IFN551",
+        "IFN623"
+      ],
+      "matched_interests": [],
+      "details": {
+        "student_major": "Software Development",
+        "project_majors": [
+          "computer science and data science other majors are also fine"
+        ],
+        "student_skill_count": 23,
+        "project_skill_count": 9,
+        "student_course_count": 8,
+        "project_unit_count": 108
+      }
+    },
+    {
+      "student_id": "n04909199",
+      "student_name": "Rory Miller",
+      "project_name": "JZhang_IFN712 Project Proposal 1_2025_CS ",
+      "total_score": 0.07044397463002115,
+      "skill_score": 0.11906976744186049,
+      "major_score": 0.0,
+      "course_score": 0.05454545454545454,
+      "interest_score": 0.0,
+      "matched_skills": [
+        "mobile development",
+        "programming"
+      ],
+      "matched_courses": [
+        "IFN552",
+        "IFN556",
+        "IFN555",
+        "IFN554",
+        "IFN551",
+        "IFN623"
+      ],
+      "matched_interests": [],
+      "details": {
+        "student_major": "Software Development",
+        "project_majors": [
+          "computer science and data science other majors are also fine"
+        ],
+        "student_skill_count": 23,
+        "project_skill_count": 9,
+        "student_course_count": 8,
+        "project_unit_count": 108
+      }
+    },
+    {
+      "student_id": "n07590196",
+      "student_name": "Morgan Taylor",
+      "project_name": "JZhang_IFN712 Project Proposal 1_2025_CS ",
+      "total_score": 0.07044397463002115,
+      "skill_score": 0.11906976744186049,
+      "major_score": 0.0,
+      "course_score": 0.05454545454545454,
+      "interest_score": 0.0,
+      "matched_skills": [
+        "mobile development",
+        "programming"
+      ],
+      "matched_courses": [
+        "IFN552",
+        "IFN556",
+        "IFN555",
+        "IFN554",
+        "IFN551",
+        "IFN623"
+      ],
+      "matched_interests": [],
+      "details": {
+        "student_major": "Software Development",
+        "project_majors": [
+          "computer science and data science other majors are also fine"
+        ],
+        "student_skill_count": 23,
+        "project_skill_count": 9,
+        "student_course_count": 8,
+        "project_unit_count": 108
+      }
+    },
+    {
+      "student_id": "n02481839",
+      "student_name": "Madison Jones",
+      "project_name": "JZhang_IFN712 Project Proposal 1_2025_CS ",
+      "total_score": 0.07044397463002115,
+      "skill_score": 0.11906976744186049,
+      "major_score": 0.0,
+      "course_score": 0.05454545454545454,
+      "interest_score": 0.0,
+      "matched_skills": [
+        "mobile development",
+        "programming"
+      ],
+      "matched_courses": [
+        "IFN552",
+        "IFN556",
+        "IFN555",
+        "IFN554",
+        "IFN551",
+        "IFN623"
+      ],
+      "matched_interests": [],
+      "details": {
+        "student_major": "Software Engineering",
+        "project_majors": [
+          "computer science and data science other majors are also fine"
+        ],
+        "student_skill_count": 23,
+        "project_skill_count": 9,
+        "student_course_count": 8,
+        "project_unit_count": 108
+      }
+    },
+    {
+      "student_id": "n16774452",
+      "student_name": "Sage King",
+      "project_name": "JZhang_IFN712 Project Proposal 1_2025_CS ",
+      "total_score": 0.07044397463002115,
+      "skill_score": 0.11906976744186049,
+      "major_score": 0.0,
+      "course_score": 0.05454545454545454,
+      "interest_score": 0.0,
+      "matched_skills": [
+        "mobile development",
+        "programming"
+      ],
+      "matched_courses": [
+        "IFN552",
+        "IFN556",
+        "IFN555",
+        "IFN554",
+        "IFN551",
+        "IFN623"
+      ],
+      "matched_interests": [],
+      "details": {
+        "student_major": "Software Development",
+        "project_majors": [
+          "computer science and data science other majors are also fine"
+        ],
+        "student_skill_count": 23,
+        "project_skill_count": 9,
+        "student_course_count": 8,
+        "project_unit_count": 108
+      }
+    },
+    {
+      "student_id": "n01013489",
+      "student_name": "Tyler Rodriguez",
+      "project_name": "JZhang_IFN712 Project Proposal 1_2025_CS ",
+      "total_score": 0.053742071881606776,
+      "skill_score": 0.08930232558139536,
+      "major_score": 0.0,
+      "course_score": 0.045454545454545456,
+      "interest_score": 0.0,
+      "matched_skills": [
+        "programming"
+      ],
+      "matched_courses": [
+        "IFN552",
+        "IFN555",
+        "IFN554",
+        "IFN551",
+        "IFN623"
+      ],
+      "matched_interests": [],
+      "details": {
+        "student_major": "Business Analysis",
+        "project_majors": [
+          "computer science and data science other majors are also fine"
+        ],
+        "student_skill_count": 19,
+        "project_skill_count": 9,
+        "student_course_count": 8,
+        "project_unit_count": 108
+      }
+    },
+    {
+      "student_id": "n06732414",
+      "student_name": "Alex Garcia",
+      "project_name": "JZhang_IFN712 Project Proposal 1_2025_CS ",
+      "total_score": 0.053742071881606776,
+      "skill_score": 0.08930232558139536,
+      "major_score": 0.0,
+      "course_score": 0.045454545454545456,
+      "interest_score": 0.0,
+      "matched_skills": [
+        "programming"
+      ],
+      "matched_courses": [
+        "IFN552",
+        "IFN555",
+        "IFN554",
+        "IFN551",
+        "IFN623"
+      ],
+      "matched_interests": [],
+      "details": {
+        "student_major": "Business Analysis",
+        "project_majors": [
+          "computer science and data science other majors are also fine"
+        ],
+        "student_skill_count": 19,
+        "project_skill_count": 9,
+        "student_course_count": 8,
+        "project_unit_count": 108
+      }
+    },
+    {
+      "student_id": "",
+      "student_name": "",
+      "project_name": "JZhang_IFN712 Project Proposal 1_2025_CS ",
+      "total_score": 0.0,
+      "skill_score": 0.0,
+      "major_score": 0.0,
+      "course_score": 0.0,
+      "interest_score": 0.0,
+      "matched_skills": [],
+      "matched_courses": [],
+      "matched_interests": [],
+      "details": {
+        "student_major": "",
+        "project_majors": [
+          "computer science and data science other majors are also fine"
+        ],
+        "student_skill_count": 0,
+        "project_skill_count": 9,
+        "student_course_count": 0,
+        "project_unit_count": 108
+      }
+    }
+  ]
+}

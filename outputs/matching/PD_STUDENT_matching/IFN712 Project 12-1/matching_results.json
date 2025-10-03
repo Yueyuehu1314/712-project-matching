@@ -1,0 +1,332 @@
+[
+  {
+    "student_id": "n02313107",
+    "student_name": "Jordan Jackson",
+    "project_name": "IFN712 Project 12-1",
+    "match_score": 0.875,
+    "skill_match_score": 0.875,
+    "major_match_score": 1.0,
+    "interest_match_score": 0.5,
+    "matched_skills": [
+      "scikitlearn",
+      "machine learning",
+      "data analytics",
+      "python",
+      "cyber security",
+      "artificial intelligence",
+      "security"
+    ],
+    "missing_skills": [
+      "deep learning"
+    ],
+    "student_majors": [
+      "computer science specialization in cyber security"
+    ],
+    "project_required_majors": [
+      "computer science",
+      "data analytics"
+    ],
+    "details": {
+      "student_total_skills": 25,
+      "project_required_skills": 8,
+      "student_courses": 8
+    }
+  },
+  {
+    "student_id": "n07268728",
+    "student_name": "Rowan Moore",
+    "project_name": "IFN712 Project 12-1",
+    "match_score": 0.862,
+    "skill_match_score": 0.875,
+    "major_match_score": 1.0,
+    "interest_match_score": 0.375,
+    "matched_skills": [
+      "scikitlearn",
+      "machine learning",
+      "data analytics",
+      "python",
+      "cyber security",
+      "artificial intelligence",
+      "security"
+    ],
+    "missing_skills": [
+      "deep learning"
+    ],
+    "student_majors": [
+      "computer science specialization in cyber security"
+    ],
+    "project_required_majors": [
+      "computer science",
+      "data analytics"
+    ],
+    "details": {
+      "student_total_skills": 25,
+      "project_required_skills": 8,
+      "student_courses": 8
+    }
+  },
+  {
+    "student_id": "n08777074",
+    "student_name": "Jamie Young",
+    "project_name": "IFN712 Project 12-1",
+    "match_score": 0.862,
+    "skill_match_score": 0.875,
+    "major_match_score": 1.0,
+    "interest_match_score": 0.375,
+    "matched_skills": [
+      "scikitlearn",
+      "machine learning",
+      "data analytics",
+      "python",
+      "cyber security",
+      "artificial intelligence",
+      "security"
+    ],
+    "missing_skills": [
+      "deep learning"
+    ],
+    "student_majors": [
+      "computer science"
+    ],
+    "project_required_majors": [
+      "computer science",
+      "data analytics"
+    ],
+    "details": {
+      "student_total_skills": 25,
+      "project_required_skills": 8,
+      "student_courses": 8
+    }
+  },
+  {
+    "student_id": "n11283106",
+    "student_name": "Rory Brown",
+    "project_name": "IFN712 Project 12-1",
+    "match_score": 0.8,
+    "skill_match_score": 0.75,
+    "major_match_score": 1.0,
+    "interest_match_score": 0.5,
+    "matched_skills": [
+      "scikitlearn",
+      "machine learning",
+      "data analytics",
+      "python",
+      "cyber security",
+      "security"
+    ],
+    "missing_skills": [
+      "deep learning",
+      "artificial intelligence"
+    ],
+    "student_majors": [
+      "computer science"
+    ],
+    "project_required_majors": [
+      "computer science",
+      "data analytics"
+    ],
+    "details": {
+      "student_total_skills": 27,
+      "project_required_skills": 8,
+      "student_courses": 8
+    }
+  },
+  {
+    "student_id": "n15664732",
+    "student_name": "Rory Flores",
+    "project_name": "IFN712 Project 12-1",
+    "match_score": 0.787,
+    "skill_match_score": 0.75,
+    "major_match_score": 1.0,
+    "interest_match_score": 0.375,
+    "matched_skills": [
+      "scikitlearn",
+      "machine learning",
+      "data analytics",
+      "python",
+      "cyber security",
+      "security"
+    ],
+    "missing_skills": [
+      "deep learning",
+      "artificial intelligence"
+    ],
+    "student_majors": [
+      "computer science and cyber security"
+    ],
+    "project_required_majors": [
+      "computer science",
+      "data analytics"
+    ],
+    "details": {
+      "student_total_skills": 27,
+      "project_required_skills": 8,
+      "student_courses": 8
+    }
+  },
+  {
+    "student_id": "n00596089",
+    "student_name": "Madison White",
+    "project_name": "IFN712 Project 12-1",
+    "match_score": 0.787,
+    "skill_match_score": 0.75,
+    "major_match_score": 1.0,
+    "interest_match_score": 0.375,
+    "matched_skills": [
+      "scikitlearn",
+      "machine learning",
+      "data analytics",
+      "python",
+      "cyber security",
+      "security"
+    ],
+    "missing_skills": [
+      "deep learning",
+      "artificial intelligence"
+    ],
+    "student_majors": [
+      "computer science with a minor in data analytics"
+    ],
+    "project_required_majors": [
+      "computer science",
+      "data analytics"
+    ],
+    "details": {
+      "student_total_skills": 27,
+      "project_required_skills": 8,
+      "student_courses": 8
+    }
+  },
+  {
+    "student_id": "n00767167",
+    "student_name": "Jordan Allen",
+    "project_name": "IFN712 Project 12-1",
+    "match_score": 0.787,
+    "skill_match_score": 0.75,
+    "major_match_score": 1.0,
+    "interest_match_score": 0.375,
+    "matched_skills": [
+      "scikitlearn",
+      "machine learning",
+      "data analytics",
+      "python",
+      "cyber security",
+      "security"
+    ],
+    "missing_skills": [
+      "deep learning",
+      "artificial intelligence"
+    ],
+    "student_majors": [
+      "computer science cyber security specialization"
+    ],
+    "project_required_majors": [
+      "computer science",
+      "data analytics"
+    ],
+    "details": {
+      "student_total_skills": 27,
+      "project_required_skills": 8,
+      "student_courses": 8
+    }
+  },
+  {
+    "student_id": "n01025709",
+    "student_name": "Tyler Brown",
+    "project_name": "IFN712 Project 12-1",
+    "match_score": 0.787,
+    "skill_match_score": 0.75,
+    "major_match_score": 1.0,
+    "interest_match_score": 0.375,
+    "matched_skills": [
+      "scikitlearn",
+      "machine learning",
+      "data analytics",
+      "python",
+      "cyber security",
+      "security"
+    ],
+    "missing_skills": [
+      "deep learning",
+      "artificial intelligence"
+    ],
+    "student_majors": [
+      "computer science"
+    ],
+    "project_required_majors": [
+      "computer science",
+      "data analytics"
+    ],
+    "details": {
+      "student_total_skills": 27,
+      "project_required_skills": 8,
+      "student_courses": 8
+    }
+  },
+  {
+    "student_id": "n02866979",
+    "student_name": "Drew Johnson",
+    "project_name": "IFN712 Project 12-1",
+    "match_score": 0.725,
+    "skill_match_score": 0.625,
+    "major_match_score": 1.0,
+    "interest_match_score": 0.5,
+    "matched_skills": [
+      "scikitlearn",
+      "data analytics",
+      "python",
+      "cyber security",
+      "security"
+    ],
+    "missing_skills": [
+      "deep learning",
+      "artificial intelligence",
+      "machine learning"
+    ],
+    "student_majors": [
+      "computer science"
+    ],
+    "project_required_majors": [
+      "computer science",
+      "data analytics"
+    ],
+    "details": {
+      "student_total_skills": 27,
+      "project_required_skills": 8,
+      "student_courses": 8
+    }
+  },
+  {
+    "student_id": "n12231776",
+    "student_name": "Casey Anderson",
+    "project_name": "IFN712 Project 12-1",
+    "match_score": 0.713,
+    "skill_match_score": 0.625,
+    "major_match_score": 1.0,
+    "interest_match_score": 0.375,
+    "matched_skills": [
+      "scikitlearn",
+      "data analytics",
+      "python",
+      "cyber security",
+      "security"
+    ],
+    "missing_skills": [
+      "deep learning",
+      "artificial intelligence",
+      "machine learning"
+    ],
+    "student_majors": [
+      "computer science with a minor in data analytics"
+    ],
+    "project_required_majors": [
+      "computer science",
+      "data analytics"
+    ],
+    "details": {
+      "student_total_skills": 27,
+      "project_required_skills": 8,
+      "student_courses": 8
+    }
+  }
+]

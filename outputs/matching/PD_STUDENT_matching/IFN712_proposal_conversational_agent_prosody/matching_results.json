@@ -1,0 +1,277 @@
+[
+  {
+    "student_id": "n13857326",
+    "student_name": "Morgan Williams",
+    "project_name": "IFN712_proposal_conversational_agent_prosody",
+    "match_score": 0.95,
+    "skill_match_score": 1.0,
+    "major_match_score": 1.0,
+    "interest_match_score": 0.5,
+    "matched_skills": [
+      "nlp",
+      "artificial intelligence",
+      "machine learning",
+      "data analytics"
+    ],
+    "missing_skills": [],
+    "student_majors": [
+      "data analytics"
+    ],
+    "project_required_majors": [
+      "computer science data analytics"
+    ],
+    "details": {
+      "student_total_skills": 24,
+      "project_required_skills": 4,
+      "student_courses": 8
+    }
+  },
+  {
+    "student_id": "n05458643",
+    "student_name": "Kendall Johnson",
+    "project_name": "IFN712_proposal_conversational_agent_prosody",
+    "match_score": 0.925,
+    "skill_match_score": 1.0,
+    "major_match_score": 1.0,
+    "interest_match_score": 0.25,
+    "matched_skills": [
+      "nlp",
+      "artificial intelligence",
+      "machine learning",
+      "data analytics"
+    ],
+    "missing_skills": [],
+    "student_majors": [
+      "data analytics"
+    ],
+    "project_required_majors": [
+      "computer science data analytics"
+    ],
+    "details": {
+      "student_total_skills": 25,
+      "project_required_skills": 4,
+      "student_courses": 8
+    }
+  },
+  {
+    "student_id": "n04552993",
+    "student_name": "Quinn King",
+    "project_name": "IFN712_proposal_conversational_agent_prosody",
+    "match_score": 0.8,
+    "skill_match_score": 0.75,
+    "major_match_score": 1.0,
+    "interest_match_score": 0.5,
+    "matched_skills": [
+      "nlp",
+      "machine learning",
+      "data analytics"
+    ],
+    "missing_skills": [
+      "artificial intelligence"
+    ],
+    "student_majors": [
+      "data analytics"
+    ],
+    "project_required_majors": [
+      "computer science data analytics"
+    ],
+    "details": {
+      "student_total_skills": 26,
+      "project_required_skills": 4,
+      "student_courses": 8
+    }
+  },
+  {
+    "student_id": "n13907629",
+    "student_name": "Riley Rodriguez",
+    "project_name": "IFN712_proposal_conversational_agent_prosody",
+    "match_score": 0.8,
+    "skill_match_score": 0.75,
+    "major_match_score": 1.0,
+    "interest_match_score": 0.5,
+    "matched_skills": [
+      "nlp",
+      "machine learning",
+      "data analytics"
+    ],
+    "missing_skills": [
+      "artificial intelligence"
+    ],
+    "student_majors": [
+      "data analytics"
+    ],
+    "project_required_majors": [
+      "computer science data analytics"
+    ],
+    "details": {
+      "student_total_skills": 26,
+      "project_required_skills": 4,
+      "student_courses": 8
+    }
+  },
+  {
+    "student_id": "n01737848",
+    "student_name": "Sydney Martin",
+    "project_name": "IFN712_proposal_conversational_agent_prosody",
+    "match_score": 0.775,
+    "skill_match_score": 0.75,
+    "major_match_score": 1.0,
+    "interest_match_score": 0.25,
+    "matched_skills": [
+      "nlp",
+      "machine learning",
+      "data analytics"
+    ],
+    "missing_skills": [
+      "artificial intelligence"
+    ],
+    "student_majors": [
+      "data analytics"
+    ],
+    "project_required_majors": [
+      "computer science data analytics"
+    ],
+    "details": {
+      "student_total_skills": 26,
+      "project_required_skills": 4,
+      "student_courses": 8
+    }
+  },
+  {
+    "student_id": "n06813303",
+    "student_name": "Harper White",
+    "project_name": "IFN712_proposal_conversational_agent_prosody",
+    "match_score": 0.775,
+    "skill_match_score": 0.75,
+    "major_match_score": 1.0,
+    "interest_match_score": 0.25,
+    "matched_skills": [
+      "artificial intelligence",
+      "machine learning",
+      "data analytics"
+    ],
+    "missing_skills": [
+      "nlp"
+    ],
+    "student_majors": [
+      "data analytics"
+    ],
+    "project_required_majors": [
+      "computer science data analytics"
+    ],
+    "details": {
+      "student_total_skills": 25,
+      "project_required_skills": 4,
+      "student_courses": 8
+    }
+  },
+  {
+    "student_id": "n06955897",
+    "student_name": "Finley Flores",
+    "project_name": "IFN712_proposal_conversational_agent_prosody",
+    "match_score": 0.65,
+    "skill_match_score": 0.5,
+    "major_match_score": 1.0,
+    "interest_match_score": 0.5,
+    "matched_skills": [
+      "machine learning",
+      "data analytics"
+    ],
+    "missing_skills": [
+      "artificial intelligence",
+      "nlp"
+    ],
+    "student_majors": [
+      "data analytics"
+    ],
+    "project_required_majors": [
+      "computer science data analytics"
+    ],
+    "details": {
+      "student_total_skills": 24,
+      "project_required_skills": 4,
+      "student_courses": 8
+    }
+  },
+  {
+    "student_id": "n00114716",
+    "student_name": "Finley Thompson",
+    "project_name": "IFN712_proposal_conversational_agent_prosody",
+    "match_score": 0.625,
+    "skill_match_score": 0.5,
+    "major_match_score": 1.0,
+    "interest_match_score": 0.25,
+    "matched_skills": [
+      "machine learning",
+      "data analytics"
+    ],
+    "missing_skills": [
+      "artificial intelligence",
+      "nlp"
+    ],
+    "student_majors": [
+      "computer science"
+    ],
+    "project_required_majors": [
+      "computer science data analytics"
+    ],
+    "details": {
+      "student_total_skills": 28,
+      "project_required_skills": 4,
+      "student_courses": 8
+    }
+  },
+  {
+    "student_id": "n09394187",
+    "student_name": "Riley Jackson",
+    "project_name": "IFN712_proposal_conversational_agent_prosody",
+    "match_score": 0.625,
+    "skill_match_score": 0.5,
+    "major_match_score": 1.0,
+    "interest_match_score": 0.25,
+    "matched_skills": [
+      "machine learning",
+      "data analytics"
+    ],
+    "missing_skills": [
+      "artificial intelligence",
+      "nlp"
+    ],
+    "student_majors": [
+      "data analytics"
+    ],
+    "project_required_majors": [
+      "computer science data analytics"
+    ],
+    "details": {
+      "student_total_skills": 26,
+      "project_required_skills": 4,
+      "student_courses": 8
+    }
+  },
+  {
+    "student_id": "",
+    "student_name": "",
+    "project_name": "IFN712_proposal_conversational_agent_prosody",
+    "match_score": 0.0,
+    "skill_match_score": 0.0,
+    "major_match_score": 0.0,
+    "interest_match_score": 0.0,
+    "matched_skills": [],
+    "missing_skills": [
+      "nlp",
+      "artificial intelligence",
+      "machine learning",
+      "data analytics"
+    ],
+    "student_majors": [],
+    "project_required_majors": [
+      "computer science data analytics"
+    ],
+    "details": {
+      "student_total_skills": 0,
+      "project_required_skills": 4,
+      "student_courses": 0
+    }
+  }
+]

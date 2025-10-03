@@ -1,0 +1,292 @@
+[
+  {
+    "student_id": "nff065a74",
+    "student_name": "Tyler Johnson",
+    "project_name": "IFN712 Project Proposal Template_2025_CS -3",
+    "match_score": 0.564,
+    "skill_match_score": 0.571,
+    "major_match_score": 0.5,
+    "interest_match_score": 0.714,
+    "matched_skills": [
+      "machine learning",
+      "data analytics",
+      "python",
+      "deep learning"
+    ],
+    "missing_skills": [
+      "security",
+      "artificial intelligence",
+      "cyber security"
+    ],
+    "student_majors": [
+      "data analytics"
+    ],
+    "project_required_majors": [],
+    "details": {
+      "student_total_skills": 14,
+      "project_required_skills": 7,
+      "student_courses": 7
+    }
+  },
+  {
+    "student_id": "nba9e3de4",
+    "student_name": "Peyton Hill",
+    "project_name": "IFN712 Project Proposal Template_2025_CS -3",
+    "match_score": 0.464,
+    "skill_match_score": 0.429,
+    "major_match_score": 0.5,
+    "interest_match_score": 0.571,
+    "matched_skills": [
+      "machine learning",
+      "data analytics",
+      "python"
+    ],
+    "missing_skills": [
+      "deep learning",
+      "security",
+      "artificial intelligence",
+      "cyber security"
+    ],
+    "student_majors": [
+      "computer science"
+    ],
+    "project_required_majors": [],
+    "details": {
+      "student_total_skills": 13,
+      "project_required_skills": 7,
+      "student_courses": 6
+    }
+  },
+  {
+    "student_id": "n5dd13e45",
+    "student_name": "Rory Moore",
+    "project_name": "IFN712 Project Proposal Template_2025_CS -3",
+    "match_score": 0.45,
+    "skill_match_score": 0.429,
+    "major_match_score": 0.5,
+    "interest_match_score": 0.429,
+    "matched_skills": [
+      "machine learning",
+      "data analytics",
+      "python"
+    ],
+    "missing_skills": [
+      "deep learning",
+      "security",
+      "artificial intelligence",
+      "cyber security"
+    ],
+    "student_majors": [
+      "data analytics"
+    ],
+    "project_required_majors": [],
+    "details": {
+      "student_total_skills": 14,
+      "project_required_skills": 7,
+      "student_courses": 7
+    }
+  },
+  {
+    "student_id": "n8ab07320",
+    "student_name": "Drew Wilson",
+    "project_name": "IFN712 Project Proposal Template_2025_CS -3",
+    "match_score": 0.45,
+    "skill_match_score": 0.429,
+    "major_match_score": 0.5,
+    "interest_match_score": 0.429,
+    "matched_skills": [
+      "machine learning",
+      "data analytics",
+      "python"
+    ],
+    "missing_skills": [
+      "deep learning",
+      "security",
+      "artificial intelligence",
+      "cyber security"
+    ],
+    "student_majors": [
+      "data analytics"
+    ],
+    "project_required_majors": [],
+    "details": {
+      "student_total_skills": 13,
+      "project_required_skills": 7,
+      "student_courses": 7
+    }
+  },
+  {
+    "student_id": "n1370d1a5",
+    "student_name": "Finley Wilson",
+    "project_name": "IFN712 Project Proposal Template_2025_CS -3",
+    "match_score": 0.45,
+    "skill_match_score": 0.429,
+    "major_match_score": 0.5,
+    "interest_match_score": 0.429,
+    "matched_skills": [
+      "machine learning",
+      "data analytics",
+      "python"
+    ],
+    "missing_skills": [
+      "deep learning",
+      "security",
+      "artificial intelligence",
+      "cyber security"
+    ],
+    "student_majors": [
+      "data analytics"
+    ],
+    "project_required_majors": [],
+    "details": {
+      "student_total_skills": 13,
+      "project_required_skills": 7,
+      "student_courses": 7
+    }
+  },
+  {
+    "student_id": "nb065aafc",
+    "student_name": "Cameron Hernandez",
+    "project_name": "IFN712 Project Proposal Template_2025_CS -3",
+    "match_score": 0.436,
+    "skill_match_score": 0.429,
+    "major_match_score": 0.5,
+    "interest_match_score": 0.286,
+    "matched_skills": [
+      "machine learning",
+      "data analytics",
+      "python"
+    ],
+    "missing_skills": [
+      "deep learning",
+      "security",
+      "artificial intelligence",
+      "cyber security"
+    ],
+    "student_majors": [
+      "computer science"
+    ],
+    "project_required_majors": [],
+    "details": {
+      "student_total_skills": 15,
+      "project_required_skills": 7,
+      "student_courses": 6
+    }
+  },
+  {
+    "student_id": "nfd66da84",
+    "student_name": "Rory Johnson",
+    "project_name": "IFN712 Project Proposal Template_2025_CS -3",
+    "match_score": 0.436,
+    "skill_match_score": 0.429,
+    "major_match_score": 0.5,
+    "interest_match_score": 0.286,
+    "matched_skills": [
+      "machine learning",
+      "data analytics",
+      "python"
+    ],
+    "missing_skills": [
+      "deep learning",
+      "security",
+      "artificial intelligence",
+      "cyber security"
+    ],
+    "student_majors": [
+      "computer science"
+    ],
+    "project_required_majors": [],
+    "details": {
+      "student_total_skills": 16,
+      "project_required_skills": 7,
+      "student_courses": 6
+    }
+  },
+  {
+    "student_id": "n335f2be5",
+    "student_name": "Finley Flores",
+    "project_name": "IFN712 Project Proposal Template_2025_CS -3",
+    "match_score": 0.436,
+    "skill_match_score": 0.429,
+    "major_match_score": 0.5,
+    "interest_match_score": 0.286,
+    "matched_skills": [
+      "machine learning",
+      "data analytics",
+      "python"
+    ],
+    "missing_skills": [
+      "deep learning",
+      "security",
+      "artificial intelligence",
+      "cyber security"
+    ],
+    "student_majors": [
+      "computer science"
+    ],
+    "project_required_majors": [],
+    "details": {
+      "student_total_skills": 14,
+      "project_required_skills": 7,
+      "student_courses": 6
+    }
+  },
+  {
+    "student_id": "n72f28e37",
+    "student_name": "Emery Taylor",
+    "project_name": "IFN712 Project Proposal Template_2025_CS -3",
+    "match_score": 0.436,
+    "skill_match_score": 0.429,
+    "major_match_score": 0.5,
+    "interest_match_score": 0.286,
+    "matched_skills": [
+      "machine learning",
+      "data analytics",
+      "python"
+    ],
+    "missing_skills": [
+      "deep learning",
+      "security",
+      "artificial intelligence",
+      "cyber security"
+    ],
+    "student_majors": [
+      "computer science"
+    ],
+    "project_required_majors": [],
+    "details": {
+      "student_total_skills": 15,
+      "project_required_skills": 7,
+      "student_courses": 6
+    }
+  },
+  {
+    "student_id": "n825574e8",
+    "student_name": "Taylor Harris",
+    "project_name": "IFN712 Project Proposal Template_2025_CS -3",
+    "match_score": 0.436,
+    "skill_match_score": 0.429,
+    "major_match_score": 0.5,
+    "interest_match_score": 0.286,
+    "matched_skills": [
+      "machine learning",
+      "data analytics",
+      "python"
+    ],
+    "missing_skills": [
+      "deep learning",
+      "security",
+      "artificial intelligence",
+      "cyber security"
+    ],
+    "student_majors": [
+      "data analytics"
+    ],
+    "project_required_majors": [],
+    "details": {
+      "student_total_skills": 13,
+      "project_required_skills": 7,
+      "student_courses": 7
+    }
+  }
+]

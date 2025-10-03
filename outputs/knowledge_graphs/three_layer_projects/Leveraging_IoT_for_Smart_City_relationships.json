@@ -1,0 +1,79 @@
+[
+  {
+    "source_id": "project_IFN712_Project_Proposal_-_Vicky_Liu_Sem_2_2025",
+    "target_id": "domain_data_science_and_analytics",
+    "relation_type": "REQUIRES_DOMAIN",
+    "weight": 1.0,
+    "properties": {}
+  },
+  {
+    "source_id": "domain_data_science_and_analytics",
+    "target_id": "skill_data_analytics",
+    "relation_type": "INCLUDES",
+    "weight": 0.5,
+    "properties": {}
+  },
+  {
+    "source_id": "project_IFN712_Project_Proposal_-_Vicky_Liu_Sem_2_2025",
+    "target_id": "domain_networking_and_communication",
+    "relation_type": "REQUIRES_DOMAIN",
+    "weight": 1.0,
+    "properties": {}
+  },
+  {
+    "source_id": "domain_networking_and_communication",
+    "target_id": "skill_iot",
+    "relation_type": "INCLUDES",
+    "weight": 0.8,
+    "properties": {}
+  },
+  {
+    "source_id": "project_IFN712_Project_Proposal_-_Vicky_Liu_Sem_2_2025",
+    "target_id": "domain_academic_programs",
+    "relation_type": "REQUIRES_DOMAIN",
+    "weight": 1.0,
+    "properties": {}
+  },
+  {
+    "source_id": "domain_academic_programs",
+    "target_id": "skill_cyber_security",
+    "relation_type": "INCLUDES",
+    "weight": 0.8,
+    "properties": {}
+  },
+  {
+    "source_id": "domain_academic_programs",
+    "target_id": "skill_computer_science",
+    "relation_type": "INCLUDES",
+    "weight": 0.8,
+    "properties": {}
+  },
+  {
+    "source_id": "project_IFN712_Project_Proposal_-_Vicky_Liu_Sem_2_2025",
+    "target_id": "domain_machine_learning_and_ai",
+    "relation_type": "REQUIRES_DOMAIN",
+    "weight": 1.0,
+    "properties": {}
+  },
+  {
+    "source_id": "domain_machine_learning_and_ai",
+    "target_id": "tech_r",
+    "relation_type": "USES_TECH",
+    "weight": 0.9,
+    "properties": {}
+  },
+  {
+    "source_id": "project_IFN712_Project_Proposal_-_Vicky_Liu_Sem_2_2025",
+    "target_id": "domain_general_technologies",
+    "relation_type": "REQUIRES_DOMAIN",
+    "weight": 1.0,
+    "properties": {}
+  },
+  {
+    "source_id": "domain_general_technologies",
+    "target_id": "tech_git",
+    "relation_type": "USES_TECH",
+    "weight": 0.9,
+    "properties": {}
+  }
+]

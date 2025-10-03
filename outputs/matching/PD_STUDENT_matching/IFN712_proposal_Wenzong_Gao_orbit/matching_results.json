@@ -1,0 +1,292 @@
+[
+  {
+    "student_id": "n11252525",
+    "student_name": "Alex Flores",
+    "project_name": "IFN712_proposal_Wenzong_Gao_orbit",
+    "match_score": 0.82,
+    "skill_match_score": 0.8,
+    "major_match_score": 1.0,
+    "interest_match_score": 0.4,
+    "matched_skills": [
+      "machine learning",
+      "data analytics",
+      "python",
+      "artificial intelligence"
+    ],
+    "missing_skills": [
+      "neural networking"
+    ],
+    "student_majors": [
+      "data analytics and computer science"
+    ],
+    "project_required_majors": [
+      "data analytics and computer science"
+    ],
+    "details": {
+      "student_total_skills": 25,
+      "project_required_skills": 5,
+      "student_courses": 8
+    }
+  },
+  {
+    "student_id": "n09804514",
+    "student_name": "Reese Scott",
+    "project_name": "IFN712_proposal_Wenzong_Gao_orbit",
+    "match_score": 0.82,
+    "skill_match_score": 0.8,
+    "major_match_score": 1.0,
+    "interest_match_score": 0.4,
+    "matched_skills": [
+      "machine learning",
+      "data analytics",
+      "python",
+      "artificial intelligence"
+    ],
+    "missing_skills": [
+      "neural networking"
+    ],
+    "student_majors": [
+      "data analytics and computer science"
+    ],
+    "project_required_majors": [
+      "data analytics and computer science"
+    ],
+    "details": {
+      "student_total_skills": 25,
+      "project_required_skills": 5,
+      "student_courses": 8
+    }
+  },
+  {
+    "student_id": "n13087663",
+    "student_name": "Peyton Hernandez",
+    "project_name": "IFN712_proposal_Wenzong_Gao_orbit",
+    "match_score": 0.82,
+    "skill_match_score": 0.8,
+    "major_match_score": 1.0,
+    "interest_match_score": 0.4,
+    "matched_skills": [
+      "machine learning",
+      "data analytics",
+      "python",
+      "artificial intelligence"
+    ],
+    "missing_skills": [
+      "neural networking"
+    ],
+    "student_majors": [
+      "data analytics and computer science"
+    ],
+    "project_required_majors": [
+      "data analytics and computer science"
+    ],
+    "details": {
+      "student_total_skills": 25,
+      "project_required_skills": 5,
+      "student_courses": 8
+    }
+  },
+  {
+    "student_id": "n08901613",
+    "student_name": "Sydney Brown",
+    "project_name": "IFN712_proposal_Wenzong_Gao_orbit",
+    "match_score": 0.8,
+    "skill_match_score": 0.8,
+    "major_match_score": 1.0,
+    "interest_match_score": 0.2,
+    "matched_skills": [
+      "machine learning",
+      "data analytics",
+      "python",
+      "artificial intelligence"
+    ],
+    "missing_skills": [
+      "neural networking"
+    ],
+    "student_majors": [
+      "data analytics and computer science"
+    ],
+    "project_required_majors": [
+      "data analytics and computer science"
+    ],
+    "details": {
+      "student_total_skills": 25,
+      "project_required_skills": 5,
+      "student_courses": 8
+    }
+  },
+  {
+    "student_id": "n06114515",
+    "student_name": "Devon Williams",
+    "project_name": "IFN712_proposal_Wenzong_Gao_orbit",
+    "match_score": 0.8,
+    "skill_match_score": 0.8,
+    "major_match_score": 1.0,
+    "interest_match_score": 0.2,
+    "matched_skills": [
+      "machine learning",
+      "data analytics",
+      "python",
+      "artificial intelligence"
+    ],
+    "missing_skills": [
+      "neural networking"
+    ],
+    "student_majors": [
+      "data analytics"
+    ],
+    "project_required_majors": [
+      "data analytics and computer science"
+    ],
+    "details": {
+      "student_total_skills": 25,
+      "project_required_skills": 5,
+      "student_courses": 8
+    }
+  },
+  {
+    "student_id": "n09274950",
+    "student_name": "Drew Jones",
+    "project_name": "IFN712_proposal_Wenzong_Gao_orbit",
+    "match_score": 0.8,
+    "skill_match_score": 0.8,
+    "major_match_score": 1.0,
+    "interest_match_score": 0.2,
+    "matched_skills": [
+      "machine learning",
+      "data analytics",
+      "python",
+      "artificial intelligence"
+    ],
+    "missing_skills": [
+      "neural networking"
+    ],
+    "student_majors": [
+      "data analytics and computer science"
+    ],
+    "project_required_majors": [
+      "data analytics and computer science"
+    ],
+    "details": {
+      "student_total_skills": 25,
+      "project_required_skills": 5,
+      "student_courses": 8
+    }
+  },
+  {
+    "student_id": "n12784106",
+    "student_name": "Phoenix Miller",
+    "project_name": "IFN712_proposal_Wenzong_Gao_orbit",
+    "match_score": 0.8,
+    "skill_match_score": 0.8,
+    "major_match_score": 1.0,
+    "interest_match_score": 0.2,
+    "matched_skills": [
+      "machine learning",
+      "data analytics",
+      "python",
+      "artificial intelligence"
+    ],
+    "missing_skills": [
+      "neural networking"
+    ],
+    "student_majors": [
+      "data analytics and computer science"
+    ],
+    "project_required_majors": [
+      "data analytics and computer science"
+    ],
+    "details": {
+      "student_total_skills": 25,
+      "project_required_skills": 5,
+      "student_courses": 8
+    }
+  },
+  {
+    "student_id": "n14519596",
+    "student_name": "Tyler Lopez",
+    "project_name": "IFN712_proposal_Wenzong_Gao_orbit",
+    "match_score": 0.52,
+    "skill_match_score": 0.8,
+    "major_match_score": 0.0,
+    "interest_match_score": 0.4,
+    "matched_skills": [
+      "machine learning",
+      "data analytics",
+      "python",
+      "artificial intelligence"
+    ],
+    "missing_skills": [
+      "neural networking"
+    ],
+    "student_majors": [
+      "data analytics with a minor in computer science"
+    ],
+    "project_required_majors": [
+      "data analytics and computer science"
+    ],
+    "details": {
+      "student_total_skills": 25,
+      "project_required_skills": 5,
+      "student_courses": 8
+    }
+  },
+  {
+    "student_id": "n03780196",
+    "student_name": "Sage Brown",
+    "project_name": "IFN712_proposal_Wenzong_Gao_orbit",
+    "match_score": 0.5,
+    "skill_match_score": 0.8,
+    "major_match_score": 0.0,
+    "interest_match_score": 0.2,
+    "matched_skills": [
+      "machine learning",
+      "data analytics",
+      "python",
+      "artificial intelligence"
+    ],
+    "missing_skills": [
+      "neural networking"
+    ],
+    "student_majors": [
+      "data analytics minor in computer science"
+    ],
+    "project_required_majors": [
+      "data analytics and computer science"
+    ],
+    "details": {
+      "student_total_skills": 25,
+      "project_required_skills": 5,
+      "student_courses": 8
+    }
+  },
+  {
+    "student_id": "n00352388",
+    "student_name": "Finley White",
+    "project_name": "IFN712_proposal_Wenzong_Gao_orbit",
+    "match_score": 0.5,
+    "skill_match_score": 0.8,
+    "major_match_score": 0.0,
+    "interest_match_score": 0.2,
+    "matched_skills": [
+      "machine learning",
+      "data analytics",
+      "python",
+      "artificial intelligence"
+    ],
+    "missing_skills": [
+      "neural networking"
+    ],
+    "student_majors": [
+      "data analytics with a minor in computer science"
+    ],
+    "project_required_majors": [
+      "data analytics and computer science"
+    ],
+    "details": {
+      "student_total_skills": 25,
+      "project_required_skills": 5,
+      "student_courses": 8
+    }
+  }
+]

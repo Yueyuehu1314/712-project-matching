@@ -1,0 +1,23 @@
+{
+  "project_id": "project_IFN712_Project_13-1",
+  "project_title": "Feature Selection Impact on IoT",
+  "total_entities": 13,
+  "total_relationships": 12,
+  "layer_distribution": {
+    "1": 1,
+    "2": 4,
+    "3": 8
+  },
+  "entity_types": {
+    "PROJECT": 1,
+    "DOMAIN": 4,
+    "SKILL": 4,
+    "MAJOR": 2,
+    "TECHNOLOGY": 2
+  },
+  "layers": {
+    "layer_1": "Project",
+    "layer_2": "Domains",
+    "layer_3": "Skills/Technologies/Majors"
+  }
+}

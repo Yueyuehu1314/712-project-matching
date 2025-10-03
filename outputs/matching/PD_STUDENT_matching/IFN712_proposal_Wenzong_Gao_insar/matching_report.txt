@@ -1,0 +1,85 @@
+================================================================================
+项目-学生匹配报告
+================================================================================
+
+项目名称: IFN712_proposal_Wenzong_Gao_insar
+生成时间: 2025-10-03 15:57:50
+学生总数: 10
+
+================================================================================
+匹配统计
+================================================================================
+
+平均匹配分数: 0.905
+最高分数: 0.950
+最低分数: 0.650
+
+分数分布:
+  • 高匹配 (≥0.7): 9 人 (90.0%)
+  • 中匹配 (0.4-0.7): 1 人 (10.0%)
+  • 低匹配 (<0.4): 0 人 (0.0%)
+
+================================================================================
+Top 10 匹配学生
+================================================================================
+
+1. Quinn Martinez (n10935984)
+   总分: 0.950 | 技能: 1.000 | 专业: 1.000 | 兴趣: 0.500
+   匹配技能: python, artificial intelligence, machine learning, data analytics
+   缺失技能: 
+   学生专业: data analytics and computer science
+
+2. Peyton Lopez (n14895165)
+   总分: 0.950 | 技能: 1.000 | 专业: 1.000 | 兴趣: 0.500
+   匹配技能: python, artificial intelligence, machine learning, data analytics
+   缺失技能: 
+   学生专业: data analytics and computer science
+
+3. Peyton Flores (n14683409)
+   总分: 0.950 | 技能: 1.000 | 专业: 1.000 | 兴趣: 0.500
+   匹配技能: python, artificial intelligence, machine learning, data analytics
+   缺失技能: 
+   学生专业: data analytics
+
+4. Logan Rodriguez (n16269827)
+   总分: 0.925 | 技能: 1.000 | 专业: 1.000 | 兴趣: 0.250
+   匹配技能: python, artificial intelligence, machine learning, data analytics
+   缺失技能: 
+   学生专业: data analytics and computer science
+
+5. Reagan Hernandez (n09303561)
+   总分: 0.925 | 技能: 1.000 | 专业: 1.000 | 兴趣: 0.250
+   匹配技能: python, artificial intelligence, machine learning, data analytics
+   缺失技能: 
+   学生专业: data analytics
+
+6. Rowan Chen (n11993026)
+   总分: 0.925 | 技能: 1.000 | 专业: 1.000 | 兴趣: 0.250
+   匹配技能: python, artificial intelligence, machine learning, data analytics
+   缺失技能: 
+   学生专业: data analytics and computer science
+
+7. Jordan Allen (n00767167)
+   总分: 0.925 | 技能: 1.000 | 专业: 1.000 | 兴趣: 0.250
+   匹配技能: python, artificial intelligence, machine learning, data analytics
+   缺失技能: 
+   学生专业: data analytics
+
+8. Reese Wilson (n11092794)
+   总分: 0.925 | 技能: 1.000 | 专业: 1.000 | 兴趣: 0.250
+   匹配技能: python, artificial intelligence, machine learning, data analytics
+   缺失技能: 
+   学生专业: data analytics and computer science
+
+9. Kendall Torres (n02264802)
+   总分: 0.925 | 技能: 1.000 | 专业: 1.000 | 兴趣: 0.250
+   匹配技能: python, artificial intelligence, machine learning, data analytics
+   缺失技能: 
+   学生专业: data analytics
+
+10. Harper Anderson (n06365339)
+   总分: 0.650 | 技能: 1.000 | 专业: 0.000 | 兴趣: 0.500
+   匹配技能: python, artificial intelligence, machine learning, data analytics
+   缺失技能: 
+   学生专业: data analytics with a minor in computer science
+

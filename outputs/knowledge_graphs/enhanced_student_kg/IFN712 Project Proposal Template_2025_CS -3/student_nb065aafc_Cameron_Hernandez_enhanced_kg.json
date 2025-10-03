@@ -1,0 +1,522 @@
+{
+  "entities": [
+    {
+      "id": "student_nb065aafc",
+      "name": "Cameron Hernandez",
+      "entity_type": "STUDENT",
+      "properties": {
+        "student_id": "nb065aafc",
+        "major": "Computer Science",
+        "year": "3rd Year",
+        "file_path": "enhanced_profile_md/IFN712 Project Proposal Template_2025_CS -3_IN20_4.md"
+      }
+    },
+    {
+      "id": "major_computer_science",
+      "name": "Computer Science",
+      "entity_type": "MAJOR",
+      "properties": {}
+    },
+    {
+      "id": "course_ifn712_-_research_project",
+      "name": "IFN712 - Research Project",
+      "entity_type": "COURSE",
+      "properties": {}
+    },
+    {
+      "id": "course_ifn701_-_research_methods",
+      "name": "IFN701 - Research Methods",
+      "entity_type": "COURSE",
+      "properties": {}
+    },
+    {
+      "id": "course_ifn702_-_advanced_programming",
+      "name": "IFN702 - Advanced Programming",
+      "entity_type": "COURSE",
+      "properties": {}
+    },
+    {
+      "id": "skill_programming",
+      "name": "Programming",
+      "entity_type": "SKILL",
+      "properties": {}
+    },
+    {
+      "id": "course_ifn703_-_software_engineering",
+      "name": "IFN703 - Software Engineering",
+      "entity_type": "COURSE",
+      "properties": {}
+    },
+    {
+      "id": "course_ifn704_-_database_systems",
+      "name": "IFN704 - Database Systems",
+      "entity_type": "COURSE",
+      "properties": {}
+    },
+    {
+      "id": "skill_database_management",
+      "name": "Database Management",
+      "entity_type": "SKILL",
+      "properties": {}
+    },
+    {
+      "id": "skill_sql",
+      "name": "SQL",
+      "entity_type": "SKILL",
+      "properties": {}
+    },
+    {
+      "id": "course_ifn709_-_advanced_machine_learning",
+      "name": "IFN709 - Advanced Machine Learning",
+      "entity_type": "COURSE",
+      "properties": {}
+    },
+    {
+      "id": "skill_machine_learning",
+      "name": "Machine Learning",
+      "entity_type": "SKILL",
+      "properties": {}
+    },
+    {
+      "id": "skill_data_science",
+      "name": "Data Science",
+      "entity_type": "SKILL",
+      "properties": {}
+    },
+    {
+      "id": "project_exp_nb065aafc_0",
+      "name": "Sentiment Analysis with Machine Learning: Develope...",
+      "entity_type": "PROJECT_EXPERIENCE",
+      "properties": {
+        "description": "Sentiment Analysis with Machine Learning: Developed a Python-based sentiment analysis model using scikit-learn and TensorFlow, integrating visualization tools (Matplotlib, Seaborn) to interpret results for social media data.",
+        "index": 0
+      }
+    },
+    {
+      "id": "skill_python",
+      "name": "Python",
+      "entity_type": "SKILL",
+      "properties": {}
+    },
+    {
+      "id": "project_exp_nb065aafc_1",
+      "name": "Real-Time Dashboard for Environmental Monitoring: ...",
+      "entity_type": "PROJECT_EXPERIENCE",
+      "properties": {
+        "description": "Real-Time Dashboard for Environmental Monitoring: Built a web application with Flask and Plotly to visualize sensor data, demonstrating proficiency in full-stack development and interactive data presentation.",
+        "index": 1
+      }
+    },
+    {
+      "id": "skill_web_development",
+      "name": "Web Development",
+      "entity_type": "SKILL",
+      "properties": {}
+    },
+    {
+      "id": "project_exp_nb065aafc_2",
+      "name": "Predictive Maintenance System: Designed a machine ...",
+      "entity_type": "PROJECT_EXPERIENCE",
+      "properties": {
+        "description": "Predictive Maintenance System: Designed a machine learning pipeline for industrial equipment failure prediction, utilizing Python, Pandas, and Jupyter Notebook for data preprocessing and model evaluation.",
+        "index": 2
+      }
+    },
+    {
+      "id": "skill_python_advanced",
+      "name": "Python (advanced)",
+      "entity_type": "SKILL",
+      "properties": {}
+    },
+    {
+      "id": "skill_machine_learning_scikit-learn,_tensorflow",
+      "name": "Machine Learning (scikit-learn, TensorFlow)",
+      "entity_type": "SKILL",
+      "properties": {}
+    },
+    {
+      "id": "skill_data_visualization_matplotlib,_seaborn,_plotly",
+      "name": "Data Visualization (Matplotlib, Seaborn, Plotly)",
+      "entity_type": "SKILL",
+      "properties": {}
+    },
+    {
+      "id": "skill_sql_and_nosql_databases",
+      "name": "SQL and NoSQL databases",
+      "entity_type": "SKILL",
+      "properties": {}
+    },
+    {
+      "id": "skill_software_engineering_flask,_rest_apis",
+      "name": "Software Engineering (Flask, REST APIs)",
+      "entity_type": "SKILL",
+      "properties": {}
+    },
+    {
+      "id": "skill_research_methodologies",
+      "name": "Research Methodologies",
+      "entity_type": "SKILL",
+      "properties": {}
+    },
+    {
+      "id": "skill_jupyter_notebook_and_git",
+      "name": "Jupyter Notebook and Git",
+      "entity_type": "SKILL",
+      "properties": {}
+    },
+    {
+      "id": "skill_cloud_computing_aws_basics",
+      "name": "Cloud Computing (AWS basics)",
+      "entity_type": "SKILL",
+      "properties": {}
+    },
+    {
+      "id": "interest_artificial_intelligence",
+      "name": "Artificial Intelligence",
+      "entity_type": "INTEREST",
+      "properties": {}
+    },
+    {
+      "id": "interest_data_visualization",
+      "name": "Data Visualization",
+      "entity_type": "INTEREST",
+      "properties": {}
+    },
+    {
+      "id": "interest_open_source_software_development",
+      "name": "Open-source software development",
+      "entity_type": "INTEREST",
+      "properties": {}
+    },
+    {
+      "id": "interest_hiking_and_outdoor_photography",
+      "name": "Hiking and outdoor photography",
+      "entity_type": "INTEREST",
+      "properties": {}
+    },
+    {
+      "id": "interest_reading_tech_blogs_(e.g.,_towards_data_science)",
+      "name": "Reading tech blogs (e.g., Towards Data Science)",
+      "entity_type": "INTEREST",
+      "properties": {}
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "student_nb065aafc",
+      "target_id": "major_computer_science",
+      "relation_type": "STUDIED_MAJOR",
+      "weight": 1.0,
+      "properties": {}
+    },
+    {
+      "source_id": "student_nb065aafc",
+      "target_id": "course_ifn712_-_research_project",
+      "relation_type": "COMPLETED_COURSE",
+      "weight": 1.0,
+      "properties": {}
+    },
+    {
+      "source_id": "student_nb065aafc",
+      "target_id": "course_ifn701_-_research_methods",
+      "relation_type": "COMPLETED_COURSE",
+      "weight": 1.0,
+      "properties": {}
+    },
+    {
+      "source_id": "student_nb065aafc",
+      "target_id": "course_ifn702_-_advanced_programming",
+      "relation_type": "COMPLETED_COURSE",
+      "weight": 1.0,
+      "properties": {}
+    },
+    {
+      "source_id": "course_ifn702_-_advanced_programming",
+      "target_id": "skill_programming",
+      "relation_type": "TEACHES_SKILL",
+      "weight": 0.9,
+      "properties": {}
+    },
+    {
+      "source_id": "student_nb065aafc",
+      "target_id": "skill_programming",
+      "relation_type": "HAS_SKILL",
+      "weight": 0.8,
+      "properties": {
+        "source": "course"
+      }
+    },
+    {
+      "source_id": "student_nb065aafc",
+      "target_id": "course_ifn703_-_software_engineering",
+      "relation_type": "COMPLETED_COURSE",
+      "weight": 1.0,
+      "properties": {}
+    },
+    {
+      "source_id": "student_nb065aafc",
+      "target_id": "course_ifn704_-_database_systems",
+      "relation_type": "COMPLETED_COURSE",
+      "weight": 1.0,
+      "properties": {}
+    },
+    {
+      "source_id": "course_ifn704_-_database_systems",
+      "target_id": "skill_database_management",
+      "relation_type": "TEACHES_SKILL",
+      "weight": 0.9,
+      "properties": {}
+    },
+    {
+      "source_id": "student_nb065aafc",
+      "target_id": "skill_database_management",
+      "relation_type": "HAS_SKILL",
+      "weight": 0.8,
+      "properties": {
+        "source": "course"
+      }
+    },
+    {
+      "source_id": "course_ifn704_-_database_systems",
+      "target_id": "skill_sql",
+      "relation_type": "TEACHES_SKILL",
+      "weight": 0.9,
+      "properties": {}
+    },
+    {
+      "source_id": "student_nb065aafc",
+      "target_id": "skill_sql",
+      "relation_type": "HAS_SKILL",
+      "weight": 0.8,
+      "properties": {
+        "source": "course"
+      }
+    },
+    {
+      "source_id": "student_nb065aafc",
+      "target_id": "course_ifn709_-_advanced_machine_learning",
+      "relation_type": "COMPLETED_COURSE",
+      "weight": 1.0,
+      "properties": {}
+    },
+    {
+      "source_id": "course_ifn709_-_advanced_machine_learning",
+      "target_id": "skill_machine_learning",
+      "relation_type": "TEACHES_SKILL",
+      "weight": 0.9,
+      "properties": {}
+    },
+    {
+      "source_id": "student_nb065aafc",
+      "target_id": "skill_machine_learning",
+      "relation_type": "HAS_SKILL",
+      "weight": 0.8,
+      "properties": {
+        "source": "course"
+      }
+    },
+    {
+      "source_id": "course_ifn709_-_advanced_machine_learning",
+      "target_id": "skill_data_science",
+      "relation_type": "TEACHES_SKILL",
+      "weight": 0.9,
+      "properties": {}
+    },
+    {
+      "source_id": "student_nb065aafc",
+      "target_id": "skill_data_science",
+      "relation_type": "HAS_SKILL",
+      "weight": 0.8,
+      "properties": {
+        "source": "course"
+      }
+    },
+    {
+      "source_id": "student_nb065aafc",
+      "target_id": "project_exp_nb065aafc_0",
+      "relation_type": "PARTICIPATED_IN_PROJECT",
+      "weight": 1.0,
+      "properties": {}
+    },
+    {
+      "source_id": "project_exp_nb065aafc_0",
+      "target_id": "skill_python",
+      "relation_type": "REQUIRES_SKILL",
+      "weight": 0.7,
+      "properties": {}
+    },
+    {
+      "source_id": "student_nb065aafc",
+      "target_id": "skill_python",
+      "relation_type": "HAS_SKILL",
+      "weight": 0.75,
+      "properties": {
+        "source": "project"
+      }
+    },
+    {
+      "source_id": "project_exp_nb065aafc_0",
+      "target_id": "skill_machine_learning",
+      "relation_type": "REQUIRES_SKILL",
+      "weight": 0.7,
+      "properties": {}
+    },
+    {
+      "source_id": "student_nb065aafc",
+      "target_id": "project_exp_nb065aafc_1",
+      "relation_type": "PARTICIPATED_IN_PROJECT",
+      "weight": 1.0,
+      "properties": {}
+    },
+    {
+      "source_id": "project_exp_nb065aafc_1",
+      "target_id": "skill_web_development",
+      "relation_type": "REQUIRES_SKILL",
+      "weight": 0.7,
+      "properties": {}
+    },
+    {
+      "source_id": "student_nb065aafc",
+      "target_id": "skill_web_development",
+      "relation_type": "HAS_SKILL",
+      "weight": 0.75,
+      "properties": {
+        "source": "project"
+      }
+    },
+    {
+      "source_id": "student_nb065aafc",
+      "target_id": "project_exp_nb065aafc_2",
+      "relation_type": "PARTICIPATED_IN_PROJECT",
+      "weight": 1.0,
+      "properties": {}
+    },
+    {
+      "source_id": "project_exp_nb065aafc_2",
+      "target_id": "skill_python",
+      "relation_type": "REQUIRES_SKILL",
+      "weight": 0.7,
+      "properties": {}
+    },
+    {
+      "source_id": "project_exp_nb065aafc_2",
+      "target_id": "skill_machine_learning",
+      "relation_type": "REQUIRES_SKILL",
+      "weight": 0.7,
+      "properties": {}
+    },
+    {
+      "source_id": "student_nb065aafc",
+      "target_id": "skill_python_advanced",
+      "relation_type": "HAS_SKILL",
+      "weight": 0.6,
+      "properties": {
+        "source": "self-taught"
+      }
+    },
+    {
+      "source_id": "student_nb065aafc",
+      "target_id": "skill_machine_learning_scikit-learn,_tensorflow",
+      "relation_type": "HAS_SKILL",
+      "weight": 0.6,
+      "properties": {
+        "source": "self-taught"
+      }
+    },
+    {
+      "source_id": "student_nb065aafc",
+      "target_id": "skill_data_visualization_matplotlib,_seaborn,_plotly",
+      "relation_type": "HAS_SKILL",
+      "weight": 0.6,
+      "properties": {
+        "source": "self-taught"
+      }
+    },
+    {
+      "source_id": "student_nb065aafc",
+      "target_id": "skill_sql_and_nosql_databases",
+      "relation_type": "HAS_SKILL",
+      "weight": 0.6,
+      "properties": {
+        "source": "self-taught"
+      }
+    },
+    {
+      "source_id": "student_nb065aafc",
+      "target_id": "skill_software_engineering_flask,_rest_apis",
+      "relation_type": "HAS_SKILL",
+      "weight": 0.6,
+      "properties": {
+        "source": "self-taught"
+      }
+    },
+    {
+      "source_id": "student_nb065aafc",
+      "target_id": "skill_research_methodologies",
+      "relation_type": "HAS_SKILL",
+      "weight": 0.6,
+      "properties": {
+        "source": "self-taught"
+      }
+    },
+    {
+      "source_id": "student_nb065aafc",
+      "target_id": "skill_jupyter_notebook_and_git",
+      "relation_type": "HAS_SKILL",
+      "weight": 0.6,
+      "properties": {
+        "source": "self-taught"
+      }
+    },
+    {
+      "source_id": "student_nb065aafc",
+      "target_id": "skill_cloud_computing_aws_basics",
+      "relation_type": "HAS_SKILL",
+      "weight": 0.6,
+      "properties": {
+        "source": "self-taught"
+      }
+    },
+    {
+      "source_id": "student_nb065aafc",
+      "target_id": "interest_artificial_intelligence",
+      "relation_type": "INTERESTED_IN",
+      "weight": 1.0,
+      "properties": {}
+    },
+    {
+      "source_id": "student_nb065aafc",
+      "target_id": "interest_data_visualization",
+      "relation_type": "INTERESTED_IN",
+      "weight": 1.0,
+      "properties": {}
+    },
+    {
+      "source_id": "student_nb065aafc",
+      "target_id": "interest_open_source_software_development",
+      "relation_type": "INTERESTED_IN",
+      "weight": 1.0,
+      "properties": {}
+    },
+    {
+      "source_id": "student_nb065aafc",
+      "target_id": "interest_hiking_and_outdoor_photography",
+      "relation_type": "INTERESTED_IN",
+      "weight": 1.0,
+      "properties": {}
+    },
+    {
+      "source_id": "student_nb065aafc",
+      "target_id": "interest_reading_tech_blogs_(e.g.,_towards_data_science)",
+      "relation_type": "INTERESTED_IN",
+      "weight": 1.0,
+      "properties": {}
+    }
+  ],
+  "metadata": {
+    "student_id": "student_nb065aafc",
+    "student_name": "Cameron Hernandez",
+    "created_at": "2025-10-03T15:16:12.929852",
+    "version": "2.0_enhanced"
+  }
+}

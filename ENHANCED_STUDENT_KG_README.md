@@ -323,3 +323,5 @@ def _extract_skills_from_text(text: str) -> List[str]:
 
 
 
+
+

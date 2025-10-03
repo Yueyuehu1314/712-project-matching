@@ -1,0 +1,272 @@
+[
+  {
+    "student_id": "n10935984",
+    "student_name": "Quinn Martinez",
+    "project_name": "IFN712_proposal_Wenzong_Gao_insar",
+    "match_score": 0.95,
+    "skill_match_score": 1.0,
+    "major_match_score": 1.0,
+    "interest_match_score": 0.5,
+    "matched_skills": [
+      "python",
+      "artificial intelligence",
+      "machine learning",
+      "data analytics"
+    ],
+    "missing_skills": [],
+    "student_majors": [
+      "data analytics and computer science"
+    ],
+    "project_required_majors": [
+      "data analytics and computer science"
+    ],
+    "details": {
+      "student_total_skills": 25,
+      "project_required_skills": 4,
+      "student_courses": 8
+    }
+  },
+  {
+    "student_id": "n14895165",
+    "student_name": "Peyton Lopez",
+    "project_name": "IFN712_proposal_Wenzong_Gao_insar",
+    "match_score": 0.95,
+    "skill_match_score": 1.0,
+    "major_match_score": 1.0,
+    "interest_match_score": 0.5,
+    "matched_skills": [
+      "python",
+      "artificial intelligence",
+      "machine learning",
+      "data analytics"
+    ],
+    "missing_skills": [],
+    "student_majors": [
+      "data analytics and computer science"
+    ],
+    "project_required_majors": [
+      "data analytics and computer science"
+    ],
+    "details": {
+      "student_total_skills": 25,
+      "project_required_skills": 4,
+      "student_courses": 8
+    }
+  },
+  {
+    "student_id": "n14683409",
+    "student_name": "Peyton Flores",
+    "project_name": "IFN712_proposal_Wenzong_Gao_insar",
+    "match_score": 0.95,
+    "skill_match_score": 1.0,
+    "major_match_score": 1.0,
+    "interest_match_score": 0.5,
+    "matched_skills": [
+      "python",
+      "artificial intelligence",
+      "machine learning",
+      "data analytics"
+    ],
+    "missing_skills": [],
+    "student_majors": [
+      "data analytics"
+    ],
+    "project_required_majors": [
+      "data analytics and computer science"
+    ],
+    "details": {
+      "student_total_skills": 25,
+      "project_required_skills": 4,
+      "student_courses": 8
+    }
+  },
+  {
+    "student_id": "n16269827",
+    "student_name": "Logan Rodriguez",
+    "project_name": "IFN712_proposal_Wenzong_Gao_insar",
+    "match_score": 0.925,
+    "skill_match_score": 1.0,
+    "major_match_score": 1.0,
+    "interest_match_score": 0.25,
+    "matched_skills": [
+      "python",
+      "artificial intelligence",
+      "machine learning",
+      "data analytics"
+    ],
+    "missing_skills": [],
+    "student_majors": [
+      "data analytics and computer science"
+    ],
+    "project_required_majors": [
+      "data analytics and computer science"
+    ],
+    "details": {
+      "student_total_skills": 25,
+      "project_required_skills": 4,
+      "student_courses": 8
+    }
+  },
+  {
+    "student_id": "n09303561",
+    "student_name": "Reagan Hernandez",
+    "project_name": "IFN712_proposal_Wenzong_Gao_insar",
+    "match_score": 0.925,
+    "skill_match_score": 1.0,
+    "major_match_score": 1.0,
+    "interest_match_score": 0.25,
+    "matched_skills": [
+      "python",
+      "artificial intelligence",
+      "machine learning",
+      "data analytics"
+    ],
+    "missing_skills": [],
+    "student_majors": [
+      "data analytics"
+    ],
+    "project_required_majors": [
+      "data analytics and computer science"
+    ],
+    "details": {
+      "student_total_skills": 25,
+      "project_required_skills": 4,
+      "student_courses": 8
+    }
+  },
+  {
+    "student_id": "n11993026",
+    "student_name": "Rowan Chen",
+    "project_name": "IFN712_proposal_Wenzong_Gao_insar",
+    "match_score": 0.925,
+    "skill_match_score": 1.0,
+    "major_match_score": 1.0,
+    "interest_match_score": 0.25,
+    "matched_skills": [
+      "python",
+      "artificial intelligence",
+      "machine learning",
+      "data analytics"
+    ],
+    "missing_skills": [],
+    "student_majors": [
+      "data analytics and computer science"
+    ],
+    "project_required_majors": [
+      "data analytics and computer science"
+    ],
+    "details": {
+      "student_total_skills": 25,
+      "project_required_skills": 4,
+      "student_courses": 8
+    }
+  },
+  {
+    "student_id": "n00767167",
+    "student_name": "Jordan Allen",
+    "project_name": "IFN712_proposal_Wenzong_Gao_insar",
+    "match_score": 0.925,
+    "skill_match_score": 1.0,
+    "major_match_score": 1.0,
+    "interest_match_score": 0.25,
+    "matched_skills": [
+      "python",
+      "artificial intelligence",
+      "machine learning",
+      "data analytics"
+    ],
+    "missing_skills": [],
+    "student_majors": [
+      "data analytics"
+    ],
+    "project_required_majors": [
+      "data analytics and computer science"
+    ],
+    "details": {
+      "student_total_skills": 26,
+      "project_required_skills": 4,
+      "student_courses": 8
+    }
+  },
+  {
+    "student_id": "n11092794",
+    "student_name": "Reese Wilson",
+    "project_name": "IFN712_proposal_Wenzong_Gao_insar",
+    "match_score": 0.925,
+    "skill_match_score": 1.0,
+    "major_match_score": 1.0,
+    "interest_match_score": 0.25,
+    "matched_skills": [
+      "python",
+      "artificial intelligence",
+      "machine learning",
+      "data analytics"
+    ],
+    "missing_skills": [],
+    "student_majors": [
+      "data analytics and computer science"
+    ],
+    "project_required_majors": [
+      "data analytics and computer science"
+    ],
+    "details": {
+      "student_total_skills": 25,
+      "project_required_skills": 4,
+      "student_courses": 8
+    }
+  },
+  {
+    "student_id": "n02264802",
+    "student_name": "Kendall Torres",
+    "project_name": "IFN712_proposal_Wenzong_Gao_insar",
+    "match_score": 0.925,
+    "skill_match_score": 1.0,
+    "major_match_score": 1.0,
+    "interest_match_score": 0.25,
+    "matched_skills": [
+      "python",
+      "artificial intelligence",
+      "machine learning",
+      "data analytics"
+    ],
+    "missing_skills": [],
+    "student_majors": [
+      "data analytics"
+    ],
+    "project_required_majors": [
+      "data analytics and computer science"
+    ],
+    "details": {
+      "student_total_skills": 25,
+      "project_required_skills": 4,
+      "student_courses": 8
+    }
+  },
+  {
+    "student_id": "n06365339",
+    "student_name": "Harper Anderson",
+    "project_name": "IFN712_proposal_Wenzong_Gao_insar",
+    "match_score": 0.65,
+    "skill_match_score": 1.0,
+    "major_match_score": 0.0,
+    "interest_match_score": 0.5,
+    "matched_skills": [
+      "python",
+      "artificial intelligence",
+      "machine learning",
+      "data analytics"
+    ],
+    "missing_skills": [],
+    "student_majors": [
+      "data analytics with a minor in computer science"
+    ],
+    "project_required_majors": [
+      "data analytics and computer science"
+    ],
+    "details": {
+      "student_total_skills": 25,
+      "project_required_skills": 4,
+      "student_courses": 8
+    }
+  }
+]

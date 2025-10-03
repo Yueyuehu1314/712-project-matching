@@ -1,0 +1,85 @@
+================================================================================
+项目-学生匹配报告
+================================================================================
+
+项目名称: IFN712_25se2-Bradford-01
+生成时间: 2025-10-03 15:57:50
+学生总数: 10
+
+================================================================================
+匹配统计
+================================================================================
+
+平均匹配分数: 0.533
+最高分数: 0.700
+最低分数: 0.500
+
+分数分布:
+  • 高匹配 (≥0.7): 1 人 (10.0%)
+  • 中匹配 (0.4-0.7): 9 人 (90.0%)
+  • 低匹配 (<0.4): 0 人 (0.0%)
+
+================================================================================
+Top 10 匹配学生
+================================================================================
+
+1. Rory Moore (n16028113)
+   总分: 0.700 | 技能: 0.667 | 专业: 1.000 | 兴趣: 0.000
+   匹配技能: python, data analytics
+   缺失技能: artificial intelligence
+   学生专业: artificial intelligence
+
+2. Sage Young (n08396782)
+   总分: 0.533 | 技能: 0.333 | 专业: 1.000 | 兴趣: 0.333
+   匹配技能: python
+   缺失技能: artificial intelligence, data analytics
+   学生专业: artificial intelligence
+
+3. Avery Flores (n07039725)
+   总分: 0.533 | 技能: 0.333 | 专业: 1.000 | 兴趣: 0.333
+   匹配技能: python
+   缺失技能: artificial intelligence, data analytics
+   学生专业: artificial intelligence
+
+4. Taylor White (n15651121)
+   总分: 0.533 | 技能: 0.333 | 专业: 1.000 | 兴趣: 0.333
+   匹配技能: python
+   缺失技能: artificial intelligence, data analytics
+   学生专业: artificial intelligence
+
+5. Sydney Taylor (n02008322)
+   总分: 0.533 | 技能: 0.333 | 专业: 1.000 | 兴趣: 0.333
+   匹配技能: python
+   缺失技能: artificial intelligence, data analytics
+   学生专业: artificial intelligence
+
+6. Sydney Moore (n15766237)
+   总分: 0.500 | 技能: 0.333 | 专业: 1.000 | 兴趣: 0.000
+   匹配技能: python
+   缺失技能: artificial intelligence, data analytics
+   学生专业: artificial intelligence
+
+7. Casey Martin (n06913443)
+   总分: 0.500 | 技能: 0.333 | 专业: 1.000 | 兴趣: 0.000
+   匹配技能: python
+   缺失技能: artificial intelligence, data analytics
+   学生专业: artificial intelligence
+
+8. Harper Wilson (n10100065)
+   总分: 0.500 | 技能: 0.333 | 专业: 1.000 | 兴趣: 0.000
+   匹配技能: python
+   缺失技能: artificial intelligence, data analytics
+   学生专业: artificial intelligence
+
+9. Casey Martin (n08291346)
+   总分: 0.500 | 技能: 0.333 | 专业: 1.000 | 兴趣: 0.000
+   匹配技能: python
+   缺失技能: artificial intelligence, data analytics
+   学生专业: artificial intelligence
+
+10. River Harris (n12482357)
+   总分: 0.500 | 技能: 0.333 | 专业: 1.000 | 兴趣: 0.000
+   匹配技能: python
+   缺失技能: artificial intelligence, data analytics
+   学生专业: artificial intelligence
+

@@ -1,0 +1,76 @@
+[
+  {
+    "id": "project_IFN712_Project_Proposal_-_Business_Analysis_for_ICT_skills",
+    "name": "Aligning ICT Education with",
+    "entity_type": "PROJECT",
+    "layer": 1,
+    "properties": {
+      "description": "industry is placing growing pressure on universities, students, and employers to maintain alignment between education and professional practice. A recurring challenge is the persistent misalignment be",
+      "file_path": "data/processed/projects_md/IFN712 Project Proposal - Business Analysis for ICT skills.md"
+    }
+  },
+  {
+    "id": "domain_business_and_management",
+    "name": "Business & Management",
+    "entity_type": "DOMAIN",
+    "layer": 2,
+    "properties": {
+      "skill_count": 1
+    }
+  },
+  {
+    "id": "skill_business_analysis",
+    "name": "Business Analysis",
+    "entity_type": "SKILL",
+    "layer": 3,
+    "properties": {}
+  },
+  {
+    "id": "domain_academic_programs",
+    "name": "Academic Programs",
+    "entity_type": "DOMAIN",
+    "layer": 2,
+    "properties": {
+      "skill_count": 1
+    }
+  },
+  {
+    "id": "skill_business_analysis_and_execit",
+    "name": "Business Analysis and ExecIT",
+    "entity_type": "MAJOR",
+    "layer": 3,
+    "properties": {}
+  },
+  {
+    "id": "domain_machine_learning_and_ai",
+    "name": "Machine Learning & AI",
+    "entity_type": "DOMAIN",
+    "layer": 2,
+    "properties": {
+      "tech_count": 1
+    }
+  },
+  {
+    "id": "tech_r",
+    "name": "R",
+    "entity_type": "TECHNOLOGY",
+    "layer": 3,
+    "properties": {}
+  },
+  {
+    "id": "domain_general_technologies",
+    "name": "General Technologies",
+    "entity_type": "DOMAIN",
+    "layer": 2,
+    "properties": {
+      "tech_count": 1
+    }
+  },
+  {
+    "id": "tech_git",
+    "name": "Git",
+    "entity_type": "TECHNOLOGY",
+    "layer": 3,
+    "properties": {}
+  }
+]

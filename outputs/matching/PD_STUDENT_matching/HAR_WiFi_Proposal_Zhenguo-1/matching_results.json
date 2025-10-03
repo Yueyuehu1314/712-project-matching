@@ -1,0 +1,382 @@
+[
+  {
+    "student_id": "n01803983",
+    "student_name": "Blake Allen",
+    "project_name": "HAR_WiFi_Proposal_Zhenguo-1",
+    "match_score": 0.7,
+    "skill_match_score": 0.615,
+    "major_match_score": 1.0,
+    "interest_match_score": 0.308,
+    "matched_skills": [
+      "data analytics",
+      "cyber security",
+      "csi",
+      "signal processing",
+      "security",
+      "tensorflow",
+      "wifi",
+      "networking"
+    ],
+    "missing_skills": [
+      "internet of things",
+      "pytorch",
+      "artificial intelligence",
+      "deep learning",
+      "gan"
+    ],
+    "student_majors": [
+      "software development with a focus on computer systems"
+    ],
+    "project_required_majors": [
+      "software development",
+      "computer"
+    ],
+    "details": {
+      "student_total_skills": 22,
+      "project_required_skills": 13,
+      "student_courses": 8
+    }
+  },
+  {
+    "student_id": "n08259368",
+    "student_name": "Casey Garcia",
+    "project_name": "HAR_WiFi_Proposal_Zhenguo-1",
+    "match_score": 0.662,
+    "skill_match_score": 0.538,
+    "major_match_score": 1.0,
+    "interest_match_score": 0.385,
+    "matched_skills": [
+      "data analytics",
+      "cyber security",
+      "csi",
+      "security",
+      "tensorflow",
+      "wifi",
+      "networking"
+    ],
+    "missing_skills": [
+      "internet of things",
+      "pytorch",
+      "artificial intelligence",
+      "deep learning",
+      "signal processing",
+      "gan"
+    ],
+    "student_majors": [
+      "software development"
+    ],
+    "project_required_majors": [
+      "software development",
+      "computer"
+    ],
+    "details": {
+      "student_total_skills": 22,
+      "project_required_skills": 13,
+      "student_courses": 8
+    }
+  },
+  {
+    "student_id": "n04837386",
+    "student_name": "Blake White",
+    "project_name": "HAR_WiFi_Proposal_Zhenguo-1",
+    "match_score": 0.662,
+    "skill_match_score": 0.538,
+    "major_match_score": 1.0,
+    "interest_match_score": 0.385,
+    "matched_skills": [
+      "data analytics",
+      "cyber security",
+      "csi",
+      "security",
+      "tensorflow",
+      "wifi",
+      "networking"
+    ],
+    "missing_skills": [
+      "internet of things",
+      "pytorch",
+      "artificial intelligence",
+      "deep learning",
+      "signal processing",
+      "gan"
+    ],
+    "student_majors": [
+      "software development and computer systems"
+    ],
+    "project_required_majors": [
+      "software development",
+      "computer"
+    ],
+    "details": {
+      "student_total_skills": 22,
+      "project_required_skills": 13,
+      "student_courses": 8
+    }
+  },
+  {
+    "student_id": "n10858028",
+    "student_name": "Harper Smith",
+    "project_name": "HAR_WiFi_Proposal_Zhenguo-1",
+    "match_score": 0.662,
+    "skill_match_score": 0.538,
+    "major_match_score": 1.0,
+    "interest_match_score": 0.385,
+    "matched_skills": [
+      "data analytics",
+      "cyber security",
+      "csi",
+      "security",
+      "tensorflow",
+      "wifi",
+      "networking"
+    ],
+    "missing_skills": [
+      "internet of things",
+      "pytorch",
+      "artificial intelligence",
+      "deep learning",
+      "signal processing",
+      "gan"
+    ],
+    "student_majors": [
+      "software development"
+    ],
+    "project_required_majors": [
+      "software development",
+      "computer"
+    ],
+    "details": {
+      "student_total_skills": 21,
+      "project_required_skills": 13,
+      "student_courses": 8
+    }
+  },
+  {
+    "student_id": "n08031750",
+    "student_name": "Drew Hill",
+    "project_name": "HAR_WiFi_Proposal_Zhenguo-1",
+    "match_score": 0.654,
+    "skill_match_score": 0.538,
+    "major_match_score": 1.0,
+    "interest_match_score": 0.308,
+    "matched_skills": [
+      "data analytics",
+      "cyber security",
+      "csi",
+      "security",
+      "tensorflow",
+      "wifi",
+      "networking"
+    ],
+    "missing_skills": [
+      "internet of things",
+      "pytorch",
+      "artificial intelligence",
+      "deep learning",
+      "signal processing",
+      "gan"
+    ],
+    "student_majors": [
+      "software development"
+    ],
+    "project_required_majors": [
+      "software development",
+      "computer"
+    ],
+    "details": {
+      "student_total_skills": 21,
+      "project_required_skills": 13,
+      "student_courses": 8
+    }
+  },
+  {
+    "student_id": "n12638212",
+    "student_name": "Riley Young",
+    "project_name": "HAR_WiFi_Proposal_Zhenguo-1",
+    "match_score": 0.615,
+    "skill_match_score": 0.462,
+    "major_match_score": 1.0,
+    "interest_match_score": 0.385,
+    "matched_skills": [
+      "data analytics",
+      "cyber security",
+      "security",
+      "tensorflow",
+      "wifi",
+      "networking"
+    ],
+    "missing_skills": [
+      "internet of things",
+      "csi",
+      "pytorch",
+      "artificial intelligence",
+      "deep learning",
+      "signal processing",
+      "gan"
+    ],
+    "student_majors": [
+      "software development with a minor in computer science"
+    ],
+    "project_required_majors": [
+      "software development",
+      "computer"
+    ],
+    "details": {
+      "student_total_skills": 22,
+      "project_required_skills": 13,
+      "student_courses": 8
+    }
+  },
+  {
+    "student_id": "n12562489",
+    "student_name": "Drew Allen",
+    "project_name": "HAR_WiFi_Proposal_Zhenguo-1",
+    "match_score": 0.608,
+    "skill_match_score": 0.462,
+    "major_match_score": 1.0,
+    "interest_match_score": 0.308,
+    "matched_skills": [
+      "data analytics",
+      "cyber security",
+      "security",
+      "tensorflow",
+      "wifi",
+      "networking"
+    ],
+    "missing_skills": [
+      "internet of things",
+      "csi",
+      "pytorch",
+      "artificial intelligence",
+      "deep learning",
+      "signal processing",
+      "gan"
+    ],
+    "student_majors": [
+      "software engineering with a focus on computer systems"
+    ],
+    "project_required_majors": [
+      "software development",
+      "computer"
+    ],
+    "details": {
+      "student_total_skills": 22,
+      "project_required_skills": 13,
+      "student_courses": 8
+    }
+  },
+  {
+    "student_id": "n04539845",
+    "student_name": "Jordan Wright",
+    "project_name": "HAR_WiFi_Proposal_Zhenguo-1",
+    "match_score": 0.608,
+    "skill_match_score": 0.462,
+    "major_match_score": 1.0,
+    "interest_match_score": 0.308,
+    "matched_skills": [
+      "data analytics",
+      "cyber security",
+      "security",
+      "tensorflow",
+      "wifi",
+      "networking"
+    ],
+    "missing_skills": [
+      "internet of things",
+      "csi",
+      "pytorch",
+      "artificial intelligence",
+      "deep learning",
+      "signal processing",
+      "gan"
+    ],
+    "student_majors": [
+      "software development"
+    ],
+    "project_required_majors": [
+      "software development",
+      "computer"
+    ],
+    "details": {
+      "student_total_skills": 22,
+      "project_required_skills": 13,
+      "student_courses": 8
+    }
+  },
+  {
+    "student_id": "n15315806",
+    "student_name": "Logan Rodriguez",
+    "project_name": "HAR_WiFi_Proposal_Zhenguo-1",
+    "match_score": 0.6,
+    "skill_match_score": 0.462,
+    "major_match_score": 1.0,
+    "interest_match_score": 0.231,
+    "matched_skills": [
+      "data analytics",
+      "cyber security",
+      "security",
+      "tensorflow",
+      "wifi",
+      "networking"
+    ],
+    "missing_skills": [
+      "internet of things",
+      "csi",
+      "pytorch",
+      "artificial intelligence",
+      "deep learning",
+      "signal processing",
+      "gan"
+    ],
+    "student_majors": [
+      "software development"
+    ],
+    "project_required_majors": [
+      "software development",
+      "computer"
+    ],
+    "details": {
+      "student_total_skills": 22,
+      "project_required_skills": 13,
+      "student_courses": 8
+    }
+  },
+  {
+    "student_id": "n05856469",
+    "student_name": "Parker Taylor",
+    "project_name": "HAR_WiFi_Proposal_Zhenguo-1",
+    "match_score": 0.569,
+    "skill_match_score": 0.385,
+    "major_match_score": 1.0,
+    "interest_match_score": 0.385,
+    "matched_skills": [
+      "cyber security",
+      "security",
+      "tensorflow",
+      "wifi",
+      "networking"
+    ],
+    "missing_skills": [
+      "data analytics",
+      "internet of things",
+      "csi",
+      "pytorch",
+      "artificial intelligence",
+      "deep learning",
+      "signal processing",
+      "gan"
+    ],
+    "student_majors": [
+      "software development and computer science"
+    ],
+    "project_required_majors": [
+      "software development",
+      "computer"
+    ],
+    "details": {
+      "student_total_skills": 22,
+      "project_required_skills": 13,
+      "student_courses": 8
+    }
+  }
+]

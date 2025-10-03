@@ -1,0 +1,23 @@
+{
+  "project_id": "project_IFN712_Project_Proposal_Template_2025_Feng_V2P",
+  "project_title": "Smartphone-Based Real-Time V2P",
+  "total_entities": 12,
+  "total_relationships": 11,
+  "layer_distribution": {
+    "1": 1,
+    "2": 5,
+    "3": 6
+  },
+  "entity_types": {
+    "PROJECT": 1,
+    "DOMAIN": 5,
+    "SKILL": 3,
+    "MAJOR": 2,
+    "TECHNOLOGY": 1
+  },
+  "layers": {
+    "layer_1": "Project",
+    "layer_2": "Domains",
+    "layer_3": "Skills/Technologies/Majors"
+  }
+}

@@ -1,0 +1,11 @@
+﻿Student ID,Student Name,Total Score,Skill Score,Major Score,Interest Score,Matched Skills,Missing Skills,Student Majors
+n13857326,Morgan Williams,0.95,1.0,1.0,0.5,"nlp, artificial intelligence, machine learning, data analytics",,data analytics
+n05458643,Kendall Johnson,0.925,1.0,1.0,0.25,"nlp, artificial intelligence, machine learning, data analytics",,data analytics
+n04552993,Quinn King,0.8,0.75,1.0,0.5,"nlp, machine learning, data analytics",artificial intelligence,data analytics
+n13907629,Riley Rodriguez,0.8,0.75,1.0,0.5,"nlp, machine learning, data analytics",artificial intelligence,data analytics
+n01737848,Sydney Martin,0.775,0.75,1.0,0.25,"nlp, machine learning, data analytics",artificial intelligence,data analytics
+n06813303,Harper White,0.775,0.75,1.0,0.25,"artificial intelligence, machine learning, data analytics",nlp,data analytics
+n06955897,Finley Flores,0.65,0.5,1.0,0.5,"machine learning, data analytics","artificial intelligence, nlp",data analytics
+n00114716,Finley Thompson,0.625,0.5,1.0,0.25,"machine learning, data analytics","artificial intelligence, nlp",computer science
+n09394187,Riley Jackson,0.625,0.5,1.0,0.25,"machine learning, data analytics","artificial intelligence, nlp",data analytics
+,,0.0,0.0,0.0,0.0,,"nlp, artificial intelligence, machine learning, data analytics",

@@ -1,0 +1,76 @@
+[
+  {
+    "id": "project_IFN712_proposal_Wenzong_Gao_obstruction",
+    "name": "Testing and Validating the Impact",
+    "entity_type": "PROJECT",
+    "layer": 1,
+    "properties": {
+      "description": "Systems (GNSS), such as GPS, are essential for accurate positioning in a wide range of applications. In real-world environments, GNSS receivers are often deployed in locations where satellite signals ",
+      "file_path": "data/processed/projects_md/IFN712_proposal_Wenzong_Gao_obstruction.md"
+    }
+  },
+  {
+    "id": "domain_data_science_and_analytics",
+    "name": "Data Science & Analytics",
+    "entity_type": "DOMAIN",
+    "layer": 2,
+    "properties": {
+      "skill_count": 1
+    }
+  },
+  {
+    "id": "skill_data_science",
+    "name": "Data Science",
+    "entity_type": "SKILL",
+    "layer": 3,
+    "properties": {}
+  },
+  {
+    "id": "domain_academic_programs",
+    "name": "Academic Programs",
+    "entity_type": "DOMAIN",
+    "layer": 2,
+    "properties": {
+      "skill_count": 1
+    }
+  },
+  {
+    "id": "skill_data_science_and_computer_science",
+    "name": "Data Science and Computer Science",
+    "entity_type": "MAJOR",
+    "layer": 3,
+    "properties": {}
+  },
+  {
+    "id": "domain_machine_learning_and_ai",
+    "name": "Machine Learning & AI",
+    "entity_type": "DOMAIN",
+    "layer": 2,
+    "properties": {
+      "tech_count": 1
+    }
+  },
+  {
+    "id": "tech_r",
+    "name": "R",
+    "entity_type": "TECHNOLOGY",
+    "layer": 3,
+    "properties": {}
+  },
+  {
+    "id": "domain_web_development",
+    "name": "Web Development",
+    "entity_type": "DOMAIN",
+    "layer": 2,
+    "properties": {
+      "tech_count": 1
+    }
+  },
+  {
+    "id": "tech_spring",
+    "name": "Spring",
+    "entity_type": "TECHNOLOGY",
+    "layer": 3,
+    "properties": {}
+  }
+]

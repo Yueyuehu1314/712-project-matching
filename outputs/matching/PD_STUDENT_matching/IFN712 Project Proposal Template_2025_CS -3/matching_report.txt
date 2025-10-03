@@ -1,0 +1,85 @@
+================================================================================
+项目-学生匹配报告
+================================================================================
+
+项目名称: IFN712 Project Proposal Template_2025_CS -3
+生成时间: 2025-10-03 15:57:50
+学生总数: 10
+
+================================================================================
+匹配统计
+================================================================================
+
+平均匹配分数: 0.456
+最高分数: 0.564
+最低分数: 0.436
+
+分数分布:
+  • 高匹配 (≥0.7): 0 人 (0.0%)
+  • 中匹配 (0.4-0.7): 10 人 (100.0%)
+  • 低匹配 (<0.4): 0 人 (0.0%)
+
+================================================================================
+Top 10 匹配学生
+================================================================================
+
+1. Tyler Johnson (nff065a74)
+   总分: 0.564 | 技能: 0.571 | 专业: 0.500 | 兴趣: 0.714
+   匹配技能: machine learning, data analytics, python, deep learning
+   缺失技能: security, artificial intelligence, cyber security
+   学生专业: data analytics
+
+2. Peyton Hill (nba9e3de4)
+   总分: 0.464 | 技能: 0.429 | 专业: 0.500 | 兴趣: 0.571
+   匹配技能: machine learning, data analytics, python
+   缺失技能: deep learning, security, artificial intelligence, cyber security
+   学生专业: computer science
+
+3. Rory Moore (n5dd13e45)
+   总分: 0.450 | 技能: 0.429 | 专业: 0.500 | 兴趣: 0.429
+   匹配技能: machine learning, data analytics, python
+   缺失技能: deep learning, security, artificial intelligence, cyber security
+   学生专业: data analytics
+
+4. Drew Wilson (n8ab07320)
+   总分: 0.450 | 技能: 0.429 | 专业: 0.500 | 兴趣: 0.429
+   匹配技能: machine learning, data analytics, python
+   缺失技能: deep learning, security, artificial intelligence, cyber security
+   学生专业: data analytics
+
+5. Finley Wilson (n1370d1a5)
+   总分: 0.450 | 技能: 0.429 | 专业: 0.500 | 兴趣: 0.429
+   匹配技能: machine learning, data analytics, python
+   缺失技能: deep learning, security, artificial intelligence, cyber security
+   学生专业: data analytics
+
+6. Cameron Hernandez (nb065aafc)
+   总分: 0.436 | 技能: 0.429 | 专业: 0.500 | 兴趣: 0.286
+   匹配技能: machine learning, data analytics, python
+   缺失技能: deep learning, security, artificial intelligence, cyber security
+   学生专业: computer science
+
+7. Rory Johnson (nfd66da84)
+   总分: 0.436 | 技能: 0.429 | 专业: 0.500 | 兴趣: 0.286
+   匹配技能: machine learning, data analytics, python
+   缺失技能: deep learning, security, artificial intelligence, cyber security
+   学生专业: computer science
+
+8. Finley Flores (n335f2be5)
+   总分: 0.436 | 技能: 0.429 | 专业: 0.500 | 兴趣: 0.286
+   匹配技能: machine learning, data analytics, python
+   缺失技能: deep learning, security, artificial intelligence, cyber security
+   学生专业: computer science
+
+9. Emery Taylor (n72f28e37)
+   总分: 0.436 | 技能: 0.429 | 专业: 0.500 | 兴趣: 0.286
+   匹配技能: machine learning, data analytics, python
+   缺失技能: deep learning, security, artificial intelligence, cyber security
+   学生专业: computer science
+
+10. Taylor Harris (n825574e8)
+   总分: 0.436 | 技能: 0.429 | 专业: 0.500 | 兴趣: 0.286
+   匹配技能: machine learning, data analytics, python
+   缺失技能: deep learning, security, artificial intelligence, cyber security
+   学生专业: data analytics
+

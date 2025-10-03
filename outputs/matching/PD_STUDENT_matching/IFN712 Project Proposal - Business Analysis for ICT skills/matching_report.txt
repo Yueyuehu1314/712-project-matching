@@ -1,0 +1,85 @@
+================================================================================
+项目-学生匹配报告
+================================================================================
+
+项目名称: IFN712 Project Proposal - Business Analysis for ICT skills
+生成时间: 2025-10-03 15:57:50
+学生总数: 10
+
+================================================================================
+匹配统计
+================================================================================
+
+平均匹配分数: 0.742
+最高分数: 0.860
+最低分数: 0.700
+
+分数分布:
+  • 高匹配 (≥0.7): 10 人 (100.0%)
+  • 中匹配 (0.4-0.7): 0 人 (0.0%)
+  • 低匹配 (<0.4): 0 人 (0.0%)
+
+================================================================================
+Top 10 匹配学生
+================================================================================
+
+1. Avery Thompson (n07817504)
+   总分: 0.860 | 技能: 0.800 | 专业: 1.000 | 兴趣: 0.800
+   匹配技能: cyber security, data analytics, cloud computing, security
+   缺失技能: artificial intelligence
+   学生专业: business analysis and execit
+
+2. Finley Martinez (n07744472)
+   总分: 0.840 | 技能: 0.800 | 专业: 1.000 | 兴趣: 0.600
+   匹配技能: cyber security, data analytics, cloud computing, security
+   缺失技能: artificial intelligence
+   学生专业: business analysis and execit
+
+3. Alex Jones (n04868510)
+   总分: 0.780 | 技能: 0.800 | 专业: 1.000 | 兴趣: 0.000
+   匹配技能: cyber security, data analytics, cloud computing, security
+   缺失技能: artificial intelligence
+   学生专业: business analysis and execit
+
+4. Emery Nguyen (n06841239)
+   总分: 0.720 | 技能: 0.600 | 专业: 1.000 | 兴趣: 0.600
+   匹配技能: cyber security, cloud computing, security
+   缺失技能: artificial intelligence, data analytics
+   学生专业: business analysis and execit
+
+5. Alex Garcia (n06732414)
+   总分: 0.720 | 技能: 0.600 | 专业: 1.000 | 兴趣: 0.600
+   匹配技能: cyber security, data analytics, security
+   缺失技能: cloud computing, artificial intelligence
+   学生专业: business analysis
+
+6. Skylar Miller (n04565156)
+   总分: 0.700 | 技能: 0.600 | 专业: 1.000 | 兴趣: 0.400
+   匹配技能: cyber security, data analytics, security
+   缺失技能: cloud computing, artificial intelligence
+   学生专业: business analysis and execit
+
+7. Harper King (n01490036)
+   总分: 0.700 | 技能: 0.600 | 专业: 1.000 | 兴趣: 0.400
+   匹配技能: cyber security, cloud computing, security
+   缺失技能: artificial intelligence, data analytics
+   学生专业: execit
+
+8. Sage Chen (n00153538)
+   总分: 0.700 | 技能: 0.600 | 专业: 1.000 | 兴趣: 0.400
+   匹配技能: cyber security, cloud computing, security
+   缺失技能: artificial intelligence, data analytics
+   学生专业: business analysis and execit
+
+9. Tyler Rodriguez (n01013489)
+   总分: 0.700 | 技能: 0.600 | 专业: 1.000 | 兴趣: 0.400
+   匹配技能: cyber security, cloud computing, security
+   缺失技能: artificial intelligence, data analytics
+   学生专业: business analysis
+
+10. Peyton Moore (n09948799)
+   总分: 0.700 | 技能: 0.600 | 专业: 1.000 | 兴趣: 0.400
+   匹配技能: cyber security, data analytics, security
+   缺失技能: cloud computing, artificial intelligence
+   学生专业: business analysis and execit
+

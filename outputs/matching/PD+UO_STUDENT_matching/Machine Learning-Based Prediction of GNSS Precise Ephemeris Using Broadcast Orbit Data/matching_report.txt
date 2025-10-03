@@ -1,0 +1,297 @@
+项目匹配报告
+================================================================================
+项目名称: Machine Learning-Based Prediction of GNSS Precise Ephemeris Using Broadcast Orbit Data
+匹配学生数: 200
+生成时间: 2025-10-03 16:19:47
+
+匹配权重配置:
+  - 技能匹配: 50.0%
+  - 专业匹配: 20.0%
+  - 课程匹配: 20.0%
+  - 兴趣匹配: 10.0%
+
+================================================================================
+
+Top 20 匹配学生:
+--------------------------------------------------------------------------------
+
+排名 #1
+学生: Jordan Wright (n04539845)
+综合得分: 0.377
+  - 技能得分: 0.375
+  - 专业得分: 0.800
+  - 课程得分: 0.063
+  - 兴趣得分: 0.167
+匹配详情:
+  - 匹配技能 (4): machine learning, programming, web development, networking
+  - 匹配课程 (7): IFN564, IFN666, IFN556, IFN555, IFN563, IFN552, IFN551
+  - 匹配兴趣: machine learning model optimization
+
+--------------------------------------------------------------------------------
+
+排名 #2
+学生: Peyton Williams (n00195692)
+综合得分: 0.352
+  - 技能得分: 0.473
+  - 专业得分: 0.480
+  - 课程得分: 0.054
+  - 兴趣得分: 0.083
+匹配详情:
+  - 匹配技能 (5): machine learning, mobile development, programming, web development, networking
+  - 匹配课程 (6): IFN564, IFN553, IFN555, IFN554, IFN666, IFN623
+  - 匹配兴趣: data privacy advocacy
+
+--------------------------------------------------------------------------------
+
+排名 #3
+学生: Madison Moore (n08656729)
+综合得分: 0.342
+  - 技能得分: 0.306
+  - 专业得分: 0.800
+  - 课程得分: 0.063
+  - 兴趣得分: 0.167
+匹配详情:
+  - 匹配技能 (3): machine learning, programming, web development
+  - 匹配课程 (7): IFN564, IFN666, IFN556, IFN555, IFN563, IFN552, IFN551
+  - 匹配兴趣: data visualization, machine learning ethics
+
+--------------------------------------------------------------------------------
+
+排名 #4
+学生: Devon Williams (n13241358)
+综合得分: 0.342
+  - 技能得分: 0.306
+  - 专业得分: 0.800
+  - 课程得分: 0.063
+  - 兴趣得分: 0.167
+匹配详情:
+  - 匹配技能 (3): machine learning, programming, web development
+  - 匹配课程 (7): IFN564, IFN666, IFN556, IFN555, IFN563, IFN552, IFN551
+  - 匹配兴趣: healthcare data analytics, machine learning model optimization
+
+--------------------------------------------------------------------------------
+
+排名 #5
+学生: Rowan Torres (n08153626)
+综合得分: 0.342
+  - 技能得分: 0.306
+  - 专业得分: 0.800
+  - 课程得分: 0.063
+  - 兴趣得分: 0.167
+匹配详情:
+  - 匹配技能 (3): machine learning, programming, web development
+  - 匹配课程 (7): IFN564, IFN666, IFN556, IFN555, IFN563, IFN552, IFN551
+  - 匹配兴趣: data science for social good, machine learning in healthcare
+
+--------------------------------------------------------------------------------
+
+排名 #6
+学生: Drew Johnson (n04873519)
+综合得分: 0.342
+  - 技能得分: 0.306
+  - 专业得分: 0.800
+  - 课程得分: 0.063
+  - 兴趣得分: 0.167
+匹配详情:
+  - 匹配技能 (3): machine learning, programming, web development
+  - 匹配课程 (7): IFN564, IFN666, IFN556, IFN555, IFN563, IFN552, IFN551
+  - 匹配兴趣: machine learning in healthcare diagnostics, web development for data applications, data driven decision making
+
+--------------------------------------------------------------------------------
+
+排名 #7
+学生: Alex Lee (n09745425)
+综合得分: 0.342
+  - 技能得分: 0.306
+  - 专业得分: 0.800
+  - 课程得分: 0.063
+  - 兴趣得分: 0.167
+匹配详情:
+  - 匹配技能 (3): machine learning, programming, web development
+  - 匹配课程 (7): IFN564, IFN666, IFN556, IFN555, IFN563, IFN552, IFN551
+  - 匹配兴趣: open source machine learning frameworks
+
+--------------------------------------------------------------------------------
+
+排名 #8
+学生: Blake Garcia (n11136316)
+综合得分: 0.342
+  - 技能得分: 0.306
+  - 专业得分: 0.800
+  - 课程得分: 0.063
+  - 兴趣得分: 0.167
+匹配详情:
+  - 匹配技能 (3): machine learning, programming, web development
+  - 匹配课程 (7): IFN564, IFN666, IFN556, IFN555, IFN563, IFN552, IFN551
+  - 匹配兴趣: data visualization, machine learning in healthcare
+
+--------------------------------------------------------------------------------
+
+排名 #9
+学生: Logan Lee (n03698473)
+综合得分: 0.342
+  - 技能得分: 0.306
+  - 专业得分: 0.800
+  - 课程得分: 0.063
+  - 兴趣得分: 0.167
+匹配详情:
+  - 匹配技能 (3): machine learning, programming, web development
+  - 匹配课程 (7): IFN564, IFN556, IFN554, IFN555, IFN563, IFN552, IFN666
+  - 匹配兴趣: data visualization techniques, machine learning for healthcare
+
+--------------------------------------------------------------------------------
+
+排名 #10
+学生: Reese Hernandez (n10165670)
+综合得分: 0.342
+  - 技能得分: 0.306
+  - 专业得分: 0.800
+  - 课程得分: 0.063
+  - 兴趣得分: 0.167
+匹配详情:
+  - 匹配技能 (3): machine learning, programming, web development
+  - 匹配课程 (7): IFN564, IFN556, IFN554, IFN555, IFN563, IFN552, IFN666
+  - 匹配兴趣: chronic disease data analytics, machine learning in healthcare
+
+--------------------------------------------------------------------------------
+
+排名 #11
+学生: Logan Rodriguez (n16269827)
+综合得分: 0.341
+  - 技能得分: 0.223
+  - 专业得分: 1.000
+  - 课程得分: 0.063
+  - 兴趣得分: 0.167
+匹配详情:
+  - 匹配技能 (2): machine learning, programming
+  - 匹配课程 (7): IFN564, IFN556, IFN554, IFN555, IFN563, IFN552, IFN551
+  - 匹配兴趣: machine learning for environmental applications, remote sensing and geospatial data analysis, data visualization and storytelling
+
+--------------------------------------------------------------------------------
+
+排名 #12
+学生: Quinn Martinez (n10935984)
+综合得分: 0.341
+  - 技能得分: 0.223
+  - 专业得分: 1.000
+  - 课程得分: 0.063
+  - 兴趣得分: 0.167
+匹配详情:
+  - 匹配技能 (2): machine learning, programming
+  - 匹配课程 (7): IFN564, IFN556, IFN554, IFN555, IFN563, IFN552, IFN551
+  - 匹配兴趣: machine learning for environmental monitoring, open source data science tools
+
+--------------------------------------------------------------------------------
+
+排名 #13
+学生: Rowan Chen (n11993026)
+综合得分: 0.341
+  - 技能得分: 0.223
+  - 专业得分: 1.000
+  - 课程得分: 0.063
+  - 兴趣得分: 0.167
+匹配详情:
+  - 匹配技能 (2): machine learning, programming
+  - 匹配课程 (7): IFN564, IFN556, IFN554, IFN555, IFN563, IFN552, IFN551
+  - 匹配兴趣: machine learning for environmental applications, data visualization and storytelling
+
+--------------------------------------------------------------------------------
+
+排名 #14
+学生: Peyton Lopez (n14895165)
+综合得分: 0.341
+  - 技能得分: 0.223
+  - 专业得分: 1.000
+  - 课程得分: 0.063
+  - 兴趣得分: 0.167
+匹配详情:
+  - 匹配技能 (2): machine learning, programming
+  - 匹配课程 (7): IFN564, IFN556, IFN554, IFN555, IFN563, IFN552, IFN551
+  - 匹配兴趣: machine learning model optimization, environmental data science
+
+--------------------------------------------------------------------------------
+
+排名 #15
+学生: Reese Wilson (n11092794)
+综合得分: 0.341
+  - 技能得分: 0.223
+  - 专业得分: 1.000
+  - 课程得分: 0.063
+  - 兴趣得分: 0.167
+匹配详情:
+  - 匹配技能 (2): machine learning, programming
+  - 匹配课程 (7): IFN564, IFN556, IFN554, IFN555, IFN563, IFN552, IFN551
+  - 匹配兴趣: data visualization, machine learning applications in environmental science
+
+--------------------------------------------------------------------------------
+
+排名 #16
+学生: Sydney Brown (n08901613)
+综合得分: 0.339
+  - 技能得分: 0.223
+  - 专业得分: 1.000
+  - 课程得分: 0.054
+  - 兴趣得分: 0.167
+匹配详情:
+  - 匹配技能 (2): machine learning, programming
+  - 匹配课程 (6): IFN564, IFN551, IFN556, IFN555, IFN563, IFN552
+  - 匹配兴趣: machine learning model optimization, geospatial data analysis
+
+--------------------------------------------------------------------------------
+
+排名 #17
+学生: Alex Flores (n11252525)
+综合得分: 0.339
+  - 技能得分: 0.223
+  - 专业得分: 1.000
+  - 课程得分: 0.054
+  - 兴趣得分: 0.167
+匹配详情:
+  - 匹配技能 (2): machine learning, programming
+  - 匹配课程 (6): IFN564, IFN551, IFN556, IFN555, IFN563, IFN552
+  - 匹配兴趣: machine learning and ai ethics, data visualization and storytelling
+
+--------------------------------------------------------------------------------
+
+排名 #18
+学生: Reese Scott (n09804514)
+综合得分: 0.339
+  - 技能得分: 0.223
+  - 专业得分: 1.000
+  - 课程得分: 0.054
+  - 兴趣得分: 0.167
+匹配详情:
+  - 匹配技能 (2): machine learning, programming
+  - 匹配课程 (6): IFN564, IFN551, IFN556, IFN555, IFN563, IFN552
+  - 匹配兴趣: data visualization, artificial intelligence and machine learning
+
+--------------------------------------------------------------------------------
+
+排名 #19
+学生: Drew Jones (n09274950)
+综合得分: 0.339
+  - 技能得分: 0.223
+  - 专业得分: 1.000
+  - 课程得分: 0.054
+  - 兴趣得分: 0.167
+匹配详情:
+  - 匹配技能 (2): machine learning, programming
+  - 匹配课程 (6): IFN564, IFN551, IFN556, IFN555, IFN563, IFN552
+  - 匹配兴趣: machine learning model optimization, geospatial data analysis
+
+--------------------------------------------------------------------------------
+
+排名 #20
+学生: Peyton Hernandez (n13087663)
+综合得分: 0.339
+  - 技能得分: 0.223
+  - 专业得分: 1.000
+  - 课程得分: 0.054
+  - 兴趣得分: 0.167
+匹配详情:
+  - 匹配技能 (2): machine learning, programming
+  - 匹配课程 (6): IFN564, IFN551, IFN556, IFN555, IFN563, IFN552
+  - 匹配兴趣: machine learning and ai ethics, scientific data visualization
+
+--------------------------------------------------------------------------------
+

@@ -707,21 +707,21 @@
       }
     },
     {
-      "source_id": "course_ifn563_algorithms_and_complexity",
-      "target_id": "course_ifn564_machine_learning",
-      "relation_type": "PREREQUISITE_FOR",
-      "weight": 1.0,
-      "properties": {
-        "description": "IFN563 is a prerequisite for IFN564"
-      }
-    },
-    {
       "source_id": "course_ifn555_introduction_to_programming",
       "target_id": "course_ifn564_machine_learning",
       "relation_type": "PREREQUISITE_FOR",
       "weight": 1.0,
       "properties": {
         "description": "IFN555 is a prerequisite for IFN564"
+      }
+    },
+    {
+      "source_id": "course_ifn563_algorithms_and_complexity",
+      "target_id": "course_ifn564_machine_learning",
+      "relation_type": "PREREQUISITE_FOR",
+      "weight": 1.0,
+      "properties": {
+        "description": "IFN563 is a prerequisite for IFN564"
       }
     }
   ],
@@ -735,32 +735,32 @@
         {
           "course": "IFN563",
           "prerequisites": [
-            "IFQ555",
-            "IFN501",
             "IFN555",
-            "IFN556",
-            "IFQ556"
+            "IFQ556",
+            "IFN501",
+            "IFQ555",
+            "IFN556"
           ]
         },
         {
           "course": "IFN666",
           "prerequisites": [
-            "IFQ555",
             "IFN555",
-            "IFN556",
+            "IFQ556",
             "IFN581",
-            "IFQ556"
+            "IFN556",
+            "IFQ555"
           ]
         },
         {
           "course": "IFN564",
           "prerequisites": [
-            "IFN563",
-            "IFQ555",
-            "IFN501",
             "IFN555",
-            "IFN556",
-            "IFQ556"
+            "IFQ556",
+            "IFN563",
+            "IFN501",
+            "IFQ555",
+            "IFN556"
           ]
         }
       ],

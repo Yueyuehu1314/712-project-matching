@@ -1,0 +1,85 @@
+================================================================================
+项目-学生匹配报告
+================================================================================
+
+项目名称: IFN712_proposal_Wenzong_Gao_orbit
+生成时间: 2025-10-03 15:57:50
+学生总数: 10
+
+================================================================================
+匹配统计
+================================================================================
+
+平均匹配分数: 0.718
+最高分数: 0.820
+最低分数: 0.500
+
+分数分布:
+  • 高匹配 (≥0.7): 7 人 (70.0%)
+  • 中匹配 (0.4-0.7): 3 人 (30.0%)
+  • 低匹配 (<0.4): 0 人 (0.0%)
+
+================================================================================
+Top 10 匹配学生
+================================================================================
+
+1. Alex Flores (n11252525)
+   总分: 0.820 | 技能: 0.800 | 专业: 1.000 | 兴趣: 0.400
+   匹配技能: machine learning, data analytics, python, artificial intelligence
+   缺失技能: neural networking
+   学生专业: data analytics and computer science
+
+2. Reese Scott (n09804514)
+   总分: 0.820 | 技能: 0.800 | 专业: 1.000 | 兴趣: 0.400
+   匹配技能: machine learning, data analytics, python, artificial intelligence
+   缺失技能: neural networking
+   学生专业: data analytics and computer science
+
+3. Peyton Hernandez (n13087663)
+   总分: 0.820 | 技能: 0.800 | 专业: 1.000 | 兴趣: 0.400
+   匹配技能: machine learning, data analytics, python, artificial intelligence
+   缺失技能: neural networking
+   学生专业: data analytics and computer science
+
+4. Sydney Brown (n08901613)
+   总分: 0.800 | 技能: 0.800 | 专业: 1.000 | 兴趣: 0.200
+   匹配技能: machine learning, data analytics, python, artificial intelligence
+   缺失技能: neural networking
+   学生专业: data analytics and computer science
+
+5. Devon Williams (n06114515)
+   总分: 0.800 | 技能: 0.800 | 专业: 1.000 | 兴趣: 0.200
+   匹配技能: machine learning, data analytics, python, artificial intelligence
+   缺失技能: neural networking
+   学生专业: data analytics
+
+6. Drew Jones (n09274950)
+   总分: 0.800 | 技能: 0.800 | 专业: 1.000 | 兴趣: 0.200
+   匹配技能: machine learning, data analytics, python, artificial intelligence
+   缺失技能: neural networking
+   学生专业: data analytics and computer science
+
+7. Phoenix Miller (n12784106)
+   总分: 0.800 | 技能: 0.800 | 专业: 1.000 | 兴趣: 0.200
+   匹配技能: machine learning, data analytics, python, artificial intelligence
+   缺失技能: neural networking
+   学生专业: data analytics and computer science
+
+8. Tyler Lopez (n14519596)
+   总分: 0.520 | 技能: 0.800 | 专业: 0.000 | 兴趣: 0.400
+   匹配技能: machine learning, data analytics, python, artificial intelligence
+   缺失技能: neural networking
+   学生专业: data analytics with a minor in computer science
+
+9. Sage Brown (n03780196)
+   总分: 0.500 | 技能: 0.800 | 专业: 0.000 | 兴趣: 0.200
+   匹配技能: machine learning, data analytics, python, artificial intelligence
+   缺失技能: neural networking
+   学生专业: data analytics minor in computer science
+
+10. Finley White (n00352388)
+   总分: 0.500 | 技能: 0.800 | 专业: 0.000 | 兴趣: 0.200
+   匹配技能: machine learning, data analytics, python, artificial intelligence
+   缺失技能: neural networking
+   学生专业: data analytics with a minor in computer science
+

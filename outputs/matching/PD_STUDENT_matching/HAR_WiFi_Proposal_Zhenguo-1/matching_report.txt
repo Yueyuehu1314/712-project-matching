@@ -1,0 +1,85 @@
+================================================================================
+项目-学生匹配报告
+================================================================================
+
+项目名称: HAR_WiFi_Proposal_Zhenguo-1
+生成时间: 2025-10-03 15:57:50
+学生总数: 10
+
+================================================================================
+匹配统计
+================================================================================
+
+平均匹配分数: 0.634
+最高分数: 0.700
+最低分数: 0.569
+
+分数分布:
+  • 高匹配 (≥0.7): 1 人 (10.0%)
+  • 中匹配 (0.4-0.7): 9 人 (90.0%)
+  • 低匹配 (<0.4): 0 人 (0.0%)
+
+================================================================================
+Top 10 匹配学生
+================================================================================
+
+1. Blake Allen (n01803983)
+   总分: 0.700 | 技能: 0.615 | 专业: 1.000 | 兴趣: 0.308
+   匹配技能: data analytics, cyber security, csi, signal processing, security
+   缺失技能: internet of things, pytorch, artificial intelligence, deep learning, gan
+   学生专业: software development with a focus on computer systems
+
+2. Casey Garcia (n08259368)
+   总分: 0.662 | 技能: 0.538 | 专业: 1.000 | 兴趣: 0.385
+   匹配技能: data analytics, cyber security, csi, security, tensorflow
+   缺失技能: internet of things, pytorch, artificial intelligence, deep learning, signal processing
+   学生专业: software development
+
+3. Blake White (n04837386)
+   总分: 0.662 | 技能: 0.538 | 专业: 1.000 | 兴趣: 0.385
+   匹配技能: data analytics, cyber security, csi, security, tensorflow
+   缺失技能: internet of things, pytorch, artificial intelligence, deep learning, signal processing
+   学生专业: software development and computer systems
+
+4. Harper Smith (n10858028)
+   总分: 0.662 | 技能: 0.538 | 专业: 1.000 | 兴趣: 0.385
+   匹配技能: data analytics, cyber security, csi, security, tensorflow
+   缺失技能: internet of things, pytorch, artificial intelligence, deep learning, signal processing
+   学生专业: software development
+
+5. Drew Hill (n08031750)
+   总分: 0.654 | 技能: 0.538 | 专业: 1.000 | 兴趣: 0.308
+   匹配技能: data analytics, cyber security, csi, security, tensorflow
+   缺失技能: internet of things, pytorch, artificial intelligence, deep learning, signal processing
+   学生专业: software development
+
+6. Riley Young (n12638212)
+   总分: 0.615 | 技能: 0.462 | 专业: 1.000 | 兴趣: 0.385
+   匹配技能: data analytics, cyber security, security, tensorflow, wifi
+   缺失技能: internet of things, csi, pytorch, artificial intelligence, deep learning
+   学生专业: software development with a minor in computer science
+
+7. Drew Allen (n12562489)
+   总分: 0.608 | 技能: 0.462 | 专业: 1.000 | 兴趣: 0.308
+   匹配技能: data analytics, cyber security, security, tensorflow, wifi
+   缺失技能: internet of things, csi, pytorch, artificial intelligence, deep learning
+   学生专业: software engineering with a focus on computer systems
+
+8. Jordan Wright (n04539845)
+   总分: 0.608 | 技能: 0.462 | 专业: 1.000 | 兴趣: 0.308
+   匹配技能: data analytics, cyber security, security, tensorflow, wifi
+   缺失技能: internet of things, csi, pytorch, artificial intelligence, deep learning
+   学生专业: software development
+
+9. Logan Rodriguez (n15315806)
+   总分: 0.600 | 技能: 0.462 | 专业: 1.000 | 兴趣: 0.231
+   匹配技能: data analytics, cyber security, security, tensorflow, wifi
+   缺失技能: internet of things, csi, pytorch, artificial intelligence, deep learning
+   学生专业: software development
+
+10. Parker Taylor (n05856469)
+   总分: 0.569 | 技能: 0.385 | 专业: 1.000 | 兴趣: 0.385
+   匹配技能: cyber security, security, tensorflow, wifi, networking
+   缺失技能: data analytics, internet of things, csi, pytorch, artificial intelligence
+   学生专业: software development and computer science
+

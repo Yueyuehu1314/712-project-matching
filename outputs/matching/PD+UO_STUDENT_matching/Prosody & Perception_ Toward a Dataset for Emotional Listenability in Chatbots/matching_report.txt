@@ -1,0 +1,295 @@
+项目匹配报告
+================================================================================
+项目名称: Prosody & Perception_ Toward a Dataset for Emotional Listenability in Chatbots
+匹配学生数: 200
+生成时间: 2025-10-03 16:19:47
+
+匹配权重配置:
+  - 技能匹配: 50.0%
+  - 专业匹配: 20.0%
+  - 课程匹配: 20.0%
+  - 兴趣匹配: 10.0%
+
+================================================================================
+
+Top 20 匹配学生:
+--------------------------------------------------------------------------------
+
+排名 #1
+学生: Jordan Wright (n04539845)
+综合得分: 0.308
+  - 技能得分: 0.386
+  - 专业得分: 0.480
+  - 课程得分: 0.044
+  - 兴趣得分: 0.100
+匹配详情:
+  - 匹配技能 (4): machine learning, web development, programming, networking
+  - 匹配课程 (4): IFN551, IFN556, IFN564, IFN552
+  - 匹配兴趣: artificial intelligence in healthcare
+
+--------------------------------------------------------------------------------
+
+排名 #2
+学生: Drew Johnson (n10761320)
+综合得分: 0.293
+  - 技能得分: 0.421
+  - 专业得分: 0.320
+  - 课程得分: 0.044
+  - 兴趣得分: 0.100
+匹配详情:
+  - 匹配技能 (5): machine learning, mobile development, web development, programming, networking
+  - 匹配课程 (4): IFN553, IFN554, IFN564, IFN623
+  - 匹配兴趣: mobile app development for wearable devices, machine learning applications in healthcare
+
+--------------------------------------------------------------------------------
+
+排名 #3
+学生: Peyton Williams (n00195692)
+综合得分: 0.283
+  - 技能得分: 0.421
+  - 专业得分: 0.320
+  - 课程得分: 0.044
+  - 兴趣得分: 0.000
+匹配详情:
+  - 匹配技能 (5): machine learning, mobile development, web development, programming, networking
+  - 匹配课程 (4): IFN553, IFN554, IFN564, IFN623
+
+--------------------------------------------------------------------------------
+
+排名 #4
+学生: Harper Scott (n02418311)
+综合得分: 0.279
+  - 技能得分: 0.404
+  - 专业得分: 0.320
+  - 课程得分: 0.067
+  - 兴趣得分: 0.000
+匹配详情:
+  - 匹配技能 (4): machine learning, web development, programming, networking
+  - 匹配课程 (6): IFN564, IFN551, IFN619, IFN553, IFN556, IFN623
+
+--------------------------------------------------------------------------------
+
+排名 #5
+学生: Drew Hernandez (n04541718)
+综合得分: 0.269
+  - 技能得分: 0.303
+  - 专业得分: 0.480
+  - 课程得分: 0.056
+  - 兴趣得分: 0.100
+匹配详情:
+  - 匹配技能 (3): machine learning, web development, networking
+  - 匹配课程 (5): IFN564, IFN619, IFN553, IFN551, IFN623
+  - 匹配兴趣: cybersecurity frameworks for iot
+
+--------------------------------------------------------------------------------
+
+排名 #6
+学生: Morgan Harris (n14695376)
+综合得分: 0.266
+  - 技能得分: 0.303
+  - 专业得分: 0.480
+  - 课程得分: 0.044
+  - 兴趣得分: 0.100
+匹配详情:
+  - 匹配技能 (3): machine learning, web development, programming
+  - 匹配课程 (4): IFN551, IFN556, IFN564, IFN552
+  - 匹配兴趣: deep learning for image analysis, ai in healthcare diagnostics
+
+--------------------------------------------------------------------------------
+
+排名 #7
+学生: Madison Moore (n08656729)
+综合得分: 0.266
+  - 技能得分: 0.303
+  - 专业得分: 0.480
+  - 课程得分: 0.044
+  - 兴趣得分: 0.100
+匹配详情:
+  - 匹配技能 (3): machine learning, web development, programming
+  - 匹配课程 (4): IFN551, IFN556, IFN564, IFN552
+  - 匹配兴趣: artificial intelligence in healthcare
+
+--------------------------------------------------------------------------------
+
+排名 #8
+学生: Avery King (n08970940)
+综合得分: 0.266
+  - 技能得分: 0.303
+  - 专业得分: 0.480
+  - 课程得分: 0.044
+  - 兴趣得分: 0.100
+匹配详情:
+  - 匹配技能 (3): machine learning, web development, programming
+  - 匹配课程 (4): IFN551, IFN556, IFN564, IFN552
+  - 匹配兴趣: deep learning for image analysis, cloud computing in clinical workflows
+
+--------------------------------------------------------------------------------
+
+排名 #9
+学生: Rowan Torres (n08153626)
+综合得分: 0.266
+  - 技能得分: 0.303
+  - 专业得分: 0.480
+  - 课程得分: 0.044
+  - 兴趣得分: 0.100
+匹配详情:
+  - 匹配技能 (3): machine learning, web development, programming
+  - 匹配课程 (4): IFN551, IFN556, IFN564, IFN552
+  - 匹配兴趣: data science for social good, machine learning in healthcare
+
+--------------------------------------------------------------------------------
+
+排名 #10
+学生: Drew Johnson (n04873519)
+综合得分: 0.266
+  - 技能得分: 0.303
+  - 专业得分: 0.480
+  - 课程得分: 0.044
+  - 兴趣得分: 0.100
+匹配详情:
+  - 匹配技能 (3): machine learning, web development, programming
+  - 匹配课程 (4): IFN551, IFN556, IFN564, IFN552
+  - 匹配兴趣: machine learning in healthcare diagnostics, web development for data applications
+
+--------------------------------------------------------------------------------
+
+排名 #11
+学生: Alex Lee (n09745425)
+综合得分: 0.266
+  - 技能得分: 0.303
+  - 专业得分: 0.480
+  - 课程得分: 0.044
+  - 兴趣得分: 0.100
+匹配详情:
+  - 匹配技能 (3): machine learning, web development, programming
+  - 匹配课程 (4): IFN551, IFN556, IFN564, IFN552
+  - 匹配兴趣: ai in healthcare diagnostics
+
+--------------------------------------------------------------------------------
+
+排名 #12
+学生: Blake Garcia (n11136316)
+综合得分: 0.266
+  - 技能得分: 0.303
+  - 专业得分: 0.480
+  - 课程得分: 0.044
+  - 兴趣得分: 0.100
+匹配详情:
+  - 匹配技能 (3): machine learning, web development, programming
+  - 匹配课程 (4): IFN551, IFN556, IFN564, IFN552
+  - 匹配兴趣: machine learning in healthcare
+
+--------------------------------------------------------------------------------
+
+排名 #13
+学生: Avery Davis (n13074181)
+综合得分: 0.266
+  - 技能得分: 0.303
+  - 专业得分: 0.480
+  - 课程得分: 0.044
+  - 兴趣得分: 0.100
+匹配详情:
+  - 匹配技能 (3): machine learning, web development, programming
+  - 匹配课程 (4): IFN554, IFN556, IFN564, IFN552
+  - 匹配兴趣: collaborative problem solving in healthcare
+
+--------------------------------------------------------------------------------
+
+排名 #14
+学生: Rory Lopez (n13177467)
+综合得分: 0.266
+  - 技能得分: 0.303
+  - 专业得分: 0.480
+  - 课程得分: 0.044
+  - 兴趣得分: 0.100
+匹配详情:
+  - 匹配技能 (3): machine learning, web development, programming
+  - 匹配课程 (4): IFN554, IFN556, IFN564, IFN552
+  - 匹配兴趣: open source contributions in python and machine learning, exploring ethical implications of ai in healthcare, web development for medical applications
+
+--------------------------------------------------------------------------------
+
+排名 #15
+学生: Logan Lee (n03698473)
+综合得分: 0.266
+  - 技能得分: 0.303
+  - 专业得分: 0.480
+  - 课程得分: 0.044
+  - 兴趣得分: 0.100
+匹配详情:
+  - 匹配技能 (3): machine learning, web development, programming
+  - 匹配课程 (4): IFN554, IFN556, IFN564, IFN552
+  - 匹配兴趣: machine learning for healthcare
+
+--------------------------------------------------------------------------------
+
+排名 #16
+学生: Reese Hernandez (n10165670)
+综合得分: 0.266
+  - 技能得分: 0.303
+  - 专业得分: 0.480
+  - 课程得分: 0.044
+  - 兴趣得分: 0.100
+匹配详情:
+  - 匹配技能 (3): machine learning, web development, programming
+  - 匹配课程 (4): IFN554, IFN556, IFN564, IFN552
+  - 匹配兴趣: machine learning in healthcare
+
+--------------------------------------------------------------------------------
+
+排名 #17
+学生: Harper Harris (n02867192)
+综合得分: 0.266
+  - 技能得分: 0.303
+  - 专业得分: 0.480
+  - 课程得分: 0.044
+  - 兴趣得分: 0.100
+匹配详情:
+  - 匹配技能 (3): machine learning, web development, programming
+  - 匹配课程 (4): IFN554, IFN556, IFN564, IFN552
+  - 匹配兴趣: reading interdisciplinary research in bioinformatics
+
+--------------------------------------------------------------------------------
+
+排名 #18
+学生: Kendall Scott (n08499357)
+综合得分: 0.266
+  - 技能得分: 0.303
+  - 专业得分: 0.480
+  - 课程得分: 0.044
+  - 兴趣得分: 0.100
+匹配详情:
+  - 匹配技能 (3): machine learning, web development, programming
+  - 匹配课程 (4): IFN554, IFN556, IFN564, IFN552
+  - 匹配兴趣: web development for clinical applications
+
+--------------------------------------------------------------------------------
+
+排名 #19
+学生: Rory Allen (n13605583)
+综合得分: 0.266
+  - 技能得分: 0.303
+  - 专业得分: 0.480
+  - 课程得分: 0.044
+  - 兴趣得分: 0.100
+匹配详情:
+  - 匹配技能 (3): machine learning, web development, programming
+  - 匹配课程 (4): IFN554, IFN556, IFN564, IFN552
+  - 匹配兴趣: machine learning for healthcare
+
+--------------------------------------------------------------------------------
+
+排名 #20
+学生: Tyler Flores (n06341957)
+综合得分: 0.266
+  - 技能得分: 0.303
+  - 专业得分: 0.480
+  - 课程得分: 0.044
+  - 兴趣得分: 0.100
+匹配详情:
+  - 匹配技能 (3): machine learning, web development, programming
+  - 匹配课程 (4): IFN554, IFN556, IFN564, IFN552
+  - 匹配兴趣: data visualization in medical diagnostics, ai ethics in healthcare
+
+--------------------------------------------------------------------------------
+

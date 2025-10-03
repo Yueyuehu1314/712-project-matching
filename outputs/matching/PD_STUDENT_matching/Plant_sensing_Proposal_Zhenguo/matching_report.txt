@@ -1,0 +1,85 @@
+================================================================================
+项目-学生匹配报告
+================================================================================
+
+项目名称: Plant_sensing_Proposal_Zhenguo
+生成时间: 2025-10-03 15:57:50
+学生总数: 10
+
+================================================================================
+匹配统计
+================================================================================
+
+平均匹配分数: 0.726
+最高分数: 0.827
+最低分数: 0.418
+
+分数分布:
+  • 高匹配 (≥0.7): 7 人 (70.0%)
+  • 中匹配 (0.4-0.7): 3 人 (30.0%)
+  • 低匹配 (<0.4): 0 人 (0.0%)
+
+================================================================================
+Top 10 匹配学生
+================================================================================
+
+1. Devon Miller (n15750559)
+   总分: 0.827 | 技能: 0.818 | 专业: 1.000 | 兴趣: 0.364
+   匹配技能: scikitlearn, web development, machine learning, data analytics, python
+   缺失技能: deep learning, artificial intelligence
+   学生专业: software development
+
+2. Morgan Taylor (n07590196)
+   总分: 0.827 | 技能: 0.818 | 专业: 1.000 | 兴趣: 0.364
+   匹配技能: scikitlearn, web development, machine learning, data analytics, python
+   缺失技能: deep learning, artificial intelligence
+   学生专业: software development
+
+3. Blake Moore (n07556855)
+   总分: 0.818 | 技能: 0.818 | 专业: 1.000 | 兴趣: 0.273
+   匹配技能: scikitlearn, web development, machine learning, data analytics, python
+   缺失技能: deep learning, artificial intelligence
+   学生专业: computer systems
+
+4. Jordan Wright (n04106989)
+   总分: 0.782 | 技能: 0.727 | 专业: 1.000 | 兴趣: 0.455
+   匹配技能: scikitlearn, web development, machine learning, data analytics, python
+   缺失技能: internet of things, deep learning, artificial intelligence
+   学生专业: software development and cyber security
+
+5. Peyton Moore (n06988417)
+   总分: 0.764 | 技能: 0.727 | 专业: 1.000 | 兴趣: 0.273
+   匹配技能: web development, machine learning, data analytics, python, cyber security
+   缺失技能: deep learning, scikitlearn, artificial intelligence
+   学生专业: computer science
+
+6. Sage King (n16774452)
+   总分: 0.755 | 技能: 0.727 | 专业: 1.000 | 兴趣: 0.182
+   匹配技能: web development, machine learning, data analytics, python, cyber security
+   缺失技能: deep learning, scikitlearn, artificial intelligence
+   学生专业: software development
+
+7. Kendall Moore (n09544816)
+   总分: 0.718 | 技能: 0.636 | 专业: 1.000 | 兴趣: 0.364
+   匹配技能: scikitlearn, web development, machine learning, python, cyber security
+   缺失技能: internet of things, deep learning, artificial intelligence, data analytics
+   学生专业: software development
+
+8. Rory Miller (n04909199)
+   总分: 0.691 | 技能: 0.636 | 专业: 1.000 | 兴趣: 0.091
+   匹配技能: scikitlearn, web development, machine learning, python, cyber security
+   缺失技能: internet of things, deep learning, artificial intelligence, data analytics
+   学生专业: software development
+
+9. Taylor Rodriguez (n03869948)
+   总分: 0.664 | 技能: 0.545 | 专业: 1.000 | 兴趣: 0.364
+   匹配技能: web development, machine learning, data analytics, python, cyber security
+   缺失技能: scikitlearn, internet of things, artificial intelligence, tensorflow, deep learning
+   学生专业: software development
+
+10. Madison Jones (n02481839)
+   总分: 0.418 | 技能: 0.636 | 专业: 0.000 | 兴趣: 0.364
+   匹配技能: scikitlearn, web development, machine learning, data analytics, python
+   缺失技能: internet of things, deep learning, artificial intelligence, tensorflow
+   学生专业: software engineering
+

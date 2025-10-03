@@ -1,0 +1,23 @@
+{
+  "project_id": "project_IFN712_Project_12-1",
+  "project_title": "Zero-Day Attack Detection Using",
+  "total_entities": 12,
+  "total_relationships": 11,
+  "layer_distribution": {
+    "1": 1,
+    "2": 4,
+    "3": 7
+  },
+  "entity_types": {
+    "PROJECT": 1,
+    "DOMAIN": 4,
+    "SKILL": 3,
+    "MAJOR": 2,
+    "TECHNOLOGY": 2
+  },
+  "layers": {
+    "layer_1": "Project",
+    "layer_2": "Domains",
+    "layer_3": "Skills/Technologies/Majors"
+  }
+}

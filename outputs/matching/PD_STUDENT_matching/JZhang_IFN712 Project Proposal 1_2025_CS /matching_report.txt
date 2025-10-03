@@ -1,0 +1,85 @@
+================================================================================
+项目-学生匹配报告
+================================================================================
+
+项目名称: JZhang_IFN712 Project Proposal 1_2025_CS 
+生成时间: 2025-10-03 15:57:50
+学生总数: 10
+
+================================================================================
+匹配统计
+================================================================================
+
+平均匹配分数: 0.665
+最高分数: 0.800
+最低分数: 0.450
+
+分数分布:
+  • 高匹配 (≥0.7): 6 人 (60.0%)
+  • 中匹配 (0.4-0.7): 4 人 (40.0%)
+  • 低匹配 (<0.4): 0 人 (0.0%)
+
+================================================================================
+Top 10 匹配学生
+================================================================================
+
+1. Rory Lopez (n13177467)
+   总分: 0.800 | 技能: 0.750 | 专业: 1.000 | 兴趣: 0.500
+   匹配技能: artificial intelligence, machine learning, data analytics
+   缺失技能: gan
+   学生专业: computer science and data analytics
+
+2. Reese Hernandez (n10165670)
+   总分: 0.800 | 技能: 0.750 | 专业: 1.000 | 兴趣: 0.500
+   匹配技能: artificial intelligence, machine learning, data analytics
+   缺失技能: gan
+   学生专业: computer science and data analytics
+
+3. Kendall Scott (n08499357)
+   总分: 0.800 | 技能: 0.750 | 专业: 1.000 | 兴趣: 0.500
+   匹配技能: artificial intelligence, machine learning, data analytics
+   缺失技能: gan
+   学生专业: computer science and data analytics
+
+4. Tyler Flores (n06341957)
+   总分: 0.800 | 技能: 0.750 | 专业: 1.000 | 兴趣: 0.500
+   匹配技能: artificial intelligence, machine learning, data analytics
+   缺失技能: gan
+   学生专业: computer science and data analytics
+
+5. Logan Lee (n03698473)
+   总分: 0.775 | 技能: 0.750 | 专业: 1.000 | 兴趣: 0.250
+   匹配技能: artificial intelligence, machine learning, data analytics
+   缺失技能: gan
+   学生专业: computer science and data analytics
+
+6. Avery Davis (n13074181)
+   总分: 0.750 | 技能: 0.750 | 专业: 1.000 | 兴趣: 0.000
+   匹配技能: artificial intelligence, machine learning, data analytics
+   缺失技能: gan
+   学生专业: computer science and data analytics
+
+7. Quinn Garcia (n10415240)
+   总分: 0.500 | 技能: 0.750 | 专业: 0.000 | 兴趣: 0.500
+   匹配技能: artificial intelligence, machine learning, data analytics
+   缺失技能: gan
+   学生专业: computer science with data analytics specialization
+
+8. Rory Allen (n13605583)
+   总分: 0.500 | 技能: 0.750 | 专业: 0.000 | 兴趣: 0.500
+   匹配技能: artificial intelligence, machine learning, data analytics
+   缺失技能: gan
+   学生专业: computer science data analytics specialization
+
+9. Harper Harris (n02867192)
+   总分: 0.475 | 技能: 0.750 | 专业: 0.000 | 兴趣: 0.250
+   匹配技能: artificial intelligence, machine learning, data analytics
+   缺失技能: gan
+   学生专业: computer science with data analytics specialization
+
+10. Madison Johnson (n13410902)
+   总分: 0.450 | 技能: 0.750 | 专业: 0.000 | 兴趣: 0.000
+   匹配技能: artificial intelligence, machine learning, data analytics
+   缺失技能: gan
+   学生专业: computer science with data analytics specialization
+

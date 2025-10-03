@@ -1,0 +1,342 @@
+[
+  {
+    "student_id": "n06466472",
+    "student_name": "Jordan Davis",
+    "project_name": "IFN712 Project 13-1",
+    "match_score": 0.878,
+    "skill_match_score": 0.889,
+    "major_match_score": 1.0,
+    "interest_match_score": 0.444,
+    "matched_skills": [
+      "scikitlearn",
+      "machine learning",
+      "data analytics",
+      "python",
+      "cyber security",
+      "internet of things",
+      "artificial intelligence",
+      "security"
+    ],
+    "missing_skills": [
+      "deep learning"
+    ],
+    "student_majors": [
+      "data analytics"
+    ],
+    "project_required_majors": [
+      "computer science",
+      "data analytics"
+    ],
+    "details": {
+      "student_total_skills": 25,
+      "project_required_skills": 9,
+      "student_courses": 8
+    }
+  },
+  {
+    "student_id": "n03497884",
+    "student_name": "Peyton Brown",
+    "project_name": "IFN712 Project 13-1",
+    "match_score": 0.822,
+    "skill_match_score": 0.778,
+    "major_match_score": 1.0,
+    "interest_match_score": 0.556,
+    "matched_skills": [
+      "scikitlearn",
+      "machine learning",
+      "data analytics",
+      "python",
+      "cyber security",
+      "artificial intelligence",
+      "security"
+    ],
+    "missing_skills": [
+      "internet of things",
+      "deep learning"
+    ],
+    "student_majors": [
+      "data analytics with a concentration in computer science"
+    ],
+    "project_required_majors": [
+      "computer science",
+      "data analytics"
+    ],
+    "details": {
+      "student_total_skills": 25,
+      "project_required_skills": 9,
+      "student_courses": 8
+    }
+  },
+  {
+    "student_id": "n08665949",
+    "student_name": "Alex Anderson",
+    "project_name": "IFN712 Project 13-1",
+    "match_score": 0.811,
+    "skill_match_score": 0.778,
+    "major_match_score": 1.0,
+    "interest_match_score": 0.444,
+    "matched_skills": [
+      "scikitlearn",
+      "machine learning",
+      "data analytics",
+      "python",
+      "cyber security",
+      "internet of things",
+      "security"
+    ],
+    "missing_skills": [
+      "deep learning",
+      "artificial intelligence"
+    ],
+    "student_majors": [
+      "computer science"
+    ],
+    "project_required_majors": [
+      "computer science",
+      "data analytics"
+    ],
+    "details": {
+      "student_total_skills": 28,
+      "project_required_skills": 9,
+      "student_courses": 8
+    }
+  },
+  {
+    "student_id": "n13093353",
+    "student_name": "Morgan Flores",
+    "project_name": "IFN712 Project 13-1",
+    "match_score": 0.811,
+    "skill_match_score": 0.778,
+    "major_match_score": 1.0,
+    "interest_match_score": 0.444,
+    "matched_skills": [
+      "scikitlearn",
+      "machine learning",
+      "data analytics",
+      "python",
+      "cyber security",
+      "artificial intelligence",
+      "security"
+    ],
+    "missing_skills": [
+      "internet of things",
+      "deep learning"
+    ],
+    "student_majors": [
+      "data analytics"
+    ],
+    "project_required_majors": [
+      "computer science",
+      "data analytics"
+    ],
+    "details": {
+      "student_total_skills": 25,
+      "project_required_skills": 9,
+      "student_courses": 8
+    }
+  },
+  {
+    "student_id": "n02418311",
+    "student_name": "Harper Scott",
+    "project_name": "IFN712 Project 13-1",
+    "match_score": 0.811,
+    "skill_match_score": 0.778,
+    "major_match_score": 1.0,
+    "interest_match_score": 0.444,
+    "matched_skills": [
+      "scikitlearn",
+      "machine learning",
+      "data analytics",
+      "python",
+      "cyber security",
+      "artificial intelligence",
+      "security"
+    ],
+    "missing_skills": [
+      "internet of things",
+      "deep learning"
+    ],
+    "student_majors": [
+      "computer science specialization in cyber security"
+    ],
+    "project_required_majors": [
+      "computer science",
+      "data analytics"
+    ],
+    "details": {
+      "student_total_skills": 26,
+      "project_required_skills": 9,
+      "student_courses": 8
+    }
+  },
+  {
+    "student_id": "n04358655",
+    "student_name": "Rowan Martin",
+    "project_name": "IFN712 Project 13-1",
+    "match_score": 0.811,
+    "skill_match_score": 0.778,
+    "major_match_score": 1.0,
+    "interest_match_score": 0.444,
+    "matched_skills": [
+      "scikitlearn",
+      "machine learning",
+      "data analytics",
+      "python",
+      "cyber security",
+      "artificial intelligence",
+      "security"
+    ],
+    "missing_skills": [
+      "internet of things",
+      "deep learning"
+    ],
+    "student_majors": [
+      "data analytics"
+    ],
+    "project_required_majors": [
+      "computer science",
+      "data analytics"
+    ],
+    "details": {
+      "student_total_skills": 25,
+      "project_required_skills": 9,
+      "student_courses": 8
+    }
+  },
+  {
+    "student_id": "n15162080",
+    "student_name": "Taylor Martinez",
+    "project_name": "IFN712 Project 13-1",
+    "match_score": 0.811,
+    "skill_match_score": 0.778,
+    "major_match_score": 1.0,
+    "interest_match_score": 0.444,
+    "matched_skills": [
+      "scikitlearn",
+      "machine learning",
+      "data analytics",
+      "python",
+      "cyber security",
+      "artificial intelligence",
+      "security"
+    ],
+    "missing_skills": [
+      "internet of things",
+      "deep learning"
+    ],
+    "student_majors": [
+      "computer science with a minor in data analytics"
+    ],
+    "project_required_majors": [
+      "computer science",
+      "data analytics"
+    ],
+    "details": {
+      "student_total_skills": 25,
+      "project_required_skills": 9,
+      "student_courses": 8
+    }
+  },
+  {
+    "student_id": "n12134948",
+    "student_name": "Taylor Wright",
+    "project_name": "IFN712 Project 13-1",
+    "match_score": 0.811,
+    "skill_match_score": 0.778,
+    "major_match_score": 1.0,
+    "interest_match_score": 0.444,
+    "matched_skills": [
+      "scikitlearn",
+      "machine learning",
+      "data analytics",
+      "python",
+      "cyber security",
+      "artificial intelligence",
+      "security"
+    ],
+    "missing_skills": [
+      "internet of things",
+      "deep learning"
+    ],
+    "student_majors": [
+      "data analytics and cyber security double major"
+    ],
+    "project_required_majors": [
+      "computer science",
+      "data analytics"
+    ],
+    "details": {
+      "student_total_skills": 25,
+      "project_required_skills": 9,
+      "student_courses": 8
+    }
+  },
+  {
+    "student_id": "n04541718",
+    "student_name": "Drew Hernandez",
+    "project_name": "IFN712 Project 13-1",
+    "match_score": 0.744,
+    "skill_match_score": 0.667,
+    "major_match_score": 1.0,
+    "interest_match_score": 0.444,
+    "matched_skills": [
+      "scikitlearn",
+      "machine learning",
+      "data analytics",
+      "cyber security",
+      "artificial intelligence",
+      "security"
+    ],
+    "missing_skills": [
+      "python",
+      "deep learning",
+      "internet of things"
+    ],
+    "student_majors": [
+      "data analytics minor in computer science"
+    ],
+    "project_required_majors": [
+      "computer science",
+      "data analytics"
+    ],
+    "details": {
+      "student_total_skills": 25,
+      "project_required_skills": 9,
+      "student_courses": 8
+    }
+  },
+  {
+    "student_id": "n08932659",
+    "student_name": "Rory Rodriguez",
+    "project_name": "IFN712 Project 13-1",
+    "match_score": 0.678,
+    "skill_match_score": 0.556,
+    "major_match_score": 1.0,
+    "interest_match_score": 0.444,
+    "matched_skills": [
+      "scikitlearn",
+      "machine learning",
+      "data analytics",
+      "cyber security",
+      "security"
+    ],
+    "missing_skills": [
+      "python",
+      "deep learning",
+      "internet of things",
+      "artificial intelligence"
+    ],
+    "student_majors": [
+      "computer science specialization in data analytics"
+    ],
+    "project_required_majors": [
+      "computer science",
+      "data analytics"
+    ],
+    "details": {
+      "student_total_skills": 27,
+      "project_required_skills": 9,
+      "student_courses": 8
+    }
+  }
+]

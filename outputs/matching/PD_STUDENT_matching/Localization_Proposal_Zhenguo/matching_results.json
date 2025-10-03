@@ -1,0 +1,372 @@
+[
+  {
+    "student_id": "n13431626",
+    "student_name": "Blake Chen",
+    "project_name": "Localization_Proposal_Zhenguo",
+    "match_score": 0.717,
+    "skill_match_score": 0.667,
+    "major_match_score": 1.0,
+    "interest_match_score": 0.167,
+    "matched_skills": [
+      "data analytics",
+      "cyber security",
+      "python",
+      "react",
+      "pytorch",
+      "security",
+      "tensorflow",
+      "neural networking"
+    ],
+    "missing_skills": [
+      "deep learning",
+      "cnn",
+      "artificial intelligence",
+      "lstm"
+    ],
+    "student_majors": [
+      "software development"
+    ],
+    "project_required_majors": [
+      "software development",
+      "computer"
+    ],
+    "details": {
+      "student_total_skills": 22,
+      "project_required_skills": 12,
+      "student_courses": 8
+    }
+  },
+  {
+    "student_id": "n16212621",
+    "student_name": "Morgan Allen",
+    "project_name": "Localization_Proposal_Zhenguo",
+    "match_score": 0.667,
+    "skill_match_score": 0.583,
+    "major_match_score": 1.0,
+    "interest_match_score": 0.167,
+    "matched_skills": [
+      "data analytics",
+      "cyber security",
+      "python",
+      "react",
+      "security",
+      "tensorflow",
+      "neural networking"
+    ],
+    "missing_skills": [
+      "lstm",
+      "pytorch",
+      "cnn",
+      "artificial intelligence",
+      "deep learning"
+    ],
+    "student_majors": [
+      "software development"
+    ],
+    "project_required_majors": [
+      "software development",
+      "computer"
+    ],
+    "details": {
+      "student_total_skills": 22,
+      "project_required_skills": 12,
+      "student_courses": 8
+    }
+  },
+  {
+    "student_id": "n01087640",
+    "student_name": "Casey Moore",
+    "project_name": "Localization_Proposal_Zhenguo",
+    "match_score": 0.65,
+    "skill_match_score": 0.583,
+    "major_match_score": 1.0,
+    "interest_match_score": 0.0,
+    "matched_skills": [
+      "data analytics",
+      "cyber security",
+      "python",
+      "react",
+      "security",
+      "tensorflow",
+      "neural networking"
+    ],
+    "missing_skills": [
+      "lstm",
+      "pytorch",
+      "cnn",
+      "artificial intelligence",
+      "deep learning"
+    ],
+    "student_majors": [
+      "software development"
+    ],
+    "project_required_majors": [
+      "software development",
+      "computer"
+    ],
+    "details": {
+      "student_total_skills": 22,
+      "project_required_skills": 12,
+      "student_courses": 8
+    }
+  },
+  {
+    "student_id": "n10548652",
+    "student_name": "Harper Garcia",
+    "project_name": "Localization_Proposal_Zhenguo",
+    "match_score": 0.65,
+    "skill_match_score": 0.583,
+    "major_match_score": 1.0,
+    "interest_match_score": 0.0,
+    "matched_skills": [
+      "data analytics",
+      "cyber security",
+      "python",
+      "react",
+      "security",
+      "tensorflow",
+      "neural networking"
+    ],
+    "missing_skills": [
+      "lstm",
+      "pytorch",
+      "cnn",
+      "artificial intelligence",
+      "deep learning"
+    ],
+    "student_majors": [
+      "software development"
+    ],
+    "project_required_majors": [
+      "software development",
+      "computer"
+    ],
+    "details": {
+      "student_total_skills": 22,
+      "project_required_skills": 12,
+      "student_courses": 8
+    }
+  },
+  {
+    "student_id": "n02448239",
+    "student_name": "Finley Lopez",
+    "project_name": "Localization_Proposal_Zhenguo",
+    "match_score": 0.65,
+    "skill_match_score": 0.583,
+    "major_match_score": 1.0,
+    "interest_match_score": 0.0,
+    "matched_skills": [
+      "data analytics",
+      "cyber security",
+      "python",
+      "react",
+      "security",
+      "tensorflow",
+      "neural networking"
+    ],
+    "missing_skills": [
+      "lstm",
+      "pytorch",
+      "cnn",
+      "artificial intelligence",
+      "deep learning"
+    ],
+    "student_majors": [
+      "software development and computer engineering"
+    ],
+    "project_required_majors": [
+      "software development",
+      "computer"
+    ],
+    "details": {
+      "student_total_skills": 22,
+      "project_required_skills": 12,
+      "student_courses": 8
+    }
+  },
+  {
+    "student_id": "n13351390",
+    "student_name": "River Lee",
+    "project_name": "Localization_Proposal_Zhenguo",
+    "match_score": 0.617,
+    "skill_match_score": 0.5,
+    "major_match_score": 1.0,
+    "interest_match_score": 0.167,
+    "matched_skills": [
+      "data analytics",
+      "cyber security",
+      "python",
+      "react",
+      "security",
+      "neural networking"
+    ],
+    "missing_skills": [
+      "lstm",
+      "pytorch",
+      "cnn",
+      "artificial intelligence",
+      "tensorflow",
+      "deep learning"
+    ],
+    "student_majors": [
+      "software development"
+    ],
+    "project_required_majors": [
+      "software development",
+      "computer"
+    ],
+    "details": {
+      "student_total_skills": 22,
+      "project_required_skills": 12,
+      "student_courses": 8
+    }
+  },
+  {
+    "student_id": "n10078927",
+    "student_name": "Drew Torres",
+    "project_name": "Localization_Proposal_Zhenguo",
+    "match_score": 0.617,
+    "skill_match_score": 0.5,
+    "major_match_score": 1.0,
+    "interest_match_score": 0.167,
+    "matched_skills": [
+      "data analytics",
+      "cyber security",
+      "python",
+      "react",
+      "security",
+      "neural networking"
+    ],
+    "missing_skills": [
+      "lstm",
+      "pytorch",
+      "cnn",
+      "artificial intelligence",
+      "tensorflow",
+      "deep learning"
+    ],
+    "student_majors": [
+      "computer science"
+    ],
+    "project_required_majors": [
+      "software development",
+      "computer"
+    ],
+    "details": {
+      "student_total_skills": 22,
+      "project_required_skills": 12,
+      "student_courses": 8
+    }
+  },
+  {
+    "student_id": "n10825571",
+    "student_name": "Rowan Scott",
+    "project_name": "Localization_Proposal_Zhenguo",
+    "match_score": 0.617,
+    "skill_match_score": 0.5,
+    "major_match_score": 1.0,
+    "interest_match_score": 0.167,
+    "matched_skills": [
+      "data analytics",
+      "cyber security",
+      "python",
+      "react",
+      "security",
+      "neural networking"
+    ],
+    "missing_skills": [
+      "lstm",
+      "pytorch",
+      "cnn",
+      "artificial intelligence",
+      "tensorflow",
+      "deep learning"
+    ],
+    "student_majors": [
+      "software development"
+    ],
+    "project_required_majors": [
+      "software development",
+      "computer"
+    ],
+    "details": {
+      "student_total_skills": 22,
+      "project_required_skills": 12,
+      "student_courses": 8
+    }
+  },
+  {
+    "student_id": "n15463920",
+    "student_name": "Cameron Thompson",
+    "project_name": "Localization_Proposal_Zhenguo",
+    "match_score": 0.6,
+    "skill_match_score": 0.5,
+    "major_match_score": 1.0,
+    "interest_match_score": 0.0,
+    "matched_skills": [
+      "cyber security",
+      "python",
+      "react",
+      "security",
+      "tensorflow",
+      "neural networking"
+    ],
+    "missing_skills": [
+      "data analytics",
+      "lstm",
+      "pytorch",
+      "cnn",
+      "artificial intelligence",
+      "deep learning"
+    ],
+    "student_majors": [
+      "software development"
+    ],
+    "project_required_majors": [
+      "software development",
+      "computer"
+    ],
+    "details": {
+      "student_total_skills": 22,
+      "project_required_skills": 12,
+      "student_courses": 8
+    }
+  },
+  {
+    "student_id": "n03536839",
+    "student_name": "Skylar Allen",
+    "project_name": "Localization_Proposal_Zhenguo",
+    "match_score": 0.35,
+    "skill_match_score": 0.583,
+    "major_match_score": 0.0,
+    "interest_match_score": 0.0,
+    "matched_skills": [
+      "data analytics",
+      "cyber security",
+      "python",
+      "react",
+      "security",
+      "tensorflow",
+      "neural networking"
+    ],
+    "missing_skills": [
+      "lstm",
+      "pytorch",
+      "cnn",
+      "artificial intelligence",
+      "deep learning"
+    ],
+    "student_majors": [
+      "software engineering"
+    ],
+    "project_required_majors": [
+      "software development",
+      "computer"
+    ],
+    "details": {
+      "student_total_skills": 22,
+      "project_required_skills": 12,
+      "student_courses": 8
+    }
+  }
+]

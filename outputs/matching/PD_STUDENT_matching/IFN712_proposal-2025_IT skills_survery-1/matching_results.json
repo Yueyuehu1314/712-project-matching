@@ -1,0 +1,242 @@
+[
+  {
+    "student_id": "n04003748",
+    "student_name": "Harper Rodriguez",
+    "project_name": "IFN712_proposal-2025_IT skills_survery-1",
+    "match_score": 1.0,
+    "skill_match_score": 1.0,
+    "major_match_score": 1.0,
+    "interest_match_score": 1.0,
+    "matched_skills": [
+      "artificial intelligence"
+    ],
+    "missing_skills": [],
+    "student_majors": [
+      "business analysis"
+    ],
+    "project_required_majors": [
+      "business analysis major only"
+    ],
+    "details": {
+      "student_total_skills": 23,
+      "project_required_skills": 1,
+      "student_courses": 7
+    }
+  },
+  {
+    "student_id": "n01092625",
+    "student_name": "Skylar Young",
+    "project_name": "IFN712_proposal-2025_IT skills_survery-1",
+    "match_score": 1.0,
+    "skill_match_score": 1.0,
+    "major_match_score": 1.0,
+    "interest_match_score": 1.0,
+    "matched_skills": [
+      "artificial intelligence"
+    ],
+    "missing_skills": [],
+    "student_majors": [
+      "business analysis"
+    ],
+    "project_required_majors": [
+      "business analysis major only"
+    ],
+    "details": {
+      "student_total_skills": 25,
+      "project_required_skills": 1,
+      "student_courses": 7
+    }
+  },
+  {
+    "student_id": "n05891550",
+    "student_name": "Reagan Chen",
+    "project_name": "IFN712_proposal-2025_IT skills_survery-1",
+    "match_score": 0.9,
+    "skill_match_score": 1.0,
+    "major_match_score": 1.0,
+    "interest_match_score": 0.0,
+    "matched_skills": [
+      "artificial intelligence"
+    ],
+    "missing_skills": [],
+    "student_majors": [
+      "business analysis"
+    ],
+    "project_required_majors": [
+      "business analysis major only"
+    ],
+    "details": {
+      "student_total_skills": 25,
+      "project_required_skills": 1,
+      "student_courses": 7
+    }
+  },
+  {
+    "student_id": "n15715574",
+    "student_name": "Morgan Torres",
+    "project_name": "IFN712_proposal-2025_IT skills_survery-1",
+    "match_score": 0.9,
+    "skill_match_score": 1.0,
+    "major_match_score": 1.0,
+    "interest_match_score": 0.0,
+    "matched_skills": [
+      "artificial intelligence"
+    ],
+    "missing_skills": [],
+    "student_majors": [
+      "business analysis"
+    ],
+    "project_required_majors": [
+      "business analysis major only"
+    ],
+    "details": {
+      "student_total_skills": 25,
+      "project_required_skills": 1,
+      "student_courses": 7
+    }
+  },
+  {
+    "student_id": "n07213892",
+    "student_name": "Taylor Torres",
+    "project_name": "IFN712_proposal-2025_IT skills_survery-1",
+    "match_score": 0.9,
+    "skill_match_score": 1.0,
+    "major_match_score": 1.0,
+    "interest_match_score": 0.0,
+    "matched_skills": [
+      "artificial intelligence"
+    ],
+    "missing_skills": [],
+    "student_majors": [
+      "business analysis"
+    ],
+    "project_required_majors": [
+      "business analysis major only"
+    ],
+    "details": {
+      "student_total_skills": 25,
+      "project_required_skills": 1,
+      "student_courses": 7
+    }
+  },
+  {
+    "student_id": "n08042935",
+    "student_name": "Reese Jones",
+    "project_name": "IFN712_proposal-2025_IT skills_survery-1",
+    "match_score": 0.9,
+    "skill_match_score": 1.0,
+    "major_match_score": 1.0,
+    "interest_match_score": 0.0,
+    "matched_skills": [
+      "artificial intelligence"
+    ],
+    "missing_skills": [],
+    "student_majors": [
+      "business analysis"
+    ],
+    "project_required_majors": [
+      "business analysis major only"
+    ],
+    "details": {
+      "student_total_skills": 25,
+      "project_required_skills": 1,
+      "student_courses": 7
+    }
+  },
+  {
+    "student_id": "n13650218",
+    "student_name": "Hayden Scott",
+    "project_name": "IFN712_proposal-2025_IT skills_survery-1",
+    "match_score": 0.9,
+    "skill_match_score": 1.0,
+    "major_match_score": 1.0,
+    "interest_match_score": 0.0,
+    "matched_skills": [
+      "artificial intelligence"
+    ],
+    "missing_skills": [],
+    "student_majors": [
+      "business analysis"
+    ],
+    "project_required_majors": [
+      "business analysis major only"
+    ],
+    "details": {
+      "student_total_skills": 25,
+      "project_required_skills": 1,
+      "student_courses": 7
+    }
+  },
+  {
+    "student_id": "n09492178",
+    "student_name": "Hayden Moore",
+    "project_name": "IFN712_proposal-2025_IT skills_survery-1",
+    "match_score": 0.9,
+    "skill_match_score": 1.0,
+    "major_match_score": 1.0,
+    "interest_match_score": 0.0,
+    "matched_skills": [
+      "artificial intelligence"
+    ],
+    "missing_skills": [],
+    "student_majors": [
+      "business analysis"
+    ],
+    "project_required_majors": [
+      "business analysis major only"
+    ],
+    "details": {
+      "student_total_skills": 25,
+      "project_required_skills": 1,
+      "student_courses": 7
+    }
+  },
+  {
+    "student_id": "n15737619",
+    "student_name": "Rowan Moore",
+    "project_name": "IFN712_proposal-2025_IT skills_survery-1",
+    "match_score": 0.9,
+    "skill_match_score": 1.0,
+    "major_match_score": 1.0,
+    "interest_match_score": 0.0,
+    "matched_skills": [
+      "artificial intelligence"
+    ],
+    "missing_skills": [],
+    "student_majors": [
+      "business analysis"
+    ],
+    "project_required_majors": [
+      "business analysis major only"
+    ],
+    "details": {
+      "student_total_skills": 25,
+      "project_required_skills": 1,
+      "student_courses": 7
+    }
+  },
+  {
+    "student_id": "n03009760",
+    "student_name": "Reese Brown",
+    "project_name": "IFN712_proposal-2025_IT skills_survery-1",
+    "match_score": 0.9,
+    "skill_match_score": 1.0,
+    "major_match_score": 1.0,
+    "interest_match_score": 0.0,
+    "matched_skills": [
+      "artificial intelligence"
+    ],
+    "missing_skills": [],
+    "student_majors": [
+      "business analysis"
+    ],
+    "project_required_majors": [
+      "business analysis major only"
+    ],
+    "details": {
+      "student_total_skills": 25,
+      "project_required_skills": 1,
+      "student_courses": 7
+    }
+  }
+]

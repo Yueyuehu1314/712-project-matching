@@ -1,0 +1,292 @@
+[
+  {
+    "student_id": "n07817504",
+    "student_name": "Avery Thompson",
+    "project_name": "IFN712 Project Proposal - Business Analysis for ICT skills",
+    "match_score": 0.86,
+    "skill_match_score": 0.8,
+    "major_match_score": 1.0,
+    "interest_match_score": 0.8,
+    "matched_skills": [
+      "cyber security",
+      "data analytics",
+      "cloud computing",
+      "security"
+    ],
+    "missing_skills": [
+      "artificial intelligence"
+    ],
+    "student_majors": [
+      "business analysis and execit"
+    ],
+    "project_required_majors": [
+      "business analysis and execit"
+    ],
+    "details": {
+      "student_total_skills": 19,
+      "project_required_skills": 5,
+      "student_courses": 8
+    }
+  },
+  {
+    "student_id": "n07744472",
+    "student_name": "Finley Martinez",
+    "project_name": "IFN712 Project Proposal - Business Analysis for ICT skills",
+    "match_score": 0.84,
+    "skill_match_score": 0.8,
+    "major_match_score": 1.0,
+    "interest_match_score": 0.6,
+    "matched_skills": [
+      "cyber security",
+      "data analytics",
+      "cloud computing",
+      "security"
+    ],
+    "missing_skills": [
+      "artificial intelligence"
+    ],
+    "student_majors": [
+      "business analysis and execit"
+    ],
+    "project_required_majors": [
+      "business analysis and execit"
+    ],
+    "details": {
+      "student_total_skills": 19,
+      "project_required_skills": 5,
+      "student_courses": 8
+    }
+  },
+  {
+    "student_id": "n04868510",
+    "student_name": "Alex Jones",
+    "project_name": "IFN712 Project Proposal - Business Analysis for ICT skills",
+    "match_score": 0.78,
+    "skill_match_score": 0.8,
+    "major_match_score": 1.0,
+    "interest_match_score": 0.0,
+    "matched_skills": [
+      "cyber security",
+      "data analytics",
+      "cloud computing",
+      "security"
+    ],
+    "missing_skills": [
+      "artificial intelligence"
+    ],
+    "student_majors": [
+      "business analysis and execit"
+    ],
+    "project_required_majors": [
+      "business analysis and execit"
+    ],
+    "details": {
+      "student_total_skills": 19,
+      "project_required_skills": 5,
+      "student_courses": 8
+    }
+  },
+  {
+    "student_id": "n06841239",
+    "student_name": "Emery Nguyen",
+    "project_name": "IFN712 Project Proposal - Business Analysis for ICT skills",
+    "match_score": 0.72,
+    "skill_match_score": 0.6,
+    "major_match_score": 1.0,
+    "interest_match_score": 0.6,
+    "matched_skills": [
+      "cyber security",
+      "cloud computing",
+      "security"
+    ],
+    "missing_skills": [
+      "artificial intelligence",
+      "data analytics"
+    ],
+    "student_majors": [
+      "business analysis and execit"
+    ],
+    "project_required_majors": [
+      "business analysis and execit"
+    ],
+    "details": {
+      "student_total_skills": 19,
+      "project_required_skills": 5,
+      "student_courses": 8
+    }
+  },
+  {
+    "student_id": "n06732414",
+    "student_name": "Alex Garcia",
+    "project_name": "IFN712 Project Proposal - Business Analysis for ICT skills",
+    "match_score": 0.72,
+    "skill_match_score": 0.6,
+    "major_match_score": 1.0,
+    "interest_match_score": 0.6,
+    "matched_skills": [
+      "cyber security",
+      "data analytics",
+      "security"
+    ],
+    "missing_skills": [
+      "cloud computing",
+      "artificial intelligence"
+    ],
+    "student_majors": [
+      "business analysis"
+    ],
+    "project_required_majors": [
+      "business analysis and execit"
+    ],
+    "details": {
+      "student_total_skills": 19,
+      "project_required_skills": 5,
+      "student_courses": 8
+    }
+  },
+  {
+    "student_id": "n04565156",
+    "student_name": "Skylar Miller",
+    "project_name": "IFN712 Project Proposal - Business Analysis for ICT skills",
+    "match_score": 0.7,
+    "skill_match_score": 0.6,
+    "major_match_score": 1.0,
+    "interest_match_score": 0.4,
+    "matched_skills": [
+      "cyber security",
+      "data analytics",
+      "security"
+    ],
+    "missing_skills": [
+      "cloud computing",
+      "artificial intelligence"
+    ],
+    "student_majors": [
+      "business analysis and execit"
+    ],
+    "project_required_majors": [
+      "business analysis and execit"
+    ],
+    "details": {
+      "student_total_skills": 19,
+      "project_required_skills": 5,
+      "student_courses": 8
+    }
+  },
+  {
+    "student_id": "n01490036",
+    "student_name": "Harper King",
+    "project_name": "IFN712 Project Proposal - Business Analysis for ICT skills",
+    "match_score": 0.7,
+    "skill_match_score": 0.6,
+    "major_match_score": 1.0,
+    "interest_match_score": 0.4,
+    "matched_skills": [
+      "cyber security",
+      "cloud computing",
+      "security"
+    ],
+    "missing_skills": [
+      "artificial intelligence",
+      "data analytics"
+    ],
+    "student_majors": [
+      "execit"
+    ],
+    "project_required_majors": [
+      "business analysis and execit"
+    ],
+    "details": {
+      "student_total_skills": 19,
+      "project_required_skills": 5,
+      "student_courses": 8
+    }
+  },
+  {
+    "student_id": "n00153538",
+    "student_name": "Sage Chen",
+    "project_name": "IFN712 Project Proposal - Business Analysis for ICT skills",
+    "match_score": 0.7,
+    "skill_match_score": 0.6,
+    "major_match_score": 1.0,
+    "interest_match_score": 0.4,
+    "matched_skills": [
+      "cyber security",
+      "cloud computing",
+      "security"
+    ],
+    "missing_skills": [
+      "artificial intelligence",
+      "data analytics"
+    ],
+    "student_majors": [
+      "business analysis and execit"
+    ],
+    "project_required_majors": [
+      "business analysis and execit"
+    ],
+    "details": {
+      "student_total_skills": 19,
+      "project_required_skills": 5,
+      "student_courses": 8
+    }
+  },
+  {
+    "student_id": "n01013489",
+    "student_name": "Tyler Rodriguez",
+    "project_name": "IFN712 Project Proposal - Business Analysis for ICT skills",
+    "match_score": 0.7,
+    "skill_match_score": 0.6,
+    "major_match_score": 1.0,
+    "interest_match_score": 0.4,
+    "matched_skills": [
+      "cyber security",
+      "cloud computing",
+      "security"
+    ],
+    "missing_skills": [
+      "artificial intelligence",
+      "data analytics"
+    ],
+    "student_majors": [
+      "business analysis"
+    ],
+    "project_required_majors": [
+      "business analysis and execit"
+    ],
+    "details": {
+      "student_total_skills": 19,
+      "project_required_skills": 5,
+      "student_courses": 8
+    }
+  },
+  {
+    "student_id": "n09948799",
+    "student_name": "Peyton Moore",
+    "project_name": "IFN712 Project Proposal - Business Analysis for ICT skills",
+    "match_score": 0.7,
+    "skill_match_score": 0.6,
+    "major_match_score": 1.0,
+    "interest_match_score": 0.4,
+    "matched_skills": [
+      "cyber security",
+      "data analytics",
+      "security"
+    ],
+    "missing_skills": [
+      "cloud computing",
+      "artificial intelligence"
+    ],
+    "student_majors": [
+      "business analysis and execit"
+    ],
+    "project_required_majors": [
+      "business analysis and execit"
+    ],
+    "details": {
+      "student_total_skills": 19,
+      "project_required_skills": 5,
+      "student_courses": 8
+    }
+  }
+]

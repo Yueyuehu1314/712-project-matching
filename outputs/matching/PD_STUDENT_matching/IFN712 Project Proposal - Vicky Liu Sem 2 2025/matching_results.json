@@ -1,0 +1,296 @@
+[
+  {
+    "student_id": "n00201259",
+    "student_name": "Blake Jackson",
+    "project_name": "IFN712 Project Proposal - Vicky Liu Sem 2 2025",
+    "match_score": 0.98,
+    "skill_match_score": 1.0,
+    "major_match_score": 1.0,
+    "interest_match_score": 0.8,
+    "matched_skills": [
+      "cyber security",
+      "data analytics",
+      "internet of things",
+      "security",
+      "artificial intelligence"
+    ],
+    "missing_skills": [],
+    "student_majors": [
+      "cyber security and computer science"
+    ],
+    "project_required_majors": [
+      "computer science",
+      "cyber security"
+    ],
+    "details": {
+      "student_total_skills": 27,
+      "project_required_skills": 5,
+      "student_courses": 8
+    }
+  },
+  {
+    "student_id": "n02835887",
+    "student_name": "Peyton Jones",
+    "project_name": "IFN712 Project Proposal - Vicky Liu Sem 2 2025",
+    "match_score": 0.96,
+    "skill_match_score": 1.0,
+    "major_match_score": 1.0,
+    "interest_match_score": 0.6,
+    "matched_skills": [
+      "cyber security",
+      "data analytics",
+      "internet of things",
+      "security",
+      "artificial intelligence"
+    ],
+    "missing_skills": [],
+    "student_majors": [
+      "cyber security"
+    ],
+    "project_required_majors": [
+      "computer science",
+      "cyber security"
+    ],
+    "details": {
+      "student_total_skills": 27,
+      "project_required_skills": 5,
+      "student_courses": 8
+    }
+  },
+  {
+    "student_id": "n16162654",
+    "student_name": "Jamie Chen",
+    "project_name": "IFN712 Project Proposal - Vicky Liu Sem 2 2025",
+    "match_score": 0.96,
+    "skill_match_score": 1.0,
+    "major_match_score": 1.0,
+    "interest_match_score": 0.6,
+    "matched_skills": [
+      "cyber security",
+      "data analytics",
+      "internet of things",
+      "security",
+      "artificial intelligence"
+    ],
+    "missing_skills": [],
+    "student_majors": [
+      "cyber security"
+    ],
+    "project_required_majors": [
+      "computer science",
+      "cyber security"
+    ],
+    "details": {
+      "student_total_skills": 27,
+      "project_required_skills": 5,
+      "student_courses": 8
+    }
+  },
+  {
+    "student_id": "n11497005",
+    "student_name": "Devon White",
+    "project_name": "IFN712 Project Proposal - Vicky Liu Sem 2 2025",
+    "match_score": 0.96,
+    "skill_match_score": 1.0,
+    "major_match_score": 1.0,
+    "interest_match_score": 0.6,
+    "matched_skills": [
+      "cyber security",
+      "data analytics",
+      "internet of things",
+      "security",
+      "artificial intelligence"
+    ],
+    "missing_skills": [],
+    "student_majors": [
+      "cyber security"
+    ],
+    "project_required_majors": [
+      "computer science",
+      "cyber security"
+    ],
+    "details": {
+      "student_total_skills": 27,
+      "project_required_skills": 5,
+      "student_courses": 8
+    }
+  },
+  {
+    "student_id": "n06306854",
+    "student_name": "Tyler Williams",
+    "project_name": "IFN712 Project Proposal - Vicky Liu Sem 2 2025",
+    "match_score": 0.9,
+    "skill_match_score": 1.0,
+    "major_match_score": 1.0,
+    "interest_match_score": 0.0,
+    "matched_skills": [
+      "cyber security",
+      "data analytics",
+      "internet of things",
+      "security",
+      "artificial intelligence"
+    ],
+    "missing_skills": [],
+    "student_majors": [
+      "cyber security"
+    ],
+    "project_required_majors": [
+      "computer science",
+      "cyber security"
+    ],
+    "details": {
+      "student_total_skills": 27,
+      "project_required_skills": 5,
+      "student_courses": 8
+    }
+  },
+  {
+    "student_id": "n01687591",
+    "student_name": "Reagan Thompson",
+    "project_name": "IFN712 Project Proposal - Vicky Liu Sem 2 2025",
+    "match_score": 0.9,
+    "skill_match_score": 1.0,
+    "major_match_score": 1.0,
+    "interest_match_score": 0.0,
+    "matched_skills": [
+      "cyber security",
+      "data analytics",
+      "internet of things",
+      "security",
+      "artificial intelligence"
+    ],
+    "missing_skills": [],
+    "student_majors": [
+      "cyber security and computer science"
+    ],
+    "project_required_majors": [
+      "computer science",
+      "cyber security"
+    ],
+    "details": {
+      "student_total_skills": 27,
+      "project_required_skills": 5,
+      "student_courses": 8
+    }
+  },
+  {
+    "student_id": "n13873661",
+    "student_name": "Skylar Smith",
+    "project_name": "IFN712 Project Proposal - Vicky Liu Sem 2 2025",
+    "match_score": 0.86,
+    "skill_match_score": 0.8,
+    "major_match_score": 1.0,
+    "interest_match_score": 0.8,
+    "matched_skills": [
+      "cyber security",
+      "data analytics",
+      "security",
+      "artificial intelligence"
+    ],
+    "missing_skills": [
+      "internet of things"
+    ],
+    "student_majors": [
+      "cyber security"
+    ],
+    "project_required_majors": [
+      "computer science",
+      "cyber security"
+    ],
+    "details": {
+      "student_total_skills": 27,
+      "project_required_skills": 5,
+      "student_courses": 8
+    }
+  },
+  {
+    "student_id": "n08875269",
+    "student_name": "Rory Flores",
+    "project_name": "IFN712 Project Proposal - Vicky Liu Sem 2 2025",
+    "match_score": 0.86,
+    "skill_match_score": 0.8,
+    "major_match_score": 1.0,
+    "interest_match_score": 0.8,
+    "matched_skills": [
+      "cyber security",
+      "data analytics",
+      "security",
+      "artificial intelligence"
+    ],
+    "missing_skills": [
+      "internet of things"
+    ],
+    "student_majors": [
+      "computer science with a minor in cyber security"
+    ],
+    "project_required_majors": [
+      "computer science",
+      "cyber security"
+    ],
+    "details": {
+      "student_total_skills": 27,
+      "project_required_skills": 5,
+      "student_courses": 8
+    }
+  },
+  {
+    "student_id": "n12405076",
+    "student_name": "Riley White",
+    "project_name": "IFN712 Project Proposal - Vicky Liu Sem 2 2025",
+    "match_score": 0.84,
+    "skill_match_score": 0.8,
+    "major_match_score": 1.0,
+    "interest_match_score": 0.6,
+    "matched_skills": [
+      "cyber security",
+      "data analytics",
+      "security",
+      "artificial intelligence"
+    ],
+    "missing_skills": [
+      "internet of things"
+    ],
+    "student_majors": [
+      "cyber security"
+    ],
+    "project_required_majors": [
+      "computer science",
+      "cyber security"
+    ],
+    "details": {
+      "student_total_skills": 27,
+      "project_required_skills": 5,
+      "student_courses": 8
+    }
+  },
+  {
+    "student_id": "n06718034",
+    "student_name": "Devon Lopez",
+    "project_name": "IFN712 Project Proposal - Vicky Liu Sem 2 2025",
+    "match_score": 0.84,
+    "skill_match_score": 0.8,
+    "major_match_score": 1.0,
+    "interest_match_score": 0.6,
+    "matched_skills": [
+      "cyber security",
+      "data analytics",
+      "security",
+      "artificial intelligence"
+    ],
+    "missing_skills": [
+      "internet of things"
+    ],
+    "student_majors": [
+      "cyber security"
+    ],
+    "project_required_majors": [
+      "computer science",
+      "cyber security"
+    ],
+    "details": {
+      "student_total_skills": 27,
+      "project_required_skills": 5,
+      "student_courses": 8
+    }
+  }
+]

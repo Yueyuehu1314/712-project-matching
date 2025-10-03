@@ -1,0 +1,465 @@
+{
+  "total_projects": 20,
+  "generation_time": "2025-10-03T13:03:01.527757",
+  "output_directory": "outputs/knowledge_graphs/individual/three_layer_projects",
+  "projects": [
+    {
+      "project_id": "project_IFN712_proposal_conversational_agent_prosody",
+      "project_title": "Prosody & Perception: Toward a",
+      "total_entities": 9,
+      "total_relationships": 8,
+      "layer_distribution": {
+        "1": 1,
+        "2": 3,
+        "3": 5
+      },
+      "entity_types": {
+        "PROJECT": 1,
+        "DOMAIN": 3,
+        "SKILL": 3,
+        "MAJOR": 1,
+        "TECHNOLOGY": 1
+      },
+      "layers": {
+        "layer_1": "Project",
+        "layer_2": "Domains",
+        "layer_3": "Skills/Technologies/Majors"
+      }
+    },
+    {
+      "project_id": "project_VitalID_Proposal_Zhenguo",
+      "project_title": "VitalID: Smartphone-Based",
+      "total_entities": 13,
+      "total_relationships": 12,
+      "layer_distribution": {
+        "1": 1,
+        "2": 5,
+        "3": 7
+      },
+      "entity_types": {
+        "PROJECT": 1,
+        "DOMAIN": 5,
+        "SKILL": 3,
+        "MAJOR": 2,
+        "TECHNOLOGY": 2
+      },
+      "layers": {
+        "layer_1": "Project",
+        "layer_2": "Domains",
+        "layer_3": "Skills/Technologies/Majors"
+      }
+    },
+    {
+      "project_id": "project_IFN712_Project_Proposal_Template_2025_Project_matching",
+      "project_title": "AI-Driven Project-Student",
+      "total_entities": 10,
+      "total_relationships": 9,
+      "layer_distribution": {
+        "1": 1,
+        "2": 4,
+        "3": 5
+      },
+      "entity_types": {
+        "PROJECT": 1,
+        "DOMAIN": 4,
+        "SKILL": 1,
+        "MAJOR": 2,
+        "TECHNOLOGY": 2
+      },
+      "layers": {
+        "layer_1": "Project",
+        "layer_2": "Domains",
+        "layer_3": "Skills/Technologies/Majors"
+      }
+    },
+    {
+      "project_id": "project_IFN712_Project_Proposal_Template_2025_Feng_V2P",
+      "project_title": "Smartphone-Based Real-Time V2P",
+      "total_entities": 12,
+      "total_relationships": 11,
+      "layer_distribution": {
+        "1": 1,
+        "2": 5,
+        "3": 6
+      },
+      "entity_types": {
+        "PROJECT": 1,
+        "DOMAIN": 5,
+        "SKILL": 3,
+        "MAJOR": 2,
+        "TECHNOLOGY": 1
+      },
+      "layers": {
+        "layer_1": "Project",
+        "layer_2": "Domains",
+        "layer_3": "Skills/Technologies/Majors"
+      }
+    },
+    {
+      "project_id": "project_Localization_Proposal_Zhenguo",
+      "project_title": "Smart Intersection Localization",
+      "total_entities": 11,
+      "total_relationships": 10,
+      "layer_distribution": {
+        "1": 1,
+        "2": 4,
+        "3": 6
+      },
+      "entity_types": {
+        "PROJECT": 1,
+        "DOMAIN": 4,
+        "SKILL": 1,
+        "MAJOR": 2,
+        "TECHNOLOGY": 3
+      },
+      "layers": {
+        "layer_1": "Project",
+        "layer_2": "Domains",
+        "layer_3": "Skills/Technologies/Majors"
+      }
+    },
+    {
+      "project_id": "project_IFN712_proposal-2025_IT_skills_survery-1",
+      "project_title": "Assessing the IT Skill",
+      "total_entities": 11,
+      "total_relationships": 10,
+      "layer_distribution": {
+        "1": 1,
+        "2": 5,
+        "3": 5
+      },
+      "entity_types": {
+        "PROJECT": 1,
+        "DOMAIN": 5,
+        "SKILL": 3,
+        "TECHNOLOGY": 2
+      },
+      "layers": {
+        "layer_1": "Project",
+        "layer_2": "Domains",
+        "layer_3": "Skills/Technologies/Majors"
+      }
+    },
+    {
+      "project_id": "project_IFN712_proposal_Wenzong_Gao_orbit",
+      "project_title": "Machine Learning-Based Prediction",
+      "total_entities": 10,
+      "total_relationships": 9,
+      "layer_distribution": {
+        "1": 1,
+        "2": 4,
+        "3": 5
+      },
+      "entity_types": {
+        "PROJECT": 1,
+        "DOMAIN": 4,
+        "SKILL": 2,
+        "MAJOR": 1,
+        "TECHNOLOGY": 2
+      },
+      "layers": {
+        "layer_1": "Project",
+        "layer_2": "Domains",
+        "layer_3": "Skills/Technologies/Majors"
+      }
+    },
+    {
+      "project_id": "project_IFN712_Project_Proposal_-_Vicky_Liu_Sem_2_2025",
+      "project_title": "Leveraging IoT for Smart City",
+      "total_entities": 12,
+      "total_relationships": 11,
+      "layer_distribution": {
+        "1": 1,
+        "2": 5,
+        "3": 6
+      },
+      "entity_types": {
+        "PROJECT": 1,
+        "DOMAIN": 5,
+        "SKILL": 2,
+        "MAJOR": 2,
+        "TECHNOLOGY": 2
+      },
+      "layers": {
+        "layer_1": "Project",
+        "layer_2": "Domains",
+        "layer_3": "Skills/Technologies/Majors"
+      }
+    },
+    {
+      "project_id": "project_IFN712_Project_Proposal_Template_2025_CS_-3",
+      "project_title": "",
+      "total_entities": 8,
+      "total_relationships": 7,
+      "layer_distribution": {
+        "1": 1,
+        "2": 3,
+        "3": 4
+      },
+      "entity_types": {
+        "PROJECT": 1,
+        "DOMAIN": 3,
+        "SKILL": 2,
+        "TECHNOLOGY": 2
+      },
+      "layers": {
+        "layer_1": "Project",
+        "layer_2": "Domains",
+        "layer_3": "Skills/Technologies/Majors"
+      }
+    },
+    {
+      "project_id": "project_IFN712_Project_14-1",
+      "project_title": "Binary vs. Multiclass Evaluation",
+      "total_entities": 11,
+      "total_relationships": 10,
+      "layer_distribution": {
+        "1": 1,
+        "2": 3,
+        "3": 7
+      },
+      "entity_types": {
+        "PROJECT": 1,
+        "DOMAIN": 3,
+        "SKILL": 3,
+        "MAJOR": 2,
+        "TECHNOLOGY": 2
+      },
+      "layers": {
+        "layer_1": "Project",
+        "layer_2": "Domains",
+        "layer_3": "Skills/Technologies/Majors"
+      }
+    },
+    {
+      "project_id": "project_Plant_sensing_Proposal_Zhenguo",
+      "project_title": "IoT-Based Spectral Sensing and",
+      "total_entities": 14,
+      "total_relationships": 13,
+      "layer_distribution": {
+        "1": 1,
+        "2": 5,
+        "3": 8
+      },
+      "entity_types": {
+        "PROJECT": 1,
+        "DOMAIN": 5,
+        "SKILL": 5,
+        "MAJOR": 2,
+        "TECHNOLOGY": 1
+      },
+      "layers": {
+        "layer_1": "Project",
+        "layer_2": "Domains",
+        "layer_3": "Skills/Technologies/Majors"
+      }
+    },
+    {
+      "project_id": "project_IFN712_proposal_Wenzong_Gao_obstruction",
+      "project_title": "Testing and Validating the Impact",
+      "total_entities": 9,
+      "total_relationships": 8,
+      "layer_distribution": {
+        "1": 1,
+        "2": 4,
+        "3": 4
+      },
+      "entity_types": {
+        "PROJECT": 1,
+        "DOMAIN": 4,
+        "SKILL": 1,
+        "MAJOR": 1,
+        "TECHNOLOGY": 2
+      },
+      "layers": {
+        "layer_1": "Project",
+        "layer_2": "Domains",
+        "layer_3": "Skills/Technologies/Majors"
+      }
+    },
+    {
+      "project_id": "project_IFN712_Project_12-1",
+      "project_title": "Zero-Day Attack Detection Using",
+      "total_entities": 12,
+      "total_relationships": 11,
+      "layer_distribution": {
+        "1": 1,
+        "2": 4,
+        "3": 7
+      },
+      "entity_types": {
+        "PROJECT": 1,
+        "DOMAIN": 4,
+        "SKILL": 3,
+        "MAJOR": 2,
+        "TECHNOLOGY": 2
+      },
+      "layers": {
+        "layer_1": "Project",
+        "layer_2": "Domains",
+        "layer_3": "Skills/Technologies/Majors"
+      }
+    },
+    {
+      "project_id": "project_IFN712_Project_Proposal_-_Business_Analysis_for_ICT_skills",
+      "project_title": "Aligning ICT Education with",
+      "total_entities": 9,
+      "total_relationships": 8,
+      "layer_distribution": {
+        "1": 1,
+        "2": 4,
+        "3": 4
+      },
+      "entity_types": {
+        "PROJECT": 1,
+        "DOMAIN": 4,
+        "SKILL": 1,
+        "MAJOR": 1,
+        "TECHNOLOGY": 2
+      },
+      "layers": {
+        "layer_1": "Project",
+        "layer_2": "Domains",
+        "layer_3": "Skills/Technologies/Majors"
+      }
+    },
+    {
+      "project_id": "project_IFN712_proposal_Wenzong_Gao_insar",
+      "project_title": "Monitoring Ground Deformation in",
+      "total_entities": 9,
+      "total_relationships": 8,
+      "layer_distribution": {
+        "1": 1,
+        "2": 4,
+        "3": 4
+      },
+      "entity_types": {
+        "PROJECT": 1,
+        "DOMAIN": 4,
+        "SKILL": 1,
+        "MAJOR": 1,
+        "TECHNOLOGY": 2
+      },
+      "layers": {
+        "layer_1": "Project",
+        "layer_2": "Domains",
+        "layer_3": "Skills/Technologies/Majors"
+      }
+    },
+    {
+      "project_id": "project_HAR_WiFi_Proposal_Zhenguo-1",
+      "project_title": "AI-Based Human Activity",
+      "total_entities": 9,
+      "total_relationships": 8,
+      "layer_distribution": {
+        "1": 1,
+        "2": 3,
+        "3": 5
+      },
+      "entity_types": {
+        "PROJECT": 1,
+        "DOMAIN": 3,
+        "SKILL": 2,
+        "MAJOR": 2,
+        "TECHNOLOGY": 1
+      },
+      "layers": {
+        "layer_1": "Project",
+        "layer_2": "Domains",
+        "layer_3": "Skills/Technologies/Majors"
+      }
+    },
+    {
+      "project_id": "project_IFN712_25se2-Bradford-01",
+      "project_title": "The Power of Patterns: Using",
+      "total_entities": 10,
+      "total_relationships": 9,
+      "layer_distribution": {
+        "1": 1,
+        "2": 4,
+        "3": 5
+      },
+      "entity_types": {
+        "PROJECT": 1,
+        "DOMAIN": 4,
+        "SKILL": 3,
+        "MAJOR": 1,
+        "TECHNOLOGY": 1
+      },
+      "layers": {
+        "layer_1": "Project",
+        "layer_2": "Domains",
+        "layer_3": "Skills/Technologies/Majors"
+      }
+    },
+    {
+      "project_id": "project_ZaenabAlammar_IFN712_Project_Proposal_1_2025_CS_",
+      "project_title": "**A Systematic Review of Deep",
+      "total_entities": 12,
+      "total_relationships": 11,
+      "layer_distribution": {
+        "1": 1,
+        "2": 4,
+        "3": 7
+      },
+      "entity_types": {
+        "PROJECT": 1,
+        "DOMAIN": 4,
+        "SKILL": 4,
+        "MAJOR": 1,
+        "TECHNOLOGY": 2
+      },
+      "layers": {
+        "layer_1": "Project",
+        "layer_2": "Domains",
+        "layer_3": "Skills/Technologies/Majors"
+      }
+    },
+    {
+      "project_id": "project_JZhang_IFN712_Project_Proposal_1_2025_CS_",
+      "project_title": "",
+      "total_entities": 11,
+      "total_relationships": 10,
+      "layer_distribution": {
+        "1": 1,
+        "2": 4,
+        "3": 6
+      },
+      "entity_types": {
+        "PROJECT": 1,
+        "DOMAIN": 4,
+        "SKILL": 4,
+        "MAJOR": 1,
+        "TECHNOLOGY": 1
+      },
+      "layers": {
+        "layer_1": "Project",
+        "layer_2": "Domains",
+        "layer_3": "Skills/Technologies/Majors"
+      }
+    },
+    {
+      "project_id": "project_IFN712_Project_13-1",
+      "project_title": "Feature Selection Impact on IoT",
+      "total_entities": 13,
+      "total_relationships": 12,
+      "layer_distribution": {
+        "1": 1,
+        "2": 4,
+        "3": 8
+      },
+      "entity_types": {
+        "PROJECT": 1,
+        "DOMAIN": 4,
+        "SKILL": 4,
+        "MAJOR": 2,
+        "TECHNOLOGY": 2
+      },
+      "layers": {
+        "layer_1": "Project",
+        "layer_2": "Domains",
+        "layer_3": "Skills/Technologies/Majors"
+      }
+    }
+  ]
+}

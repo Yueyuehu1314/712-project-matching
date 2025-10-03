@@ -1,0 +1,85 @@
+================================================================================
+项目-学生匹配报告
+================================================================================
+
+项目名称: IFN712 Project Proposal - Vicky Liu Sem 2 2025
+生成时间: 2025-10-03 15:57:50
+学生总数: 10
+
+================================================================================
+匹配统计
+================================================================================
+
+平均匹配分数: 0.906
+最高分数: 0.980
+最低分数: 0.840
+
+分数分布:
+  • 高匹配 (≥0.7): 10 人 (100.0%)
+  • 中匹配 (0.4-0.7): 0 人 (0.0%)
+  • 低匹配 (<0.4): 0 人 (0.0%)
+
+================================================================================
+Top 10 匹配学生
+================================================================================
+
+1. Blake Jackson (n00201259)
+   总分: 0.980 | 技能: 1.000 | 专业: 1.000 | 兴趣: 0.800
+   匹配技能: cyber security, data analytics, internet of things, security, artificial intelligence
+   缺失技能: 
+   学生专业: cyber security and computer science
+
+2. Peyton Jones (n02835887)
+   总分: 0.960 | 技能: 1.000 | 专业: 1.000 | 兴趣: 0.600
+   匹配技能: cyber security, data analytics, internet of things, security, artificial intelligence
+   缺失技能: 
+   学生专业: cyber security
+
+3. Jamie Chen (n16162654)
+   总分: 0.960 | 技能: 1.000 | 专业: 1.000 | 兴趣: 0.600
+   匹配技能: cyber security, data analytics, internet of things, security, artificial intelligence
+   缺失技能: 
+   学生专业: cyber security
+
+4. Devon White (n11497005)
+   总分: 0.960 | 技能: 1.000 | 专业: 1.000 | 兴趣: 0.600
+   匹配技能: cyber security, data analytics, internet of things, security, artificial intelligence
+   缺失技能: 
+   学生专业: cyber security
+
+5. Tyler Williams (n06306854)
+   总分: 0.900 | 技能: 1.000 | 专业: 1.000 | 兴趣: 0.000
+   匹配技能: cyber security, data analytics, internet of things, security, artificial intelligence
+   缺失技能: 
+   学生专业: cyber security
+
+6. Reagan Thompson (n01687591)
+   总分: 0.900 | 技能: 1.000 | 专业: 1.000 | 兴趣: 0.000
+   匹配技能: cyber security, data analytics, internet of things, security, artificial intelligence
+   缺失技能: 
+   学生专业: cyber security and computer science
+
+7. Skylar Smith (n13873661)
+   总分: 0.860 | 技能: 0.800 | 专业: 1.000 | 兴趣: 0.800
+   匹配技能: cyber security, data analytics, security, artificial intelligence
+   缺失技能: internet of things
+   学生专业: cyber security
+
+8. Rory Flores (n08875269)
+   总分: 0.860 | 技能: 0.800 | 专业: 1.000 | 兴趣: 0.800
+   匹配技能: cyber security, data analytics, security, artificial intelligence
+   缺失技能: internet of things
+   学生专业: computer science with a minor in cyber security
+
+9. Riley White (n12405076)
+   总分: 0.840 | 技能: 0.800 | 专业: 1.000 | 兴趣: 0.600
+   匹配技能: cyber security, data analytics, security, artificial intelligence
+   缺失技能: internet of things
+   学生专业: cyber security
+
+10. Devon Lopez (n06718034)
+   总分: 0.840 | 技能: 0.800 | 专业: 1.000 | 兴趣: 0.600
+   匹配技能: cyber security, data analytics, security, artificial intelligence
+   缺失技能: internet of things
+   学生专业: cyber security
+

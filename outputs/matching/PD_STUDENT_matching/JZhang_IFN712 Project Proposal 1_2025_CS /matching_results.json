@@ -1,0 +1,282 @@
+[
+  {
+    "student_id": "n13177467",
+    "student_name": "Rory Lopez",
+    "project_name": "JZhang_IFN712 Project Proposal 1_2025_CS ",
+    "match_score": 0.8,
+    "skill_match_score": 0.75,
+    "major_match_score": 1.0,
+    "interest_match_score": 0.5,
+    "matched_skills": [
+      "artificial intelligence",
+      "machine learning",
+      "data analytics"
+    ],
+    "missing_skills": [
+      "gan"
+    ],
+    "student_majors": [
+      "computer science and data analytics"
+    ],
+    "project_required_majors": [
+      "computer science and data"
+    ],
+    "details": {
+      "student_total_skills": 26,
+      "project_required_skills": 4,
+      "student_courses": 8
+    }
+  },
+  {
+    "student_id": "n10165670",
+    "student_name": "Reese Hernandez",
+    "project_name": "JZhang_IFN712 Project Proposal 1_2025_CS ",
+    "match_score": 0.8,
+    "skill_match_score": 0.75,
+    "major_match_score": 1.0,
+    "interest_match_score": 0.5,
+    "matched_skills": [
+      "artificial intelligence",
+      "machine learning",
+      "data analytics"
+    ],
+    "missing_skills": [
+      "gan"
+    ],
+    "student_majors": [
+      "computer science and data analytics"
+    ],
+    "project_required_majors": [
+      "computer science and data"
+    ],
+    "details": {
+      "student_total_skills": 26,
+      "project_required_skills": 4,
+      "student_courses": 8
+    }
+  },
+  {
+    "student_id": "n08499357",
+    "student_name": "Kendall Scott",
+    "project_name": "JZhang_IFN712 Project Proposal 1_2025_CS ",
+    "match_score": 0.8,
+    "skill_match_score": 0.75,
+    "major_match_score": 1.0,
+    "interest_match_score": 0.5,
+    "matched_skills": [
+      "artificial intelligence",
+      "machine learning",
+      "data analytics"
+    ],
+    "missing_skills": [
+      "gan"
+    ],
+    "student_majors": [
+      "computer science and data analytics"
+    ],
+    "project_required_majors": [
+      "computer science and data"
+    ],
+    "details": {
+      "student_total_skills": 26,
+      "project_required_skills": 4,
+      "student_courses": 8
+    }
+  },
+  {
+    "student_id": "n06341957",
+    "student_name": "Tyler Flores",
+    "project_name": "JZhang_IFN712 Project Proposal 1_2025_CS ",
+    "match_score": 0.8,
+    "skill_match_score": 0.75,
+    "major_match_score": 1.0,
+    "interest_match_score": 0.5,
+    "matched_skills": [
+      "artificial intelligence",
+      "machine learning",
+      "data analytics"
+    ],
+    "missing_skills": [
+      "gan"
+    ],
+    "student_majors": [
+      "computer science and data analytics"
+    ],
+    "project_required_majors": [
+      "computer science and data"
+    ],
+    "details": {
+      "student_total_skills": 26,
+      "project_required_skills": 4,
+      "student_courses": 8
+    }
+  },
+  {
+    "student_id": "n03698473",
+    "student_name": "Logan Lee",
+    "project_name": "JZhang_IFN712 Project Proposal 1_2025_CS ",
+    "match_score": 0.775,
+    "skill_match_score": 0.75,
+    "major_match_score": 1.0,
+    "interest_match_score": 0.25,
+    "matched_skills": [
+      "artificial intelligence",
+      "machine learning",
+      "data analytics"
+    ],
+    "missing_skills": [
+      "gan"
+    ],
+    "student_majors": [
+      "computer science and data analytics"
+    ],
+    "project_required_majors": [
+      "computer science and data"
+    ],
+    "details": {
+      "student_total_skills": 26,
+      "project_required_skills": 4,
+      "student_courses": 8
+    }
+  },
+  {
+    "student_id": "n13074181",
+    "student_name": "Avery Davis",
+    "project_name": "JZhang_IFN712 Project Proposal 1_2025_CS ",
+    "match_score": 0.75,
+    "skill_match_score": 0.75,
+    "major_match_score": 1.0,
+    "interest_match_score": 0.0,
+    "matched_skills": [
+      "artificial intelligence",
+      "machine learning",
+      "data analytics"
+    ],
+    "missing_skills": [
+      "gan"
+    ],
+    "student_majors": [
+      "computer science and data analytics"
+    ],
+    "project_required_majors": [
+      "computer science and data"
+    ],
+    "details": {
+      "student_total_skills": 26,
+      "project_required_skills": 4,
+      "student_courses": 8
+    }
+  },
+  {
+    "student_id": "n10415240",
+    "student_name": "Quinn Garcia",
+    "project_name": "JZhang_IFN712 Project Proposal 1_2025_CS ",
+    "match_score": 0.5,
+    "skill_match_score": 0.75,
+    "major_match_score": 0.0,
+    "interest_match_score": 0.5,
+    "matched_skills": [
+      "artificial intelligence",
+      "machine learning",
+      "data analytics"
+    ],
+    "missing_skills": [
+      "gan"
+    ],
+    "student_majors": [
+      "computer science with data analytics specialization"
+    ],
+    "project_required_majors": [
+      "computer science and data"
+    ],
+    "details": {
+      "student_total_skills": 26,
+      "project_required_skills": 4,
+      "student_courses": 8
+    }
+  },
+  {
+    "student_id": "n13605583",
+    "student_name": "Rory Allen",
+    "project_name": "JZhang_IFN712 Project Proposal 1_2025_CS ",
+    "match_score": 0.5,
+    "skill_match_score": 0.75,
+    "major_match_score": 0.0,
+    "interest_match_score": 0.5,
+    "matched_skills": [
+      "artificial intelligence",
+      "machine learning",
+      "data analytics"
+    ],
+    "missing_skills": [
+      "gan"
+    ],
+    "student_majors": [
+      "computer science data analytics specialization"
+    ],
+    "project_required_majors": [
+      "computer science and data"
+    ],
+    "details": {
+      "student_total_skills": 25,
+      "project_required_skills": 4,
+      "student_courses": 8
+    }
+  },
+  {
+    "student_id": "n02867192",
+    "student_name": "Harper Harris",
+    "project_name": "JZhang_IFN712 Project Proposal 1_2025_CS ",
+    "match_score": 0.475,
+    "skill_match_score": 0.75,
+    "major_match_score": 0.0,
+    "interest_match_score": 0.25,
+    "matched_skills": [
+      "artificial intelligence",
+      "machine learning",
+      "data analytics"
+    ],
+    "missing_skills": [
+      "gan"
+    ],
+    "student_majors": [
+      "computer science with data analytics specialization"
+    ],
+    "project_required_majors": [
+      "computer science and data"
+    ],
+    "details": {
+      "student_total_skills": 25,
+      "project_required_skills": 4,
+      "student_courses": 8
+    }
+  },
+  {
+    "student_id": "n13410902",
+    "student_name": "Madison Johnson",
+    "project_name": "JZhang_IFN712 Project Proposal 1_2025_CS ",
+    "match_score": 0.45,
+    "skill_match_score": 0.75,
+    "major_match_score": 0.0,
+    "interest_match_score": 0.0,
+    "matched_skills": [
+      "artificial intelligence",
+      "machine learning",
+      "data analytics"
+    ],
+    "missing_skills": [
+      "gan"
+    ],
+    "student_majors": [
+      "computer science with data analytics specialization"
+    ],
+    "project_required_majors": [
+      "computer science and data"
+    ],
+    "details": {
+      "student_total_skills": 26,
+      "project_required_skills": 4,
+      "student_courses": 8
+    }
+  }
+]

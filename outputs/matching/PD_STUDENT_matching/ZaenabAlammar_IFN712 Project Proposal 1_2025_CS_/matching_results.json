@@ -1,0 +1,282 @@
+[
+  {
+    "student_id": "n14695376",
+    "student_name": "Morgan Harris",
+    "project_name": "ZaenabAlammar_IFN712 Project Proposal 1_2025_CS_",
+    "match_score": 0.65,
+    "skill_match_score": 0.5,
+    "major_match_score": 1.0,
+    "interest_match_score": 0.5,
+    "matched_skills": [
+      "database",
+      "artificial intelligence"
+    ],
+    "missing_skills": [
+      "deep learning",
+      "cnn"
+    ],
+    "student_majors": [
+      "computer science and data analytics"
+    ],
+    "project_required_majors": [
+      "computer science and data"
+    ],
+    "details": {
+      "student_total_skills": 26,
+      "project_required_skills": 4,
+      "student_courses": 8
+    }
+  },
+  {
+    "student_id": "n08970940",
+    "student_name": "Avery King",
+    "project_name": "ZaenabAlammar_IFN712 Project Proposal 1_2025_CS_",
+    "match_score": 0.65,
+    "skill_match_score": 0.5,
+    "major_match_score": 1.0,
+    "interest_match_score": 0.5,
+    "matched_skills": [
+      "database",
+      "artificial intelligence"
+    ],
+    "missing_skills": [
+      "deep learning",
+      "cnn"
+    ],
+    "student_majors": [
+      "computer science and data analytics"
+    ],
+    "project_required_majors": [
+      "computer science and data"
+    ],
+    "details": {
+      "student_total_skills": 26,
+      "project_required_skills": 4,
+      "student_courses": 8
+    }
+  },
+  {
+    "student_id": "n08656729",
+    "student_name": "Madison Moore",
+    "project_name": "ZaenabAlammar_IFN712 Project Proposal 1_2025_CS_",
+    "match_score": 0.625,
+    "skill_match_score": 0.5,
+    "major_match_score": 1.0,
+    "interest_match_score": 0.25,
+    "matched_skills": [
+      "database",
+      "artificial intelligence"
+    ],
+    "missing_skills": [
+      "deep learning",
+      "cnn"
+    ],
+    "student_majors": [
+      "computer science and data analytics"
+    ],
+    "project_required_majors": [
+      "computer science and data"
+    ],
+    "details": {
+      "student_total_skills": 26,
+      "project_required_skills": 4,
+      "student_courses": 8
+    }
+  },
+  {
+    "student_id": "n13241358",
+    "student_name": "Devon Williams",
+    "project_name": "ZaenabAlammar_IFN712 Project Proposal 1_2025_CS_",
+    "match_score": 0.625,
+    "skill_match_score": 0.5,
+    "major_match_score": 1.0,
+    "interest_match_score": 0.25,
+    "matched_skills": [
+      "database",
+      "artificial intelligence"
+    ],
+    "missing_skills": [
+      "deep learning",
+      "cnn"
+    ],
+    "student_majors": [
+      "computer science and data analytics"
+    ],
+    "project_required_majors": [
+      "computer science and data"
+    ],
+    "details": {
+      "student_total_skills": 26,
+      "project_required_skills": 4,
+      "student_courses": 8
+    }
+  },
+  {
+    "student_id": "n04539845",
+    "student_name": "Jordan Wright",
+    "project_name": "ZaenabAlammar_IFN712 Project Proposal 1_2025_CS_",
+    "match_score": 0.625,
+    "skill_match_score": 0.5,
+    "major_match_score": 1.0,
+    "interest_match_score": 0.25,
+    "matched_skills": [
+      "database",
+      "artificial intelligence"
+    ],
+    "missing_skills": [
+      "deep learning",
+      "cnn"
+    ],
+    "student_majors": [
+      "computer science and data analytics"
+    ],
+    "project_required_majors": [
+      "computer science and data"
+    ],
+    "details": {
+      "student_total_skills": 30,
+      "project_required_skills": 4,
+      "student_courses": 8
+    }
+  },
+  {
+    "student_id": "n04873519",
+    "student_name": "Drew Johnson",
+    "project_name": "ZaenabAlammar_IFN712 Project Proposal 1_2025_CS_",
+    "match_score": 0.625,
+    "skill_match_score": 0.5,
+    "major_match_score": 1.0,
+    "interest_match_score": 0.25,
+    "matched_skills": [
+      "database",
+      "artificial intelligence"
+    ],
+    "missing_skills": [
+      "deep learning",
+      "cnn"
+    ],
+    "student_majors": [
+      "computer science and data analytics"
+    ],
+    "project_required_majors": [
+      "computer science and data"
+    ],
+    "details": {
+      "student_total_skills": 26,
+      "project_required_skills": 4,
+      "student_courses": 8
+    }
+  },
+  {
+    "student_id": "n09745425",
+    "student_name": "Alex Lee",
+    "project_name": "ZaenabAlammar_IFN712 Project Proposal 1_2025_CS_",
+    "match_score": 0.625,
+    "skill_match_score": 0.5,
+    "major_match_score": 1.0,
+    "interest_match_score": 0.25,
+    "matched_skills": [
+      "database",
+      "artificial intelligence"
+    ],
+    "missing_skills": [
+      "deep learning",
+      "cnn"
+    ],
+    "student_majors": [
+      "computer science and data analytics"
+    ],
+    "project_required_majors": [
+      "computer science and data"
+    ],
+    "details": {
+      "student_total_skills": 26,
+      "project_required_skills": 4,
+      "student_courses": 8
+    }
+  },
+  {
+    "student_id": "n08153626",
+    "student_name": "Rowan Torres",
+    "project_name": "ZaenabAlammar_IFN712 Project Proposal 1_2025_CS_",
+    "match_score": 0.6,
+    "skill_match_score": 0.5,
+    "major_match_score": 1.0,
+    "interest_match_score": 0.0,
+    "matched_skills": [
+      "database",
+      "artificial intelligence"
+    ],
+    "missing_skills": [
+      "deep learning",
+      "cnn"
+    ],
+    "student_majors": [
+      "computer science and data analytics"
+    ],
+    "project_required_majors": [
+      "computer science and data"
+    ],
+    "details": {
+      "student_total_skills": 26,
+      "project_required_skills": 4,
+      "student_courses": 8
+    }
+  },
+  {
+    "student_id": "n11136316",
+    "student_name": "Blake Garcia",
+    "project_name": "ZaenabAlammar_IFN712 Project Proposal 1_2025_CS_",
+    "match_score": 0.6,
+    "skill_match_score": 0.5,
+    "major_match_score": 1.0,
+    "interest_match_score": 0.0,
+    "matched_skills": [
+      "database",
+      "artificial intelligence"
+    ],
+    "missing_skills": [
+      "deep learning",
+      "cnn"
+    ],
+    "student_majors": [
+      "computer science and data analytics"
+    ],
+    "project_required_majors": [
+      "computer science and data"
+    ],
+    "details": {
+      "student_total_skills": 26,
+      "project_required_skills": 4,
+      "student_courses": 8
+    }
+  },
+  {
+    "student_id": "n02123086",
+    "student_name": "Emery Miller",
+    "project_name": "ZaenabAlammar_IFN712 Project Proposal 1_2025_CS_",
+    "match_score": 0.35,
+    "skill_match_score": 0.5,
+    "major_match_score": 0.0,
+    "interest_match_score": 0.5,
+    "matched_skills": [
+      "database",
+      "artificial intelligence"
+    ],
+    "missing_skills": [
+      "deep learning",
+      "cnn"
+    ],
+    "student_majors": [
+      "computer science with a minor in data analytics"
+    ],
+    "project_required_majors": [
+      "computer science and data"
+    ],
+    "details": {
+      "student_total_skills": 24,
+      "project_required_skills": 4,
+      "student_courses": 8
+    }
+  }
+]

@@ -1,0 +1,296 @@
+项目匹配报告
+================================================================================
+项目名称: Leveraging IoT for Smart City Solutions_ Comparative Analysis and Strategic Insights
+匹配学生数: 200
+生成时间: 2025-10-03 16:19:47
+
+匹配权重配置:
+  - 技能匹配: 50.0%
+  - 专业匹配: 20.0%
+  - 课程匹配: 20.0%
+  - 兴趣匹配: 10.0%
+
+================================================================================
+
+Top 20 匹配学生:
+--------------------------------------------------------------------------------
+
+排名 #1
+学生: Cameron Jones (n15508042)
+综合得分: 0.376
+  - 技能得分: 0.287
+  - 专业得分: 1.000
+  - 课程得分: 0.073
+  - 兴趣得分: 0.182
+匹配详情:
+  - 匹配技能 (3): machine learning, networking, programming
+  - 匹配课程 (8): IFN564, IFN556, IFN554, IFN553, IFN555, IFN563, IFN552, IFN551
+  - 匹配兴趣: network protocol analysis, ethical hacking and penetration testing, data visualization and dashboard design, iot security and privacy
+
+--------------------------------------------------------------------------------
+
+排名 #2
+学生: Reagan Anderson (n00201193)
+综合得分: 0.376
+  - 技能得分: 0.287
+  - 专业得分: 1.000
+  - 课程得分: 0.073
+  - 兴趣得分: 0.182
+匹配详情:
+  - 匹配技能 (3): machine learning, networking, programming
+  - 匹配课程 (8): IFN564, IFN556, IFN554, IFN553, IFN555, IFN563, IFN552, IFN551
+  - 匹配兴趣: ethical hacking and penetration testing, data analysis and visualization, cybersecurity for iot systems
+
+--------------------------------------------------------------------------------
+
+排名 #3
+学生: Riley White (n12405076)
+综合得分: 0.373
+  - 技能得分: 0.287
+  - 专业得分: 1.000
+  - 课程得分: 0.055
+  - 兴趣得分: 0.182
+匹配详情:
+  - 匹配技能 (3): machine learning, web development, programming
+  - 匹配课程 (6): IFN552, IFN564, IFN556, IFN554, IFN551, IFN623
+  - 匹配兴趣: environmental data analysis, iot and edge computing
+
+--------------------------------------------------------------------------------
+
+排名 #4
+学生: Tyler Williams (n06306854)
+综合得分: 0.373
+  - 技能得分: 0.287
+  - 专业得分: 1.000
+  - 课程得分: 0.055
+  - 兴趣得分: 0.182
+匹配详情:
+  - 匹配技能 (3): machine learning, web development, programming
+  - 匹配课程 (6): IFN552, IFN564, IFN556, IFN554, IFN551, IFN623
+  - 匹配兴趣: smart city innovations, ethical hacking and penetration testing
+
+--------------------------------------------------------------------------------
+
+排名 #5
+学生: Skylar Smith (n13873661)
+综合得分: 0.373
+  - 技能得分: 0.287
+  - 专业得分: 1.000
+  - 课程得分: 0.055
+  - 兴趣得分: 0.182
+匹配详情:
+  - 匹配技能 (3): machine learning, web development, programming
+  - 匹配课程 (6): IFN552, IFN564, IFN556, IFN554, IFN551, IFN623
+  - 匹配兴趣: data analytics and visualization, internet of things iot, smart cities and sustainable technology
+
+--------------------------------------------------------------------------------
+
+排名 #6
+学生: Devon Lopez (n06718034)
+综合得分: 0.373
+  - 技能得分: 0.287
+  - 专业得分: 1.000
+  - 课程得分: 0.055
+  - 兴趣得分: 0.182
+匹配详情:
+  - 匹配技能 (3): machine learning, web development, programming
+  - 匹配课程 (6): IFN552, IFN564, IFN556, IFN554, IFN551, IFN623
+  - 匹配兴趣: internet of things iot, smart city sustainability
+
+--------------------------------------------------------------------------------
+
+排名 #7
+学生: Peyton Jones (n02835887)
+综合得分: 0.373
+  - 技能得分: 0.287
+  - 专业得分: 1.000
+  - 课程得分: 0.055
+  - 兴趣得分: 0.182
+匹配详情:
+  - 匹配技能 (3): machine learning, web development, programming
+  - 匹配课程 (6): IFN552, IFN564, IFN556, IFN554, IFN551, IFN623
+  - 匹配兴趣: cybersecurity for iot, smart city technologies
+
+--------------------------------------------------------------------------------
+
+排名 #8
+学生: Jamie Chen (n16162654)
+综合得分: 0.373
+  - 技能得分: 0.287
+  - 专业得分: 1.000
+  - 课程得分: 0.055
+  - 兴趣得分: 0.182
+匹配详情:
+  - 匹配技能 (3): machine learning, web development, programming
+  - 匹配课程 (6): IFN552, IFN564, IFN556, IFN554, IFN551, IFN623
+  - 匹配兴趣: cybersecurity policy and regulation, smart city sustainability initiatives, open source iot development platforms, ethical hacking and penetration testing
+
+--------------------------------------------------------------------------------
+
+排名 #9
+学生: Devon White (n11497005)
+综合得分: 0.373
+  - 技能得分: 0.287
+  - 专业得分: 1.000
+  - 课程得分: 0.055
+  - 兴趣得分: 0.182
+匹配详情:
+  - 匹配技能 (3): machine learning, web development, programming
+  - 匹配课程 (6): IFN552, IFN564, IFN556, IFN554, IFN551, IFN623
+  - 匹配兴趣: iot and sensor networks, smart city technologies, cybersecurity for critical infrastructure
+
+--------------------------------------------------------------------------------
+
+排名 #10
+学生: Finley Brown (n07418871)
+综合得分: 0.367
+  - 技能得分: 0.287
+  - 专业得分: 1.000
+  - 课程得分: 0.073
+  - 兴趣得分: 0.091
+匹配详情:
+  - 匹配技能 (3): machine learning, networking, programming
+  - 匹配课程 (8): IFN564, IFN556, IFN554, IFN553, IFN555, IFN563, IFN552, IFN551
+  - 匹配兴趣: data privacy in iot ecosystems, web development for security tools
+
+--------------------------------------------------------------------------------
+
+排名 #11
+学生: Kendall Williams (n04735911)
+综合得分: 0.367
+  - 技能得分: 0.287
+  - 专业得分: 1.000
+  - 课程得分: 0.073
+  - 兴趣得分: 0.091
+匹配详情:
+  - 匹配技能 (3): machine learning, networking, programming
+  - 匹配课程 (8): IFN564, IFN556, IFN554, IFN553, IFN555, IFN563, IFN552, IFN551
+  - 匹配兴趣: iot systems
+
+--------------------------------------------------------------------------------
+
+排名 #12
+学生: Cameron Rodriguez (n02367825)
+综合得分: 0.367
+  - 技能得分: 0.287
+  - 专业得分: 1.000
+  - 课程得分: 0.073
+  - 兴趣得分: 0.091
+匹配详情:
+  - 匹配技能 (3): machine learning, networking, programming
+  - 匹配课程 (8): IFN564, IFN556, IFN554, IFN553, IFN555, IFN563, IFN552, IFN551
+  - 匹配兴趣: data analysis, iot technologies
+
+--------------------------------------------------------------------------------
+
+排名 #13
+学生: Finley Miller (n03419818)
+综合得分: 0.367
+  - 技能得分: 0.287
+  - 专业得分: 1.000
+  - 课程得分: 0.073
+  - 兴趣得分: 0.091
+匹配详情:
+  - 匹配技能 (3): machine learning, networking, programming
+  - 匹配课程 (8): IFN564, IFN556, IFN554, IFN553, IFN555, IFN563, IFN552, IFN551
+  - 匹配兴趣: cybersecurity threat analysis, iot security architecture
+
+--------------------------------------------------------------------------------
+
+排名 #14
+学生: Parker Allen (n07440256)
+综合得分: 0.367
+  - 技能得分: 0.287
+  - 专业得分: 1.000
+  - 课程得分: 0.073
+  - 兴趣得分: 0.091
+匹配详情:
+  - 匹配技能 (3): machine learning, networking, programming
+  - 匹配课程 (8): IFN564, IFN556, IFN554, IFN553, IFN555, IFN563, IFN552, IFN551
+  - 匹配兴趣: iot systems development
+
+--------------------------------------------------------------------------------
+
+排名 #15
+学生: Jamie Young (n08777074)
+综合得分: 0.365
+  - 技能得分: 0.287
+  - 专业得分: 1.000
+  - 课程得分: 0.064
+  - 兴趣得分: 0.091
+匹配详情:
+  - 匹配技能 (3): machine learning, networking, programming
+  - 匹配课程 (7): IFN564, IFN619, IFN553, IFN563, IFN554, IFN556, IFN623
+  - 匹配兴趣: network protocol analysis
+
+--------------------------------------------------------------------------------
+
+排名 #16
+学生: Alex Anderson (n08665949)
+综合得分: 0.362
+  - 技能得分: 0.287
+  - 专业得分: 1.000
+  - 课程得分: 0.045
+  - 兴趣得分: 0.091
+匹配详情:
+  - 匹配技能 (3): machine learning, web development, programming
+  - 匹配课程 (5): IFN619, IFN556, IFN563, IFN554, IFN551
+  - 匹配兴趣: iot systems
+
+--------------------------------------------------------------------------------
+
+排名 #17
+学生: Rory Johnson (nfd66da84)
+综合得分: 0.360
+  - 技能得分: 0.273
+  - 专业得分: 1.000
+  - 课程得分: 0.027
+  - 兴趣得分: 0.182
+匹配详情:
+  - 匹配技能 (3): machine learning, web development, programming
+  - 匹配课程 (3): IFN702, IFN701, IFN712
+  - 匹配兴趣: machine learning and ai ethics, data storytelling and visualization, robotics and iot systems
+
+--------------------------------------------------------------------------------
+
+排名 #18
+学生: Blake Smith (n01429702)
+综合得分: 0.358
+  - 技能得分: 0.287
+  - 专业得分: 1.000
+  - 课程得分: 0.073
+  - 兴趣得分: 0.000
+匹配详情:
+  - 匹配技能 (3): machine learning, networking, programming
+  - 匹配课程 (8): IFN564, IFN556, IFN554, IFN553, IFN555, IFN563, IFN552, IFN551
+
+--------------------------------------------------------------------------------
+
+排名 #19
+学生: Cameron Hernandez (nb065aafc)
+综合得分: 0.351
+  - 技能得分: 0.273
+  - 专业得分: 1.000
+  - 课程得分: 0.027
+  - 兴趣得分: 0.091
+匹配详情:
+  - 匹配技能 (3): machine learning, web development, programming
+  - 匹配课程 (3): IFN702, IFN701, IFN712
+  - 匹配兴趣: hiking and outdoor photography
+
+--------------------------------------------------------------------------------
+
+排名 #20
+学生: Peyton Moore (n06988417)
+综合得分: 0.339
+  - 技能得分: 0.235
+  - 专业得分: 1.000
+  - 课程得分: 0.064
+  - 兴趣得分: 0.091
+匹配详情:
+  - 匹配技能 (3): networking, web development, programming
+  - 匹配课程 (7): IFN551, IFN556, IFN553, IFN555, IFN554, IFN552, IFN623
+  - 匹配兴趣: outdoor exploration and hiking, machine learning and predictive analytics, environmental technology and sustainable systems
+
+--------------------------------------------------------------------------------
+
