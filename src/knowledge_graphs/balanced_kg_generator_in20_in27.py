@@ -32,6 +32,7 @@ class EnhancedKGNode:
     category: str = "core"  # supported, extended, core, dual_supported
     source: Optional[str] = None  # PD, IN20, IN27, or "IN20+IN27"
     prerequisites: Optional[List[str]] = None  # 前置课程列表
+    full_name: Optional[str] = None  # 保留课程全名等信息
 
 @dataclass
 class EnhancedKGEdge:
@@ -412,11 +413,15 @@ class BalancedKGGeneratorIN20IN27:
             if node['type'] == 'UNIT':
                 unit_id = node['id']
                 unit_code = unit_id.replace('unit_', '') if unit_id.startswith('unit_') else unit_id
+                unit_name_raw = node.get('name', unit_code)
+                match = re.search(r'[A-Z]{3}\d{3}', unit_name_raw.upper())
+                display_code = match.group(0) if match else unit_code
                 prereqs = self.in27_data.get('unit_prerequisites', {}).get(unit_code, [])
                 
                 all_unit_nodes_map[unit_code] = {
                     'id': unit_id,
-                    'name': node['name'],
+                    'name': display_code,
+                    'full_name': unit_name_raw,
                     'prereqs': prereqs
                 }
                 all_unit_prereqs_map[unit_code] = prereqs
@@ -497,7 +502,8 @@ class BalancedKGGeneratorIN20IN27:
                     name=unit_info['name'],
                     type='UNIT',
                     score=1.0,
-                    prerequisites=unit_info['prereqs'] if unit_info['prereqs'] else None
+                    prerequisites=unit_info['prereqs'] if unit_info['prereqs'] else None,
+                    full_name=unit_info.get('full_name')
                 )
                 enhanced_nodes.append(unit_node)
                 unit_nodes_map[unit_code] = unit_info['id']

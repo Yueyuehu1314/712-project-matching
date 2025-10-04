@@ -16,18 +16,63 @@ plt.rcParams['axes.unicode_minus'] = False
 sns.set_style("whitegrid")
 sns.set_palette("husl")
 
-# 读取数据
-data_dir = Path("outputs1/kg_similarity/2a")
+# 读取数据，兼容新旧路径及文件名
+data_dir_candidates = [
+    Path("outputs/kg_similarity/2a"),
+    Path("outputs1/kg_similarity/2a")
+]
+
+data_dir = None
+for candidate in data_dir_candidates:
+    if candidate.exists():
+        data_dir = candidate
+        break
+
+if data_dir is None:
+    raise FileNotFoundError("无法找到Method 2a的数据目录，请确认已生成实验结果")
+
 output_dir = data_dir
 
-with open(data_dir / "method_2a_scores.json", "r", encoding="utf-8") as f:
+score_file_candidates = [
+    "method_2a_scores_with_negatives.json",
+    "method_2a_scores.json"
+]
+
+analysis_file_candidates = [
+    "method_2a_analysis_with_negatives.json",
+    "method_2a_analysis.json"
+]
+
+scores_file = next((data_dir / name for name in score_file_candidates if (data_dir / name).exists()), None)
+analysis_file = next((data_dir / name for name in analysis_file_candidates if (data_dir / name).exists()), None)
+
+if scores_file is None or analysis_file is None:
+    raise FileNotFoundError("缺少Method 2a的分数或分析文件，请先运行rerun_method2_with_neg_samples.py")
+
+with open(scores_file, "r", encoding="utf-8") as f:
     scores = json.load(f)
 
-with open(data_dir / "method_2a_analysis.json", "r", encoding="utf-8") as f:
+with open(analysis_file, "r", encoding="utf-8") as f:
     analysis = json.load(f)
 
 # 转换为DataFrame
 df = pd.DataFrame(scores)
+
+# 标准化字段名称
+project_column = 'project_name' if 'project_name' in df.columns else 'project_id'
+df.rename(columns={project_column: 'project_name'}, inplace=True)
+
+if 'label' not in df.columns:
+    df['label'] = df['is_match'].map(lambda x: 'positive' if x else 'negative') if 'is_match' in df.columns else 'unknown'
+
+# 确保节点统计字段存在
+for col in ['common_nodes', 'project_only_nodes', 'student_only_nodes']:
+    if col not in df.columns:
+        df[col] = np.nan
+
+# 将is_match转换为布尔值便于筛选
+if 'is_match' in df.columns:
+    df['is_match'] = df['is_match'].astype(bool)
 
 print(f"📊 实验2a数据概览:")
 print(f"  总配对数: {len(df)}")
@@ -84,7 +129,7 @@ plt.grid(True, alpha=0.3)
 
 # 4. 共同节点数分布
 ax4 = plt.subplot(2, 3, 4)
-common_nodes_counts = df['common_nodes'].value_counts().sort_index()
+common_nodes_counts = df['common_nodes'].dropna().value_counts().sort_index()
 plt.bar(common_nodes_counts.index, common_nodes_counts.values, 
         color='mediumseagreen', alpha=0.7, edgecolor='black')
 plt.xlabel('Number of Common Nodes', fontsize=11, fontweight='bold')
@@ -94,7 +139,7 @@ plt.grid(True, alpha=0.3, axis='y')
 
 # 5. Top 10 项目的平均Jaccard相似度
 ax5 = plt.subplot(2, 3, 5)
-top_projects = df.groupby('project_name')['jaccard_similarity'].mean().nlargest(10)
+top_projects = df[df['is_match']].groupby('project_name')['jaccard_similarity'].mean().nlargest(10)
 y_pos = np.arange(len(top_projects))
 colors = plt.cm.viridis(np.linspace(0.3, 0.9, len(top_projects)))
 plt.barh(y_pos, top_projects.values, color=colors, alpha=0.8, edgecolor='black')
@@ -137,7 +182,7 @@ plt.title('Method 2a: Jaccard Similarity Groups', fontsize=13, fontweight='bold'
 
 # 2. 编辑距离热力图（按项目）
 ax2 = plt.subplot(2, 2, 2)
-project_edit_distances = df.groupby('project_name')['edit_distance'].agg(['mean', 'min', 'max']).nlargest(15, 'mean')
+project_edit_distances = df[df['is_match']].groupby('project_name')['edit_distance'].agg(['mean', 'min', 'max']).nlargest(15, 'mean')
 x = np.arange(len(project_edit_distances))
 width = 0.25
 plt.bar(x - width, project_edit_distances['min'], width, label='Min', alpha=0.8, color='lightgreen')
@@ -268,4 +313,3 @@ print("\n" + "="*60)
 print("🎨 可视化完成！")
 print("="*60)
 plt.show()
-
