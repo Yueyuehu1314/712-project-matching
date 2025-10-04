@@ -1,0 +1,23 @@
+{
+  "project_id": "project_IFN712_Project_Proposal_-_Vicky_Liu_Sem_2_2025",
+  "project_title": "Leveraging IoT for Smart City",
+  "total_entities": 12,
+  "total_relationships": 11,
+  "layer_distribution": {
+    "1": 1,
+    "2": 5,
+    "3": 6
+  },
+  "entity_types": {
+    "PROJECT": 1,
+    "DOMAIN": 5,
+    "SKILL": 2,
+    "MAJOR": 2,
+    "TECHNOLOGY": 2
+  },
+  "layers": {
+    "layer_1": "Project",
+    "layer_2": "Domains",
+    "layer_3": "Skills/Technologies/Majors"
+  }
+}

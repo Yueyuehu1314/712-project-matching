@@ -1,0 +1,75 @@
+{
+  "method": "Method 2a - Knowledge Graph Similarity",
+  "total_pairs": 180,
+  "unique_projects": 18,
+  "unique_students": 178,
+  "jaccard_statistics": {
+    "mean": 0.01490465310971445,
+    "median": 0.0,
+    "std": 0.020226671670777185,
+    "min": 0.0,
+    "max": 0.061224489795918366,
+    "percentile_25": 0.0,
+    "percentile_75": 0.038461538461538464,
+    "percentile_90": 0.041666666666666664
+  },
+  "edit_distance_statistics": {
+    "mean": 48.3,
+    "median": 48.0,
+    "std": 4.208132589197751,
+    "min": 10.0,
+    "max": 56.0
+  },
+  "node_statistics": {
+    "common_nodes": {
+      "mean": 0.7388888888888889,
+      "median": 0.0,
+      "max": 3
+    },
+    "project_only_nodes": {
+      "mean": 10.15,
+      "median": 10.0
+    },
+    "student_only_nodes": {
+      "mean": 38.15,
+      "median": 39.0
+    }
+  },
+  "top_5_matches": [
+    {
+      "project_name": "Zero-Day_Attack_Detection_Using",
+      "student_id": "student_n07268728_Rowan_Moore_enhanced_kg",
+      "jaccard_similarity": 0.061224489795918366,
+      "edit_distance": 46,
+      "common_nodes": 3
+    },
+    {
+      "project_name": "Zero-Day_Attack_Detection_Using",
+      "student_id": "student_n02313107_Jordan_Jackson_enhanced_kg",
+      "jaccard_similarity": 0.061224489795918366,
+      "edit_distance": 46,
+      "common_nodes": 3
+    },
+    {
+      "project_name": "Zero-Day_Attack_Detection_Using",
+      "student_id": "student_n08777074_Jamie_Young_enhanced_kg",
+      "jaccard_similarity": 0.061224489795918366,
+      "edit_distance": 46,
+      "common_nodes": 3
+    },
+    {
+      "project_name": "Feature_Selection_Impact_on_IoT",
+      "student_id": "student_n04541718_Drew_Hernandez_enhanced_kg",
+      "jaccard_similarity": 0.06,
+      "edit_distance": 47,
+      "common_nodes": 3
+    },
+    {
+      "project_name": "Feature_Selection_Impact_on_IoT",
+      "student_id": "student_n13093353_Morgan_Flores_enhanced_kg",
+      "jaccard_similarity": 0.06,
+      "edit_distance": 47,
+      "common_nodes": 3
+    }
+  ]
+}

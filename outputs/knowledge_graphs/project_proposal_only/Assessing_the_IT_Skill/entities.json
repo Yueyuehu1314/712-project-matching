@@ -1,0 +1,92 @@
+[
+  {
+    "id": "project_IFN712_proposal-2025_IT_skills_survery-1",
+    "name": "Assessing the IT Skill",
+    "entity_type": "PROJECT",
+    "layer": 1,
+    "properties": {
+      "description": "specific IT skills required in various professional domains relevant to MIT graduates. Through a combination of industry surveys and in-depth interviews with domain professionals, the project will col",
+      "file_path": "data/processed/projects_md/IFN712_proposal-2025_IT skills_survery-1.md"
+    }
+  },
+  {
+    "id": "domain_data_science_and_analytics",
+    "name": "Data Science & Analytics",
+    "entity_type": "DOMAIN",
+    "layer": 2,
+    "properties": {
+      "skill_count": 1
+    }
+  },
+  {
+    "id": "skill_data_analytics",
+    "name": "Data Analytics",
+    "entity_type": "SKILL",
+    "layer": 3,
+    "properties": {}
+  },
+  {
+    "id": "domain_business_and_management",
+    "name": "Business & Management",
+    "entity_type": "DOMAIN",
+    "layer": 2,
+    "properties": {
+      "skill_count": 1
+    }
+  },
+  {
+    "id": "skill_project_management",
+    "name": "Project Management",
+    "entity_type": "SKILL",
+    "layer": 3,
+    "properties": {}
+  },
+  {
+    "id": "domain_general_skills",
+    "name": "General Skills",
+    "entity_type": "DOMAIN",
+    "layer": 2,
+    "properties": {
+      "skill_count": 1
+    }
+  },
+  {
+    "id": "skill_api",
+    "name": "Api",
+    "entity_type": "SKILL",
+    "layer": 3,
+    "properties": {}
+  },
+  {
+    "id": "domain_machine_learning_and_ai",
+    "name": "Machine Learning & AI",
+    "entity_type": "DOMAIN",
+    "layer": 2,
+    "properties": {
+      "tech_count": 1
+    }
+  },
+  {
+    "id": "tech_r",
+    "name": "R",
+    "entity_type": "TECHNOLOGY",
+    "layer": 3,
+    "properties": {}
+  },
+  {
+    "id": "domain_general_technologies",
+    "name": "General Technologies",
+    "entity_type": "DOMAIN",
+    "layer": 2,
+    "properties": {
+      "tech_count": 1
+    }
+  },
+  {
+    "id": "tech_git",
+    "name": "Git",
+    "entity_type": "TECHNOLOGY",
+    "layer": 3,
+    "properties": {}
+  }
+]

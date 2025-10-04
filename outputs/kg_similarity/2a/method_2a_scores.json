@@ -1,0 +1,1802 @@
+[
+  {
+    "project_name": "Zero-Day_Attack_Detection_Using",
+    "student_id": "student_n07268728_Rowan_Moore_enhanced_kg",
+    "is_match": true,
+    "jaccard_similarity": 0.061224489795918366,
+    "edit_distance": 46,
+    "common_nodes": 3,
+    "project_only_nodes": 9,
+    "student_only_nodes": 37
+  },
+  {
+    "project_name": "Zero-Day_Attack_Detection_Using",
+    "student_id": "student_n02313107_Jordan_Jackson_enhanced_kg",
+    "is_match": true,
+    "jaccard_similarity": 0.061224489795918366,
+    "edit_distance": 46,
+    "common_nodes": 3,
+    "project_only_nodes": 9,
+    "student_only_nodes": 37
+  },
+  {
+    "project_name": "Zero-Day_Attack_Detection_Using",
+    "student_id": "student_n15664732_Rory_Flores_enhanced_kg",
+    "is_match": true,
+    "jaccard_similarity": 0.038461538461538464,
+    "edit_distance": 50,
+    "common_nodes": 2,
+    "project_only_nodes": 10,
+    "student_only_nodes": 40
+  },
+  {
+    "project_name": "Zero-Day_Attack_Detection_Using",
+    "student_id": "student_n00596089_Madison_White_enhanced_kg",
+    "is_match": true,
+    "jaccard_similarity": 0.038461538461538464,
+    "edit_distance": 50,
+    "common_nodes": 2,
+    "project_only_nodes": 10,
+    "student_only_nodes": 40
+  },
+  {
+    "project_name": "Zero-Day_Attack_Detection_Using",
+    "student_id": "student_n08777074_Jamie_Young_enhanced_kg",
+    "is_match": true,
+    "jaccard_similarity": 0.061224489795918366,
+    "edit_distance": 46,
+    "common_nodes": 3,
+    "project_only_nodes": 9,
+    "student_only_nodes": 37
+  },
+  {
+    "project_name": "Zero-Day_Attack_Detection_Using",
+    "student_id": "student_n00767167_Jordan_Allen_enhanced_kg",
+    "is_match": true,
+    "jaccard_similarity": 0.038461538461538464,
+    "edit_distance": 50,
+    "common_nodes": 2,
+    "project_only_nodes": 10,
+    "student_only_nodes": 40
+  },
+  {
+    "project_name": "Zero-Day_Attack_Detection_Using",
+    "student_id": "student_n11283106_Rory_Brown_enhanced_kg",
+    "is_match": true,
+    "jaccard_similarity": 0.038461538461538464,
+    "edit_distance": 50,
+    "common_nodes": 2,
+    "project_only_nodes": 10,
+    "student_only_nodes": 40
+  },
+  {
+    "project_name": "Zero-Day_Attack_Detection_Using",
+    "student_id": "student_n01025709_Tyler_Brown_enhanced_kg",
+    "is_match": true,
+    "jaccard_similarity": 0.038461538461538464,
+    "edit_distance": 50,
+    "common_nodes": 2,
+    "project_only_nodes": 10,
+    "student_only_nodes": 40
+  },
+  {
+    "project_name": "Zero-Day_Attack_Detection_Using",
+    "student_id": "student_n02866979_Drew_Johnson_enhanced_kg",
+    "is_match": true,
+    "jaccard_similarity": 0.038461538461538464,
+    "edit_distance": 50,
+    "common_nodes": 2,
+    "project_only_nodes": 10,
+    "student_only_nodes": 40
+  },
+  {
+    "project_name": "Zero-Day_Attack_Detection_Using",
+    "student_id": "student_n12231776_Casey_Anderson_enhanced_kg",
+    "is_match": true,
+    "jaccard_similarity": 0.038461538461538464,
+    "edit_distance": 50,
+    "common_nodes": 2,
+    "project_only_nodes": 10,
+    "student_only_nodes": 40
+  },
+  {
+    "project_name": "Monitoring_Ground_Deformation_in",
+    "student_id": "student_n16269827_Logan_Rodriguez_enhanced_kg",
+    "is_match": true,
+    "jaccard_similarity": 0.0,
+    "edit_distance": 49,
+    "common_nodes": 0,
+    "project_only_nodes": 9,
+    "student_only_nodes": 40
+  },
+  {
+    "project_name": "Monitoring_Ground_Deformation_in",
+    "student_id": "student_n10935984_Quinn_Martinez_enhanced_kg",
+    "is_match": true,
+    "jaccard_similarity": 0.0,
+    "edit_distance": 49,
+    "common_nodes": 0,
+    "project_only_nodes": 9,
+    "student_only_nodes": 40
+  },
+  {
+    "project_name": "Monitoring_Ground_Deformation_in",
+    "student_id": "student_n09303561_Reagan_Hernandez_enhanced_kg",
+    "is_match": true,
+    "jaccard_similarity": 0.0,
+    "edit_distance": 49,
+    "common_nodes": 0,
+    "project_only_nodes": 9,
+    "student_only_nodes": 40
+  },
+  {
+    "project_name": "Monitoring_Ground_Deformation_in",
+    "student_id": "student_n11993026_Rowan_Chen_enhanced_kg",
+    "is_match": true,
+    "jaccard_similarity": 0.0,
+    "edit_distance": 49,
+    "common_nodes": 0,
+    "project_only_nodes": 9,
+    "student_only_nodes": 40
+  },
+  {
+    "project_name": "Monitoring_Ground_Deformation_in",
+    "student_id": "student_n14895165_Peyton_Lopez_enhanced_kg",
+    "is_match": true,
+    "jaccard_similarity": 0.0,
+    "edit_distance": 49,
+    "common_nodes": 0,
+    "project_only_nodes": 9,
+    "student_only_nodes": 40
+  },
+  {
+    "project_name": "Monitoring_Ground_Deformation_in",
+    "student_id": "student_n00767167_Jordan_Allen_enhanced_kg",
+    "is_match": true,
+    "jaccard_similarity": 0.0,
+    "edit_distance": 53,
+    "common_nodes": 0,
+    "project_only_nodes": 9,
+    "student_only_nodes": 44
+  },
+  {
+    "project_name": "Monitoring_Ground_Deformation_in",
+    "student_id": "student_n06365339_Harper_Anderson_enhanced_kg",
+    "is_match": true,
+    "jaccard_similarity": 0.0,
+    "edit_distance": 49,
+    "common_nodes": 0,
+    "project_only_nodes": 9,
+    "student_only_nodes": 40
+  },
+  {
+    "project_name": "Monitoring_Ground_Deformation_in",
+    "student_id": "student_n11092794_Reese_Wilson_enhanced_kg",
+    "is_match": true,
+    "jaccard_similarity": 0.0,
+    "edit_distance": 49,
+    "common_nodes": 0,
+    "project_only_nodes": 9,
+    "student_only_nodes": 40
+  },
+  {
+    "project_name": "Monitoring_Ground_Deformation_in",
+    "student_id": "student_n02264802_Kendall_Torres_enhanced_kg",
+    "is_match": true,
+    "jaccard_similarity": 0.0,
+    "edit_distance": 49,
+    "common_nodes": 0,
+    "project_only_nodes": 9,
+    "student_only_nodes": 40
+  },
+  {
+    "project_name": "Monitoring_Ground_Deformation_in",
+    "student_id": "student_n14683409_Peyton_Flores_enhanced_kg",
+    "is_match": true,
+    "jaccard_similarity": 0.0,
+    "edit_distance": 49,
+    "common_nodes": 0,
+    "project_only_nodes": 9,
+    "student_only_nodes": 40
+  },
+  {
+    "project_name": "VitalID_Smartphone-Based",
+    "student_id": "student_n15945675_Phoenix_Hill_enhanced_kg",
+    "is_match": true,
+    "jaccard_similarity": 0.0,
+    "edit_distance": 52,
+    "common_nodes": 0,
+    "project_only_nodes": 13,
+    "student_only_nodes": 39
+  },
+  {
+    "project_name": "VitalID_Smartphone-Based",
+    "student_id": "student_n07927421_Morgan_Lee_enhanced_kg",
+    "is_match": true,
+    "jaccard_similarity": 0.0,
+    "edit_distance": 52,
+    "common_nodes": 0,
+    "project_only_nodes": 13,
+    "student_only_nodes": 39
+  },
+  {
+    "project_name": "VitalID_Smartphone-Based",
+    "student_id": "student_n00195692_Peyton_Williams_enhanced_kg",
+    "is_match": true,
+    "jaccard_similarity": 0.0,
+    "edit_distance": 50,
+    "common_nodes": 0,
+    "project_only_nodes": 13,
+    "student_only_nodes": 37
+  },
+  {
+    "project_name": "VitalID_Smartphone-Based",
+    "student_id": "student_n12836502_Skylar_Harris_enhanced_kg",
+    "is_match": true,
+    "jaccard_similarity": 0.0,
+    "edit_distance": 52,
+    "common_nodes": 0,
+    "project_only_nodes": 13,
+    "student_only_nodes": 39
+  },
+  {
+    "project_name": "VitalID_Smartphone-Based",
+    "student_id": "student_n08963298_Avery_Young_enhanced_kg",
+    "is_match": true,
+    "jaccard_similarity": 0.0,
+    "edit_distance": 52,
+    "common_nodes": 0,
+    "project_only_nodes": 13,
+    "student_only_nodes": 39
+  },
+  {
+    "project_name": "VitalID_Smartphone-Based",
+    "student_id": "student_n10055590_Blake_Thompson_enhanced_kg",
+    "is_match": true,
+    "jaccard_similarity": 0.0,
+    "edit_distance": 52,
+    "common_nodes": 0,
+    "project_only_nodes": 13,
+    "student_only_nodes": 39
+  },
+  {
+    "project_name": "VitalID_Smartphone-Based",
+    "student_id": "student_n01189174_Reese_Allen_enhanced_kg",
+    "is_match": true,
+    "jaccard_similarity": 0.0,
+    "edit_distance": 52,
+    "common_nodes": 0,
+    "project_only_nodes": 13,
+    "student_only_nodes": 39
+  },
+  {
+    "project_name": "VitalID_Smartphone-Based",
+    "student_id": "student_n15410626_Jamie_Lopez_enhanced_kg",
+    "is_match": true,
+    "jaccard_similarity": 0.0,
+    "edit_distance": 52,
+    "common_nodes": 0,
+    "project_only_nodes": 13,
+    "student_only_nodes": 39
+  },
+  {
+    "project_name": "VitalID_Smartphone-Based",
+    "student_id": "student_n10761320_Drew_Johnson_enhanced_kg",
+    "is_match": true,
+    "jaccard_similarity": 0.0,
+    "edit_distance": 52,
+    "common_nodes": 0,
+    "project_only_nodes": 13,
+    "student_only_nodes": 39
+  },
+  {
+    "project_name": "VitalID_Smartphone-Based",
+    "student_id": "student_n12300359_Hayden_Young_enhanced_kg",
+    "is_match": true,
+    "jaccard_similarity": 0.0,
+    "edit_distance": 51,
+    "common_nodes": 0,
+    "project_only_nodes": 13,
+    "student_only_nodes": 38
+  },
+  {
+    "project_name": "Smartphone-Based_Real-Time_V2P",
+    "student_id": "student_n08267843_Skylar_Williams_enhanced_kg",
+    "is_match": true,
+    "jaccard_similarity": 0.0,
+    "edit_distance": 52,
+    "common_nodes": 0,
+    "project_only_nodes": 12,
+    "student_only_nodes": 40
+  },
+  {
+    "project_name": "Smartphone-Based_Real-Time_V2P",
+    "student_id": "student_n15914596_Rory_Wright_enhanced_kg",
+    "is_match": true,
+    "jaccard_similarity": 0.0,
+    "edit_distance": 52,
+    "common_nodes": 0,
+    "project_only_nodes": 12,
+    "student_only_nodes": 40
+  },
+  {
+    "project_name": "Smartphone-Based_Real-Time_V2P",
+    "student_id": "student_n14494432_Devon_Johnson_enhanced_kg",
+    "is_match": true,
+    "jaccard_similarity": 0.0,
+    "edit_distance": 52,
+    "common_nodes": 0,
+    "project_only_nodes": 12,
+    "student_only_nodes": 40
+  },
+  {
+    "project_name": "Smartphone-Based_Real-Time_V2P",
+    "student_id": "student_n06136847_Avery_Brown_enhanced_kg",
+    "is_match": true,
+    "jaccard_similarity": 0.0,
+    "edit_distance": 52,
+    "common_nodes": 0,
+    "project_only_nodes": 12,
+    "student_only_nodes": 40
+  },
+  {
+    "project_name": "Smartphone-Based_Real-Time_V2P",
+    "student_id": "student_n03583544_Rowan_Lee_enhanced_kg",
+    "is_match": true,
+    "jaccard_similarity": 0.0,
+    "edit_distance": 52,
+    "common_nodes": 0,
+    "project_only_nodes": 12,
+    "student_only_nodes": 40
+  },
+  {
+    "project_name": "Smartphone-Based_Real-Time_V2P",
+    "student_id": "student_n01368381_Harper_Garcia_enhanced_kg",
+    "is_match": true,
+    "jaccard_similarity": 0.0,
+    "edit_distance": 52,
+    "common_nodes": 0,
+    "project_only_nodes": 12,
+    "student_only_nodes": 40
+  },
+  {
+    "project_name": "Smartphone-Based_Real-Time_V2P",
+    "student_id": "student_n10995912_Rowan_Moore_enhanced_kg",
+    "is_match": true,
+    "jaccard_similarity": 0.0,
+    "edit_distance": 52,
+    "common_nodes": 0,
+    "project_only_nodes": 12,
+    "student_only_nodes": 40
+  },
+  {
+    "project_name": "Smartphone-Based_Real-Time_V2P",
+    "student_id": "student_n14421494_Devon_Lee_enhanced_kg",
+    "is_match": true,
+    "jaccard_similarity": 0.0,
+    "edit_distance": 52,
+    "common_nodes": 0,
+    "project_only_nodes": 12,
+    "student_only_nodes": 40
+  },
+  {
+    "project_name": "Smartphone-Based_Real-Time_V2P",
+    "student_id": "student_n03507662_Madison_Jackson_enhanced_kg",
+    "is_match": true,
+    "jaccard_similarity": 0.0,
+    "edit_distance": 51,
+    "common_nodes": 0,
+    "project_only_nodes": 12,
+    "student_only_nodes": 39
+  },
+  {
+    "project_name": "Smartphone-Based_Real-Time_V2P",
+    "student_id": "student_n05009103_Logan_Miller_enhanced_kg",
+    "is_match": true,
+    "jaccard_similarity": 0.0,
+    "edit_distance": 52,
+    "common_nodes": 0,
+    "project_only_nodes": 12,
+    "student_only_nodes": 40
+  },
+  {
+    "project_name": "Prosody__Perception_Toward_a",
+    "student_id": "student_n00114716_Finley_Thompson_enhanced_kg",
+    "is_match": true,
+    "jaccard_similarity": 0.018518518518518517,
+    "edit_distance": 53,
+    "common_nodes": 1,
+    "project_only_nodes": 8,
+    "student_only_nodes": 45
+  },
+  {
+    "project_name": "Prosody__Perception_Toward_a",
+    "student_id": "student_n09394187_Riley_Jackson_enhanced_kg",
+    "is_match": true,
+    "jaccard_similarity": 0.0,
+    "edit_distance": 50,
+    "common_nodes": 0,
+    "project_only_nodes": 9,
+    "student_only_nodes": 41
+  },
+  {
+    "project_name": "Prosody__Perception_Toward_a",
+    "student_id": "student_n01737848_Sydney_Martin_enhanced_kg",
+    "is_match": true,
+    "jaccard_similarity": 0.0,
+    "edit_distance": 50,
+    "common_nodes": 0,
+    "project_only_nodes": 9,
+    "student_only_nodes": 41
+  },
+  {
+    "project_name": "Prosody__Perception_Toward_a",
+    "student_id": "student_n06955897_Finley_Flores_enhanced_kg",
+    "is_match": true,
+    "jaccard_similarity": 0.0,
+    "edit_distance": 48,
+    "common_nodes": 0,
+    "project_only_nodes": 9,
+    "student_only_nodes": 39
+  },
+  {
+    "project_name": "Prosody__Perception_Toward_a",
+    "student_id": "student_n06813303_Harper_White_enhanced_kg",
+    "is_match": true,
+    "jaccard_similarity": 0.0,
+    "edit_distance": 49,
+    "common_nodes": 0,
+    "project_only_nodes": 9,
+    "student_only_nodes": 40
+  },
+  {
+    "project_name": "Prosody__Perception_Toward_a",
+    "student_id": "student_n04552993_Quinn_King_enhanced_kg",
+    "is_match": true,
+    "jaccard_similarity": 0.0,
+    "edit_distance": 50,
+    "common_nodes": 0,
+    "project_only_nodes": 9,
+    "student_only_nodes": 41
+  },
+  {
+    "project_name": "Prosody__Perception_Toward_a",
+    "student_id": "student_n05458643_Kendall_Johnson_enhanced_kg",
+    "is_match": true,
+    "jaccard_similarity": 0.0,
+    "edit_distance": 49,
+    "common_nodes": 0,
+    "project_only_nodes": 9,
+    "student_only_nodes": 40
+  },
+  {
+    "project_name": "Prosody__Perception_Toward_a",
+    "student_id": "student___enhanced_kg",
+    "is_match": true,
+    "jaccard_similarity": 0.0,
+    "edit_distance": 10,
+    "common_nodes": 0,
+    "project_only_nodes": 9,
+    "student_only_nodes": 1
+  },
+  {
+    "project_name": "Prosody__Perception_Toward_a",
+    "student_id": "student_n13907629_Riley_Rodriguez_enhanced_kg",
+    "is_match": true,
+    "jaccard_similarity": 0.0,
+    "edit_distance": 50,
+    "common_nodes": 0,
+    "project_only_nodes": 9,
+    "student_only_nodes": 41
+  },
+  {
+    "project_name": "Prosody__Perception_Toward_a",
+    "student_id": "student_n13857326_Morgan_Williams_enhanced_kg",
+    "is_match": true,
+    "jaccard_similarity": 0.0,
+    "edit_distance": 48,
+    "common_nodes": 0,
+    "project_only_nodes": 9,
+    "student_only_nodes": 39
+  },
+  {
+    "project_name": "Binary_vs_Multiclass_Evaluation",
+    "student_id": "student_n05873042_Peyton_Garcia_enhanced_kg",
+    "is_match": true,
+    "jaccard_similarity": 0.04,
+    "edit_distance": 48,
+    "common_nodes": 2,
+    "project_only_nodes": 9,
+    "student_only_nodes": 39
+  },
+  {
+    "project_name": "Binary_vs_Multiclass_Evaluation",
+    "student_id": "student_n01429702_Blake_Smith_enhanced_kg",
+    "is_match": true,
+    "jaccard_similarity": 0.04,
+    "edit_distance": 48,
+    "common_nodes": 2,
+    "project_only_nodes": 9,
+    "student_only_nodes": 39
+  },
+  {
+    "project_name": "Binary_vs_Multiclass_Evaluation",
+    "student_id": "student_n07418871_Finley_Brown_enhanced_kg",
+    "is_match": true,
+    "jaccard_similarity": 0.04,
+    "edit_distance": 48,
+    "common_nodes": 2,
+    "project_only_nodes": 9,
+    "student_only_nodes": 39
+  },
+  {
+    "project_name": "Binary_vs_Multiclass_Evaluation",
+    "student_id": "student_n04735911_Kendall_Williams_enhanced_kg",
+    "is_match": true,
+    "jaccard_similarity": 0.04,
+    "edit_distance": 48,
+    "common_nodes": 2,
+    "project_only_nodes": 9,
+    "student_only_nodes": 39
+  },
+  {
+    "project_name": "Binary_vs_Multiclass_Evaluation",
+    "student_id": "student_n12525597_Sydney_King_enhanced_kg",
+    "is_match": true,
+    "jaccard_similarity": 0.04081632653061224,
+    "edit_distance": 47,
+    "common_nodes": 2,
+    "project_only_nodes": 9,
+    "student_only_nodes": 38
+  },
+  {
+    "project_name": "Binary_vs_Multiclass_Evaluation",
+    "student_id": "student_n02367825_Cameron_Rodriguez_enhanced_kg",
+    "is_match": true,
+    "jaccard_similarity": 0.04,
+    "edit_distance": 48,
+    "common_nodes": 2,
+    "project_only_nodes": 9,
+    "student_only_nodes": 39
+  },
+  {
+    "project_name": "Binary_vs_Multiclass_Evaluation",
+    "student_id": "student_n03419818_Finley_Miller_enhanced_kg",
+    "is_match": true,
+    "jaccard_similarity": 0.04,
+    "edit_distance": 48,
+    "common_nodes": 2,
+    "project_only_nodes": 9,
+    "student_only_nodes": 39
+  },
+  {
+    "project_name": "Binary_vs_Multiclass_Evaluation",
+    "student_id": "student_n15508042_Cameron_Jones_enhanced_kg",
+    "is_match": true,
+    "jaccard_similarity": 0.04,
+    "edit_distance": 48,
+    "common_nodes": 2,
+    "project_only_nodes": 9,
+    "student_only_nodes": 39
+  },
+  {
+    "project_name": "Binary_vs_Multiclass_Evaluation",
+    "student_id": "student_n00201193_Reagan_Anderson_enhanced_kg",
+    "is_match": true,
+    "jaccard_similarity": 0.04,
+    "edit_distance": 48,
+    "common_nodes": 2,
+    "project_only_nodes": 9,
+    "student_only_nodes": 39
+  },
+  {
+    "project_name": "Binary_vs_Multiclass_Evaluation",
+    "student_id": "student_n07440256_Parker_Allen_enhanced_kg",
+    "is_match": true,
+    "jaccard_similarity": 0.04,
+    "edit_distance": 48,
+    "common_nodes": 2,
+    "project_only_nodes": 9,
+    "student_only_nodes": 39
+  },
+  {
+    "project_name": "Smart_Intersection_Localization",
+    "student_id": "student_n01087640_Casey_Moore_enhanced_kg",
+    "is_match": true,
+    "jaccard_similarity": 0.0,
+    "edit_distance": 48,
+    "common_nodes": 0,
+    "project_only_nodes": 11,
+    "student_only_nodes": 37
+  },
+  {
+    "project_name": "Smart_Intersection_Localization",
+    "student_id": "student_n03536839_Skylar_Allen_enhanced_kg",
+    "is_match": true,
+    "jaccard_similarity": 0.0,
+    "edit_distance": 48,
+    "common_nodes": 0,
+    "project_only_nodes": 11,
+    "student_only_nodes": 37
+  },
+  {
+    "project_name": "Smart_Intersection_Localization",
+    "student_id": "student_n10548652_Harper_Garcia_enhanced_kg",
+    "is_match": true,
+    "jaccard_similarity": 0.0,
+    "edit_distance": 48,
+    "common_nodes": 0,
+    "project_only_nodes": 11,
+    "student_only_nodes": 37
+  },
+  {
+    "project_name": "Smart_Intersection_Localization",
+    "student_id": "student_n02448239_Finley_Lopez_enhanced_kg",
+    "is_match": true,
+    "jaccard_similarity": 0.0,
+    "edit_distance": 48,
+    "common_nodes": 0,
+    "project_only_nodes": 11,
+    "student_only_nodes": 37
+  },
+  {
+    "project_name": "Smart_Intersection_Localization",
+    "student_id": "student_n13351390_River_Lee_enhanced_kg",
+    "is_match": true,
+    "jaccard_similarity": 0.0,
+    "edit_distance": 48,
+    "common_nodes": 0,
+    "project_only_nodes": 11,
+    "student_only_nodes": 37
+  },
+  {
+    "project_name": "Smart_Intersection_Localization",
+    "student_id": "student_n10078927_Drew_Torres_enhanced_kg",
+    "is_match": true,
+    "jaccard_similarity": 0.0,
+    "edit_distance": 48,
+    "common_nodes": 0,
+    "project_only_nodes": 11,
+    "student_only_nodes": 37
+  },
+  {
+    "project_name": "Smart_Intersection_Localization",
+    "student_id": "student_n13431626_Blake_Chen_enhanced_kg",
+    "is_match": true,
+    "jaccard_similarity": 0.0,
+    "edit_distance": 48,
+    "common_nodes": 0,
+    "project_only_nodes": 11,
+    "student_only_nodes": 37
+  },
+  {
+    "project_name": "Smart_Intersection_Localization",
+    "student_id": "student_n15463920_Cameron_Thompson_enhanced_kg",
+    "is_match": true,
+    "jaccard_similarity": 0.0,
+    "edit_distance": 48,
+    "common_nodes": 0,
+    "project_only_nodes": 11,
+    "student_only_nodes": 37
+  },
+  {
+    "project_name": "Smart_Intersection_Localization",
+    "student_id": "student_n16212621_Morgan_Allen_enhanced_kg",
+    "is_match": true,
+    "jaccard_similarity": 0.0,
+    "edit_distance": 48,
+    "common_nodes": 0,
+    "project_only_nodes": 11,
+    "student_only_nodes": 37
+  },
+  {
+    "project_name": "Smart_Intersection_Localization",
+    "student_id": "student_n10825571_Rowan_Scott_enhanced_kg",
+    "is_match": true,
+    "jaccard_similarity": 0.0,
+    "edit_distance": 48,
+    "common_nodes": 0,
+    "project_only_nodes": 11,
+    "student_only_nodes": 37
+  },
+  {
+    "project_name": "A_Systematic_Review_of_Deep",
+    "student_id": "student_n14695376_Morgan_Harris_enhanced_kg",
+    "is_match": true,
+    "jaccard_similarity": 0.0392156862745098,
+    "edit_distance": 49,
+    "common_nodes": 2,
+    "project_only_nodes": 10,
+    "student_only_nodes": 39
+  },
+  {
+    "project_name": "A_Systematic_Review_of_Deep",
+    "student_id": "student_n08656729_Madison_Moore_enhanced_kg",
+    "is_match": true,
+    "jaccard_similarity": 0.0392156862745098,
+    "edit_distance": 49,
+    "common_nodes": 2,
+    "project_only_nodes": 10,
+    "student_only_nodes": 39
+  },
+  {
+    "project_name": "A_Systematic_Review_of_Deep",
+    "student_id": "student_n13241358_Devon_Williams_enhanced_kg",
+    "is_match": true,
+    "jaccard_similarity": 0.0392156862745098,
+    "edit_distance": 49,
+    "common_nodes": 2,
+    "project_only_nodes": 10,
+    "student_only_nodes": 39
+  },
+  {
+    "project_name": "A_Systematic_Review_of_Deep",
+    "student_id": "student_n02123086_Emery_Miller_enhanced_kg",
+    "is_match": true,
+    "jaccard_similarity": 0.04081632653061224,
+    "edit_distance": 47,
+    "common_nodes": 2,
+    "project_only_nodes": 10,
+    "student_only_nodes": 37
+  },
+  {
+    "project_name": "A_Systematic_Review_of_Deep",
+    "student_id": "student_n04539845_Jordan_Wright_enhanced_kg",
+    "is_match": true,
+    "jaccard_similarity": 0.034482758620689655,
+    "edit_distance": 56,
+    "common_nodes": 2,
+    "project_only_nodes": 10,
+    "student_only_nodes": 46
+  },
+  {
+    "project_name": "A_Systematic_Review_of_Deep",
+    "student_id": "student_n08970940_Avery_King_enhanced_kg",
+    "is_match": true,
+    "jaccard_similarity": 0.0392156862745098,
+    "edit_distance": 49,
+    "common_nodes": 2,
+    "project_only_nodes": 10,
+    "student_only_nodes": 39
+  },
+  {
+    "project_name": "A_Systematic_Review_of_Deep",
+    "student_id": "student_n08153626_Rowan_Torres_enhanced_kg",
+    "is_match": true,
+    "jaccard_similarity": 0.0392156862745098,
+    "edit_distance": 49,
+    "common_nodes": 2,
+    "project_only_nodes": 10,
+    "student_only_nodes": 39
+  },
+  {
+    "project_name": "A_Systematic_Review_of_Deep",
+    "student_id": "student_n04873519_Drew_Johnson_enhanced_kg",
+    "is_match": true,
+    "jaccard_similarity": 0.0392156862745098,
+    "edit_distance": 49,
+    "common_nodes": 2,
+    "project_only_nodes": 10,
+    "student_only_nodes": 39
+  },
+  {
+    "project_name": "A_Systematic_Review_of_Deep",
+    "student_id": "student_n09745425_Alex_Lee_enhanced_kg",
+    "is_match": true,
+    "jaccard_similarity": 0.0392156862745098,
+    "edit_distance": 49,
+    "common_nodes": 2,
+    "project_only_nodes": 10,
+    "student_only_nodes": 39
+  },
+  {
+    "project_name": "A_Systematic_Review_of_Deep",
+    "student_id": "student_n11136316_Blake_Garcia_enhanced_kg",
+    "is_match": true,
+    "jaccard_similarity": 0.0392156862745098,
+    "edit_distance": 49,
+    "common_nodes": 2,
+    "project_only_nodes": 10,
+    "student_only_nodes": 39
+  },
+  {
+    "project_name": "Testing_and_Validating_the_Impact",
+    "student_id": "student_n01585387_Blake_Flores_enhanced_kg",
+    "is_match": true,
+    "jaccard_similarity": 0.02040816326530612,
+    "edit_distance": 48,
+    "common_nodes": 1,
+    "project_only_nodes": 8,
+    "student_only_nodes": 40
+  },
+  {
+    "project_name": "Testing_and_Validating_the_Impact",
+    "student_id": "student_n06992661_Blake_Miller_enhanced_kg",
+    "is_match": true,
+    "jaccard_similarity": 0.02040816326530612,
+    "edit_distance": 48,
+    "common_nodes": 1,
+    "project_only_nodes": 8,
+    "student_only_nodes": 40
+  },
+  {
+    "project_name": "Testing_and_Validating_the_Impact",
+    "student_id": "student_n13035893_Taylor_Hill_enhanced_kg",
+    "is_match": true,
+    "jaccard_similarity": 0.02040816326530612,
+    "edit_distance": 48,
+    "common_nodes": 1,
+    "project_only_nodes": 8,
+    "student_only_nodes": 40
+  },
+  {
+    "project_name": "Testing_and_Validating_the_Impact",
+    "student_id": "student_n07002401_Sydney_Nguyen_enhanced_kg",
+    "is_match": true,
+    "jaccard_similarity": 0.02040816326530612,
+    "edit_distance": 48,
+    "common_nodes": 1,
+    "project_only_nodes": 8,
+    "student_only_nodes": 40
+  },
+  {
+    "project_name": "Testing_and_Validating_the_Impact",
+    "student_id": "student_n05927857_Devon_Johnson_enhanced_kg",
+    "is_match": true,
+    "jaccard_similarity": 0.02040816326530612,
+    "edit_distance": 48,
+    "common_nodes": 1,
+    "project_only_nodes": 8,
+    "student_only_nodes": 40
+  },
+  {
+    "project_name": "Testing_and_Validating_the_Impact",
+    "student_id": "student_n01159145_Rory_Wilson_enhanced_kg",
+    "is_match": true,
+    "jaccard_similarity": 0.02040816326530612,
+    "edit_distance": 48,
+    "common_nodes": 1,
+    "project_only_nodes": 8,
+    "student_only_nodes": 40
+  },
+  {
+    "project_name": "Testing_and_Validating_the_Impact",
+    "student_id": "student_n00668490_Jordan_Scott_enhanced_kg",
+    "is_match": true,
+    "jaccard_similarity": 0.02040816326530612,
+    "edit_distance": 48,
+    "common_nodes": 1,
+    "project_only_nodes": 8,
+    "student_only_nodes": 40
+  },
+  {
+    "project_name": "Testing_and_Validating_the_Impact",
+    "student_id": "student_n06976848_Jordan_Harris_enhanced_kg",
+    "is_match": true,
+    "jaccard_similarity": 0.02040816326530612,
+    "edit_distance": 48,
+    "common_nodes": 1,
+    "project_only_nodes": 8,
+    "student_only_nodes": 40
+  },
+  {
+    "project_name": "Testing_and_Validating_the_Impact",
+    "student_id": "student_n10303522_Cameron_Miller_enhanced_kg",
+    "is_match": true,
+    "jaccard_similarity": 0.02040816326530612,
+    "edit_distance": 48,
+    "common_nodes": 1,
+    "project_only_nodes": 8,
+    "student_only_nodes": 40
+  },
+  {
+    "project_name": "Testing_and_Validating_the_Impact",
+    "student_id": "student_n11998054_Harper_Thompson_enhanced_kg",
+    "is_match": true,
+    "jaccard_similarity": 0.02040816326530612,
+    "edit_distance": 48,
+    "common_nodes": 1,
+    "project_only_nodes": 8,
+    "student_only_nodes": 40
+  },
+  {
+    "project_name": "AI-Driven_Project-Student",
+    "student_id": "student_n05399136_Skylar_Williams_enhanced_kg",
+    "is_match": true,
+    "jaccard_similarity": 0.0,
+    "edit_distance": 43,
+    "common_nodes": 0,
+    "project_only_nodes": 10,
+    "student_only_nodes": 33
+  },
+  {
+    "project_name": "AI-Driven_Project-Student",
+    "student_id": "student_n08416091_Hayden_Lopez_enhanced_kg",
+    "is_match": true,
+    "jaccard_similarity": 0.0,
+    "edit_distance": 47,
+    "common_nodes": 0,
+    "project_only_nodes": 10,
+    "student_only_nodes": 37
+  },
+  {
+    "project_name": "AI-Driven_Project-Student",
+    "student_id": "student_n10531344_River_Garcia_enhanced_kg",
+    "is_match": true,
+    "jaccard_similarity": 0.0,
+    "edit_distance": 47,
+    "common_nodes": 0,
+    "project_only_nodes": 10,
+    "student_only_nodes": 37
+  },
+  {
+    "project_name": "AI-Driven_Project-Student",
+    "student_id": "student_n03962866_Tyler_Thompson_enhanced_kg",
+    "is_match": true,
+    "jaccard_similarity": 0.0,
+    "edit_distance": 47,
+    "common_nodes": 0,
+    "project_only_nodes": 10,
+    "student_only_nodes": 37
+  },
+  {
+    "project_name": "AI-Driven_Project-Student",
+    "student_id": "student_n03186319_Rowan_Thompson_enhanced_kg",
+    "is_match": true,
+    "jaccard_similarity": 0.0,
+    "edit_distance": 47,
+    "common_nodes": 0,
+    "project_only_nodes": 10,
+    "student_only_nodes": 37
+  },
+  {
+    "project_name": "AI-Driven_Project-Student",
+    "student_id": "student_n14963558_Devon_Taylor_enhanced_kg",
+    "is_match": true,
+    "jaccard_similarity": 0.0,
+    "edit_distance": 47,
+    "common_nodes": 0,
+    "project_only_nodes": 10,
+    "student_only_nodes": 37
+  },
+  {
+    "project_name": "AI-Driven_Project-Student",
+    "student_id": "student_n09324256_Madison_Hernandez_enhanced_kg",
+    "is_match": true,
+    "jaccard_similarity": 0.0,
+    "edit_distance": 47,
+    "common_nodes": 0,
+    "project_only_nodes": 10,
+    "student_only_nodes": 37
+  },
+  {
+    "project_name": "AI-Driven_Project-Student",
+    "student_id": "student_n14689252_Riley_Johnson_enhanced_kg",
+    "is_match": true,
+    "jaccard_similarity": 0.0,
+    "edit_distance": 47,
+    "common_nodes": 0,
+    "project_only_nodes": 10,
+    "student_only_nodes": 37
+  },
+  {
+    "project_name": "AI-Driven_Project-Student",
+    "student_id": "student_n09133119_Reese_Lee_enhanced_kg",
+    "is_match": true,
+    "jaccard_similarity": 0.0,
+    "edit_distance": 47,
+    "common_nodes": 0,
+    "project_only_nodes": 10,
+    "student_only_nodes": 37
+  },
+  {
+    "project_name": "AI-Driven_Project-Student",
+    "student_id": "student_n00408694_Phoenix_Martinez_enhanced_kg",
+    "is_match": true,
+    "jaccard_similarity": 0.0,
+    "edit_distance": 47,
+    "common_nodes": 0,
+    "project_only_nodes": 10,
+    "student_only_nodes": 37
+  },
+  {
+    "project_name": "IoT-Based_Spectral_Sensing_and",
+    "student_id": "student_n03869948_Taylor_Rodriguez_enhanced_kg",
+    "is_match": true,
+    "jaccard_similarity": 0.0,
+    "edit_distance": 54,
+    "common_nodes": 0,
+    "project_only_nodes": 14,
+    "student_only_nodes": 40
+  },
+  {
+    "project_name": "IoT-Based_Spectral_Sensing_and",
+    "student_id": "student_n04106989_Jordan_Wright_enhanced_kg",
+    "is_match": true,
+    "jaccard_similarity": 0.0,
+    "edit_distance": 52,
+    "common_nodes": 0,
+    "project_only_nodes": 14,
+    "student_only_nodes": 38
+  },
+  {
+    "project_name": "IoT-Based_Spectral_Sensing_and",
+    "student_id": "student_n06988417_Peyton_Moore_enhanced_kg",
+    "is_match": true,
+    "jaccard_similarity": 0.0,
+    "edit_distance": 54,
+    "common_nodes": 0,
+    "project_only_nodes": 14,
+    "student_only_nodes": 40
+  },
+  {
+    "project_name": "IoT-Based_Spectral_Sensing_and",
+    "student_id": "student_n09544816_Kendall_Moore_enhanced_kg",
+    "is_match": true,
+    "jaccard_similarity": 0.0,
+    "edit_distance": 54,
+    "common_nodes": 0,
+    "project_only_nodes": 14,
+    "student_only_nodes": 40
+  },
+  {
+    "project_name": "IoT-Based_Spectral_Sensing_and",
+    "student_id": "student_n15750559_Devon_Miller_enhanced_kg",
+    "is_match": true,
+    "jaccard_similarity": 0.0,
+    "edit_distance": 52,
+    "common_nodes": 0,
+    "project_only_nodes": 14,
+    "student_only_nodes": 38
+  },
+  {
+    "project_name": "IoT-Based_Spectral_Sensing_and",
+    "student_id": "student_n04909199_Rory_Miller_enhanced_kg",
+    "is_match": true,
+    "jaccard_similarity": 0.0,
+    "edit_distance": 52,
+    "common_nodes": 0,
+    "project_only_nodes": 14,
+    "student_only_nodes": 38
+  },
+  {
+    "project_name": "IoT-Based_Spectral_Sensing_and",
+    "student_id": "student_n07590196_Morgan_Taylor_enhanced_kg",
+    "is_match": true,
+    "jaccard_similarity": 0.0,
+    "edit_distance": 52,
+    "common_nodes": 0,
+    "project_only_nodes": 14,
+    "student_only_nodes": 38
+  },
+  {
+    "project_name": "IoT-Based_Spectral_Sensing_and",
+    "student_id": "student_n07556855_Blake_Moore_enhanced_kg",
+    "is_match": true,
+    "jaccard_similarity": 0.0,
+    "edit_distance": 51,
+    "common_nodes": 0,
+    "project_only_nodes": 14,
+    "student_only_nodes": 37
+  },
+  {
+    "project_name": "IoT-Based_Spectral_Sensing_and",
+    "student_id": "student_n02481839_Madison_Jones_enhanced_kg",
+    "is_match": true,
+    "jaccard_similarity": 0.0,
+    "edit_distance": 52,
+    "common_nodes": 0,
+    "project_only_nodes": 14,
+    "student_only_nodes": 38
+  },
+  {
+    "project_name": "IoT-Based_Spectral_Sensing_and",
+    "student_id": "student_n16774452_Sage_King_enhanced_kg",
+    "is_match": true,
+    "jaccard_similarity": 0.0,
+    "edit_distance": 52,
+    "common_nodes": 0,
+    "project_only_nodes": 14,
+    "student_only_nodes": 38
+  },
+  {
+    "project_name": "Assessing_the_IT_Skill",
+    "student_id": "student_n05891550_Reagan_Chen_enhanced_kg",
+    "is_match": true,
+    "jaccard_similarity": 0.0,
+    "edit_distance": 50,
+    "common_nodes": 0,
+    "project_only_nodes": 11,
+    "student_only_nodes": 39
+  },
+  {
+    "project_name": "Assessing_the_IT_Skill",
+    "student_id": "student_n15715574_Morgan_Torres_enhanced_kg",
+    "is_match": true,
+    "jaccard_similarity": 0.0,
+    "edit_distance": 50,
+    "common_nodes": 0,
+    "project_only_nodes": 11,
+    "student_only_nodes": 39
+  },
+  {
+    "project_name": "Assessing_the_IT_Skill",
+    "student_id": "student_n07213892_Taylor_Torres_enhanced_kg",
+    "is_match": true,
+    "jaccard_similarity": 0.0,
+    "edit_distance": 50,
+    "common_nodes": 0,
+    "project_only_nodes": 11,
+    "student_only_nodes": 39
+  },
+  {
+    "project_name": "Assessing_the_IT_Skill",
+    "student_id": "student_n04003748_Harper_Rodriguez_enhanced_kg",
+    "is_match": true,
+    "jaccard_similarity": 0.0,
+    "edit_distance": 48,
+    "common_nodes": 0,
+    "project_only_nodes": 11,
+    "student_only_nodes": 37
+  },
+  {
+    "project_name": "Assessing_the_IT_Skill",
+    "student_id": "student_n08042935_Reese_Jones_enhanced_kg",
+    "is_match": true,
+    "jaccard_similarity": 0.0,
+    "edit_distance": 50,
+    "common_nodes": 0,
+    "project_only_nodes": 11,
+    "student_only_nodes": 39
+  },
+  {
+    "project_name": "Assessing_the_IT_Skill",
+    "student_id": "student_n13650218_Hayden_Scott_enhanced_kg",
+    "is_match": true,
+    "jaccard_similarity": 0.0,
+    "edit_distance": 50,
+    "common_nodes": 0,
+    "project_only_nodes": 11,
+    "student_only_nodes": 39
+  },
+  {
+    "project_name": "Assessing_the_IT_Skill",
+    "student_id": "student_n01092625_Skylar_Young_enhanced_kg",
+    "is_match": true,
+    "jaccard_similarity": 0.0,
+    "edit_distance": 50,
+    "common_nodes": 0,
+    "project_only_nodes": 11,
+    "student_only_nodes": 39
+  },
+  {
+    "project_name": "Assessing_the_IT_Skill",
+    "student_id": "student_n09492178_Hayden_Moore_enhanced_kg",
+    "is_match": true,
+    "jaccard_similarity": 0.0,
+    "edit_distance": 50,
+    "common_nodes": 0,
+    "project_only_nodes": 11,
+    "student_only_nodes": 39
+  },
+  {
+    "project_name": "Assessing_the_IT_Skill",
+    "student_id": "student_n15737619_Rowan_Moore_enhanced_kg",
+    "is_match": true,
+    "jaccard_similarity": 0.0,
+    "edit_distance": 50,
+    "common_nodes": 0,
+    "project_only_nodes": 11,
+    "student_only_nodes": 39
+  },
+  {
+    "project_name": "Assessing_the_IT_Skill",
+    "student_id": "student_n03009760_Reese_Brown_enhanced_kg",
+    "is_match": true,
+    "jaccard_similarity": 0.0,
+    "edit_distance": 50,
+    "common_nodes": 0,
+    "project_only_nodes": 11,
+    "student_only_nodes": 39
+  },
+  {
+    "project_name": "The_Power_of_Patterns_Using",
+    "student_id": "student_n15766237_Sydney_Moore_enhanced_kg",
+    "is_match": true,
+    "jaccard_similarity": 0.022727272727272728,
+    "edit_distance": 43,
+    "common_nodes": 1,
+    "project_only_nodes": 9,
+    "student_only_nodes": 34
+  },
+  {
+    "project_name": "The_Power_of_Patterns_Using",
+    "student_id": "student_n16028113_Rory_Moore_enhanced_kg",
+    "is_match": true,
+    "jaccard_similarity": 0.022727272727272728,
+    "edit_distance": 43,
+    "common_nodes": 1,
+    "project_only_nodes": 9,
+    "student_only_nodes": 34
+  },
+  {
+    "project_name": "The_Power_of_Patterns_Using",
+    "student_id": "student_n08396782_Sage_Young_enhanced_kg",
+    "is_match": true,
+    "jaccard_similarity": 0.022727272727272728,
+    "edit_distance": 43,
+    "common_nodes": 1,
+    "project_only_nodes": 9,
+    "student_only_nodes": 34
+  },
+  {
+    "project_name": "The_Power_of_Patterns_Using",
+    "student_id": "student_n06913443_Casey_Martin_enhanced_kg",
+    "is_match": true,
+    "jaccard_similarity": 0.022727272727272728,
+    "edit_distance": 43,
+    "common_nodes": 1,
+    "project_only_nodes": 9,
+    "student_only_nodes": 34
+  },
+  {
+    "project_name": "The_Power_of_Patterns_Using",
+    "student_id": "student_n07039725_Avery_Flores_enhanced_kg",
+    "is_match": true,
+    "jaccard_similarity": 0.022727272727272728,
+    "edit_distance": 43,
+    "common_nodes": 1,
+    "project_only_nodes": 9,
+    "student_only_nodes": 34
+  },
+  {
+    "project_name": "The_Power_of_Patterns_Using",
+    "student_id": "student_n15651121_Taylor_White_enhanced_kg",
+    "is_match": true,
+    "jaccard_similarity": 0.022727272727272728,
+    "edit_distance": 43,
+    "common_nodes": 1,
+    "project_only_nodes": 9,
+    "student_only_nodes": 34
+  },
+  {
+    "project_name": "The_Power_of_Patterns_Using",
+    "student_id": "student_n10100065_Harper_Wilson_enhanced_kg",
+    "is_match": true,
+    "jaccard_similarity": 0.022727272727272728,
+    "edit_distance": 43,
+    "common_nodes": 1,
+    "project_only_nodes": 9,
+    "student_only_nodes": 34
+  },
+  {
+    "project_name": "The_Power_of_Patterns_Using",
+    "student_id": "student_n08291346_Casey_Martin_enhanced_kg",
+    "is_match": true,
+    "jaccard_similarity": 0.022727272727272728,
+    "edit_distance": 43,
+    "common_nodes": 1,
+    "project_only_nodes": 9,
+    "student_only_nodes": 34
+  },
+  {
+    "project_name": "The_Power_of_Patterns_Using",
+    "student_id": "student_n02008322_Sydney_Taylor_enhanced_kg",
+    "is_match": true,
+    "jaccard_similarity": 0.022727272727272728,
+    "edit_distance": 43,
+    "common_nodes": 1,
+    "project_only_nodes": 9,
+    "student_only_nodes": 34
+  },
+  {
+    "project_name": "The_Power_of_Patterns_Using",
+    "student_id": "student_n12482357_River_Harris_enhanced_kg",
+    "is_match": true,
+    "jaccard_similarity": 0.022727272727272728,
+    "edit_distance": 43,
+    "common_nodes": 1,
+    "project_only_nodes": 9,
+    "student_only_nodes": 34
+  },
+  {
+    "project_name": "Leveraging_IoT_for_Smart_City",
+    "student_id": "student_n12405076_Riley_White_enhanced_kg",
+    "is_match": true,
+    "jaccard_similarity": 0.0,
+    "edit_distance": 54,
+    "common_nodes": 0,
+    "project_only_nodes": 12,
+    "student_only_nodes": 42
+  },
+  {
+    "project_name": "Leveraging_IoT_for_Smart_City",
+    "student_id": "student_n06306854_Tyler_Williams_enhanced_kg",
+    "is_match": true,
+    "jaccard_similarity": 0.0,
+    "edit_distance": 54,
+    "common_nodes": 0,
+    "project_only_nodes": 12,
+    "student_only_nodes": 42
+  },
+  {
+    "project_name": "Leveraging_IoT_for_Smart_City",
+    "student_id": "student_n13873661_Skylar_Smith_enhanced_kg",
+    "is_match": true,
+    "jaccard_similarity": 0.0,
+    "edit_distance": 54,
+    "common_nodes": 0,
+    "project_only_nodes": 12,
+    "student_only_nodes": 42
+  },
+  {
+    "project_name": "Leveraging_IoT_for_Smart_City",
+    "student_id": "student_n06718034_Devon_Lopez_enhanced_kg",
+    "is_match": true,
+    "jaccard_similarity": 0.0,
+    "edit_distance": 54,
+    "common_nodes": 0,
+    "project_only_nodes": 12,
+    "student_only_nodes": 42
+  },
+  {
+    "project_name": "Leveraging_IoT_for_Smart_City",
+    "student_id": "student_n02835887_Peyton_Jones_enhanced_kg",
+    "is_match": true,
+    "jaccard_similarity": 0.0,
+    "edit_distance": 54,
+    "common_nodes": 0,
+    "project_only_nodes": 12,
+    "student_only_nodes": 42
+  },
+  {
+    "project_name": "Leveraging_IoT_for_Smart_City",
+    "student_id": "student_n08875269_Rory_Flores_enhanced_kg",
+    "is_match": true,
+    "jaccard_similarity": 0.0,
+    "edit_distance": 54,
+    "common_nodes": 0,
+    "project_only_nodes": 12,
+    "student_only_nodes": 42
+  },
+  {
+    "project_name": "Leveraging_IoT_for_Smart_City",
+    "student_id": "student_n01687591_Reagan_Thompson_enhanced_kg",
+    "is_match": true,
+    "jaccard_similarity": 0.0,
+    "edit_distance": 54,
+    "common_nodes": 0,
+    "project_only_nodes": 12,
+    "student_only_nodes": 42
+  },
+  {
+    "project_name": "Leveraging_IoT_for_Smart_City",
+    "student_id": "student_n16162654_Jamie_Chen_enhanced_kg",
+    "is_match": true,
+    "jaccard_similarity": 0.0,
+    "edit_distance": 54,
+    "common_nodes": 0,
+    "project_only_nodes": 12,
+    "student_only_nodes": 42
+  },
+  {
+    "project_name": "Leveraging_IoT_for_Smart_City",
+    "student_id": "student_n00201259_Blake_Jackson_enhanced_kg",
+    "is_match": true,
+    "jaccard_similarity": 0.0,
+    "edit_distance": 54,
+    "common_nodes": 0,
+    "project_only_nodes": 12,
+    "student_only_nodes": 42
+  },
+  {
+    "project_name": "Leveraging_IoT_for_Smart_City",
+    "student_id": "student_n11497005_Devon_White_enhanced_kg",
+    "is_match": true,
+    "jaccard_similarity": 0.0,
+    "edit_distance": 54,
+    "common_nodes": 0,
+    "project_only_nodes": 12,
+    "student_only_nodes": 42
+  },
+  {
+    "project_name": "AI-Based_Human_Activity",
+    "student_id": "student_n12562489_Drew_Allen_enhanced_kg",
+    "is_match": true,
+    "jaccard_similarity": 0.0,
+    "edit_distance": 46,
+    "common_nodes": 0,
+    "project_only_nodes": 9,
+    "student_only_nodes": 37
+  },
+  {
+    "project_name": "AI-Based_Human_Activity",
+    "student_id": "student_n05856469_Parker_Taylor_enhanced_kg",
+    "is_match": true,
+    "jaccard_similarity": 0.0,
+    "edit_distance": 46,
+    "common_nodes": 0,
+    "project_only_nodes": 9,
+    "student_only_nodes": 37
+  },
+  {
+    "project_name": "AI-Based_Human_Activity",
+    "student_id": "student_n08259368_Casey_Garcia_enhanced_kg",
+    "is_match": true,
+    "jaccard_similarity": 0.0,
+    "edit_distance": 46,
+    "common_nodes": 0,
+    "project_only_nodes": 9,
+    "student_only_nodes": 37
+  },
+  {
+    "project_name": "AI-Based_Human_Activity",
+    "student_id": "student_n04539845_Jordan_Wright_enhanced_kg",
+    "is_match": true,
+    "jaccard_similarity": 0.0,
+    "edit_distance": 46,
+    "common_nodes": 0,
+    "project_only_nodes": 9,
+    "student_only_nodes": 37
+  },
+  {
+    "project_name": "AI-Based_Human_Activity",
+    "student_id": "student_n04837386_Blake_White_enhanced_kg",
+    "is_match": true,
+    "jaccard_similarity": 0.0,
+    "edit_distance": 46,
+    "common_nodes": 0,
+    "project_only_nodes": 9,
+    "student_only_nodes": 37
+  },
+  {
+    "project_name": "AI-Based_Human_Activity",
+    "student_id": "student_n10858028_Harper_Smith_enhanced_kg",
+    "is_match": true,
+    "jaccard_similarity": 0.0,
+    "edit_distance": 45,
+    "common_nodes": 0,
+    "project_only_nodes": 9,
+    "student_only_nodes": 36
+  },
+  {
+    "project_name": "AI-Based_Human_Activity",
+    "student_id": "student_n12638212_Riley_Young_enhanced_kg",
+    "is_match": true,
+    "jaccard_similarity": 0.0,
+    "edit_distance": 46,
+    "common_nodes": 0,
+    "project_only_nodes": 9,
+    "student_only_nodes": 37
+  },
+  {
+    "project_name": "AI-Based_Human_Activity",
+    "student_id": "student_n15315806_Logan_Rodriguez_enhanced_kg",
+    "is_match": true,
+    "jaccard_similarity": 0.0,
+    "edit_distance": 46,
+    "common_nodes": 0,
+    "project_only_nodes": 9,
+    "student_only_nodes": 37
+  },
+  {
+    "project_name": "AI-Based_Human_Activity",
+    "student_id": "student_n08031750_Drew_Hill_enhanced_kg",
+    "is_match": true,
+    "jaccard_similarity": 0.0,
+    "edit_distance": 45,
+    "common_nodes": 0,
+    "project_only_nodes": 9,
+    "student_only_nodes": 36
+  },
+  {
+    "project_name": "AI-Based_Human_Activity",
+    "student_id": "student_n01803983_Blake_Allen_enhanced_kg",
+    "is_match": true,
+    "jaccard_similarity": 0.0,
+    "edit_distance": 46,
+    "common_nodes": 0,
+    "project_only_nodes": 9,
+    "student_only_nodes": 37
+  },
+  {
+    "project_name": "Machine_Learning-Based_Prediction",
+    "student_id": "student_n03780196_Sage_Brown_enhanced_kg",
+    "is_match": true,
+    "jaccard_similarity": 0.041666666666666664,
+    "edit_distance": 46,
+    "common_nodes": 2,
+    "project_only_nodes": 8,
+    "student_only_nodes": 38
+  },
+  {
+    "project_name": "Machine_Learning-Based_Prediction",
+    "student_id": "student_n08901613_Sydney_Brown_enhanced_kg",
+    "is_match": true,
+    "jaccard_similarity": 0.041666666666666664,
+    "edit_distance": 46,
+    "common_nodes": 2,
+    "project_only_nodes": 8,
+    "student_only_nodes": 38
+  },
+  {
+    "project_name": "Machine_Learning-Based_Prediction",
+    "student_id": "student_n06114515_Devon_Williams_enhanced_kg",
+    "is_match": true,
+    "jaccard_similarity": 0.041666666666666664,
+    "edit_distance": 46,
+    "common_nodes": 2,
+    "project_only_nodes": 8,
+    "student_only_nodes": 38
+  },
+  {
+    "project_name": "Machine_Learning-Based_Prediction",
+    "student_id": "student_n11252525_Alex_Flores_enhanced_kg",
+    "is_match": true,
+    "jaccard_similarity": 0.041666666666666664,
+    "edit_distance": 46,
+    "common_nodes": 2,
+    "project_only_nodes": 8,
+    "student_only_nodes": 38
+  },
+  {
+    "project_name": "Machine_Learning-Based_Prediction",
+    "student_id": "student_n09804514_Reese_Scott_enhanced_kg",
+    "is_match": true,
+    "jaccard_similarity": 0.041666666666666664,
+    "edit_distance": 46,
+    "common_nodes": 2,
+    "project_only_nodes": 8,
+    "student_only_nodes": 38
+  },
+  {
+    "project_name": "Machine_Learning-Based_Prediction",
+    "student_id": "student_n09274950_Drew_Jones_enhanced_kg",
+    "is_match": true,
+    "jaccard_similarity": 0.041666666666666664,
+    "edit_distance": 46,
+    "common_nodes": 2,
+    "project_only_nodes": 8,
+    "student_only_nodes": 38
+  },
+  {
+    "project_name": "Machine_Learning-Based_Prediction",
+    "student_id": "student_n00352388_Finley_White_enhanced_kg",
+    "is_match": true,
+    "jaccard_similarity": 0.041666666666666664,
+    "edit_distance": 46,
+    "common_nodes": 2,
+    "project_only_nodes": 8,
+    "student_only_nodes": 38
+  },
+  {
+    "project_name": "Machine_Learning-Based_Prediction",
+    "student_id": "student_n13087663_Peyton_Hernandez_enhanced_kg",
+    "is_match": true,
+    "jaccard_similarity": 0.041666666666666664,
+    "edit_distance": 46,
+    "common_nodes": 2,
+    "project_only_nodes": 8,
+    "student_only_nodes": 38
+  },
+  {
+    "project_name": "Machine_Learning-Based_Prediction",
+    "student_id": "student_n14519596_Tyler_Lopez_enhanced_kg",
+    "is_match": true,
+    "jaccard_similarity": 0.041666666666666664,
+    "edit_distance": 46,
+    "common_nodes": 2,
+    "project_only_nodes": 8,
+    "student_only_nodes": 38
+  },
+  {
+    "project_name": "Machine_Learning-Based_Prediction",
+    "student_id": "student_n12784106_Phoenix_Miller_enhanced_kg",
+    "is_match": true,
+    "jaccard_similarity": 0.041666666666666664,
+    "edit_distance": 46,
+    "common_nodes": 2,
+    "project_only_nodes": 8,
+    "student_only_nodes": 38
+  },
+  {
+    "project_name": "Aligning_ICT_Education_with",
+    "student_id": "student_n04565156_Skylar_Miller_enhanced_kg",
+    "is_match": true,
+    "jaccard_similarity": 0.0,
+    "edit_distance": 43,
+    "common_nodes": 0,
+    "project_only_nodes": 9,
+    "student_only_nodes": 34
+  },
+  {
+    "project_name": "Aligning_ICT_Education_with",
+    "student_id": "student_n01490036_Harper_King_enhanced_kg",
+    "is_match": true,
+    "jaccard_similarity": 0.0,
+    "edit_distance": 43,
+    "common_nodes": 0,
+    "project_only_nodes": 9,
+    "student_only_nodes": 34
+  },
+  {
+    "project_name": "Aligning_ICT_Education_with",
+    "student_id": "student_n06841239_Emery_Nguyen_enhanced_kg",
+    "is_match": true,
+    "jaccard_similarity": 0.0,
+    "edit_distance": 43,
+    "common_nodes": 0,
+    "project_only_nodes": 9,
+    "student_only_nodes": 34
+  },
+  {
+    "project_name": "Aligning_ICT_Education_with",
+    "student_id": "student_n00153538_Sage_Chen_enhanced_kg",
+    "is_match": true,
+    "jaccard_similarity": 0.0,
+    "edit_distance": 43,
+    "common_nodes": 0,
+    "project_only_nodes": 9,
+    "student_only_nodes": 34
+  },
+  {
+    "project_name": "Aligning_ICT_Education_with",
+    "student_id": "student_n01013489_Tyler_Rodriguez_enhanced_kg",
+    "is_match": true,
+    "jaccard_similarity": 0.0,
+    "edit_distance": 43,
+    "common_nodes": 0,
+    "project_only_nodes": 9,
+    "student_only_nodes": 34
+  },
+  {
+    "project_name": "Aligning_ICT_Education_with",
+    "student_id": "student_n09948799_Peyton_Moore_enhanced_kg",
+    "is_match": true,
+    "jaccard_similarity": 0.0,
+    "edit_distance": 43,
+    "common_nodes": 0,
+    "project_only_nodes": 9,
+    "student_only_nodes": 34
+  },
+  {
+    "project_name": "Aligning_ICT_Education_with",
+    "student_id": "student_n06732414_Alex_Garcia_enhanced_kg",
+    "is_match": true,
+    "jaccard_similarity": 0.0,
+    "edit_distance": 43,
+    "common_nodes": 0,
+    "project_only_nodes": 9,
+    "student_only_nodes": 34
+  },
+  {
+    "project_name": "Aligning_ICT_Education_with",
+    "student_id": "student_n07744472_Finley_Martinez_enhanced_kg",
+    "is_match": true,
+    "jaccard_similarity": 0.0,
+    "edit_distance": 43,
+    "common_nodes": 0,
+    "project_only_nodes": 9,
+    "student_only_nodes": 34
+  },
+  {
+    "project_name": "Aligning_ICT_Education_with",
+    "student_id": "student_n04868510_Alex_Jones_enhanced_kg",
+    "is_match": true,
+    "jaccard_similarity": 0.0,
+    "edit_distance": 43,
+    "common_nodes": 0,
+    "project_only_nodes": 9,
+    "student_only_nodes": 34
+  },
+  {
+    "project_name": "Aligning_ICT_Education_with",
+    "student_id": "student_n07817504_Avery_Thompson_enhanced_kg",
+    "is_match": true,
+    "jaccard_similarity": 0.0,
+    "edit_distance": 43,
+    "common_nodes": 0,
+    "project_only_nodes": 9,
+    "student_only_nodes": 34
+  },
+  {
+    "project_name": "Feature_Selection_Impact_on_IoT",
+    "student_id": "student_n04541718_Drew_Hernandez_enhanced_kg",
+    "is_match": true,
+    "jaccard_similarity": 0.06,
+    "edit_distance": 47,
+    "common_nodes": 3,
+    "project_only_nodes": 10,
+    "student_only_nodes": 37
+  },
+  {
+    "project_name": "Feature_Selection_Impact_on_IoT",
+    "student_id": "student_n08932659_Rory_Rodriguez_enhanced_kg",
+    "is_match": true,
+    "jaccard_similarity": 0.057692307692307696,
+    "edit_distance": 49,
+    "common_nodes": 3,
+    "project_only_nodes": 10,
+    "student_only_nodes": 39
+  },
+  {
+    "project_name": "Feature_Selection_Impact_on_IoT",
+    "student_id": "student_n08665949_Alex_Anderson_enhanced_kg",
+    "is_match": true,
+    "jaccard_similarity": 0.037037037037037035,
+    "edit_distance": 52,
+    "common_nodes": 2,
+    "project_only_nodes": 11,
+    "student_only_nodes": 41
+  },
+  {
+    "project_name": "Feature_Selection_Impact_on_IoT",
+    "student_id": "student_n13093353_Morgan_Flores_enhanced_kg",
+    "is_match": true,
+    "jaccard_similarity": 0.06,
+    "edit_distance": 47,
+    "common_nodes": 3,
+    "project_only_nodes": 10,
+    "student_only_nodes": 37
+  },
+  {
+    "project_name": "Feature_Selection_Impact_on_IoT",
+    "student_id": "student_n06466472_Jordan_Davis_enhanced_kg",
+    "is_match": true,
+    "jaccard_similarity": 0.06,
+    "edit_distance": 47,
+    "common_nodes": 3,
+    "project_only_nodes": 10,
+    "student_only_nodes": 37
+  },
+  {
+    "project_name": "Feature_Selection_Impact_on_IoT",
+    "student_id": "student_n03497884_Peyton_Brown_enhanced_kg",
+    "is_match": true,
+    "jaccard_similarity": 0.06,
+    "edit_distance": 47,
+    "common_nodes": 3,
+    "project_only_nodes": 10,
+    "student_only_nodes": 37
+  },
+  {
+    "project_name": "Feature_Selection_Impact_on_IoT",
+    "student_id": "student_n02418311_Harper_Scott_enhanced_kg",
+    "is_match": true,
+    "jaccard_similarity": 0.058823529411764705,
+    "edit_distance": 48,
+    "common_nodes": 3,
+    "project_only_nodes": 10,
+    "student_only_nodes": 38
+  },
+  {
+    "project_name": "Feature_Selection_Impact_on_IoT",
+    "student_id": "student_n04358655_Rowan_Martin_enhanced_kg",
+    "is_match": true,
+    "jaccard_similarity": 0.06,
+    "edit_distance": 47,
+    "common_nodes": 3,
+    "project_only_nodes": 10,
+    "student_only_nodes": 37
+  },
+  {
+    "project_name": "Feature_Selection_Impact_on_IoT",
+    "student_id": "student_n15162080_Taylor_Martinez_enhanced_kg",
+    "is_match": true,
+    "jaccard_similarity": 0.06,
+    "edit_distance": 47,
+    "common_nodes": 3,
+    "project_only_nodes": 10,
+    "student_only_nodes": 37
+  },
+  {
+    "project_name": "Feature_Selection_Impact_on_IoT",
+    "student_id": "student_n12134948_Taylor_Wright_enhanced_kg",
+    "is_match": true,
+    "jaccard_similarity": 0.06,
+    "edit_distance": 47,
+    "common_nodes": 3,
+    "project_only_nodes": 10,
+    "student_only_nodes": 37
+  }
+]

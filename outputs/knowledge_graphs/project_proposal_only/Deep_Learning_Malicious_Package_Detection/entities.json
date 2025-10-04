@@ -1,0 +1,67 @@
+[
+  {
+    "id": "project_IFN712_Project_Proposal_Template_2025_CS_-3",
+    "name": "Deep Learning -based Explainable Malicious Package Detection System for Next -Gen Software Supply Chain",
+    "entity_type": "PROJECT",
+    "layer": 1,
+    "properties": {
+      "description": "Deep learning-based system for detecting malicious packages in software supply chain using explainable AI techniques.",
+      "file_path": "data/processed/projects_md/IFN712 Project Proposal Template_2025_CS -3.md"
+    }
+  },
+  {
+    "id": "domain_machine_learning_and_ai",
+    "name": "Machine Learning & AI",
+    "entity_type": "DOMAIN",
+    "layer": 2,
+    "properties": {
+      "skill_count": 1
+    }
+  },
+  {
+    "id": "skill_deep_learning",
+    "name": "Deep Learning",
+    "entity_type": "SKILL",
+    "layer": 3,
+    "properties": {}
+  },
+  {
+    "id": "domain_software_engineering",
+    "name": "Software Engineering",
+    "entity_type": "DOMAIN",
+    "layer": 2,
+    "properties": {
+      "skill_count": 1
+    }
+  },
+  {
+    "id": "skill_testing",
+    "name": "Testing",
+    "entity_type": "SKILL",
+    "layer": 3,
+    "properties": {}
+  },
+  {
+    "id": "domain_general_technologies",
+    "name": "General Technologies",
+    "entity_type": "DOMAIN",
+    "layer": 2,
+    "properties": {
+      "tech_count": 1
+    }
+  },
+  {
+    "id": "tech_python",
+    "name": "Python",
+    "entity_type": "TECHNOLOGY",
+    "layer": 3,
+    "properties": {}
+  },
+  {
+    "id": "tech_r",
+    "name": "R",
+    "entity_type": "TECHNOLOGY",
+    "layer": 3,
+    "properties": {}
+  }
+]

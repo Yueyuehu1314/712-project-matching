@@ -1,0 +1,90 @@
+[
+  {
+    "id": "project_Localization_Proposal_Zhenguo",
+    "name": "Smart Intersection Localization",
+    "entity_type": "PROJECT",
+    "layer": 1,
+    "properties": {
+      "description": "Vulnerable Road Users (VRUs), such as pedestrians, cyclists, and scooter riders, are at greater risk of accidents at signalized intersections due to limited line of sight and slower reaction times fro",
+      "file_path": "data/processed/projects_md/Localization_Proposal_Zhenguo.md"
+    }
+  },
+  {
+    "id": "domain_machine_learning_and_ai",
+    "name": "Machine Learning & AI",
+    "entity_type": "DOMAIN",
+    "layer": 2,
+    "properties": {
+      "skill_count": 1
+    }
+  },
+  {
+    "id": "skill_deep_learning",
+    "name": "Deep Learning",
+    "entity_type": "SKILL",
+    "layer": 3,
+    "properties": {}
+  },
+  {
+    "id": "domain_academic_programs",
+    "name": "Academic Programs",
+    "entity_type": "DOMAIN",
+    "layer": 2,
+    "properties": {
+      "skill_count": 2
+    }
+  },
+  {
+    "id": "skill_software_development",
+    "name": "Software Development",
+    "entity_type": "MAJOR",
+    "layer": 3,
+    "properties": {}
+  },
+  {
+    "id": "skill_computer",
+    "name": "Computer",
+    "entity_type": "MAJOR",
+    "layer": 3,
+    "properties": {}
+  },
+  {
+    "id": "tech_r",
+    "name": "R",
+    "entity_type": "TECHNOLOGY",
+    "layer": 3,
+    "properties": {}
+  },
+  {
+    "id": "domain_general_technologies",
+    "name": "General Technologies",
+    "entity_type": "DOMAIN",
+    "layer": 2,
+    "properties": {
+      "tech_count": 1
+    }
+  },
+  {
+    "id": "tech_matlab",
+    "name": "Matlab",
+    "entity_type": "TECHNOLOGY",
+    "layer": 3,
+    "properties": {}
+  },
+  {
+    "id": "domain_web_development",
+    "name": "Web Development",
+    "entity_type": "DOMAIN",
+    "layer": 2,
+    "properties": {
+      "tech_count": 1
+    }
+  },
+  {
+    "id": "tech_react",
+    "name": "React",
+    "entity_type": "TECHNOLOGY",
+    "layer": 3,
+    "properties": {}
+  }
+]

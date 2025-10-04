@@ -1,0 +1,22 @@
+{
+  "method": "method_2b",
+  "total_pairs": 20,
+  "matched_pairs": 20,
+  "unmatched_pairs": 0,
+  "matched_jaccard": {
+    "mean": 0.035833410340676185,
+    "median": 0.0425531914893617,
+    "std": 0.011732236885109232,
+    "min": 0.016666666666666666,
+    "max": 0.05172413793103448
+  },
+  "matched_edit_distance": {
+    "mean": 73.45,
+    "median": 74.0,
+    "std": 16.384367549588237,
+    "min": 55.0,
+    "max": 90.0
+  },
+  "unmatched_jaccard": {},
+  "unmatched_edit_distance": {}
+}

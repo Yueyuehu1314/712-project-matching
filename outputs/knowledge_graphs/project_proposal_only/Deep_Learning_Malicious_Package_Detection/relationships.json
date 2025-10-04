@@ -1,0 +1,51 @@
+[
+  {
+    "source_id": "project_IFN712_Project_Proposal_Template_2025_CS_-3",
+    "target_id": "domain_machine_learning_and_ai",
+    "relation_type": "REQUIRES_DOMAIN",
+    "weight": 1.0,
+    "properties": {}
+  },
+  {
+    "source_id": "domain_machine_learning_and_ai",
+    "target_id": "skill_deep_learning",
+    "relation_type": "INCLUDES",
+    "weight": 0.8,
+    "properties": {}
+  },
+  {
+    "source_id": "project_IFN712_Project_Proposal_Template_2025_CS_-3",
+    "target_id": "domain_software_engineering",
+    "relation_type": "REQUIRES_DOMAIN",
+    "weight": 1.0,
+    "properties": {}
+  },
+  {
+    "source_id": "domain_software_engineering",
+    "target_id": "skill_testing",
+    "relation_type": "INCLUDES",
+    "weight": 0.8,
+    "properties": {}
+  },
+  {
+    "source_id": "project_IFN712_Project_Proposal_Template_2025_CS_-3",
+    "target_id": "domain_general_technologies",
+    "relation_type": "REQUIRES_DOMAIN",
+    "weight": 1.0,
+    "properties": {}
+  },
+  {
+    "source_id": "domain_general_technologies",
+    "target_id": "tech_python",
+    "relation_type": "USES_TECH",
+    "weight": 0.9,
+    "properties": {}
+  },
+  {
+    "source_id": "domain_machine_learning_and_ai",
+    "target_id": "tech_r",
+    "relation_type": "USES_TECH",
+    "weight": 0.9,
+    "properties": {}
+  }
+]

@@ -1,0 +1,57 @@
+{
+  "method": "method_2b_enhanced",
+  "total_pairs": 200,
+  "similarity_metrics": {
+    "jaccard_nodes": {
+      "mean": 0.04918097676781536,
+      "median": 0.045804195804195806,
+      "std": 0.019153910727454006,
+      "min": 0.0,
+      "max": 0.08823529411764706
+    },
+    "jaccard_edges": {
+      "mean": 0.995,
+      "median": 1.0,
+      "std": 0.07053367989832944,
+      "min": 0.0,
+      "max": 1.0
+    },
+    "edit_distance": {
+      "mean": 70.635,
+      "median": 65.0,
+      "std": 12.790690950843898,
+      "min": 27.0,
+      "max": 93.0
+    }
+  },
+  "gap_analysis": {
+    "modification_steps": {
+      "mean": 35.66,
+      "median": 30.5,
+      "std": 12.538117881085661,
+      "min": 22.0,
+      "max": 58.0
+    },
+    "readiness_score": {
+      "mean": 0.09929276769084307,
+      "median": 0.09836065573770492,
+      "std": 0.04520299632577947,
+      "min": 0.0,
+      "max": 0.18518518518518517
+    },
+    "missing_nodes": {
+      "mean": 35.66,
+      "median": 30.5,
+      "std": 12.538117881085661,
+      "min": 22.0,
+      "max": 58.0
+    },
+    "missing_edges": {
+      "mean": 0.0,
+      "median": 0.0,
+      "std": 0.0,
+      "min": 0.0,
+      "max": 0.0
+    }
+  }
+}

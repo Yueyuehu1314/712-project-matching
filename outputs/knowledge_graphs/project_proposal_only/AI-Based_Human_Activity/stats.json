@@ -1,0 +1,23 @@
+{
+  "project_id": "project_HAR_WiFi_Proposal_Zhenguo-1",
+  "project_title": "AI-Based Human Activity",
+  "total_entities": 9,
+  "total_relationships": 8,
+  "layer_distribution": {
+    "1": 1,
+    "2": 3,
+    "3": 5
+  },
+  "entity_types": {
+    "PROJECT": 1,
+    "DOMAIN": 3,
+    "SKILL": 2,
+    "MAJOR": 2,
+    "TECHNOLOGY": 1
+  },
+  "layers": {
+    "layer_1": "Project",
+    "layer_2": "Domains",
+    "layer_3": "Skills/Technologies/Majors"
+  }
+}

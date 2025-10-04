@@ -12,7 +12,7 @@ import re
 import networkx as nx
 import matplotlib.pyplot as plt
 import matplotlib
-from collections import Counter, defaultdict
+from collections import Counter, defaultdict, OrderedDict
 from typing import Dict, List, Set, Tuple, Optional
 from dataclasses import dataclass, asdict
 import math
@@ -67,6 +67,10 @@ class BalancedKGGeneratorIN20IN27:
         
         # IN27 数据
         self.in27_data = self._load_in27_data()
+
+        # 优先级衰减系数（可根据需求调整）
+        self.project_skill_priority_decay = 0.8   # 项目技能优先级递减系数
+        self.skill_unit_priority_decay = 0.85      # 技能对应课程优先级递减系数
         
     def normalize_skill(self, skill: str) -> str:
         """标准化技能名称"""
@@ -334,6 +338,7 @@ class BalancedKGGeneratorIN20IN27:
         
         # 2. 构建技能支持映射
         skill_support = self._build_skill_support_map(in20_nodes, in20_edges, pd_skills)
+        skill_support = self._apply_project_skill_priority(skill_support)
         
         # 3. 创建节点
         enhanced_nodes = []
@@ -590,7 +595,10 @@ class BalancedKGGeneratorIN20IN27:
                             weight=1.0,
                             source_type="IN27"
                         ))
-        
+
+        # 根据技能优先级调整课程边权重
+        self._apply_skill_unit_priority(enhanced_edges)
+
         print(f"\n✅ KG 构建完成:")
         print(f"   • 节点: {len(enhanced_nodes)}")
         print(f"   • 边: {len(enhanced_edges)}")
@@ -654,7 +662,7 @@ class BalancedKGGeneratorIN20IN27:
     def _build_skill_support_map(self, in20_nodes: List[Dict], in20_edges: List[Dict], 
                                   pd_skills: List[Dict]) -> Dict[str, Dict]:
         """构建技能支持映射 - 整合 IN20 和 IN27"""
-        
+
         skill_map = {}
         
         # 1. 从 IN20 数据提取技能
@@ -698,8 +706,52 @@ class BalancedKGGeneratorIN20IN27:
                     else:
                         skill_map[skill_name]['category'] = 'supported'
                     break
-        
+
         return skill_map
+
+    def _apply_project_skill_priority(self, skill_support: Dict[str, Dict]) -> Dict[str, Dict]:
+        """根据优先级重新排序并缩放项目技能权重"""
+
+        if not skill_support:
+            return skill_support
+
+        sorted_items = sorted(
+            skill_support.items(),
+            key=lambda item: item[1].get('score', 0),
+            reverse=True
+        )
+
+        prioritized = OrderedDict()
+        for rank, (skill_name, info) in enumerate(sorted_items):
+            base_score = info.get('score', 0)
+            # 记录原始分数，便于调试或后续使用
+            info['original_score'] = base_score
+            factor = self.project_skill_priority_decay ** rank
+            info['priority_rank'] = rank + 1
+            info['priority_factor'] = factor
+            info['score'] = base_score * factor
+            prioritized[skill_name] = info
+
+        return prioritized
+
+    def _apply_skill_unit_priority(self, edges: List[EnhancedKGEdge]) -> None:
+        """按技能对课程进行优先级缩放，保持权重递减"""
+
+        skill_edge_map: Dict[str, List[Tuple[int, EnhancedKGEdge, float]]] = {}
+
+        for idx, edge in enumerate(edges):
+            if edge.relation == 'TAUGHT_IN' and edge.source.startswith('skill_'):
+                skill_edge_map.setdefault(edge.source, []).append((idx, edge, edge.weight))
+
+        for edge_list in skill_edge_map.values():
+            edge_list.sort(key=lambda item: item[2], reverse=True)
+            for rank, (idx, edge, original_weight) in enumerate(edge_list):
+                factor = self.skill_unit_priority_decay ** rank
+                new_weight = round(original_weight * factor, 2)
+                edge.original_weight = original_weight  # 记录原始权重便于调试
+                edge.priority_rank = rank + 1
+                edge.priority_factor = factor
+                edge.weight = new_weight
     
     def _create_pd_only_kg(self, project_name: str, pd_skills: List[Dict]) -> Tuple[List[EnhancedKGNode], List[EnhancedKGEdge]]:
         """为只有PD数据的项目创建KG"""
@@ -1418,4 +1470,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-

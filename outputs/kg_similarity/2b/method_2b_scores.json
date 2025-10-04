@@ -1,0 +1,202 @@
+[
+  {
+    "project_name": "IFN712 Project Proposal Template_2025_CS -3",
+    "student_id": "student_nb065aafc_Cameron_Hernandez_enhanced_kg",
+    "is_match": true,
+    "jaccard_similarity": 0.05172413793103448,
+    "edit_distance": 55,
+    "common_nodes": 3,
+    "project_only_nodes": 27,
+    "student_only_nodes": 28
+  },
+  {
+    "project_name": "IFN712 Project Proposal Template_2025_CS -3",
+    "student_id": "student_nfd66da84_Rory_Johnson_enhanced_kg",
+    "is_match": true,
+    "jaccard_similarity": 0.05084745762711865,
+    "edit_distance": 56,
+    "common_nodes": 3,
+    "project_only_nodes": 27,
+    "student_only_nodes": 29
+  },
+  {
+    "project_name": "IFN712 Project Proposal Template_2025_CS -3",
+    "student_id": "student_n5dd13e45_Rory_Moore_enhanced_kg",
+    "is_match": true,
+    "jaccard_similarity": 0.016666666666666666,
+    "edit_distance": 59,
+    "common_nodes": 1,
+    "project_only_nodes": 29,
+    "student_only_nodes": 30
+  },
+  {
+    "project_name": "IFN712 Project Proposal Template_2025_CS -3",
+    "student_id": "student_n335f2be5_Finley_Flores_enhanced_kg",
+    "is_match": true,
+    "jaccard_similarity": 0.034482758620689655,
+    "edit_distance": 56,
+    "common_nodes": 2,
+    "project_only_nodes": 28,
+    "student_only_nodes": 28
+  },
+  {
+    "project_name": "IFN712 Project Proposal Template_2025_CS -3",
+    "student_id": "student_n8ab07320_Drew_Wilson_enhanced_kg",
+    "is_match": true,
+    "jaccard_similarity": 0.01694915254237288,
+    "edit_distance": 58,
+    "common_nodes": 1,
+    "project_only_nodes": 29,
+    "student_only_nodes": 29
+  },
+  {
+    "project_name": "IFN712 Project Proposal Template_2025_CS -3",
+    "student_id": "student_n72f28e37_Emery_Taylor_enhanced_kg",
+    "is_match": true,
+    "jaccard_similarity": 0.03389830508474576,
+    "edit_distance": 57,
+    "common_nodes": 2,
+    "project_only_nodes": 28,
+    "student_only_nodes": 29
+  },
+  {
+    "project_name": "IFN712 Project Proposal Template_2025_CS -3",
+    "student_id": "student_nff065a74_Tyler_Johnson_enhanced_kg",
+    "is_match": true,
+    "jaccard_similarity": 0.016666666666666666,
+    "edit_distance": 59,
+    "common_nodes": 1,
+    "project_only_nodes": 29,
+    "student_only_nodes": 30
+  },
+  {
+    "project_name": "IFN712 Project Proposal Template_2025_CS -3",
+    "student_id": "student_nba9e3de4_Peyton_Hill_enhanced_kg",
+    "is_match": true,
+    "jaccard_similarity": 0.03508771929824561,
+    "edit_distance": 55,
+    "common_nodes": 2,
+    "project_only_nodes": 28,
+    "student_only_nodes": 27
+  },
+  {
+    "project_name": "IFN712 Project Proposal Template_2025_CS -3",
+    "student_id": "student_n825574e8_Taylor_Harris_enhanced_kg",
+    "is_match": true,
+    "jaccard_similarity": 0.01694915254237288,
+    "edit_distance": 58,
+    "common_nodes": 1,
+    "project_only_nodes": 29,
+    "student_only_nodes": 29
+  },
+  {
+    "project_name": "IFN712 Project Proposal Template_2025_CS -3",
+    "student_id": "student_n1370d1a5_Finley_Wilson_enhanced_kg",
+    "is_match": true,
+    "jaccard_similarity": 0.01694915254237288,
+    "edit_distance": 58,
+    "common_nodes": 1,
+    "project_only_nodes": 29,
+    "student_only_nodes": 29
+  },
+  {
+    "project_name": "JZhang_IFN712 Project Proposal 1_2025_CS ",
+    "student_id": "student_n13074181_Avery_Davis_enhanced_kg",
+    "is_match": true,
+    "jaccard_similarity": 0.0425531914893617,
+    "edit_distance": 90,
+    "common_nodes": 4,
+    "project_only_nodes": 53,
+    "student_only_nodes": 37
+  },
+  {
+    "project_name": "JZhang_IFN712 Project Proposal 1_2025_CS ",
+    "student_id": "student_n13177467_Rory_Lopez_enhanced_kg",
+    "is_match": true,
+    "jaccard_similarity": 0.0425531914893617,
+    "edit_distance": 90,
+    "common_nodes": 4,
+    "project_only_nodes": 53,
+    "student_only_nodes": 37
+  },
+  {
+    "project_name": "JZhang_IFN712 Project Proposal 1_2025_CS ",
+    "student_id": "student_n03698473_Logan_Lee_enhanced_kg",
+    "is_match": true,
+    "jaccard_similarity": 0.0425531914893617,
+    "edit_distance": 90,
+    "common_nodes": 4,
+    "project_only_nodes": 53,
+    "student_only_nodes": 37
+  },
+  {
+    "project_name": "JZhang_IFN712 Project Proposal 1_2025_CS ",
+    "student_id": "student_n10165670_Reese_Hernandez_enhanced_kg",
+    "is_match": true,
+    "jaccard_similarity": 0.0425531914893617,
+    "edit_distance": 90,
+    "common_nodes": 4,
+    "project_only_nodes": 53,
+    "student_only_nodes": 37
+  },
+  {
+    "project_name": "JZhang_IFN712 Project Proposal 1_2025_CS ",
+    "student_id": "student_n13410902_Madison_Johnson_enhanced_kg",
+    "is_match": true,
+    "jaccard_similarity": 0.0425531914893617,
+    "edit_distance": 90,
+    "common_nodes": 4,
+    "project_only_nodes": 53,
+    "student_only_nodes": 37
+  },
+  {
+    "project_name": "JZhang_IFN712 Project Proposal 1_2025_CS ",
+    "student_id": "student_n10415240_Quinn_Garcia_enhanced_kg",
+    "is_match": true,
+    "jaccard_similarity": 0.0425531914893617,
+    "edit_distance": 90,
+    "common_nodes": 4,
+    "project_only_nodes": 53,
+    "student_only_nodes": 37
+  },
+  {
+    "project_name": "JZhang_IFN712 Project Proposal 1_2025_CS ",
+    "student_id": "student_n02867192_Harper_Harris_enhanced_kg",
+    "is_match": true,
+    "jaccard_similarity": 0.043010752688172046,
+    "edit_distance": 89,
+    "common_nodes": 4,
+    "project_only_nodes": 53,
+    "student_only_nodes": 36
+  },
+  {
+    "project_name": "JZhang_IFN712 Project Proposal 1_2025_CS ",
+    "student_id": "student_n08499357_Kendall_Scott_enhanced_kg",
+    "is_match": true,
+    "jaccard_similarity": 0.0425531914893617,
+    "edit_distance": 90,
+    "common_nodes": 4,
+    "project_only_nodes": 53,
+    "student_only_nodes": 37
+  },
+  {
+    "project_name": "JZhang_IFN712 Project Proposal 1_2025_CS ",
+    "student_id": "student_n13605583_Rory_Allen_enhanced_kg",
+    "is_match": true,
+    "jaccard_similarity": 0.043010752688172046,
+    "edit_distance": 89,
+    "common_nodes": 4,
+    "project_only_nodes": 53,
+    "student_only_nodes": 36
+  },
+  {
+    "project_name": "JZhang_IFN712 Project Proposal 1_2025_CS ",
+    "student_id": "student_n06341957_Tyler_Flores_enhanced_kg",
+    "is_match": true,
+    "jaccard_similarity": 0.0425531914893617,
+    "edit_distance": 90,
+    "common_nodes": 4,
+    "project_only_nodes": 53,
+    "student_only_nodes": 37
+  }
+]

@@ -1,0 +1,90 @@
+[
+  {
+    "id": "project_JZhang_IFN712_Project_Proposal_1_2025_CS_",
+    "name": "Diabetes Complications Correlation Analysis",
+    "entity_type": "PROJECT",
+    "layer": 1,
+    "properties": {
+      "description": "comprehensive literature review on the correlation analysis of diabetes-related complications using medical imaging data, particularly focusing on heart, foot, and retinal images. Diabetes mellitus is",
+      "file_path": "data/processed/projects_md/JZhang_IFN712 Project Proposal 1_2025_CS .md"
+    }
+  },
+  {
+    "id": "domain_machine_learning_and_ai",
+    "name": "Machine Learning & AI",
+    "entity_type": "DOMAIN",
+    "layer": 2,
+    "properties": {
+      "skill_count": 2
+    }
+  },
+  {
+    "id": "skill_machine_learning",
+    "name": "Machine Learning",
+    "entity_type": "SKILL",
+    "layer": 3,
+    "properties": {}
+  },
+  {
+    "id": "skill_artificial_intelligence",
+    "name": "Artificial Intelligence",
+    "entity_type": "SKILL",
+    "layer": 3,
+    "properties": {}
+  },
+  {
+    "id": "domain_data_science_and_analytics",
+    "name": "Data Science & Analytics",
+    "entity_type": "DOMAIN",
+    "layer": 2,
+    "properties": {
+      "skill_count": 1
+    }
+  },
+  {
+    "id": "skill_data_science",
+    "name": "Data Science",
+    "entity_type": "SKILL",
+    "layer": 3,
+    "properties": {}
+  },
+  {
+    "id": "domain_signal_processing",
+    "name": "Signal Processing",
+    "entity_type": "DOMAIN",
+    "layer": 2,
+    "properties": {
+      "skill_count": 1
+    }
+  },
+  {
+    "id": "skill_image_processing",
+    "name": "Image Processing",
+    "entity_type": "SKILL",
+    "layer": 3,
+    "properties": {}
+  },
+  {
+    "id": "domain_academic_programs",
+    "name": "Academic Programs",
+    "entity_type": "DOMAIN",
+    "layer": 2,
+    "properties": {
+      "skill_count": 1
+    }
+  },
+  {
+    "id": "skill_computer_science_and_data",
+    "name": "Computer Science and Data",
+    "entity_type": "MAJOR",
+    "layer": 3,
+    "properties": {}
+  },
+  {
+    "id": "tech_r",
+    "name": "R",
+    "entity_type": "TECHNOLOGY",
+    "layer": 3,
+    "properties": {}
+  }
+]

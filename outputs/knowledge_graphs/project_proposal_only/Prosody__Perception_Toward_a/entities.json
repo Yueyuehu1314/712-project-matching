@@ -1,0 +1,74 @@
+[
+  {
+    "id": "project_IFN712_proposal_conversational_agent_prosody",
+    "name": "Prosody & Perception: Toward a",
+    "entity_type": "PROJECT",
+    "layer": 1,
+    "properties": {
+      "description": "increasingly used for emotional and mental wellbeing support, making user satisfaction vital to their success. While most research focuses on Natural Language Processing (NLP) and generative models th",
+      "file_path": "data/processed/projects_md/IFN712_proposal_conversational_agent_prosody.md"
+    }
+  },
+  {
+    "id": "domain_machine_learning_and_ai",
+    "name": "Machine Learning & AI",
+    "entity_type": "DOMAIN",
+    "layer": 2,
+    "properties": {
+      "skill_count": 2
+    }
+  },
+  {
+    "id": "skill_nlp",
+    "name": "Nlp",
+    "entity_type": "SKILL",
+    "layer": 3,
+    "properties": {}
+  },
+  {
+    "id": "skill_natural_language_processing",
+    "name": "Natural Language Processing",
+    "entity_type": "SKILL",
+    "layer": 3,
+    "properties": {}
+  },
+  {
+    "id": "domain_general_skills",
+    "name": "General Skills",
+    "entity_type": "DOMAIN",
+    "layer": 2,
+    "properties": {
+      "skill_count": 1
+    }
+  },
+  {
+    "id": "skill_api",
+    "name": "Api",
+    "entity_type": "SKILL",
+    "layer": 3,
+    "properties": {}
+  },
+  {
+    "id": "domain_academic_programs",
+    "name": "Academic Programs",
+    "entity_type": "DOMAIN",
+    "layer": 2,
+    "properties": {
+      "skill_count": 1
+    }
+  },
+  {
+    "id": "skill_computer_science_/_data_science",
+    "name": "Computer Science / Data Science",
+    "entity_type": "MAJOR",
+    "layer": 3,
+    "properties": {}
+  },
+  {
+    "id": "tech_r",
+    "name": "R",
+    "entity_type": "TECHNOLOGY",
+    "layer": 3,
+    "properties": {}
+  }
+]

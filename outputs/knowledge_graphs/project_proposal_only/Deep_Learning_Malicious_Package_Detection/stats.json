@@ -1,0 +1,23 @@
+{
+  "project_id": "project_IFN712_Project_Proposal_Template_2025_CS_-3",
+  "project_title": "Deep Learning -based Explainable Malicious Package Detection System for Next -Gen Software Supply Chain",
+  "total_entities": 8,
+  "total_relationships": 7,
+  "layer_distribution": {
+    "1": 1,
+    "2": 3,
+    "3": 4
+  },
+  "entity_types": {
+    "PROJECT": 1,
+    "DOMAIN": 3,
+    "SKILL": 2,
+    "TECHNOLOGY": 2
+  },
+  "layers": {
+    "layer_1": "Project",
+    "layer_2": "Domains",
+    "layer_3": "Skills/Technologies/Majors"
+  },
+  "safe_title": "Deep_Learning_Malicious_Package_Detection"
+}
